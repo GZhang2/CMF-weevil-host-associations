@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="curculionidae.hostplant/PMC4105532/results/species/genus/results.xml">
+  <result pre="acacia trees, with each trial consisting of the placement of a randomly paired control and treated " exact="Dysdercus" xpath="/html[1]/body[1]/div[2]/div[4]/p[2]" match="Dysdercus" post=" in random order on different branches. Ant behaviors were recorded in five minute trials as descri" name="genus"/>
+  <result pre="In the classic example of ant-plant mutualism between Neotropical bull-horn acacias and " exact="Pseudomymex" xpath="/html[1]/body[1]/div[2]/div[4]/p[2]" match="Pseudomymex" post=" ants, a number of herbivores have been described that feed on acacias undisturbed by resident ants" name="genus"/>
+  <result pre="nt on P. spinicola have not been identified, but the profiles of closely related species of " exact="Pseudomyrmex" match="Pseudomyrmex" post=" are dominated by highly non-polar mono- and dimethyl-alkanes varying in chain length from C27 to C" name="genus"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="curculionidae.hostplant/PMC4177896/results/species/genus/results.xml">
+  <result pre="Akutse1&quot;&gt;[18] reported that Faba beans colonized endophytically by fungal endophytes of the genera " exact="Hypocrea" xpath="/html[1]/body[1]/div[2]/div[4]/p[4]" match="Hypocrea" post=" and Beauveria had significant negative effects on leafminer, Liriomyza huidobrensis " name="genus"/>
+  <result pre="ed that Faba beans colonized endophytically by fungal endophytes of the genera Hypocrea and " exact="Beauveria" xpath="/html[1]/body[1]/div[2]/div[4]/p[4]" match="Beauveria" post=" had significant negative effects on leafminer, Liriomyza huidobrensis (Blanchard) fitness, " name="genus"/>
+  <result pre="&gt;T. asperellum M2RT4 effectively colonized the various plant parts of onion as compared to the " exact="Fusarium" match="Fusarium" post=" isolates. Consequently, isolate H. lixii F3ST1 had the most antagonistic impact on onion th" name="genus"/>
+ </snippets>
+</snippetsTree>

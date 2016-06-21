@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="curculionidae.hostplant/PMC2804672/results/species/binomial/results.xml">
+  <result pre="Geographic location, sample sizes and host-association characteristics of " exact="Hylobius abietis " xpath="/html[1]/body[1]/div[2]/div[5]/div[2]/p[1]" match="Hylobius abietis" post="sites collected. " name="binomial"/>
+  <result pre="on based on host-plant. In contrast, the wide geographic range of these managed forests means that " exact="Hylobius abietis " xpath="/html[1]/body[1]/div[2]/div[5]/div[2]/p[1]" match="Hylobius abietis" post="encounters a large variability in climatic conditions. For instance, this weevil lives underground " name="binomial"/>
+  <result pre="ects from host-specific adaptations. Finally, the limited evidence for host-plant adaptive loci in " exact="Hylobius abietis " xpath="/html[1]/body[1]/div[2]/div[5]/div[2]/p[1]" match="Hylobius abietis" post="could be related to the presence of obligate endosymbiotic bacteria in the midgut of larvae [ &lt;a hr" name="binomial"/>
+  <result pre="teria in the midgut of larvae [ 30]. Although the precise role of these bacteria in " exact="Hylobius abietis " xpath="/html[1]/body[1]/div[2]/div[5]/div[2]/p[1]" match="Hylobius abietis" post="fitness has not yet been elucidated, the presence of this third genome (not included in our genome " name="binomial"/>
+  <result pre="hroughout Europe [ 14, 25]. Larvae were collected on either spruce ( " exact="Picea abies " xpath="/html[1]/body[1]/div[2]/div[5]/div[2]/p[1]" match="Picea abies" post="Karst) or pine ( Pinus sylvestris L. and Pinus pinaster Ait.) in 16 managed forest si" name="binomial"/>
+  <result pre=", 25]. Larvae were collected on either spruce ( Picea abies Karst) or pine ( " exact="Pinus sylvestris " xpath="/html[1]/body[1]/div[2]/div[5]/div[2]/p[1]" match="Pinus sylvestris" post="L. and Pinus pinaster Ait.) in 16 managed forest sites distributed across 4 large forestry r" name="binomial"/>
+  <result pre="re collected on either spruce ( Picea abies Karst) or pine ( Pinus sylvestris L. and " exact="Pinus pinaster " xpath="/html[1]/body[1]/div[2]/div[5]/div[2]/p[1]" match="Pinus pinaster" post="Ait.) in 16 managed forest sites distributed across 4 large forestry regions: three in France (Limo" name="binomial"/>
+  <result pre="two host-plants (Finland, Limousin, Ardeche), while the region Landes was planted only with pine ( " exact="Pinus pinaster" match="Pinus pinaster" post=") (Figure 1). For each sampled site, previously geo-referenced [ 23], " name="binomial"/>
+ </snippets>
+</snippetsTree>

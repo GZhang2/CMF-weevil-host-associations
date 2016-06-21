@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="curculionidae.hostplant/PMC3429418/results/species/binomial/results.xml">
+  <result pre="ve field experiment based on a synthetic community approach, with 15 mixtures of one to four oak ( " exact="Quercus robur" xpath="/html[1]/body[1]/div[2]/div[4]/div[2]/div[5]/p[1]" match="Quercus robur" post=") half-sib families. We quantified genetic diversity at the plot level by genotyping all oak saplin" name="binomial"/>
+  <result pre="In autumn 2007, we collected acorns from the canopy of four mature pedunculate oaks ( " exact="Quercus robur" xpath="/html[1]/body[1]/div[2]/div[4]/div[2]/div[5]/p[1]" match="Quercus robur" post="), referred to hereafter as ‘mother trees’, sampled at random within a 10 km radius at a site 40 km" name="binomial"/>
+  <result pre=" planting. In March 2009, the seedlings were transplanted to a clearing surrounded by pine trees ( " exact="Pinus pinaster" xpath="/html[1]/body[1]/div[2]/div[4]/div[2]/div[5]/p[1]" match="Pinus pinaster" post=") and broadleaved species ( Quercus robur, Quercus rubra and Betula pendula). " name="binomial"/>
+  <result pre="e trees ( Pinus pinaster) and broadleaved species ( Quercus robur, Quercus rubra and " exact="Betula pendula" xpath="/html[1]/body[1]/div[2]/div[4]/div[2]/div[5]/p[1]" match="Betula pendula" post="). " name="binomial"/>
+  <result pre="d1&quot;&gt;[47] in the same study area showed that most of ectophagous insect herbivores found feeding on " exact="Q. robur" xpath="/html[1]/body[1]/div[2]/div[4]/div[2]/div[5]/p[1]" match="Quercus robur" post=" are polyphagous species able to consume plant tissues from different genera and families and may b" name="binomial"/>
+  <result pre="e effects of genotype identity and diversity on the structure of endophagous insect communities on " exact="Quercus robur" xpath="/html[1]/body[1]/div[2]/div[4]/div[2]/div[5]/p[1]" match="Quercus robur" post=", but they did not measure corresponding herbivory. We are aware of only two studies that investiga" name="binomial"/>
+  <result pre="=&quot;#pone.0044247-Crawford1&quot;&gt;[23] who showed a non additive increase in gall abundance on patches of " exact="Solidago altissima" match="Solidago altissima" post=" with higher genetic diversity. At the plot scale, associational susceptibility may be explained by" name="binomial"/>
+ </snippets>
+</snippetsTree>

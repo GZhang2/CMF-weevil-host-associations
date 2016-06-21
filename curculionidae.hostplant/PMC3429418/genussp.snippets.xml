@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="curculionidae.hostplant/PMC3429418/results/species/genussp/results.xml">
+  <result pre="aves per sapling and 85% of total abundance represented by only two of the nine observed species ( " exact="Phyllonorycter sp" xpath="/html[1]/body[1]/div[2]/div[4]/div[3]/p[2]" match="Phyllonorycter sp" post=". and Stigmella sp.). Separate analyses of each species of leaf miner would have generated t" name="genussp"/>
+  <result pre="tal abundance represented by only two of the nine observed species ( Phyllonorycter sp. and " exact="Stigmella sp" xpath="/html[1]/body[1]/div[2]/div[4]/div[3]/p[2]" match="Stigmella sp" post=".). Separate analyses of each species of leaf miner would have generated too many zero counts, so w" name="genussp"/>
+  <result pre="y of &quot;insect specialists&quot;. However, Tack and Roslin [39] showed that " exact="Phyllonorycter sp" xpath="/html[1]/body[1]/div[2]/div[4]/div[3]/p[2]" match="Phyllonorycter sp" post=". and Stigmella sp. responded differently to genetic and environmental treatments. Consideri" name="genussp"/>
+  <result pre="ever, Tack and Roslin [39] showed that Phyllonorycter sp. and " exact="Stigmella sp" match="Stigmella sp" post=". responded differently to genetic and environmental treatments. Considering the abundance of sever" name="genussp"/>
+ </snippets>
+</snippetsTree>

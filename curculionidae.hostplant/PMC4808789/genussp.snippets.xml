@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="curculionidae.hostplant/PMC4808789/results/species/genussp/results.xml">
+  <result pre="Peppers ( " exact="Capsicum spp" xpath="/html[1]/body[1]/div[2]/div[2]/p[1]" match="Capsicum spp" post=".) are an important crop in the USA, with about 32,000 ha cultivated in 2007, which resulted in $58" name="genussp"/>
+  <result pre="Two production classes of peppers ( " exact="Capsicum spp" xpath="/html[1]/body[1]/div[2]/div[2]/p[1]" match="Capsicum spp" post=".; Solanales: Solanaceae) are produced commercially in the USA: Bell (mild) and Chili (spicy) [ &lt;a " name="genussp"/>
+  <result pre="Auslane [ 9] found that A. eugenii females oviposited on all " exact="Capsicum spp" xpath="/html[1]/body[1]/div[2]/div[2]/p[1]" match="Capsicum spp" post="., but only on some Solanum spp., for example, not on tomatoes. Among vegetables, A. euge" name="genussp"/>
+  <result pre="&quot;&gt;9] found that A. eugenii females oviposited on all Capsicum spp., but only on some " exact="Solanum spp" xpath="/html[1]/body[1]/div[2]/div[2]/p[1]" match="Solanum spp" post="., for example, not on tomatoes. Among vegetables, A. eugenii is most problematic on its nam" name="genussp"/>
+  <result pre="getables, A. eugenii is most problematic on its namesake and attacks all pepper cultivars ( " exact="Capsicum spp" xpath="/html[1]/body[1]/div[2]/div[2]/p[1]" match="Capsicum spp" post=".). However tomatillo, Physalis philadelphica Lam., is also moderately susceptible, and eggp" name="genussp"/>
+  <result pre="e tests were performed during two consecutive years with the first test and year on four groups of " exact="Capsicum spp" xpath="/html[1]/body[1]/div[2]/div[2]/p[1]" match="Capsicum spp" post=". including three cultivars, &quot;Hungarian wax&quot;, &quot;Habanero&quot;, &quot;Jalapeño&quot;, and one cultivar group, Bell." name="genussp"/>
+  <result pre=". The remainder and majority of the tests were in the spring and summer of the second year on nine " exact="Capsicum spp" match="Capsicum spp" post=". cultivars: C. annuum &quot;Cayenne&quot;, &quot;Cherry&quot;, &quot;Cubanelle&quot;, &quot;Hungarian&quot;, &quot;Jalapeño&quot;, &quot;Milta&quot;, &quot;" name="genussp"/>
+ </snippets>
+</snippetsTree>

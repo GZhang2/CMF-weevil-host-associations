@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="curculionidae.hostplant/PMC4046674/results/species/genussp/results.xml">
+  <result pre=" genera commonly planted as feedstock (e.g., Salix and Populus) [ 5]. " exact="Acer spp" xpath="/html[1]/body[1]/div[2]/div[2]/div[5]/p[6]" match="Acer spp" post=" . (maples) are the predominant hosts in the introduced range [ 6, &lt;a href=&quot;#" name="genussp"/>
+  <result pre="rees in the family Salicaceae, which include many of A. glabripennis’ preferred hosts (e.g. " exact="Populus spp" match="Populus spp" post=".), are notorious producers of phenolic glycosides (e.g. salicin and tremulacin) [ " name="genussp"/>
+ </snippets>
+</snippetsTree>

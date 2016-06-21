@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="curculionidae.hostplant/PMC3779205/results/species/genussp/results.xml">
+  <result pre="e group that has a symbiotic relationship with microorganisms, for example, Xylosandrus and " exact="Xyleborus spp" xpath="/html[1]/body[1]/div[2]/div[4]/div[7]/p[1]" match="Xyleborus spp" post="., host colonization seems to be solely dependent on host odors, comprising mainly terpenes and fer" name="genussp"/>
+  <result pre="nae [14]; as a typical pheromone of bark beetles, especially of " exact="Dendroctonus spp" xpath="/html[1]/body[1]/div[2]/div[4]/div[7]/p[1]" match="Dendroctonus spp" post=". [32], as a spacing factor [3" name="genussp"/>
+  <result pre="d by bacteria [64], and spores of the fungi Aspergillus and " exact="Penicillium spp" xpath="/html[1]/body[1]/div[2]/div[4]/div[7]/p[1]" match="Penicillium spp" post=" acting on linoleic and linolenic acid in almonds and pistachio [65]." name="genussp"/>
+  <result pre="so tested 6-methyl-5-hepten-2-ol (sulcatol), an aggregation pheromone of bark beetles of the genus " exact="Gnathotrichus spp" match="Gnathotrichus spp" post=". [31] because it has been described as a component of the odor bou" name="genussp"/>
+ </snippets>
+</snippetsTree>

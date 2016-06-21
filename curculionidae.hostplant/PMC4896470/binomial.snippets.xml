@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="curculionidae.hostplant/PMC4896470/results/species/binomial/results.xml">
+  <result pre="yptocarenus genera. The ambrosia beetles collected included all Xyleborini species, along with " exact="Euplatypus parallelus" xpath="/html[1]/body[1]/div[2]/div[3]/p[9]" match="Euplatypus parallelus" post=", Corthylus sp.1, and Tricolus affinis ( Table 1). The tribe Cry" name="binomial"/>
+  <result pre="cluded all Xyleborini species, along with Euplatypus parallelus, Corthylus sp.1, and " exact="Tricolus affinis" xpath="/html[1]/body[1]/div[2]/div[3]/p[9]" match="Tricolus affinis" post=" ( Table 1). The tribe Cryphalini had the highest species richness and abundan" name="binomial"/>
+  <result pre=". parallelus was the only species of the subfamily Platypodinae, with 12 specimens. " exact="Xyleborus affinis" xpath="/html[1]/body[1]/div[2]/div[3]/p[9]" match="Xyleborus affinis" post=" was the only species sampled in all sites and sampling periods, representing 87% of the total beet" name="binomial"/>
+  <result pre="brosia species were common to all stages: X. affinis, Xyleborus retusus, and " exact="E. parallelus" xpath="/html[1]/body[1]/div[2]/div[3]/p[9]" match="Euplatypus parallelus" post=". The intermediate stage had two species in common with the late stage and none in common with the " name="binomial"/>
+  <result pre="iew027-B16&quot;&gt;Flechtmann 1995, Beaver 1988). We demonstrated in this study that " exact="X. affinis" xpath="/html[1]/body[1]/div[2]/div[3]/p[9]" match="Xyleborus affinis" post=" also has a strong preference for the Mata Seca State Park, a result in concordance with its high t" name="binomial"/>
+  <result pre="d by an additional peak, as in April and June 2011. This pattern of emergence has been observed in " exact="X. affinis" match="Xyleborus affinis" post=" ( Biedermann et al. 2011), the most abundant species in this study. Those pea" name="binomial"/>
+ </snippets>
+</snippetsTree>

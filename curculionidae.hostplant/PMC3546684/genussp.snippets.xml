@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="curculionidae.hostplant/PMC3546684/results/species/genussp/results.xml">
+  <result pre=" Sesamia calamistis, which does not have any wandering larval stage, and fruit worms (e.g., " exact="Helicoverpa spp" xpath="/html[1]/body[1]/div[2]/div[4]/div[2]/p[1]" match="Helicoverpa spp" post=".) are more difficult to control than leaf-feeding species. Foliar spraying targeting the latter (e" name="genussp"/>
+  <result pre="All the studies discussed indicate that extracts from " exact="Jatropha spp" match="Jatropha spp" post=". (and particularly J. curcas) leaves, seeds and oil are repellent, deterrent or toxic, eith" name="genussp"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="curculionidae.hostplant/PMC3646610/results/species/genus/results.xml">
+  <result pre="es, a significant pea production area ( Vankosky et al. 2009). The life cycle of " exact="Sitona" xpath="/html[1]/body[1]/div[2]/div[4]/p[8]" match="Sitona" post=" weevils was described in detail by Jackson ( 1920). Adults of S. lineatus" name="genus"/>
+  <result pre="e soil surface around pea seedlings and continue ovipositing throughout the summer. Larvae feed on " exact="Rhizobium" xpath="/html[1]/body[1]/div[2]/div[4]/p[8]" match="Rhizobium" post=" root nodules, which can potentially reduce yield if soil is nitrogen deficient ( &lt;a href=&quot;#bibr05&quot;" name="genus"/>
+  <result pre="r example, insecticide expression in the roots and nodules and effects on larvae are poorly known. " exact="Rhizobium" xpath="/html[1]/body[1]/div[2]/div[4]/p[8]" match="Rhizobium" post=" nodules vary in size and physiological status as they age ( Groten et al. 2005)." name="genus"/>
+  <result pre="50% or more of the weevils took over a week to die. No previous studies have reported mortality of " exact="Sitona" xpath="/html[1]/body[1]/div[2]/div[4]/p[8]" match="Sitona" post=" weevils to thiamethoxam, but a study on the carrot root weevil, Listronotus oregonensis, fo" name="genus"/>
+  <result pre="ulated that thiamethoxam may stimulate greater formation of fine root hairs, which may harbor more " exact="Rhizobium" match="Rhizobium" post=" bacteria ( Vankosky et al. 2011). Higher root biomass has also been noted in cro" name="genus"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="curculionidae.hostplant/PMC4177896/results/species/genussp/results.xml">
+  <result pre="oderma atroviride ICIPE 710, Trichoderma harzianum 709, Hypocrea lixii F3ST1 and " exact="Fusarium sp" xpath="/html[1]/body[1]/div[2]/div[3]/div[3]/p[1]" match="Fusarium sp" post=". ICIPE 712 isolates as compared to those inoculated with Fusarium sp. ICIPE 717 and the con" name="genussp"/>
+  <result pre="ea lixii F3ST1 and Fusarium sp. ICIPE 712 isolates as compared to those inoculated with " exact="Fusarium sp" xpath="/html[1]/body[1]/div[2]/div[3]/div[3]/p[1]" match="Fusarium sp" post=". ICIPE 717 and the control treatments. Onion plants colonized by C. rosea ICIPE 707, T. " name="genussp"/>
+  <result pre="ea ICIPE 707, Trichoderma atroviride ICIPE 710, Trichoderma harzianum ICIPE 709, " exact="Fusarium sp" xpath="/html[1]/body[1]/div[2]/div[3]/div[3]/p[1]" match="Fusarium sp" post=". ICIPE 712, and Fusarium sp. ICIPE 717 with GenBank Accession Nos: KJ619987, KJ619990, KJ61" name="genussp"/>
+  <result pre="roviride ICIPE 710, Trichoderma harzianum ICIPE 709, Fusarium sp. ICIPE 712, and " exact="Fusarium sp" xpath="/html[1]/body[1]/div[2]/div[3]/div[3]/p[1]" match="Fusarium sp" post=". ICIPE 717 with GenBank Accession Nos: KJ619987, KJ619990, KJ619989, KJ619992 and KJ619993, respec" name="genussp"/>
+  <result pre="H. lixii F3ST1 and Fusarium sp. ICIPE 712 isolates as compared to those inoculated with " exact="Fusarium sp" match="Fusarium sp" post=". ICIPE 717 and the control treatments ( Figure 3). The number of feed" name="genussp"/>
+ </snippets>
+</snippetsTree>

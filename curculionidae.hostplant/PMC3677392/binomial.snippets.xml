@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="curculionidae.hostplant/PMC3677392/results/species/binomial/results.xml">
+  <result pre="ilies and representing 17 orders were recorded. Two of these species are described as new, namely: " exact="Monomorium sarawatensis" xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Monomorium sarawatensis" post=" Sharaf &amp;amp;amp; Aldawood, sp. n. [ Formicidae, Hymenoptera] and Anthrax alruqibi El-Hawa" name="binomial"/>
+  <result pre="y: Monomorium sarawatensis Sharaf &amp;amp;amp; Aldawood, sp. n. [ Formicidae, Hymenoptera] and " exact=" Anthrax alruqibi " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Anthrax alruqibi" post=" El-Hawagry sp. n. [ Bombyliidae, Diptera]. Another eight species are recorded for the first time i" name="binomial"/>
+  <result pre="byliidae, Diptera]. Another eight species are recorded for the first time in Saudi Arabia, namely: " exact=" Xiphoceriana arabica " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Xiphoceriana arabica" post=" (Uvarov, 1922) [ Pamphagidae, Orthoptera], Pyrgomorpha conica (Olivier, 1791) [ Pyrgomorp" name="binomial"/>
+  <result pre=" in Saudi Arabia, namely: Xiphoceriana arabica (Uvarov, 1922) [ Pamphagidae, Orthoptera], " exact=" Pyrgomorpha conica " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Pyrgomorpha conica" post=" (Olivier, 1791) [ Pyrgomorphidae, Orthoptera], Catopsilia florella (Fabricius, 1775) [ Pi" name="binomial"/>
+  <result pre="mphagidae, Orthoptera], Pyrgomorpha conica (Olivier, 1791) [ Pyrgomorphidae, Orthoptera], " exact=" Catopsilia florella " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Catopsilia florella" post=" (Fabricius, 1775) [ Pieridae, Lepidoptera], Anthrax chionanthrax (Bezzi, 1926) [ Bombylii" name="binomial"/>
+  <result pre="gomorphidae, Orthoptera], Catopsilia florella (Fabricius, 1775) [ Pieridae, Lepidoptera], " exact=" Anthrax chionanthrax " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Anthrax chionanthrax" post=" (Bezzi, 1926) [ Bombyliidae, Diptera], Spogostylum near tripunctatum Pallas in&lt;" name="binomial"/>
+  <result pre="pogostylum near tripunctatum Pallas in Wiedemann, 1818 [ Bombyliidae, Diptera], " exact=" Cononedys dichromatopa " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Cononedys dichromatopa" post=" (Bezzi, 1925) [ Bombyliidae, Diptera], Mydas sp. [ Mydidae, Diptera], and Hippobosca " name="binomial"/>
+  <result pre="chromatopa (Bezzi, 1925) [ Bombyliidae, Diptera], Mydas sp. [ Mydidae, Diptera], and " exact=" Hippobosca equina " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Hippobosca equina" post=" Linnaeus, 1758 [ Hippoboscidae, Diptera]. Al-Baha Province is divided by huge and steep Rocky Moun" name="binomial"/>
+  <result pre=" " exact=" Anax parthenope " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Anax parthenope" post=" (Sélys, 1839) " name="binomial"/>
+  <result pre=" " exact=" Trithemis arteriosa " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Trithemis arteriosa" post=" (Burmeister, 1839) " name="binomial"/>
+  <result pre=" " exact=" Truxalis arabica " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Truxalis arabica" post=" Uvarov, 1933 " name="binomial"/>
+  <result pre=" " exact=" Truxalis grandis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Truxalis grandis" post=" Klug, 1830 " name="binomial"/>
+  <result pre=" " exact=" Truxalis longicornis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Truxalis longicornis" post=" (Krauss, 1902) " name="binomial"/>
+  <result pre=" " exact=" Truxalis nasuta " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Truxalis nasuta" post=" (Linnaeus, 1758) " name="binomial"/>
+  <result pre=" " exact=" Truxalis procera " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Truxalis procera" post=" Klug, 1830 " name="binomial"/>
+  <result pre=" " exact=" Schistocerca gregaria " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Schistocerca gregaria" post=" Forsskal, 1775 " name="binomial"/>
+  <result pre=" " exact=" Heteracris popovi " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Heteracris popovi" post=" (Uvarov, 1952) " name="binomial"/>
+  <result pre=" " exact=" Heteracris punctata " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Heteracris punctata" post=" (Uvarov, 1936) " name="binomial"/>
+  <result pre=" " exact=" Leva arabica " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Leva arabica" post=" (Uvarov, 1936) " name="binomial"/>
+  <result pre=" " exact=" Ochrilidia gracilis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Ochrilidia gracilis" post=" (Krauss, 1902) " name="binomial"/>
+  <result pre=" " exact=" Stenohippus mundus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Stenohippus mundus" post=" (Walker, 1871) " name="binomial"/>
+  <result pre=" " exact=" Acrotylus patruelis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Acrotylus patruelis" post="(Herrich-Schäffer, 1838) " name="binomial"/>
+  <result pre=" " exact=" Aiolopus simulatrix " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Aiolopus simulatrix" post=" (Walker, 1870) " name="binomial"/>
+  <result pre=" " exact=" Aiolopus thalassinus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Aiolopus thalassinus" post=" (Fabricius, 1781) " name="binomial"/>
+  <result pre=" " exact=" Sphingonotus rubescens " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Sphingonotus rubescens" post=" (Walker, 1870) " name="binomial"/>
+  <result pre=" " exact=" Sphingonotus savignyi " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Sphingonotus savignyi" post=" Saussure, 1884 " name="binomial"/>
+  <result pre=" " exact=" Trilophidia conturbata " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Trilophidia conturbata" post=" (Walker, 1870) " name="binomial"/>
+  <result pre=" " exact=" Morphacris fasciata " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Morphacris fasciata" post=" (Thunberg, 1815) " name="binomial"/>
+  <result pre=" " exact=" Xiphoceriana arabica " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Xiphoceriana arabica" post=" (Uvarov, 1922) [A new record in Saudi Arabia]. " name="binomial"/>
+  <result pre=" " exact=" Poekilocerus arabicus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Poekilocerus arabicus" post=" (Uvarov, 1922) " name="binomial"/>
+  <result pre=" " exact=" Poekilocerus bufonius " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Poekilocerus bufonius" post=" (Klug, 1832) " name="binomial"/>
+  <result pre=" " exact=" Pyrgomorpha conica " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Pyrgomorpha conica" post=" (Olivier, 1791) [A new record in Saudi Arabia] " name="binomial"/>
+  <result pre=" " exact=" Paratettix meridionalis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Paratettix meridionalis" post=" (Rambur, 1838) " name="binomial"/>
+  <result pre=" " exact=" Acheta arabica " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Acheta arabica" post=" Gorochov, 1993 " name="binomial"/>
+  <result pre=" " exact=" Acheta domesticus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Acheta domesticus" post=" Linnaeus, 1758 " name="binomial"/>
+  <result pre=" " exact=" Gryllus bimaculatus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Gryllus bimaculatus" post=" De Geer, 1773 " name="binomial"/>
+  <result pre=" " exact=" Trigonidium cicindeloides " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Trigonidium cicindeloides" post=" Rambur, 1838 " name="binomial"/>
+  <result pre=" " exact=" Conocephalus arabicus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Conocephalus arabicus" post=" Uvarov, 1933 " name="binomial"/>
+  <result pre=" " exact=" Platycleis arabica " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Platycleis arabica" post=" Popov, 1981 " name="binomial"/>
+  <result pre=" " exact=" Forficula auricularia " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Forficula auricularia" post="Linnaeus, 1758 " name="binomial"/>
+  <result pre=" " exact=" Arabembia biarmata " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Arabembia biarmata" post=" Ross, 1981 " name="binomial"/>
+  <result pre=" " exact=" Blaste arabica " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Blaste arabica" post=" New, 1979 " name="binomial"/>
+  <result pre=" " exact=" Epicalotermes aethiopicus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Epicalotermes aethiopicus" post=" Silvestri, 1918 " name="binomial"/>
+  <result pre=" " exact=" Blattella germanica " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Blattella germanica" post=" (Linnaeus, 1767) " name="binomial"/>
+  <result pre=" " exact=" Balta biquandi " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Balta biquandi" post=" Grandcolas, 1994 " name="binomial"/>
+  <result pre=" " exact=" Heterogamisca marmorata " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Heterogamisca marmorata" post=" Uvarov, 1936 " name="binomial"/>
+  <result pre=" " exact=" Empusa spinosa " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Empusa spinosa" post=" Krauss, 1902 " name="binomial"/>
+  <result pre=" " exact=" Eremiaphila arabica " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Eremiaphila arabica" post=" Saussure, 1871 " name="binomial"/>
+  <result pre=" " exact=" Hierodula trimacula " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Hierodula trimacula" post=" Saussure, 1870 " name="binomial"/>
+  <result pre=" " exact=" Iris coeca " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Iris coeca" post=" Uvarov, 1931 " name="binomial"/>
+  <result pre=" " exact=" Eremoplana infelix " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Eremoplana infelix" post=" Uvarov, 1924 " name="binomial"/>
+  <result pre=" " exact=" Microthespis dmitriewi " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Microthespis dmitriewi" post=" Werner, 1908 " name="binomial"/>
+  <result pre=" " exact=" Rivetina pallida " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Rivetina pallida" post=" Kaltenbach, 1984 " name="binomial"/>
+  <result pre=" " exact=" Sinaiella nebulosa " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Sinaiella nebulosa" post=" Uvarov, 1924 " name="binomial"/>
+  <result pre=" " exact=" Polyplax brachyrrhyncha " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Polyplax brachyrrhyncha" post=" Cummings, 1915 " name="binomial"/>
+  <result pre=" " exact=" Mirperus jaculus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Mirperus jaculus" post=" (Thunberg, 1783) " name="binomial"/>
+  <result pre=" " exact=" Orius laevigatus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Orius laevigatus" post=" (Fieber, 1860) " name="binomial"/>
+  <result pre=" " exact=" Sehirus tibialis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Sehirus tibialis" post=" (Stal, 1853) " name="binomial"/>
+  <result pre=" " exact=" Coridius viduatus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Coridius viduatus" post=" (Fabricius, 1794) " name="binomial"/>
+  <result pre=" " exact=" Lygaeus buettikeri " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Lygaeus buettikeri" post=" Hamid &amp;amp;amp; Hamid, 1985 " name="binomial"/>
+  <result pre=" " exact=" Nysius cymoides " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Nysius cymoides" post=" (Spinola, 1837) " name="binomial"/>
+  <result pre=" " exact=" Oxycarenus hyalinipennis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Oxycarenus hyalinipennis" post=" (Costa, 1847) " name="binomial"/>
+  <result pre=" " exact=" Oxycarenus zavattarii " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Oxycarenus zavattarii" post=" Mancini, 1939 " name="binomial"/>
+  <result pre=" " exact=" Deraeocoris martini " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Deraeocoris martini" post=" (Puton, 1887) " name="binomial"/>
+  <result pre=" " exact=" Creontiades pallidus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Creontiades pallidus" post=" (Rambur, 1842) " name="binomial"/>
+  <result pre=" " exact=" Megacoelum oculare " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Megacoelum oculare" post=" Wagner, 1957 " name="binomial"/>
+  <result pre=" " exact=" Phytocoris kansisrob " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Phytocoris kansisrob" post=" Linnavouri, 1975 " name="binomial"/>
+  <result pre=" " exact=" Taylorilygus pallidulus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Taylorilygus pallidulus" post=" (Blanchard, 1852) " name="binomial"/>
+  <result pre=" " exact=" Taylorilygus simonyi " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Taylorilygus simonyi" post=" (Reuter, 1903) " name="binomial"/>
+  <result pre=" " exact=" Hallodapus costai " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Hallodapus costai" post=" (Reuter, 1890) " name="binomial"/>
+  <result pre=" " exact=" Laemocoris trimaculatus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Laemocoris trimaculatus" post=" Linnavouri, 1964 " name="binomial"/>
+  <result pre=" " exact=" Ruwaba glabriceps " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Ruwaba glabriceps" post=" Linnavouri &amp;amp;amp;Al-Neamy, 1982 " name="binomial"/>
+  <result pre=" " exact=" Campylomma acaciae " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Campylomma acaciae" post=" Linnavuori, 1961 " name="binomial"/>
+  <result pre=" " exact=" Campylomma pulicariae " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Campylomma pulicariae" post=" (Linnavuori, 1986) " name="binomial"/>
+  <result pre=" " exact=" Campylomma torridum " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Campylomma torridum" post=" Linnavuori, 1975 " name="binomial"/>
+  <result pre=" " exact=" Psallomimus ornatus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Psallomimus ornatus" post=" Linnavouri, 1957 " name="binomial"/>
+  <result pre=" " exact=" Anisops debilis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Anisops debilis" post=" Gerstäcker, 1873 " name="binomial"/>
+  <result pre=" " exact=" Anisops sardea " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Anisops sardea" post=" Herrich-Schaeffer, 1849 " name="binomial"/>
+  <result pre=" " exact=" Stenozygum coloratum " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Stenozygum coloratum" post=" (Klug, 1845) " name="binomial"/>
+  <result pre=" " exact=" Agonoscelis arabica " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Agonoscelis arabica" post=" Linnavouri, 1975 " name="binomial"/>
+  <result pre=" " exact=" Eysarcoris ventralis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Eysarcoris ventralis" post=" (Westwood, 1837) " name="binomial"/>
+  <result pre=" " exact=" Acrosternum millieri " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Acrosternum millieri" post=" (Mulsant &amp;amp;amp; Rey, 1866) " name="binomial"/>
+  <result pre=" " exact=" Nagusta simonis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Nagusta simonis" post=" Puton, 1890 " name="binomial"/>
+  <result pre=" " exact=" Pirates strepitans " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Pirates strepitans" post=" Rambur, 1839 " name="binomial"/>
+  <result pre=" " exact=" Holotrichius innesi " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Holotrichius innesi" post=" Horvath, 1910 " name="binomial"/>
+  <result pre=" " exact=" Reduvius nanus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Reduvius nanus" post=" Miller, 1951 " name="binomial"/>
+  <result pre=" " exact=" Pakesia linnavuorii " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Pakesia linnavuorii" post=" (Dispons, 1962) " name="binomial"/>
+  <result pre=" " exact=" Liorhyssus hyalinus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Liorhyssus hyalinus" post=" (Fabricius, 1794) " name="binomial"/>
+  <result pre=" " exact=" Dieuches mucronatus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Dieuches mucronatus" post=", (Stal, 1866) " name="binomial"/>
+  <result pre=" " exact=" Deroplax silphoides " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Deroplax silphoides" post=" (Thunberg, 1783) " name="binomial"/>
+  <result pre=" " exact=" Adama buettikeri " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Adama buettikeri" post=" Dlabola, 1980 " name="binomial"/>
+  <result pre=" " exact=" Exitianus fasciolatus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Exitianus fasciolatus" post=" (Melichar, 1911) " name="binomial"/>
+  <result pre=" " exact=" Petalocephala turgida " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Petalocephala turgida" post=" Linnavouri, 1962 " name="binomial"/>
+  <result pre=" " exact=" Macropsis octonotata " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Macropsis octonotata" post=" Dlabola, 1979 " name="binomial"/>
+  <result pre=" " exact=" Pseudoliarus palestinensis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Pseudoliarus palestinensis" post=" Linnavuori, 1962 " name="binomial"/>
+  <result pre=" " exact=" Derisa atratula " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Derisa atratula" post=" Melichar, 1902 " name="binomial"/>
+  <result pre=" " exact=" Philbyella banajai " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Philbyella banajai" post=" Dlabola, 1980 " name="binomial"/>
+  <result pre=" " exact=" Dichochrysa amseli " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Dichochrysa amseli" post=" Holzel,1980 " name="binomial"/>
+  <result pre=" " exact=" Dichochrysa venosa " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Dichochrysa venosa" post=" (Rambur, 1842) " name="binomial"/>
+  <result pre=" " exact=" Mallada spadix " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Mallada spadix" post=" Holzel, 1988 " name="binomial"/>
+  <result pre=" " exact=" Italochrysa asirensis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Italochrysa asirensis" post=" Hölzel, 1980 " name="binomial"/>
+  <result pre=" " exact=" Myrmecaelurus acerbus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Myrmecaelurus acerbus" post=" (Walker, 1853) " name="binomial"/>
+  <result pre=" " exact=" Myrmeleon fasciatus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Myrmeleon fasciatus" post=" (Navas, 1912) " name="binomial"/>
+  <result pre=" " exact=" Myrmeleon hyalinus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Myrmeleon hyalinus" post=" Olivier, 1811 " name="binomial"/>
+  <result pre=" " exact=" Creoleon antennatus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Creoleon antennatus" post=" (Navas, 1914) " name="binomial"/>
+  <result pre=" " exact=" Distoleon laticollis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Distoleon laticollis" post=" (Návas, 1913) " name="binomial"/>
+  <result pre=" " exact=" Neuroleon lugubris " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Neuroleon lugubris" post=" (Návas, 1926) " name="binomial"/>
+  <result pre=" " exact=" Cueta asirica " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Cueta asirica" post=" (Holzel, 1982) " name="binomial"/>
+  <result pre=" " exact=" Cueta lineosa " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Cueta lineosa" post=" (Rambur, 1842) " name="binomial"/>
+  <result pre=" " exact=" Cueta pallens " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Cueta pallens" post=" (Klug in Ehrenberg, 1834) " name="binomial"/>
+  <result pre=" " exact=" Pheropsophus africanus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Pheropsophus africanus" post=" (Dejean, 1825) " name="binomial"/>
+  <result pre=" " exact=" Calosoma imbricatum " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Calosoma imbricatum" post=" Klug, 1832 " name="binomial"/>
+  <result pre=" " exact=" Tetragonoderus arcuatus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Tetragonoderus arcuatus" post=" Dejean, 1829 " name="binomial"/>
+  <result pre=" " exact=" Galerita africana " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Galerita africana" post=" Dejean, 1825 " name="binomial"/>
+  <result pre=" " exact=" Cymindis andreae " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Cymindis andreae" post=" Menetries, 1832 " name="binomial"/>
+  <result pre=" " exact=" Cymindis suturalis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Cymindis suturalis" post=" Dejean, 1825 " name="binomial"/>
+  <result pre=" " exact=" Sphodrus leucophthalmus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Sphodrus leucophthalmus" post=" Linne, 1758 " name="binomial"/>
+  <result pre=" " exact=" Paussus cephalotes " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Paussus cephalotes" post=" Raffray, 1885 " name="binomial"/>
+  <result pre=" " exact=" Amara simplex " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Amara simplex" post=" Dejean, 1828 " name="binomial"/>
+  <result pre=" " exact=" Clivina collaris " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Clivina collaris" post=" (Herbst, 1784) " name="binomial"/>
+  <result pre=" " exact=" Elaphropus conspicuous " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Elaphropus conspicuous" post=" (Schaum, 1863) " name="binomial"/>
+  <result pre=" " exact=" Elaphropus variabilis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Elaphropus variabilis" post=" (Chaudoir, 1876) " name="binomial"/>
+  <result pre=" " exact=" Tachys gilvus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Tachys gilvus" post=" Schaum, 1863 " name="binomial"/>
+  <result pre=" " exact=" Rhantus includes " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Rhantus includes" post=" (Walker, 1871) " name="binomial"/>
+  <result pre=" " exact=" Hydaticus jucundus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Hydaticus jucundus" post=" Reiche, 1850 " name="binomial"/>
+  <result pre=" " exact=" Nebrioporus insignis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Nebrioporus insignis" post=" (Klug, 1834) " name="binomial"/>
+  <result pre=" " exact=" Nebrioporus seriatus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Nebrioporus seriatus" post=" (Sharp, 1882) " name="binomial"/>
+  <result pre=" " exact=" Haliplus lineatocollis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Haliplus lineatocollis" post=" (Marsham, 1802) " name="binomial"/>
+  <result pre=" " exact=" Mesocoelopus ingibbosus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Mesocoelopus ingibbosus" post=" (Pic, 1924) " name="binomial"/>
+  <result pre=" " exact=" Anthicus crinitus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Anthicus crinitus" post=" LaFerté-Sénectère, 1848 " name="binomial"/>
+  <result pre=" " exact=" Stricticollis peplifer " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Stricticollis peplifer" post=" (Marseul, 1879) " name="binomial"/>
+  <result pre=" " exact=" Endomia lefebvrei " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Endomia lefebvrei" post=" (Laferte, 1849) " name="binomial"/>
+  <result pre=" " exact=" Anthelephila caeruleipennis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Anthelephila caeruleipennis" post=" (LaFerté, 1847) " name="binomial"/>
+  <result pre=" " exact=" Anthelephila ninus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Anthelephila ninus" post=" LaFerté-Sénectère, 1849 " name="binomial"/>
+  <result pre=" " exact=" Xylomedes coronata " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Xylomedes coronata" post=" (Marseul, 1883) " name="binomial"/>
+  <result pre=" " exact=" Enneadesmus trispinosus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Enneadesmus trispinosus" post=" (Olivier, 1795) " name="binomial"/>
+  <result pre=" " exact=" Xyloperthella picea " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Xyloperthella picea" post=" (Olivier, 1790) " name="binomial"/>
+  <result pre=" " exact=" Anthaxia kneuckeri " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Anthaxia kneuckeri" post=" Obenberger, 1920 " name="binomial"/>
+  <result pre=" " exact=" Acmaeodera elevata " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Acmaeodera elevata" post=" (Klug, 1829) " name="binomial"/>
+  <result pre=" " exact=" Acmaeodera polita " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Acmaeodera polita" post=" (Klug, 1829) " name="binomial"/>
+  <result pre=" " exact=" Mourgliana conspicua " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Mourgliana conspicua" post=" Holzschuh, 1993 " name="binomial"/>
+  <result pre=" " exact=" Chaetocnema pulla " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Chaetocnema pulla" post=" Chapuis, 1879 " name="binomial"/>
+  <result pre=" " exact=" Chaetocnema tibialis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Chaetocnema tibialis" post=" (Illiger, 1807) " name="binomial"/>
+  <result pre=" " exact=" Phyllotreta cheiranthi " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Phyllotreta cheiranthi" post=" Weise, 1903 " name="binomial"/>
+  <result pre=" " exact=" Podagrica pallidicolor " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Podagrica pallidicolor" post=" Pic, 1909 " name="binomial"/>
+  <result pre=" " exact=" Psylliodes persica " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Psylliodes persica" post=" Allard, 1867 " name="binomial"/>
+  <result pre=" " exact=" Diorhabda octocostata " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Diorhabda octocostata" post=" Gahan, 1896 " name="binomial"/>
+  <result pre=" " exact=" Opilo longipilis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Opilo longipilis" post=" Fairmaire, 1892 " name="binomial"/>
+  <result pre=" " exact=" Necrobia rufipes " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Necrobia rufipes" post=" De Geer, 1775 " name="binomial"/>
+  <result pre=" " exact=" Hippodamia variegata " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Hippodamia variegata" post=" (Goeze, 1777) " name="binomial"/>
+  <result pre=" " exact=" Scymnus syriacus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Scymnus syriacus" post=" Marsuel, 1868 " name="binomial"/>
+  <result pre=" " exact=" Thymapion solarii " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Thymapion solarii" post=" (Wagner, 1908) " name="binomial"/>
+  <result pre=" " exact=" Thymapion subrecticolle " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Thymapion subrecticolle" post=" (Voss, 1961) " name="binomial"/>
+  <result pre=" " exact=" Apiotherium dongollanum " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Apiotherium dongollanum" post=" (Wagner, 1910) " name="binomial"/>
+  <result pre=" " exact=" Afrothymapion tanganum " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Afrothymapion tanganum" post=" (Hartmann, 1897) " name="binomial"/>
+  <result pre=" " exact=" Pseudoconapion mirei " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Pseudoconapion mirei" post=" (Hoffmann, 1962) " name="binomial"/>
+  <result pre=" " exact=" Pseudoconapion segne " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Pseudoconapion segne" post=" (Faust, 1895) " name="binomial"/>
+  <result pre=" " exact=" Sharpia rubida " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Sharpia rubida" post=" (Rosenhauer, 1856) " name="binomial"/>
+  <result pre=" " exact=" Dryops sulcipennis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Dryops sulcipennis" post=" (Costa, 1883) " name="binomial"/>
+  <result pre=" " exact=" Lanelater notodonta " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Lanelater notodonta" post=" (Latreille, 1827) " name="binomial"/>
+  <result pre=" " exact=" Craspedostethus wittmeri " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Craspedostethus wittmeri" post=" Chassain, 1979 " name="binomial"/>
+  <result pre=" " exact=" Laccobius praecipnus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Laccobius praecipnus" post=" Kuwert, 1891 " name="binomial"/>
+  <result pre=" " exact=" Mylabris calida " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Mylabris calida" post=" (Pallas, 1782) " name="binomial"/>
+  <result pre=" " exact=" Nemognatha chrysomelina " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Nemognatha chrysomelina" post=" (Fabricius, 1775) " name="binomial"/>
+  <result pre=" " exact=" Zonitoschema rubricolor " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Zonitoschema rubricolor" post=" Pic, 1924 " name="binomial"/>
+  <result pre=" " exact=" Mediimorda bipunctata " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Mediimorda bipunctata" post=" (Germar, 1827) " name="binomial"/>
+  <result pre=" " exact=" Typhaea stercorea " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Typhaea stercorea" post=" (Linnaeus, 1758) " name="binomial"/>
+  <result pre=" " exact=" Idgia asirensis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Idgia asirensis" post=" Wittmer, 1980 " name="binomial"/>
+  <result pre=" " exact=" Aphodius andreinii " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Aphodius andreinii" post=" Balthasar, 1939 " name="binomial"/>
+  <result pre=" " exact=" Aphodius lividus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Aphodius lividus" post=" (Olivier, 1789) " name="binomial"/>
+  <result pre=" " exact=" Aphodius schusteri " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Aphodius schusteri" post=" Balthasar, 1935 " name="binomial"/>
+  <result pre=" " exact=" Ataenius garamas " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Ataenius garamas" post=" Peyerimhoff, 1929 " name="binomial"/>
+  <result pre=" " exact=" Granulopsammodius plicatulus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Granulopsammodius plicatulus" post=" (Fairmaire, 1892) " name="binomial"/>
+  <result pre=" " exact=" Leiopsammodius laevicollis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Leiopsammodius laevicollis" post=" (Klug, 1845) " name="binomial"/>
+  <result pre=" " exact=" Rhyssemus brevitarsis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Rhyssemus brevitarsis" post=" Pittino, 1984 " name="binomial"/>
+  <result pre=" " exact=" Rhyssemus buettikeri " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Rhyssemus buettikeri" post=" Pittino, 1984 " name="binomial"/>
+  <result pre=" " exact=" Rhyssemus coluber " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Rhyssemus coluber" post=" Mayet, 1887 " name="binomial"/>
+  <result pre=" " exact=" Rhyssemus granosus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Rhyssemus granosus" post=" (Klug &amp;amp;amp; Erichson, 1842) " name="binomial"/>
+  <result pre=" " exact=" Rhyssemus rubeolus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Rhyssemus rubeolus" post=" Harold, 1871 " name="binomial"/>
+  <result pre=" " exact=" Rhyssemus saoudi " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Rhyssemus saoudi" post=" Pittino, 1984 " name="binomial"/>
+  <result pre=" " exact=" Homothyrea thoracica " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Homothyrea thoracica" post=" Schaum, 1841 " name="binomial"/>
+  <result pre=" " exact=" Pachnoda leclercqi " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Pachnoda leclercqi" post=" Rigout, 1985 " name="binomial"/>
+  <result pre=" " exact=" Pachnoda thoracica " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Pachnoda thoracica" post=" Fabricius, 1775 " name="binomial"/>
+  <result pre=" " exact=" Onthophagus transcaspicus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Onthophagus transcaspicus" post=" Koenig, 1888 " name="binomial"/>
+  <result pre=" " exact=" Cyphon laevipennis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Cyphon laevipennis" post=" Tournier, 1868 " name="binomial"/>
+  <result pre=" " exact=" Oryzaephilus surinamensis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Oryzaephilus surinamensis" post=" (Linnaeus, 1758) " name="binomial"/>
+  <result pre=" " exact=" Paederus alfierii " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Paederus alfierii" post=" Koch, 1934 " name="binomial"/>
+  <result pre=" " exact=" Mycetocharina wittmeri " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Mycetocharina wittmeri" post=" Muche, 1982 " name="binomial"/>
+  <result pre=" " exact=" Prionychus denticulatus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Prionychus denticulatus" post=" Muche, 1982 " name="binomial"/>
+  <result pre=" " exact=" Stenosis comata " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Stenosis comata" post=" Reiche &amp;amp;amp; Saulcy, 1857 " name="binomial"/>
+  <result pre=" " exact=" Thriptera crinita " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Thriptera crinita" post=" Klug, 1830 " name="binomial"/>
+  <result pre=" " exact=" Thriptera kraatzi " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Thriptera kraatzi" post=" Haag, 1876 " name="binomial"/>
+  <result pre=" " exact=" Sepidium cristatum " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Sepidium cristatum" post=" Fabricius, 1775 " name="binomial"/>
+  <result pre=" " exact=" Anemia brevicollis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Anemia brevicollis" post=" (Wollaston, 1864) " name="binomial"/>
+  <result pre=" " exact=" Gonocephalum strigosum " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Gonocephalum strigosum" post=" (Reiche, 1850) " name="binomial"/>
+  <result pre=" " exact=" Thaneroclerus buqueti " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Thaneroclerus buqueti" post=" (Lefebvre, 1835) " name="binomial"/>
+  <result pre=" " exact=" Bitoma sicciana " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Bitoma sicciana" post=" (Pascoe, 1863) " name="binomial"/>
+  <result pre=" " exact=" Hydroptila cruciata " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Hydroptila cruciata" post=" Ulmer, 1912 " name="binomial"/>
+  <result pre=" " exact=" Setodes alalus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Setodes alalus" post=" Mosely, 1948 " name="binomial"/>
+  <result pre=" " exact=" Chimarra saudia " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Chimarra saudia" post=" Malicky, 1986 " name="binomial"/>
+  <result pre=" " exact=" Lycaena phlaeas " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Lycaena phlaeas" post=" (Linnaeus, 1761) " name="binomial"/>
+  <result pre=" " exact=" Euchrysops osiris " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Euchrysops osiris" post=" (Hopffer, 1855) " name="binomial"/>
+  <result pre=" " exact=" Lepidochrysops pittawayi " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Lepidochrysops pittawayi" post=" Larsen, 1983 " name="binomial"/>
+  <result pre=" " exact=" Tarucus theophrastus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Tarucus theophrastus" post=" Fabricius, 1793 " name="binomial"/>
+  <result pre=" " exact=" Zizula hylax " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Zizula hylax" post=" Fabricius, 1775 " name="binomial"/>
+  <result pre=" " exact=" Myrina silenus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Myrina silenus" post=" (Fabricius, 1775) " name="binomial"/>
+  <result pre=" " exact=" Charaxes bernstorffi " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Charaxes bernstorffi" post=" Rydon, 1982 " name="binomial"/>
+  <result pre=" " exact=" Charaxes hansali " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Charaxes hansali" post=" Felder, 1867 " name="binomial"/>
+  <result pre=" " exact=" Danaus chrysippus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Danaus chrysippus" post=" (Linnaeus, 1758) " name="binomial"/>
+  <result pre=" " exact=" Junonia hierta " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Junonia hierta" post=" Fabricius, 1798 " name="binomial"/>
+  <result pre=" " exact=" Lasiommata felix " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Lasiommata felix" post=" (Warnecke, 1929) " name="binomial"/>
+  <result pre=" " exact=" Catopsilia florella " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Catopsilia florella" post=" (Fabricius, 1775) [A new record in Saudi Arabia] " name="binomial"/>
+  <result pre=" " exact=" Eurema hecabe " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Eurema hecabe" post=" (Linnaeus, 1758) " name="binomial"/>
+  <result pre=" " exact=" Euchloe belemia " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Euchloe belemia" post=" (Esper, 1800) " name="binomial"/>
+  <result pre=" " exact=" Colotis amata " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Colotis amata" post=" (Fabricius, 1775) " name="binomial"/>
+  <result pre=" " exact=" Colotis daira " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Colotis daira" post=" (Klug, 1829) " name="binomial"/>
+  <result pre=" " exact=" Colotis danae " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Colotis danae" post=" (Fabricius, 1775) " name="binomial"/>
+  <result pre=" " exact=" Colotis ephyia " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Colotis ephyia" post=" (Klug, 1829) " name="binomial"/>
+  <result pre=" " exact=" Colotis eucharis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Colotis eucharis" post=" Fabricius, 1775 " name="binomial"/>
+  <result pre=" " exact=" Colotis evagore " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Colotis evagore" post=" (Klug, 1829) " name="binomial"/>
+  <result pre=" " exact=" Colotis halimede " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Colotis halimede" post=" (Klug, 1829) " name="binomial"/>
+  <result pre=" " exact=" Colotis liagore " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Colotis liagore" post=" (Klug, 1829) " name="binomial"/>
+  <result pre=" " exact=" Colotis protomedia " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Colotis protomedia" post=" (Klug, 1829) " name="binomial"/>
+  <result pre=" " exact=" Nepheronia buquetii " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Nepheronia buquetii" post=" (Boisduval, 1836) " name="binomial"/>
+  <result pre=" " exact=" Belenois aurota " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Belenois aurota" post=" (Fabricius, 1793) " name="binomial"/>
+  <result pre=" " exact=" Pieris krueperi " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Pieris krueperi" post=" (de Niceville, 1884) " name="binomial"/>
+  <result pre=" " exact=" Pieris rapae " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Pieris rapae" post=" (Linnaeus, 1758) " name="binomial"/>
+  <result pre=" " exact=" Pinacopteryx eriphia " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Pinacopteryx eriphia" post=" (Godart, 1819) " name="binomial"/>
+  <result pre=" " exact=" Pontia glauconome " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Pontia glauconome" post=" (Klug, 1829) " name="binomial"/>
+  <result pre=" " exact=" Hyphantria cunea " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Hyphantria cunea" post=" Drury, 1773 " name="binomial"/>
+  <result pre=" " exact=" Utetheisa pulchella " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Utetheisa pulchella" post=" (Linnaeus, 1758) " name="binomial"/>
+  <result pre=" " exact=" Pelosia arabica " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Pelosia arabica" post=" (Rebel, 1907) " name="binomial"/>
+  <result pre=" " exact=" Siccia arabica " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Siccia arabica" post=" Wiltshire, 1983 " name="binomial"/>
+  <result pre=" " exact=" Metacosmesis xerostola " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Metacosmesis xerostola" post=" Diakonoff, 1983 " name="binomial"/>
+  <result pre=" " exact=" Tebenna micalis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Tebenna micalis" post=" Mann, 1857 " name="binomial"/>
+  <result pre=" " exact=" Mormogystia reibellii " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Mormogystia reibellii" post=" (Oberthür, 1876) " name="binomial"/>
+  <result pre=" " exact=" Ephysteris promptella " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Ephysteris promptella" post=" Staudinger, 1859 " name="binomial"/>
+  <result pre=" " exact=" Ephysteris subdiminutella " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Ephysteris subdiminutella" post=" Stainton, 1867 " name="binomial"/>
+  <result pre=" " exact=" Phthorimaea operculella " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Phthorimaea operculella" post=" Zeller, 1873 " name="binomial"/>
+  <result pre=" " exact=" Scrobipalpa asiri " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Scrobipalpa asiri" post=" Povolny, 1980 " name="binomial"/>
+  <result pre=" " exact=" Scrobipalpa biljurshi " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Scrobipalpa biljurshi" post=" Povolny, 1980 " name="binomial"/>
+  <result pre=" " exact=" Scrobipalpa ergasima " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Scrobipalpa ergasima" post=" (Meyrick, 1916) " name="binomial"/>
+  <result pre=" " exact=" Scrobipalpa vicaria " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Scrobipalpa vicaria" post=" (Meyrick, 1921 " name="binomial"/>
+  <result pre=" " exact=" Cleora pavlitzkiae " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Cleora pavlitzkiae" post=" Fletcher, 1958 " name="binomial"/>
+  <result pre=" " exact=" Coenina collenettei " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Coenina collenettei" post=" Prout, 1931 " name="binomial"/>
+  <result pre=" " exact=" Epigynopteryx guichardi " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Epigynopteryx guichardi" post=" Wiltshire, 1982 " name="binomial"/>
+  <result pre=" " exact=" Odontopera integraria " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Odontopera integraria" post=" Guenée, 1858 " name="binomial"/>
+  <result pre=" " exact=" Oreometra fifae " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Oreometra fifae" post=" Wiltshire, 1986 " name="binomial"/>
+  <result pre=" " exact=" Xylopteryx guichardi " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Xylopteryx guichardi" post=" Wiltshire, 1982 " name="binomial"/>
+  <result pre=" " exact=" Zamarada hyalinaria " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Zamarada hyalinaria" post=" Guenée, 1858 " name="binomial"/>
+  <result pre=" " exact=" Zeuctoboarmia syntropha " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Zeuctoboarmia syntropha" post=" (Prout, 1931) " name="binomial"/>
+  <result pre=" " exact=" Microloxia herbaria " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Microloxia herbaria" post=" Hübner, 1808 " name="binomial"/>
+  <result pre=" " exact=" Prasinocyma eremica " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Prasinocyma eremica" post=" Wiltshire, 1980 " name="binomial"/>
+  <result pre=" " exact=" Calliclystis lita " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Calliclystis lita" post=" (Prout, 1916) " name="binomial"/>
+  <result pre=" " exact=" Chloroclystis hawkinsi " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Chloroclystis hawkinsi" post=" Wiltshire, 1982 " name="binomial"/>
+  <result pre=" " exact=" Orthonama obstipata " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Orthonama obstipata" post=" (Fabricius, 1794) " name="binomial"/>
+  <result pre=" " exact=" Idaea hesuata " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Idaea hesuata" post=" Wiltshire, 1983 " name="binomial"/>
+  <result pre=" " exact=" Rhodometra kikiae " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Rhodometra kikiae" post=" Wiltshire, 1982 " name="binomial"/>
+  <result pre=" " exact=" Scopula luridata " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Scopula luridata" post=" Zeller, 1847 " name="binomial"/>
+  <result pre=" " exact=" Scopula sarfaitensis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Scopula sarfaitensis" post=" Wiltshire, 1982 " name="binomial"/>
+  <result pre=" " exact=" Traminda rufistrigata " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Traminda rufistrigata" post=" Hampson, 1896 " name="binomial"/>
+  <result pre=" " exact=" Traminda neptunaria " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Traminda neptunaria" post=" Guenée, 1858 " name="binomial"/>
+  <result pre=" " exact=" Dendrolimus lendereri " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Dendrolimus lendereri" post=" Kocak, 1981 " name="binomial"/>
+  <result pre=" " exact=" Pachypasa sultani " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Pachypasa sultani" post=" Wiltshire, 1986 " name="binomial"/>
+  <result pre=" " exact=" Stoermeriana omana " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Stoermeriana omana" post=" Freina&amp;amp;amp;Witt, 1988 " name="binomial"/>
+  <result pre=" " exact=" Streblote acaciae " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Streblote acaciae" post=" Klug, 1829 " name="binomial"/>
+  <result pre=" " exact=" Coenobasis farouki " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Coenobasis farouki" post=" Wiltshire, 1947 " name="binomial"/>
+  <result pre=" " exact=" Euproctis fasciata " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Euproctis fasciata" post=" Walker, 1855 " name="binomial"/>
+  <result pre=" " exact=" Laelia xyleutis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Laelia xyleutis" post=" Hampson, 1905 " name="binomial"/>
+  <result pre=" " exact=" Lymantriades arabica " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Lymantriades arabica" post=" (Hampson, 1910) " name="binomial"/>
+  <result pre=" " exact=" Naroma varipes " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Naroma varipes" post=" Walker, 1865 " name="binomial"/>
+  <result pre=" " exact=" Ozarba atrifera " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Ozarba atrifera" post=" Hampson, 1910 " name="binomial"/>
+  <result pre=" " exact=" Ariathisa abyssinia " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Ariathisa abyssinia" post=" Guenée, 1852 " name="binomial"/>
+  <result pre=" " exact=" Cryphia pittawayi " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Cryphia pittawayi" post=" Wiltshire, 1986 " name="binomial"/>
+  <result pre=" " exact=" Antarchaea magalium " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Antarchaea magalium" post=" Townsend, 1958 " name="binomial"/>
+  <result pre=" " exact=" Hypotacha ochribasalis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Hypotacha ochribasalis" post=" Hampson, 1896 " name="binomial"/>
+  <result pre=" " exact=" Lyncestis mimica " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Lyncestis mimica" post=" Gaede, 1939 " name="binomial"/>
+  <result pre=" " exact=" Scodionyx mysticus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Scodionyx mysticus" post=" Staudinger, 1899 " name="binomial"/>
+  <result pre=" " exact=" Sphingomorpha chlorea " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Sphingomorpha chlorea" post=" Cramer, 1777 " name="binomial"/>
+  <result pre=" " exact=" Thria robusta " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Thria robusta" post=" Walker, 1857 " name="binomial"/>
+  <result pre=" " exact=" Ophiuche masurialis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Ophiuche masurialis" post=" Guenée, 1854 " name="binomial"/>
+  <result pre=" " exact=" Tathorhynchus philbyi " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Tathorhynchus philbyi" post=" Wiltshre, 1986 " name="binomial"/>
+  <result pre=" " exact=" Callopistria latreillei " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Callopistria latreillei" post=" (Duponchel, 1827) " name="binomial"/>
+  <result pre=" " exact=" Eublemma bifasciata " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Eublemma bifasciata" post=" (Moore, 1881) " name="binomial"/>
+  <result pre=" " exact=" Eublemma buettikeri " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Eublemma buettikeri" post=" Wiltshire, 1980 " name="binomial"/>
+  <result pre=" " exact=" Eublemma ecthaemata " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Eublemma ecthaemata" post=" Hampson, 1896 " name="binomial"/>
+  <result pre=" " exact=" Eublemma mesophaea " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Eublemma mesophaea" post=" Hampson, 1910 " name="binomial"/>
+  <result pre=" " exact=" Eublemma parva " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Eublemma parva" post=" (Hübner, 1808) " name="binomial"/>
+  <result pre=" " exact=" Agrotis herzogi " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Agrotis herzogi" post=" Rebel, 1911 " name="binomial"/>
+  <result pre=" " exact=" Agrotis ipsilon " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Agrotis ipsilon" post=" (Hufnagel, 1766) " name="binomial"/>
+  <result pre=" " exact=" Agrotis medioatra " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Agrotis medioatra" post=" Hampson, 1918 " name="binomial"/>
+  <result pre=" " exact=" Caradrina aldegaitheri " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Caradrina aldegaitheri" post=" Wiltshire, 1986 " name="binomial"/>
+  <result pre=" " exact=" Caradrina localis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Caradrina localis" post=" Wiltshire, 1986 " name="binomial"/>
+  <result pre=" " exact=" Caradrina stenoeca " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Caradrina stenoeca" post="Wiltshire, 1986 " name="binomial"/>
+  <result pre=" " exact=" Haderonia proximoides " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Haderonia proximoides" post=" Wiltshire, 1982 " name="binomial"/>
+  <result pre=" " exact=" Mythimna affinis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Mythimna affinis" post=" (Warnecke, 1930) " name="binomial"/>
+  <result pre=" " exact=" Mythimna octogesima " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Mythimna octogesima" post=" Wiltshire, 1982 " name="binomial"/>
+  <result pre=" " exact=" Sideridis chersotoides " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Sideridis chersotoides" post=" Wiltshire, 1956 " name="binomial"/>
+  <result pre=" " exact=" Spodoptera cilium " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Spodoptera cilium" post=" Guenée, 1852 " name="binomial"/>
+  <result pre=" " exact=" Spodoptera exigua " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Spodoptera exigua" post=" (Hubner, 1808) " name="binomial"/>
+  <result pre=" " exact=" Spodoptera littoralis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Spodoptera littoralis" post=" (Boisduval, 1833) " name="binomial"/>
+  <result pre=" " exact=" Spodoptera mauritia " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Spodoptera mauritia" post=" (Boisduval, 1833) " name="binomial"/>
+  <result pre=" " exact=" Trichoplusia vittata " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Trichoplusia vittata" post=" (Wallengren, 1856) " name="binomial"/>
+  <result pre=" " exact=" Thiacidas adnanensis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Thiacidas adnanensis" post=" (Wiltshire, 1980) " name="binomial"/>
+  <result pre=" " exact=" Agonopterix subpropinquella " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Agonopterix subpropinquella" post=" Stainton, 1849 " name="binomial"/>
+  <result pre=" " exact=" Depressaria discipunctella " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Depressaria discipunctella" post=" Herrich-Schäffer, 1854 " name="binomial"/>
+  <result pre=" " exact=" Amseloecia arabica " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Amseloecia arabica" post=" Povolny, 1983 " name="binomial"/>
+  <result pre=" " exact=" Agdistis obstinata " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Agdistis obstinata" post=" Meyrick, 1920 " name="binomial"/>
+  <result pre=" " exact=" Megalorhipida defectalis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Megalorhipida defectalis" post=" Walker, 1864 " name="binomial"/>
+  <result pre=" " exact=" Stangeia siceliota " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Stangeia siceliota" post=" (Zeller, 1847) " name="binomial"/>
+  <result pre=" " exact=" Catascythris keberella " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Catascythris keberella" post=" Amsel, 1935 " name="binomial"/>
+  <result pre=" " exact=" Daphnis nerii " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Daphnis nerii" post=" (Linnaeus, 1758) " name="binomial"/>
+  <result pre=" " exact=" Hippotion celerio " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Hippotion celerio" post=" (Linnaeus, 1758) " name="binomial"/>
+  <result pre=" " exact=" Hyles livornica " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Hyles livornica" post=" (Esper, 1780) " name="binomial"/>
+  <result pre=" " exact=" Acherontia atropos " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Acherontia atropos" post=" (Linnaeus, 1758) " name="binomial"/>
+  <result pre=" " exact=" Agrius convolvuli " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Agrius convolvuli" post=" (Linnaeus, 1758) " name="binomial"/>
+  <result pre=" " exact=" Macropoliana asirensis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Macropoliana asirensis" post=" Wiltshire, 1980 " name="binomial"/>
+  <result pre=" " exact=" Apiletria asirica " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Apiletria asirica" post=" Gozmany, 1982 " name="binomial"/>
+  <result pre=" " exact=" Thaumetopoea jordana " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Thaumetopoea jordana" post=" Staudinger, 1895 " name="binomial"/>
+  <result pre=" " exact=" Hapsifera punctata " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Hapsifera punctata" post=" Petersen, 1961 " name="binomial"/>
+  <result pre=" " exact=" Hapsiferona glareosa " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Hapsiferona glareosa" post=" Meyrick, 1912 " name="binomial"/>
+  <result pre=" " exact=" Neoepiscardia islamella " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Neoepiscardia islamella" post=" Petersen &amp;amp;amp; Gaedike, 1982 " name="binomial"/>
+  <result pre=" " exact=" Perissomastix amseli " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Perissomastix amseli" post=" (Petersen, 1959) " name="binomial"/>
+  <result pre=" " exact=" Perissomastix asiriella " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Perissomastix asiriella" post=" Petersen &amp;amp;amp; Gaedike, 1982 " name="binomial"/>
+  <result pre=" " exact=" Perissomastix nigriceps " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Perissomastix nigriceps" post=" Warren &amp;amp;amp; Rothschild, 1905 " name="binomial"/>
+  <result pre=" " exact=" Strepsicrates cryptosema " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Strepsicrates cryptosema" post=" Diakonoff, 1983 " name="binomial"/>
+  <result pre=" " exact=" Cydia dissulta " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Cydia dissulta" post=" Diakonoff, 1983 " name="binomial"/>
+  <result pre=" " exact=" Cydia melanoptycha " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Cydia melanoptycha" post=" Diakonoff, 1983 " name="binomial"/>
+  <result pre=" " exact=" Selania resedana " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Selania resedana" post=" (Obraztsov, 1959) " name="binomial"/>
+  <result pre=" " exact=" Eccopsis wahlbergiana " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Eccopsis wahlbergiana" post=" Zeller, 1852 " name="binomial"/>
+  <result pre=" " exact=" Procrica ammina " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Procrica ammina" post=" Diakonoff, 1983 " name="binomial"/>
+  <result pre=" " exact=" Tebenna micalis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Tebenna micalis" post=" (Mann, 1857) " name="binomial"/>
+  <result pre=" " exact=" Reissita simonyi " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Reissita simonyi" post=" (Rebel, 1899) " name="binomial"/>
+  <result pre=" " exact=" Culicoides kingi " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Culicoides kingi" post=" (Austen, 1912) " name="binomial"/>
+  <result pre=" " exact=" Culicoides newsteadi " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Culicoides newsteadi" post=" Austen, 1921 " name="binomial"/>
+  <result pre=" " exact=" Culicoides oxystoma " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Culicoides oxystoma" post=" Kieffer, 1910 " name="binomial"/>
+  <result pre=" " exact=" Conchapelopia trifascia " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Conchapelopia trifascia" post=" (Freeman, 1954) " name="binomial"/>
+  <result pre=" " exact=" Larsia rutsburuiemis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Larsia rutsburuiemis" post=" (Goetghebuer, 1935) " name="binomial"/>
+  <result pre=" " exact=" Larsia teesdalei " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Larsia teesdalei" post=" (Freeman, 1955) " name="binomial"/>
+  <result pre=" " exact=" Paramerina vaillanti " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Paramerina vaillanti" post=" Fittkau, 1962 " name="binomial"/>
+  <result pre=" " exact=" Paraphaenocladius impensus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Paraphaenocladius impensus" post=" (Walker, 1856) " name="binomial"/>
+  <result pre=" " exact=" Dicrotendipes peringueyanus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Dicrotendipes peringueyanus" post=" Kieffer, 1924 " name="binomial"/>
+  <result pre=" " exact=" Dicrotendipes sudanicus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Dicrotendipes sudanicus" post=" (Freeman, 1957) " name="binomial"/>
+  <result pre=" " exact=" Paratendipes nubilipennis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Paratendipes nubilipennis" post=" Freeman, 1957 " name="binomial"/>
+  <result pre=" " exact=" Paratendipes nudisquama " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Paratendipes nudisquama" post=" (Edwards, 1929) " name="binomial"/>
+  <result pre=" " exact=" Stictochironomus puripennis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Stictochironomus puripennis" post=" (Kieffer, 1921) " name="binomial"/>
+  <result pre=" " exact=" Cladotanytarsus pseudomancus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Cladotanytarsus pseudomancus" post=" (Goetghebuer, 1934) " name="binomial"/>
+  <result pre=" " exact=" Cladotanytarsus reductus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Cladotanytarsus reductus" post=" (Freeman, 1954) " name="binomial"/>
+  <result pre=" " exact=" Rheotanytarsus ringei " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Rheotanytarsus ringei" post=" Lehmann, 1970 " name="binomial"/>
+  <result pre=" " exact=" Tanytarsus mcmillani " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Tanytarsus mcmillani" post=" Freeman, 1958 " name="binomial"/>
+  <result pre=" " exact=" Tanytarsus trifidus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Tanytarsus trifidus" post=" Freeman, 1958 " name="binomial"/>
+  <result pre=" " exact=" Virgatanytarsus nigricornis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Virgatanytarsus nigricornis" post=" (Goetghebuer, 1935) " name="binomial"/>
+  <result pre=" " exact=" Corethrella buettikeri " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Corethrella buettikeri" post=" Cranston, 1980 " name="binomial"/>
+  <result pre=" " exact=" Anopheles multicolor " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Anopheles multicolor" post=" Cambouliu, 1902 " name="binomial"/>
+  <result pre=" " exact=" Anopheles sergentii " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Anopheles sergentii" post=" (Theobald, 1907) " name="binomial"/>
+  <result pre=" " exact=" Aedes caspius " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Aedes caspius" post=" (Pallas, 1771) " name="binomial"/>
+  <result pre=" " exact=" Aedes vittatus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Aedes vittatus" post=" (Bigot, 1861) " name="binomial"/>
+  <result pre=" " exact=" Culex pipiens " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Culex pipiens" post=" Linnaeus, 1758 " name="binomial"/>
+  <result pre=" " exact=" Simulium nili " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Simulium nili" post=" Gibbins, 1934 " name="binomial"/>
+  <result pre=" " exact=" Lamyra vorax " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Lamyra vorax" post=" Loew, 1858 " name="binomial"/>
+  <result pre=" " exact=" Anastoechus trisignatus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Anastoechus trisignatus" post=" (Portschinsky, 1881) " name="binomial"/>
+  <result pre=" " exact=" Bombylius pallidipilus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Bombylius pallidipilus" post=" Greathead, 1967 " name="binomial"/>
+  <result pre=" " exact=" Anthrax alruqibi " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Anthrax alruqibi" post=" El-Hawagrysp. n. " name="binomial"/>
+  <result pre=" " exact=" Anthrax chionanthrax " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Anthrax chionanthrax" post=" (Bezzi, 1926) [A new record in Saudi Arabia] " name="binomial"/>
+  <result pre=" " exact=" Anthrax ricardoae " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Anthrax ricardoae" post=" Greathead, 2003 " name="binomial"/>
+  <result pre=" " exact=" Anthrax sticticus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Anthrax sticticus" post=" Klug, 1832 " name="binomial"/>
+  <result pre=" " exact=" Spogostylum dagomba " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Spogostylum dagomba" post=" (Bowden, 1964) " name="binomial"/>
+  <result pre=" " exact=" Spogostylum ocyale " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Spogostylum ocyale" post=" (Wiedemann, 1828) " name="binomial"/>
+  <result pre=" " exact=" Spogostylum niphas " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Spogostylum niphas" post=" Hermann, 1907 " name="binomial"/>
+  <result pre=" " exact=" Cononedys dichromatopa " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Cononedys dichromatopa" post=" (Bezzi, 1925) [A new record in Saudi Arabia] " name="binomial"/>
+  <result pre=" " exact=" Cononedys inornata " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Cononedys inornata" post=" (Greathead, 1967) " name="binomial"/>
+  <result pre=" " exact=" Exoprosopa efflatouni " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Exoprosopa efflatouni" post=" Bezzi, 1925 " name="binomial"/>
+  <result pre=" " exact=" Exoprosopa eritreae " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Exoprosopa eritreae" post=" Greathead, 1967 " name="binomial"/>
+  <result pre=" " exact=" Exoprosopa pharaonis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Exoprosopa pharaonis" post=" Paramonov, 1928 " name="binomial"/>
+  <result pre=" " exact=" Exoprosopa pusilla " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Exoprosopa pusilla" post=" Macquart, 1840 " name="binomial"/>
+  <result pre=" " exact=" Litorhina metapleuralis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Litorhina metapleuralis" post=" Bezzi, 1924 " name="binomial"/>
+  <result pre=" " exact=" Ligyra astarte " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Ligyra astarte" post=" Greathead, 1980 " name="binomial"/>
+  <result pre=" " exact=" Ligyra monacha " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Ligyra monacha" post=" (Klug, 1832) " name="binomial"/>
+  <result pre=" " exact=" Ligyra virgo " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Ligyra virgo" post=" (Bezzi, 1924) " name="binomial"/>
+  <result pre=" " exact=" Micomitra chrystallina " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Micomitra chrystallina" post=" Bezzi, 1924 " name="binomial"/>
+  <result pre=" " exact=" Pachyanthrax circe " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Pachyanthrax circe" post=" (Klug, 1832) " name="binomial"/>
+  <result pre=" " exact=" Pterobates chalybaea " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Pterobates chalybaea" post=" (Röder, 1887) " name="binomial"/>
+  <result pre=" " exact=" Caecanthrax arabica " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Caecanthrax arabica" post=" (Macquart, 1840) " name="binomial"/>
+  <result pre=" " exact=" Exhyalanthrax afer " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Exhyalanthrax afer" post=" (Fabricius, 1794) " name="binomial"/>
+  <result pre=" " exact=" Exhyalanthrax beckerianus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Exhyalanthrax beckerianus" post=" (Bezzi, 1924) " name="binomial"/>
+  <result pre=" " exact=" Exhyalanthrax triangularis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Exhyalanthrax triangularis" post=" Bezzi, 1924 " name="binomial"/>
+  <result pre=" " exact=" Villa cana " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Villa cana" post=" (Meigen, 1804) " name="binomial"/>
+  <result pre=" " exact=" Villa paniscoides " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Villa paniscoides" post=" Bezzi, 1912 " name="binomial"/>
+  <result pre=" " exact=" Petrorossia letho " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Petrorossia letho" post=" (Wiedemann, 1828) " name="binomial"/>
+  <result pre=" " exact=" Petrorossia tropicalis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Petrorossia tropicalis" post=" Bezzi, 1921 " name="binomial"/>
+  <result pre=" " exact=" Xeramoeba semirufa " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Xeramoeba semirufa" post=" (Sack, 1909) " name="binomial"/>
+  <result pre="This species resembles " exact="Anthrax tureus" xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Anthrax tureus" post=" Greathead, 1980 in size, vestiture, and venation. However, it differs in having faint brownish spo" name="binomial"/>
+  <result pre=" " exact="Holotype male" xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Holotype male" post=". Dull black medium sized species. Body length: 8 mm. Wing length: 9 mm. " name="binomial"/>
+  <result pre="ceps-like process slightly inclined dorsally and continued with a long flange directed ventrally. " exact="Patatype female" xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Patatype female" post=" . Similar to holotype male; spermatheca ( Fig. 4) weakly sclerotized, with globular " name="binomial"/>
+  <result pre="Wing of " exact=" Anthrax alruqibi " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Anthrax alruqibi" post=" El-Hawagrysp. n. " name="binomial"/>
+  <result pre="Male genitalia of " exact=" Anthrax alruqibi " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Anthrax alruqibi" post=" El-Hawagrysp. n. " name="binomial"/>
+  <result pre="Spermatheca of female " exact=" Anthrax alruqibi " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Anthrax alruqibi" post=" El-Hawagrysp. n. " name="binomial"/>
+  <result pre=" " exact=" Tabanus mordax " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Tabanus mordax" post=" Austen, 1911 " name="binomial"/>
+  <result pre=" " exact=" Haematopota coronata " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Haematopota coronata" post=" Austen, 1908 " name="binomial"/>
+  <result pre=" " exact=" Eristalis taeniops " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Eristalis taeniops" post=" Wiedemann, 1818 " name="binomial"/>
+  <result pre=" " exact=" Eupeodes corollae " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Eupeodes corollae" post=" (Fabricius, 1794) " name="binomial"/>
+  <result pre=" " exact=" Polyodaspis robusta " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Polyodaspis robusta" post=" (Lamb, 1918) " name="binomial"/>
+  <result pre=" " exact=" Lagaroceras sequens " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Lagaroceras sequens" post=" Becker, 1910 " name="binomial"/>
+  <result pre=" " exact=" Diopsis apicalis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Diopsis apicalis" post=" Dalman, 1817 " name="binomial"/>
+  <result pre=" " exact=" Sphyracephala beccarii " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Sphyracephala beccarii" post=" (Rondani, 1873) " name="binomial"/>
+  <result pre=" " exact=" Drosophila melanogaster " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Drosophila melanogaster" post=" Meigen, 1830 " name="binomial"/>
+  <result pre=" " exact=" Desmometopa varipalpis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Desmometopa varipalpis" post=" Malloch, 1927 " name="binomial"/>
+  <result pre=" " exact=" Dacus frontalis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Dacus frontalis" post=" Becker, 1922 " name="binomial"/>
+  <result pre=" " exact=" Dacus vertebratus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Dacus vertebratus" post=" Bezzi, 1908 " name="binomial"/>
+  <result pre=" " exact=" Bactrocera zonata " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Bactrocera zonata" post=" (Saunders, 1842) " name="binomial"/>
+  <result pre=" " exact=" Ensina sonchi " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Ensina sonchi" post=" (Linnaeus, 1764) Host plant: Asteraceae " name="binomial"/>
+  <result pre=" " exact=" Capitites augur " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Capitites augur" post=" (Frauenfeld, 1857) Host plant: Pulicaria Arabica " name="binomial"/>
+  <result pre=" " exact=" Anthomyia benguellae " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Anthomyia benguellae" post=" Malloch, 1924 " name="binomial"/>
+  <result pre=" " exact=" Calliphora vicina " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Calliphora vicina" post=" (Robineau-Desvoidy, 1830) " name="binomial"/>
+  <result pre=" " exact=" Chrysomya albiceps " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Chrysomya albiceps" post=" (Wiedemann, 1819) " name="binomial"/>
+  <result pre=" " exact=" Chrysomya regalis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Chrysomya regalis" post=" Robineau-Desvoidy, 1830 " name="binomial"/>
+  <result pre=" " exact=" Lucilia sericata " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Lucilia sericata" post=" (Meigen, 1826) " name="binomial"/>
+  <result pre=" " exact=" Pollenia hungarica " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Pollenia hungarica" post=" Rognes, 1987 " name="binomial"/>
+  <result pre=" " exact=" Cosmina viridia " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Cosmina viridia" post=" Townsend, 1917 " name="binomial"/>
+  <result pre=" " exact=" Hippobosca camelina " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Hippobosca camelina" post=" Leach, 1817 " name="binomial"/>
+  <result pre=" " exact=" Hippobosca equina " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Hippobosca equina" post=" Linnaeus, 1758 [? A new record in Saudi Arabia] " name="binomial"/>
+  <result pre=" " exact=" Hippobosca longipennis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Hippobosca longipennis" post=" Fabricius, 1805 " name="binomial"/>
+  <result pre=" " exact=" Hippobosca variegata " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Hippobosca variegata" post=" Megerle, 1803 " name="binomial"/>
+  <result pre=" " exact=" Melophagus ovinus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Melophagus ovinus" post=" (Linnaeus, 1758) " name="binomial"/>
+  <result pre=" " exact=" Atherigona humeralis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Atherigona humeralis" post=" Wiedemann, 1830 " name="binomial"/>
+  <result pre=" " exact=" Musca albina " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Musca albina" post=" Wiedemann, 1830 " name="binomial"/>
+  <result pre=" " exact=" Musca lucidula " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Musca lucidula" post=" (Loew, 1856) " name="binomial"/>
+  <result pre=" " exact=" Helina coniformis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Helina coniformis" post=" (Stein in Becker, 1903) " name="binomial"/>
+  <result pre=" " exact=" Helina lucida " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Helina lucida" post=" (Stein, 1913) " name="binomial"/>
+  <result pre=" " exact=" Lispe nivalis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Lispe nivalis" post=" Wiedemann, 1830 " name="binomial"/>
+  <result pre=" " exact=" Coenosia humilis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Coenosia humilis" post=" Meigen, 1826 " name="binomial"/>
+  <result pre=" " exact=" Oestrus ovis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Oestrus ovis" post=" (Linnaeus, 1958) " name="binomial"/>
+  <result pre=" " exact=" Przhevalskiana silenus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Przhevalskiana silenus" post=" Brauer, 1858 " name="binomial"/>
+  <result pre=" " exact=" Engelisca adhamae " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Engelisca adhamae" post=" Lehrer and Abou-Zied, 2008 " name="binomial"/>
+  <result pre=" " exact=" Liosarcophaga babiyari " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Liosarcophaga babiyari" post=" (Lehrer, 1995) " name="binomial"/>
+  <result pre=" " exact=" Sarcophaga dux " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Sarcophaga dux" post=" Thompson, 1869 " name="binomial"/>
+  <result pre=" " exact=" Exorista sp " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Exorista sp" post=". " name="binomial"/>
+  <result pre=" " exact=" Otitesella rotunda " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Otitesella rotunda" post=" van Noort, 1997 " name="binomial"/>
+  <result pre=" " exact=" Apis florae " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Apis florae" post=" Fabricius, 1787 " name="binomial"/>
+  <result pre=" " exact=" Apis mellifera " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Apis mellifera" post=" Linnaeus, 1758 " name="binomial"/>
+  <result pre=" " exact=" Melecta sinaitica " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Melecta sinaitica" post=" (Alfken, 1937) " name="binomial"/>
+  <result pre=" " exact=" Xylocopa aestuans " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Xylocopa aestuans" post=" (Linnaeus, 1758) " name="binomial"/>
+  <result pre=" " exact=" Iphiaulax agnathus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Iphiaulax agnathus" post=" Kohl, 1906 " name="binomial"/>
+  <result pre=" " exact=" Bembix oculata " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Bembix oculata" post=" Panzer, 1801 " name="binomial"/>
+  <result pre=" " exact=" Dasyproctus arabs " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Dasyproctus arabs" post=" Kohl, 1894 " name="binomial"/>
+  <result pre=" " exact=" Cerceris albicincta " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Cerceris albicincta" post=" Klug, 1845 " name="binomial"/>
+  <result pre=" " exact=" Cerceris alboatra " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Cerceris alboatra" post=" Walker, 1871 " name="binomial"/>
+  <result pre=" " exact=" Cerceris sabulosa " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Cerceris sabulosa" post=" Panzer, 1799 " name="binomial"/>
+  <result pre=" " exact=" Philanthus triangulum " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Philanthus triangulum" post=" Fabricius, 1775 " name="binomial"/>
+  <result pre=" " exact=" Eumenes dimidiatipennis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Eumenes dimidiatipennis" post=" Saussure, 1852 " name="binomial"/>
+  <result pre=" " exact=" Aenictus arabicus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Aenictus arabicus" post=" Sharaf &amp;amp;amp; Aldawood, 2012-12-23 " name="binomial"/>
+  <result pre=" " exact=" Tapinoma wilsoni " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Tapinoma wilsoni" post=" Sharaf &amp;amp;amp; Aldawood, 2012 " name="binomial"/>
+  <result pre=" " exact=" Technomyrmex briani " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Technomyrmex briani" post=" Sharaf, 2009 " name="binomial"/>
+  <result pre=" " exact=" Technomyrmex setosus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Technomyrmex setosus" post=" Collingwood, 1985 " name="binomial"/>
+  <result pre=" " exact=" Anoplolepis longitarsus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Anoplolepis longitarsus" post=" Collingwood &amp;amp;amp; Agosti, 1996 " name="binomial"/>
+  <result pre=" " exact=" Camponotus aegyptiacus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Camponotus aegyptiacus" post=" Emery, 1915 " name="binomial"/>
+  <result pre=" " exact=" Camponotus iglii " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Camponotus iglii" post=" Forel, 1894 " name="binomial"/>
+  <result pre=" " exact=" Camponotus sericeus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Camponotus sericeus" post=" Fabricius, 1798 " name="binomial"/>
+  <result pre=" " exact=" Camponotus flavomarginatus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Camponotus flavomarginatus" post=" Mayr, 1862 " name="binomial"/>
+  <result pre=" " exact=" Camponotus xerxes " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Camponotus xerxes" post=" Forel, 1904 " name="binomial"/>
+  <result pre=" " exact=" Cataglyphis albicans " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Cataglyphis albicans" post=" (Roger, 1859) " name="binomial"/>
+  <result pre=" " exact=" Cataglyphis desertorum " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Cataglyphis desertorum" post=" (Forel, 1894) " name="binomial"/>
+  <result pre=" " exact=" Cataglyphis emmae " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Cataglyphis emmae" post=" (Forel, 1909) " name="binomial"/>
+  <result pre=" " exact=" Cataglyphis holgerseni " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Cataglyphis holgerseni" post=" Collingwood &amp;amp;amp; Agosti, 1996 " name="binomial"/>
+  <result pre=" " exact=" Cataglyphis niger " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Cataglyphis niger" post=" (Andre, 1882) " name="binomial"/>
+  <result pre=" " exact=" Cataglyphis semitonsa " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Cataglyphis semitonsa" post=" Santschi, 1926 " name="binomial"/>
+  <result pre=" " exact=" Savignyi savignyi " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Savignyi savignyi" post=" (Dufour, 1862) " name="binomial"/>
+  <result pre=" " exact=" Lepisiota canescens " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Lepisiota canescens" post=" Emery, 1897 " name="binomial"/>
+  <result pre=" " exact=" Lepisiota obtusa " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Lepisiota obtusa" post=" (Emery, 1901) " name="binomial"/>
+  <result pre=" " exact=" Lepisiota opaciventris " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Lepisiota opaciventris" post=" (Finzi, 1936) " name="binomial"/>
+  <result pre=" " exact=" Paratrechina longicornis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Paratrechina longicornis" post=" (Latreille, 1802) " name="binomial"/>
+  <result pre=" " exact=" Carebara abuhurayri " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Carebara abuhurayri" post=" Sharaf &amp;amp;amp; Aldawood, 2011 " name="binomial"/>
+  <result pre=" " exact=" Crematogaster affabilis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Crematogaster affabilis" post=" Forel, 1907 " name="binomial"/>
+  <result pre=" " exact=" Leptothorax angulatus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Leptothorax angulatus" post=" Mayr, 1862 " name="binomial"/>
+  <result pre=" " exact=" Messor ebininus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Messor ebininus" post=" Santschi, 1927 " name="binomial"/>
+  <result pre=" " exact=" Monomorium destructor " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Monomorium destructor" post=" (Jerdon, 1851) " name="binomial"/>
+  <result pre=" " exact=" Monomorium dryhimi " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Monomorium dryhimi" post=" Aldawood &amp;amp;amp; Sharaf, 2011 " name="binomial"/>
+  <result pre=" " exact=" Monomorium mayri " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Monomorium mayri" post=" Forel, 1902 " name="binomial"/>
+  <result pre=" " exact=" Monomorium salomonis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Monomorium salomonis" post=" (Linnaeus, 1758) " name="binomial"/>
+  <result pre=" " exact=" Monomorium sarawatensis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Monomorium sarawatensis" post=" Sharaf &amp;amp;amp; Aldawood sp. n. " name="binomial"/>
+  <result pre=" " exact=" Nesomyrmex angulatus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Nesomyrmex angulatus" post=" Mayr, 1862 " name="binomial"/>
+  <result pre=" " exact=" Pheidole megacephala " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Pheidole megacephala" post=" (Fabricius, 1793) " name="binomial"/>
+  <result pre=" " exact=" Solenopsis elhawagryi " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Solenopsis elhawagryi" post=" Sharaf &amp;amp;amp; Aldawood, 2012 " name="binomial"/>
+  <result pre=" " exact=" Tetramorium amalae " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Tetramorium amalae" post=" Sharaf &amp;amp;amp; Aldawood, 2011 " name="binomial"/>
+  <result pre=" " exact=" Tetramorium caldarium " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Tetramorium caldarium" post=" Roger, 1857 " name="binomial"/>
+  <result pre=" " exact=" Tetramorium sericeiventre " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Tetramorium sericeiventre" post=" Emery, 1877 " name="binomial"/>
+  <result pre=" " exact=" Tetramorium latinode " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Tetramorium latinode" post=" Collingwood &amp;amp;amp; Agosti, 1996 " name="binomial"/>
+  <result pre=" " exact=" Tetramorium caldarium " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Tetramorium caldarium" post=" (Roger, 1857) " name="binomial"/>
+  <result pre=" " exact=" Tetramorium depressiceps " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Tetramorium depressiceps" post=" Menozzi, 1933 " name="binomial"/>
+  <result pre=" " exact=" Anochetus traegaordhi " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Anochetus traegaordhi" post=" Mayr, 1904 " name="binomial"/>
+  <result pre=" " exact=" Tetraponera bifoveolata " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Tetraponera bifoveolata" post=" Mayr, 1895 " name="binomial"/>
+  <result pre="This new species is a member of the " exact=" Monomorium monomorium " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Monomorium monomorium" post="-group as defined by Bolton (1987), but it does not fit any of the Monomorium species in B" name="binomial"/>
+  <result pre="l species or the key to the Arabian species given by Collingwood and Agosti (1996). " exact=" Monomorium sarawatensis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Monomorium sarawatensis" post=" superficially seems to be similar to Monomorium affabile Santschi and Monomorium mala" name="binomial"/>
+  <result pre="llingwood and Agosti (1996). Monomorium sarawatensis superficially seems to be similar to " exact=" Monomorium affabile " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Monomorium affabile" post=" Santschi and Monomorium malatu Bolton described from Zaire. The three species share the f" name="binomial"/>
+  <result pre="m sarawatensis superficially seems to be similar to Monomorium affabile Santschi and " exact=" Monomorium malatu " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Monomorium malatu" post=" Bolton described from Zaire. The three species share the following characters: dorsum and sides of" name="binomial"/>
+  <result pre="The type locality is a farm planted with " exact=" Annona squamosa " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Annona squamosa" post=" L. ( Annonaceae), Prunus persica (L.), Prunus Amigdalus (Mill.) ( Rosaceae), " name="binomial"/>
+  <result pre="The type locality is a farm planted with Annona squamosa L. ( Annonaceae), " exact=" Prunus persica " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Prunus persica" post=" (L.), Prunus Amigdalus (Mill.) ( Rosaceae), Psidium guajava L. (Family: Myrtacea" name="binomial"/>
+  <result pre="/i&gt; L. ( Annonaceae), Prunus persica (L.), Prunus Amigdalus (Mill.) ( Rosaceae), " exact=" Psidium guajava " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Psidium guajava" post=" L. (Family: Myrtaceae), Zea mays ssp. mays L. (Family: Poaceae), in addition to ba" name="binomial"/>
+  <result pre="ceae), in addition to banana, and mango. The new species was found nesting inside a woody fruit of " exact=" Annona squamosa " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Annona squamosa" post=". No males or queens were seen. " name="binomial"/>
+  <result pre=" " exact="Holotype worker" xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Holotype worker" post=". Head distinctly longer than broad, with a nearly straight posterior margin and shallowly convex " name="binomial"/>
+  <result pre=" " exact="Holotype worker" xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Holotype worker" post=", Aqabet Al-Baha-Tihama, Al-Baha Province, Saudi Arabia ( 20.00000°N, 41.43758°E, 1300 m.a.s.l.), 1" name="binomial"/>
+  <result pre="SEM of " exact=" Monomorium sarawatensis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Monomorium sarawatensis" post=" sp.n., paratype worker, head in full-face view. " name="binomial"/>
+  <result pre="SEM of " exact=" Monomorium sarawatensis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Monomorium sarawatensis" post=" sp.n., paratype worker 7 body in profile, 8 head in profile. " name="binomial"/>
+  <result pre="SEM of " exact=" Monomorium sarawatensis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Monomorium sarawatensis" post=" sp.n., paratype worker 9 mesosoma in profile 10 propodeal spiracle. " name="binomial"/>
+  <result pre="SEM of " exact=" Monomorium sarawatensis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Monomorium sarawatensis" post=" sp. n., paratype worker 11 clubbed hairs 12 petiole and postpetiole. " name="binomial"/>
+  <result pre="Automontage of " exact=" Monomorium sarawatensis " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Monomorium sarawatensis" post=" sp.n., paratype worker 13 body in profile 14 body in dorsal view 15 head in full-face view. " name="binomial"/>
+  <result pre=" " exact=" Cyphononyx bretonii " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Cyphononyx bretonii" post=" (Guérin, 1843) " name="binomial"/>
+  <result pre=" " exact=" Micromeriella hyalina " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Micromeriella hyalina" post=" (Klug, 1832) " name="binomial"/>
+  <result pre=" " exact=" Campsomeriella collaris " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Campsomeriella collaris" post=" (Fabricious, 1775) " name="binomial"/>
+  <result pre=" " exact=" Campsomeriella thoracica " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Campsomeriella thoracica" post=" (Fabricius, 1787) " name="binomial"/>
+  <result pre=" " exact=" Ammophila arabica " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Ammophila arabica" post=" Kirby, 1900 " name="binomial"/>
+  <result pre=" " exact=" Ammophila erminea " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Ammophila erminea" post=" Kohl, 1901 " name="binomial"/>
+  <result pre=" " exact=" Podalonia tydei " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Podalonia tydei" post=" (Le Guillou, 1841) " name="binomial"/>
+  <result pre=" " exact=" Sphex fumicatus " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Sphex fumicatus" post=" Christ, 1791 " name="binomial"/>
+  <result pre=" " exact=" Delta dimidiatipenne " xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[46]" match="Delta dimidiatipenne" post=" (de Saussure, 1852) " name="binomial"/>
+  <result pre=" " exact=" Vespa orientalis " match="Vespa orientalis" post=" Linnaeus, 1771 " name="binomial"/>
+ </snippets>
+</snippetsTree>

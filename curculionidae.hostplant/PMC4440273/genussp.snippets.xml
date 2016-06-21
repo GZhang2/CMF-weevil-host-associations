@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="curculionidae.hostplant/PMC4440273/results/species/genussp/results.xml">
+  <result pre=" host restriction to Saxifragaceae and Celastraceae ( Saxifraga spp. – subgenus Kessleria ; " exact=" Saxifraga spp" xpath="/html[1]/body[1]/div[2]/div[5]/p[3]" match="Saxifraga spp" post=". and Parnassia spp. – subgenus Hofmannia ), is revised based on external morphology, genitalia " name="genussp"/>
+  <result pre=" href=&quot;#F6&quot;&gt;22– 26). Larval host-plants, as far as known, belong to the small-leaved " exact=" Saxifraga spp" xpath="/html[1]/body[1]/div[2]/div[5]/p[3]" match="Saxifraga spp" post="., particularly the Saxifraga oppositifolia -complex, and to broad-leaved congeners such " name="genussp"/>
+  <result pre="href=&quot;#F16&quot;&gt;59– 66). Larval host-plants, as far as is known, belong to broad-leaved " exact=" Saxifraga spp" xpath="/html[1]/body[1]/div[2]/div[5]/p[3]" match="Saxifraga spp" post="., e.g. Saxifraga paniculata and Saxifraga incrustata . Five species are known" name="genussp"/>
+  <result pre="rva lives in the shoots and as a leaf-miner in basal leaves of Saxifraga paniculata and " exact=" Saxifraga sp" xpath="/html[1]/body[1]/div[2]/div[5]/p[3]" match="Saxifraga sp" post=". Mined leaves are partially spun together and covered with a fine silken web. The adults have been" name="genussp"/>
+  <result pre="16 out of about 450 worldwide known species of Saxifraga (139 endemic) and 63 out of 70 " exact=" Parnassia spp" xpath="/html[1]/body[1]/div[2]/div[5]/p[3]" match="Parnassia spp" post=". (49 endemic) ( Jintang et al. 2001). " name="genussp"/>
+  <result pre="bescens -group is widely distributed in the Alps and other European mountain systems, but the " exact=" Kessleria spp" match="Kessleria spp" post=". are allopatrically distributed in a small section of the southern Alps. Summing up, further in-de" name="genussp"/>
+ </snippets>
+</snippetsTree>

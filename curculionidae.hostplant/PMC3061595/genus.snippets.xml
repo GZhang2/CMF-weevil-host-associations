@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="curculionidae.hostplant/PMC3061595/results/species/genus/results.xml">
+  <result pre="a href=&quot;#bibr09&quot;&gt;Bronstein 1994). For example, several Homoptera have a mutualistic symbiosis with " exact="Buchnera" xpath="/html[1]/body[1]/div[2]/div[4]/p[2]" match="Buchnera" post=" bacteria located in specific tissue near the gut, the so-called mycetomes. These mycetome bacteria" name="genus"/>
+  <result pre="1989; Baumann et al. 1995). An example of parasitic symbiosis is the presence of " exact="Wolbachia" xpath="/html[1]/body[1]/div[2]/div[4]/p[2]" match="Wolbachia" post=" bacteria in the reproductive tissue of many different arthropods. These bacteria interfere with ho" name="genus"/>
+  <result pre="2001a). F. occidentalis were found to contain a single species of gut bacteria of the genus " exact="Erwinia" xpath="/html[1]/body[1]/div[2]/div[4]/p[2]" match="Erwinia" post=" (Enterobacteriaceae), possibly Pantoea agglomerans, which can also grow outside the insect " name="genus"/>
+  <result pre="of whether they could be grown on bacterial medium ( De Vries et al. 2001a). The " exact="Erwinia" xpath="/html[1]/body[1]/div[2]/div[4]/p[2]" match="Erwinia" post=" bacteria present in the thrips' gut are transmitted to progeny via the leaves that both adults and" name="genus"/>
+  <result pre="The microbiology of Thysanoptera is not widely studied. Apart from the " exact="Erwinia" xpath="/html[1]/body[1]/div[2]/div[4]/p[2]" match="Erwinia" post=" bacterial symbionts in F. occidentalis, the presence of Pantoea ananatis in the guts" name="genus"/>
+  <result pre="out of five T. tabaci populations were similar to each other and also belonged to the genus " exact="Erwinia" xpath="/html[1]/body[1]/div[2]/div[4]/p[2]" match="Erwinia" post=" (TT-JArr, TT-GR1, TT-NL1, and TT-NL2). They were tentatively named Pantoea agglomerans: the" name="genus"/>
+  <result pre="asca ( Wells et al. 2002), suggest that gut bacteria may be widespread among " exact="Thrips" xpath="/html[1]/body[1]/div[2]/div[4]/p[2]" match="Thrips" post=" and Frankliniella species. " name="genus"/>
+  <result pre=" De Vries et al. 2001b). Nault et al. ( 2006) tried to isolate " exact="Wolbachia" match="Wolbachia" post=" bacteria from T. tabaci but did not find these endosymionts in this thrips species. " name="genus"/>
+ </snippets>
+</snippetsTree>

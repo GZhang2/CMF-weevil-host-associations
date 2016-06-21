@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="curculionidae.hostplant/PMC4328149/results/species/genussp/results.xml">
+  <result pre="&gt; (Walker) plus three species of Pteromalidae (Chalcidoidea), Trichomalus lucidus (Walker), " exact="Chlorocytus sp" xpath="/html[1]/body[1]/div[2]/div[3]/div[18]/div[6]/p[1]" match="Chlorocytus sp" post="., and Pteromalus sp. (Dosdall et al., 2009; Haye et al., &lt;a hr" name="genussp"/>
+  <result pre="s of Pteromalidae (Chalcidoidea), Trichomalus lucidus (Walker), Chlorocytus sp., and " exact="Pteromalus sp" xpath="/html[1]/body[1]/div[2]/div[3]/div[18]/div[6]/p[1]" match="Pteromalus sp" post=". (Dosdall et al., 2009; Haye et al., 2013). Within Nor" name="genussp"/>
+  <result pre=" Tuta absoluta on Solanum lycopersicum L., and Ap. anthyllidella on " exact="Astragalus spp" xpath="/html[1]/body[1]/div[2]/div[3]/div[18]/div[6]/p[1]" match="Astragalus spp" post=". (Fabaceae) based on sequenced specimens. Some specimens came from lab culture on T. absoluta&lt;/" name="genussp"/>
+  <result pre="Salix repens L., and Mompha miscella (Denis &amp;amp;amp; Schiffermüller) (Momphidae) on " exact="Helianthemum sp" xpath="/html[1]/body[1]/div[2]/div[3]/div[18]/div[6]/p[1]" match="Helianthemum sp" post=". (Cistaceae). " name="genussp"/>
+  <result pre=" lycopersicum, based on sequenced specimens. No native host is known. The records published as " exact="Necremnus sp" xpath="/html[1]/body[1]/div[2]/div[3]/div[18]/div[6]/p[1]" match="Necremnus sp" post=". nr artynes, and most of the records published as N. artynes in previous surveys of " name="genussp"/>
+  <result pre=" " exact="Ceutorhynchus sp" xpath="/html[1]/body[1]/div[2]/div[3]/div[18]/div[6]/p[1]" match="Ceutorhynchus sp" post=". (Gomez &amp;amp;amp; Zamora, 1994) on Hormathophylla spinosa (L.) (Brassicaceae" name="genussp"/>
+  <result pre=" Additional material (2♀): ENGLAND: Little Cheyne, Kent, 1975, ex. " exact="Ceutorhynchus sp" xpath="/html[1]/body[1]/div[2]/div[3]/div[18]/div[6]/p[1]" match="Ceutorhynchus sp" post=". in B. napus pods, leg. J. Dale (1♀, coll. R. R. Askew). SPAIN: Cabrils, Barcelona, 31.iii." name="genussp"/>
+  <result pre=" Ceutorhynchus typhae (=  C. floralis) (Herbst) on Cap. bursa-pastoris, " exact="Ceutorhynchus sp" match="Ceutorhynchus sp" post=". on rape ( B. napus) and probably some weevils associated with turnip ( Brassica rapa&lt;/i" name="genussp"/>
+ </snippets>
+</snippetsTree>

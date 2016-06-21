@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="curculionidae.hostplant/PMC3127418/results/species/genussp/results.xml">
+  <result pre="e survival of larval N. cervinus was estimated on common groundcover species of kiwifruit ( " exact="Actinidia spp" xpath="/html[1]/body[1]/div[2]/div[4]/p[3]" match="Actinidia spp" post=".) in the Bay of Plenty, the main region in New Zealand where kiwifruit is grown. The botanical com" name="genussp"/>
+  <result pre="loam soil and sown with a commercial lawn seed mix (80% L perenne, 20% T. repens and " exact="Festuca spp" xpath="/html[1]/body[1]/div[2]/div[4]/p[3]" match="Festuca spp" post=".). After inoculation with larvae, all pots in experiments 1 and 2 were kept on a bench in a glassh" name="genussp"/>
+  <result pre=" in field beans. No carabids were observed in soil in pots. The ants, Pheidole rugulosa and " exact="Paratrechina sp" xpath="/html[1]/body[1]/div[2]/div[4]/p[3]" match="Paratrechina sp" post=". established nests in 10% of pots in experiment 4 and the adventive predatory staphylinid Thyre" name="genussp"/>
+  <result pre="a sp. established nests in 10% of pots in experiment 4 and the adventive predatory staphylinid " exact="Thyreocephalus sp" match="Thyreocephalus sp" post=". was also observed in field plots and some pots. The latter may have been responsible for some lar" name="genussp"/>
+ </snippets>
+</snippetsTree>

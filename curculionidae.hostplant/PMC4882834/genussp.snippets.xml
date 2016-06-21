@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="curculionidae.hostplant/PMC4882834/results/species/genussp/results.xml">
+  <result pre="a: Lycaneidae), Ceutorhynchus neglectus (Coleoptera: Curculionidae), and five ant species ( " exact="Leptogenys sp" xpath="/html[1]/body[1]/div[2]/div[4]/p[3]" match="Leptogenys sp" post="., Leptomyrmex sp., Pheidole plagiara, P. planifrons, Technomyrmex albipes&lt;" name="genussp"/>
+  <result pre="orhynchus neglectus (Coleoptera: Curculionidae), and five ant species ( Leptogenys sp., " exact="Leptomyrmex sp" xpath="/html[1]/body[1]/div[2]/div[4]/p[3]" match="Leptomyrmex sp" post="., Pheidole plagiara, P. planifrons, Technomyrmex albipes). The ninth strain, " name="genussp"/>
+  <result pre=" = 565.16, P-value = 0; nt3: df = 91, LRT = 1833.43, P-value = 0) and RRT (outgroup: " exact="Ephestia sp" xpath="/html[1]/body[1]/div[2]/div[4]/p[3]" match="Ephestia sp" post="., nt12: 112/351, nt3: 140/428; outgroup: Acraea sp., nt12: 118/351, nt3: 272/428) rejected " name="genussp"/>
+  <result pre="P-value = 0) and RRT (outgroup: Ephestia sp., nt12: 112/351, nt3: 140/428; outgroup: " exact="Acraea sp" xpath="/html[1]/body[1]/div[2]/div[4]/p[3]" match="Acraea sp" post="., nt12: 118/351, nt3: 272/428) rejected a strict clock. In BEAST, all run pairs converged and the " name="genussp"/>
+  <result pre="ies of weevil from Canada ( Ceutorhynchus neglectus), three species of ants from Thailand ( " exact="Leptogenys sp" xpath="/html[1]/body[1]/div[2]/div[4]/p[3]" match="Leptogenys sp" post="., Pheidole planifrons, P. plagiara), one ant species from Australia ( Leptomyrmex" name="genussp"/>
+  <result pre="togenys sp., Pheidole planifrons, P. plagiara), one ant species from Australia ( " exact="Leptomyrmex sp" xpath="/html[1]/body[1]/div[2]/div[4]/p[3]" match="Leptomyrmex sp" post=".) and one butterfly from South Africa ( Ornipholidotos peucetia). " name="genussp"/>
+  <result pre="44 and 569 bp in length with 81–83 % similarity. We blasted those hits and found that they matched " exact="Enterobacter sp" xpath="/html[1]/body[1]/div[2]/div[4]/p[3]" match="Enterobacter sp" post=". with &amp;amp;gt; 97 % identity (Table 2). Table 2 " name="genussp"/>
+  <result pre="otos peucetia, and the pyralid moth, Ephestia kuehniella), Hymenoptera (the ant species " exact="Leptogenys sp" xpath="/html[1]/body[1]/div[2]/div[4]/p[3]" match="Leptogenys sp" post="., Leptomyrmex sp., Pheidole planifrons, P. plagiara, and Technomyrmex albi" name="genussp"/>
+  <result pre="the pyralid moth, Ephestia kuehniella), Hymenoptera (the ant species Leptogenys sp., " exact="Leptomyrmex sp" match="Leptomyrmex sp" post="., Pheidole planifrons, P. plagiara, and Technomyrmex albipes), and Coleoptera" name="genussp"/>
+ </snippets>
+</snippetsTree>

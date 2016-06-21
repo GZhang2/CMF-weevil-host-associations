@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="curculionidae.hostplant/PMC4046674/results/species/genus/results.xml">
+  <result pre="g to family Cerambycidae that feed exclusively on woody tissue. Specifically, beetles in the genus " exact="Anoplophora" xpath="/html[1]/body[1]/div[2]/div[1]/p[1]" match="Anoplophora" post=" are wood-boring insects of great interest because some of its members preferentially target health" name="genus"/>
+  <result pre="47 deciduous tree species worldwide, including several genera commonly planted as feedstock (e.g., " exact="Salix" match="Salix" post=" and Populus) [ 5]. Acer spp . (maples) are the predominant hos" name="genus"/>
+ </snippets>
+</snippetsTree>

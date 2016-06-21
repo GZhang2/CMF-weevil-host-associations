@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="curculionidae.hostplant/PMC3962004/results/species/genus/results.xml">
+  <result pre="nd to genetic differences among individual plants within interspecific hybridizing complexes (e.g. " exact="Eucalyptus" xpath="/html[1]/body[1]/div[2]/div[2]/div[3]/p[1]" match="Eucalyptus" post=" 3 , Salix 4 , Populus &lt;sup" name="genus"/>
+  <result pre="ithin interspecific hybridizing complexes (e.g. Eucalyptus 3 , " exact="Salix" xpath="/html[1]/body[1]/div[2]/div[2]/div[3]/p[1]" match="Salix" post=" 4 , Populus 5 , Quercus &lt;s" name="genus"/>
+  <result pre=". Eucalyptus 3 , Salix 4 , " exact="Populus" xpath="/html[1]/body[1]/div[2]/div[2]/div[3]/p[1]" match="Populus" post=" 5 , Quercus 6 ) or specific genot" name="genus"/>
+  <result pre="up&gt;, Salix 4 , Populus 5 , " exact="Quercus" xpath="/html[1]/body[1]/div[2]/div[2]/div[3]/p[1]" match="Quercus" post=" 6 ) or specific genotypes within species (e.g. Oenothera biennis&lt;/" name="genus"/>
+  <result pre="ptentrionalis larval colonies and the number of larvae in each colony were recorded along with " exact="Eriocrania" match="Eriocrania" post=" and D. betulae measurements in both years. The abundance of all other insects were determin" name="genus"/>
+ </snippets>
+</snippetsTree>

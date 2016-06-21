@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="curculionidae.hostplant/PMC4155730/results/species/genussp/results.xml">
+  <result pre="onnelli, 1979: 216. – Morimoto 1985: 316, pl. 62, fig. 15 (Honshu, Shikoku, Kyushu; " exact=" Rubus spp" xpath="/html[1]/body[1]/div[2]/div[3]/div[3]/div[6]/p[1]" match="Rubus spp" post=".); Morimoto 1989: 514 (in checklist; Honshu, Izu Islands, Shikoku, Kyushu). – &lt;a hr" name="genussp"/>
+  <result pre="eroides hypocritus : Morimoto 1984: 316, pl. 62, fig. 15 (Honshu, Shikoku, Kyushu; " exact=" Rubus spp" xpath="/html[1]/body[1]/div[2]/div[3]/div[3]/div[6]/p[1]" match="Rubus spp" post=".). " name="genussp"/>
+  <result pre="Habitus of " exact=" Scleropteroides spp" xpath="/html[1]/body[1]/div[2]/div[3]/div[3]/div[6]/p[1]" match="Scleropteroides spp" post="., males. 1–2 Scleropteroides hypocrita (Hustache) 3–4 Scleropteroides longiprocessus " name="genussp"/>
+  <result pre="Heads of " exact=" Scleropteroides spp" xpath="/html[1]/body[1]/div[2]/div[3]/div[3]/div[6]/p[1]" match="Scleropteroides spp" post=". 22–25 Scleropteroides hypocrita (Hustache) 26–29 Scleropteroides longiprocessus " name="genussp"/>
+  <result pre="Pronotum and right elytron of " exact=" Scleropteroides spp" xpath="/html[1]/body[1]/div[2]/div[3]/div[3]/div[6]/p[1]" match="Scleropteroides spp" post="., male. 34–35 Scleropteroides hypocrita (Hustache) 36–37 Scleropteroides longiprocess" name="genussp"/>
+  <result pre=" 1 female, 770 m, 3-VI-2005, H. Hirano (NIAES); 6 males and 8 females, 3-VI-2005, H. Yoshitake, on " exact="Rubus sp" match="Rubus sp" post=". (NIAES). IBARAKI. 3 males and 7 females, Mt. Yamizosan, Shimokitazawa, 28-V-1988, Y. Kurosawa (SM" name="genussp"/>
+ </snippets>
+</snippetsTree>

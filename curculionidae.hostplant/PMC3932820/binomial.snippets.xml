@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="curculionidae.hostplant/PMC3932820/results/species/binomial/results.xml">
+  <result pre="The mountain pine beetle, " exact="Dendroctonus ponderosae" xpath="/html[1]/body[1]/div[2]/div[4]/p[7]" match="Dendroctonus ponderosae" post=", is a significant pest of lodgepole pine in British Columbia (BC), where it has recently reached a" name="binomial"/>
+  <result pre="The primary host of the mountain pine beetle, " exact="Dendroctonus ponderosae" xpath="/html[1]/body[1]/div[2]/div[4]/p[7]" match="Dendroctonus ponderosae" post=" Hopkins (Coleoptera: Curculionidae) in its native range in western Canada is lodgepole pine ( P" name="binomial"/>
+  <result pre=" Hopkins (Coleoptera: Curculionidae) in its native range in western Canada is lodgepole pine ( " exact="Pinus contorta" xpath="/html[1]/body[1]/div[2]/div[4]/p[7]" match="Pinus contorta" post=" Dougl. var. latifolia Engelm.), but the insect is also capable of utilizing other species o" name="binomial"/>
+  <result pre="Engelm.), but the insect is also capable of utilizing other species of pine, including jack pine ( " exact="P. banksiana" xpath="/html[1]/body[1]/div[2]/div[4]/p[7]" match="Pinus banksiana" post=" Lamb.) ( Furniss &amp;amp;amp; Schenk, 1969; Safranyik &amp;amp;amp; L" name="binomial"/>
+  <result pre=" enables an invading species to do well in a new environment. For instance, the emerald ash borer, " exact="Agrilus planipennis" xpath="/html[1]/body[1]/div[2]/div[4]/p[7]" match="Agrilus planipennis" post=" Fairmaire (Coleoptera: Buprestidae), an insect native to Asia where it is not considered a major p" name="binomial"/>
+  <result pre="-52&quot;&gt;Seybold, 1993). For example, a higher percentage of (–)- α-pinene in the host spruce [ " exact="Picea abies" xpath="/html[1]/body[1]/div[2]/div[4]/p[7]" match="Picea abies" post=" (L.) H. Karst.] was found to correlate with a higher percentage of cis-verbenol produced by" name="binomial"/>
+  <result pre="oxic effects of terpenes on mountain pine beetle are conducted using lodgepole or ponderosa pine ( " exact="Pinus ponderosa" xpath="/html[1]/body[1]/div[2]/div[4]/p[7]" match="Pinus ponderosa" post=" Dougl. ex Laws.) as model host species. The minimum levels of resin terpenes necessary to provide " name="binomial"/>
+  <result pre="le, despite what appears to be a preferable chemical environment in a novel host, whitebark pine ( " exact="Pinus albicaulis" match="Pinus albicaulis" post="), compared to lodgepole pine, Raffa, Powell &amp;amp;amp; Townsend (2013) found that" name="binomial"/>
+ </snippets>
+</snippetsTree>

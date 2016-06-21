@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="curculionidae.hostplant/PMC3429418/results/species/genus/results.xml">
+  <result pre="readth. Oak leaf-miners are oligophagous species that develop a narrow range of species within the " exact="Quercus" xpath="/html[1]/body[1]/div[2]/div[4]/p[3]" match="Quercus" post=" and the Castanea genera while all the ectophagous insects we observed in the field were pol" name="genus"/>
+  <result pre=" are oligophagous species that develop a narrow range of species within the Quercus and the " exact="Castanea" match="Castanea" post=" genera while all the ectophagous insects we observed in the field were polyphagous species able to" name="genus"/>
+ </snippets>
+</snippetsTree>

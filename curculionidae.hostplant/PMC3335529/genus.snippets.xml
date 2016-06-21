@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="curculionidae.hostplant/PMC3335529/results/species/genus/results.xml">
+  <result pre="Deuteromycetes fungi has a broad host range, and in particular " exact="Metarhizium" xpath="/html[1]/body[1]/div[2]/div[9]/p[2]" match="Metarhizium" post=" and Beauveria show particular promise as myco-biocontrol agents and are currently being use" name="genus"/>
+  <result pre="nd several genera of termites, American bollworm Helicoverpa armigera [ 15], " exact="Hyblaeapara" xpath="/html[1]/body[1]/div[2]/div[9]/p[2]" match="Hyblaeapara" post=" and Eutectona machaeralis. Furthermore, the high level of persistence in the host populatio" name="genus"/>
+  <result pre="Bombyx mori, Pseudoplusia includes, and Anticarsia gemmatalis. Another insect " exact="Spilosoma" xpath="/html[1]/body[1]/div[2]/div[9]/p[2]" match="Spilosoma" post=" was found to be severely attacked by Nomuraea rileyi, hence studied in detail for its myco-" name="genus"/>
+  <result pre=" " exact="Paecilomyces" xpath="/html[1]/body[1]/div[2]/div[9]/p[2]" match="Paecilomyces" post=" is a genus of nematophagous fungus which kills harmful nematodes by pathogenesis, causing disease " name="genus"/>
+  <result pre="e of plants [ 68]. EST (expressed sequence tag) analysis of entomopathogenic fungus " exact="Beauveria" match="Beauveria" post=" ( Cordyceps) bassiana has been studied using cDNA libraries [ 69]. ES" name="genus"/>
+ </snippets>
+</snippetsTree>

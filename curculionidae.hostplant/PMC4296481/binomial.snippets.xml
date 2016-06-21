@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="curculionidae.hostplant/PMC4296481/results/species/binomial/results.xml">
+  <result pre="A new weevil, " exact=" Pheude punctatus " xpath="/html[1]/body[1]/div[2]/div[3]/div[3]/div[6]/p[1]" match="Pheude punctatus" post=" gen. et sp. n., of the tribe Dryotribini in Cossoninae , is described from Guangdong Province, " name="binomial"/>
+  <result pre=" " exact=" Pheude punctatus " xpath="/html[1]/body[1]/div[2]/div[3]/div[3]/div[6]/p[1]" match="Pheude punctatus" post=" Omar &amp;amp;amp; Zhang, here designated. " name="binomial"/>
+  <result pre=" " exact="Thoracic sterna" xpath="/html[1]/body[1]/div[2]/div[3]/div[3]/div[6]/p[1]" match="Thoracic sterna" post=" punctured throughout, distance separating punctures ~1.0–2.0 × puncture diameter; mesoventrite rel" name="binomial"/>
+  <result pre=" " exact=" Pheude punctatus " xpath="/html[1]/body[1]/div[2]/div[3]/div[3]/div[6]/p[1]" match="Pheude punctatus" post=". 1 Female, dorsal view 2 Female, lateral view 3 Male, dorsal view 4 Male, lateral view. " name="binomial"/>
+  <result pre=" " exact=" Pheude punctatus " xpath="/html[1]/body[1]/div[2]/div[3]/div[3]/div[6]/p[1]" match="Pheude punctatus" post=". Male terminalia. 5–6 aedeagus, dorsal view 7 aedeagus, lateral view. 8 tegmen, ventral view 9 8 &lt;" name="binomial"/>
+  <result pre=" " exact=" Pheude punctatus " xpath="/html[1]/body[1]/div[2]/div[3]/div[3]/div[6]/p[1]" match="Pheude punctatus" post=". Female terminalia and associated tergites. 10 sternite 8 11 tergite 8 showing short simple setae " name="binomial"/>
+  <result pre=" " exact=" Pheude punctatus " xpath="/html[1]/body[1]/div[2]/div[3]/div[3]/div[6]/p[1]" match="Pheude punctatus" post=". 14 maxilla 15 labium 16 left mandible 17 right mandible 18 proventriculus 19 tergum: MS=median sc" name="binomial"/>
+  <result pre=" " exact=" Pheude punctatus " xpath="/html[1]/body[1]/div[2]/div[3]/div[3]/div[6]/p[1]" match="Pheude punctatus" post="; SEM micrographs. 24 body, lateral view 25 enlargement of head and anterior portion of prothorax, " name="binomial"/>
+  <result pre=" " exact=" Pheude punctatus " xpath="/html[1]/body[1]/div[2]/div[3]/div[3]/div[6]/p[1]" match="Pheude punctatus" post=". 33 fore leg 34 middle leg 35 hind leg 36 distal end of metatibia and metatarsus 37 tarsal claws (" name="binomial"/>
+  <result pre=" " exact="Abdominal terga" xpath="/html[1]/body[1]/div[2]/div[3]/div[3]/div[6]/p[1]" match="Abdominal terga" post=". Median sclerites developed on T3-6 (Figs 19, 30), small, round spirac" name="binomial"/>
+  <result pre=" " exact="Ventral areas" xpath="/html[1]/body[1]/div[2]/div[3]/div[3]/div[6]/p[1]" match="Ventral areas" post=". Prosternum densely, deeply punctured; distance between procoxae approximately 0.5 × diameter of c" name="binomial"/>
+  <result pre="olotype. ♂, China: Guangdong Province: Xiancun, Guangzhou; Col. Unknown; VIII 1974; collected from " exact=" Aleurites moluccana " xpath="/html[1]/body[1]/div[2]/div[3]/div[3]/div[6]/p[1]" match="Aleurites moluccana" post=" (L.) Willdenow; Paratypes. 7♂ and 1♀, same data as holotype. " name="binomial"/>
+  <result pre="The type series was collected from the tree " exact=" Aleurites moluccana " match="Aleurites moluccana" post=" (L.) Willdenow ( Euphorbiaceae ), but it is not known if this is a larval host of the weevil. " name="binomial"/>
+ </snippets>
+</snippetsTree>

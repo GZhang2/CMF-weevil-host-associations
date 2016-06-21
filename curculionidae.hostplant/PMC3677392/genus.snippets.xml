@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="curculionidae.hostplant/PMC3677392/results/species/genus/results.xml">
+  <result pre="75) [ Pieridae, Lepidoptera], Anthrax chionanthrax (Bezzi, 1926) [ Bombyliidae, Diptera], " exact=" Spogostylum " xpath="/html[1]/body[1]/div[2]/div[3]/div[5]/div[2]/div[5]/p[2]" match="Spogostylum" post=" near tripunctatum Pallas in Wiedemann, 1818 [ Bombyliidae, Diptera], Cononedys d" name="genus"/>
+  <result pre=" " exact=" Spogostylum " xpath="/html[1]/body[1]/div[2]/div[3]/div[5]/div[2]/div[5]/p[2]" match="Spogostylum" post=" near tripunctatum Pallas in Wiedemann, 1818 [A new record in Saudi Arabia] " name="genus"/>
+  <result pre="nge; plumula white; coastal hook black with white scales; halteres brown with knobs white at tip. " exact="Abdomen" xpath="/html[1]/body[1]/div[2]/div[3]/div[5]/div[2]/div[5]/p[2]" match="Abdomen" post=" : Corners of 1 st tergite with snowy whitish tuft of long scaly hairs; sides of 2 " name="genus"/>
+  <result pre="th dense black scales lying flat especially on sides of 4 th and 5 th ones. " exact="Hypopygium" xpath="/html[1]/body[1]/div[2]/div[3]/div[5]/div[2]/div[5]/p[2]" match="Hypopygium" post=" (Fig 3): Posterior processes of gonocoxites long and narrow; epiphallus terminating in a forceps-" name="genus"/>
+  <result pre=" " exact=" Monomorium " xpath="/html[1]/body[1]/div[2]/div[3]/div[5]/div[2]/div[5]/p[2]" match="Monomorium" post=" ? exiguum Forel, 1894 " name="genus"/>
+  <result pre=" " exact="Paratypes" match="Paratypes" post=" .TL1.77-2.13, HL 0.48-0.53, HW 0.36-0.42, SL 0.30-0.39, ML 0.45-0.56, EL 0.07-0.08, PRW 0.21-0.25," name="genus"/>
+ </snippets>
+</snippetsTree>

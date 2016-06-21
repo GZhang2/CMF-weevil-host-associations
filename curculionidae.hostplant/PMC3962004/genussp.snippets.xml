@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="curculionidae.hostplant/PMC3962004/results/species/genussp/results.xml">
+  <result pre="ngs with synthetic pyrethrin on the other sapling was started only after egg counts in both sites. " exact="Trichiosoma sp" xpath="/html[1]/body[1]/div[2]/div[2]/div[3]/p[3]" match="Trichiosoma sp" post=". pupae were counted in April/May when the timing of budburst of the same saplings was observed (Po" name="genussp"/>
+  <result pre="ing of budburst of the same saplings was observed (Possen, submitted manuscript). The abundance of " exact="Eriocrania sp" xpath="/html[1]/body[1]/div[2]/div[2]/div[3]/p[3]" match="Eriocrania sp" post=". was determined at the end of June, Deporaus betulae at the beginning of July and Heteropte" name="genussp"/>
+  <result pre="ameter/2} 2 * height)/3] in both sites. The abundance of Phyllonorycter cavella, " exact="Phyllonorycter sp" xpath="/html[1]/body[1]/div[2]/div[2]/div[3]/p[3]" match="Phyllonorycter sp" post=". 1, Parornix betulae and Parornix sp. was not examined on the whole sapling, but was" name="genussp"/>
+  <result pre="undance of Phyllonorycter cavella, Phyllonorycter sp. 1, Parornix betulae and " exact="Parornix sp" xpath="/html[1]/body[1]/div[2]/div[2]/div[3]/p[3]" match="Parornix sp" post=". was not examined on the whole sapling, but was determined as the damage (i.e. number of mines per" name="genussp"/>
+  <result pre="ecided to use time counts to determine the abundance of almost all taxa (except E. betulae, " exact="Trichiosoma sp" xpath="/html[1]/body[1]/div[2]/div[2]/div[3]/p[3]" match="Trichiosoma sp" post=". and C. septentrionalis) in 2003. The same person undertook all surveys. The abundance of e" name="genussp"/>
+  <result pre="me person undertook all surveys. The abundance of easily visible damage (large mines and rolls) of " exact="Eriocrania sp" match="Eriocrania sp" post="., D. betulae and Heteropteran 1 were determined as the number of damaged areas found within" name="genussp"/>
+ </snippets>
+</snippetsTree>
