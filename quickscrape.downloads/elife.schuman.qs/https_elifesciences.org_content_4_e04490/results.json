@@ -1,0 +1,85 @@
+{
+  "publisher": {
+    "value": [
+      "eLife Sciences Publications Limited"
+    ]
+  },
+  "journal": {
+    "value": [
+      "eLife"
+    ]
+  },
+  "title": {
+    "value": [
+      "Plant defense phenotypes determine the consequences of volatile emission for individuals and neighbors"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Meredith C Schuman",
+      "Silke Allmann",
+      "Ian T Baldwin"
+    ]
+  },
+  "date": {
+    "value": []
+  },
+  "doi": {
+    "value": [
+      "10.7554/eLife.04490"
+    ]
+  },
+  "volume": {
+    "value": [
+      "4"
+    ]
+  },
+  "issue": {
+    "value": []
+  },
+  "firstpage": {
+    "value": [
+      "e04490"
+    ]
+  },
+  "description": {
+    "value": [
+      "Plant defense phenotypes determine the consequences of volatile emission for individuals and neighbors | Both the frequency of sesquiterpene-emitting individuals and the defense capacity of individual plants determine the consequences of sesquiterpene volatile emission for individuals and their neighbors in populations of the wild tobacco Nicotiana attenuata."
+    ]
+  },
+  "abstract": {
+    "value": []
+  },
+  "fulltext_html": {
+    "value": []
+  },
+  "fulltext_pdf": {
+    "value": [
+      "https://elifesciences.org/content/4/e04490.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "https://elife-publishing-cdn.s3.amazonaws.com/04490/elife-04490-v2.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": []
+  },
+  "figure": {
+    "value": []
+  },
+  "figure_caption": {
+    "value": []
+  },
+  "license": {
+    "value": [
+      ""
+    ]
+  },
+  "copyright": {
+    "value": [
+      ""
+    ]
+  }
+}
