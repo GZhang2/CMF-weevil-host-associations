@@ -4,6 +4,7 @@ I downloaded 118 papers that contain both the terms 'Curculionidae' and 'host pl
 > getpapers -q 'Curculionidae AND "host plant"' -o OUTPUTDIRECTORY -x
 
 To check if the papers are useful, I manually selected and glanced over 10 papers at random, and the results are as follows 
+
 | article #	 | contains host plant info?| info original?| 
 | ---------- |:------------------------:| -------------:|
 | PMC2556394 | y                        | n             |
@@ -19,6 +20,7 @@ To check if the papers are useful, I manually selected and glanced over 10 paper
 | PMC4553632 | n                        | -             |
 
 Test table
+
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
