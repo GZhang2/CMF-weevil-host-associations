@@ -34,7 +34,8 @@ First use AMI to convert xml to html.
 
 Use AMI to extract species facets (genus, binomial and genussp), using a for-loop
 
-```for type in genus binomial genussp;
+```bash
+for type in genus binomial genussp;
 do
  	ami2-species --project PROJECTFOLDER -i scholarly.html --sp.species --sp.type $type;
 done
