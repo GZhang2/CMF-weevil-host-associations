@@ -4,7 +4,7 @@ I downloaded 118 open access papers that contain both the terms 'Curculionidae' 
 ```bash
 getpapers -q 'Curculionidae AND "host plant"' -o OUTPUTDIRECTORY -x
 ```
-To check if the papers are useful, I selected 11 papers at random and checked if they contain host plant information and if that information is original, and the results are as follows 
+To check if the papers are useful, I selected 11 papers at random and checked if they contain host plant information and if that information is original, and the results are as follows. 
 
 | article #	 | contains host plant info?| info original?| 
 | ---------- |:------------------------:|:-------------:|
@@ -20,7 +20,7 @@ To check if the papers are useful, I selected 11 papers at random and checked if
 | PMC4415217 | n                        | -             |
 | PMC4553632 | n                        | -             |
 
-Four papers contain host plant information and two of these are original sources (or the host plant information is reported for the first time).
+Four papers contain host plant information and two of these are original sources (meaning that the host plant information is reported for the first time).
 
 Some other observation. For the 118 papers, 103 have an .xml file and 15 do not have one. Why? xml not provided by journal?
 
@@ -28,10 +28,12 @@ Some other observation. For the 118 papers, 103 have an .xml file and 15 do not 
 
 > error: Malformed or empty response from EuropePMC. Try running again. Perhaps your query is wrong.
 
-## (b) Extract facets using Norm and AMI.
-First use AMI to convert xml to html.
+## (b) Extract facets using `norma` and `AMI`.
+First use `norma` to convert xml to html.
 
+```bash
 > norma --project PROJECTFOLDER -i fulltext.xml -o scholarly.html --transform nlm2html
+```
 
 Use AMI to extract species facets (genus, binomial and genussp), using a for-loop
 
@@ -87,14 +89,15 @@ cat binomial.snippets.xml genus.snippets.xml genussp.snippets.xml > species.all.
 
 Extract lines containing the string "aceae", which is the ending of plant names.
 ```bash
-grep aceae > species.all.aceae.xml
+grep aceae species.all.snippets.xml > species.all.aceae.xml
 ```
-645 lines contain a plant name (word ending with -aceae, but note that bacteria family names have the same ending). Some of the descriptions appear to be statements on host plant associations. For exmaple "five species of Curculio associated with Fagaceae...", and "[weevils] were collected ... from velvet mesquite trees, *Prosopis velutina* Woot. (Fabales: Fabaceae)...
+645 lines contain a plant name (word ending with -aceae, but note that bacteria family names have the same ending). Some of the descriptions appear to be statements on host plant associations. For exmaple "five species of Curculio associated with Fagaceae...", and "[weevils] were collected ... from velvet mesquite trees, *Prosopis velutina* Woot. (Fabales: Fabaceae)..."
 
-**Next step** would be (1) come up with an effecient method for filtering the results and extracting relevant information in a structured format (2) explore extracting facets from PDF files.
+**Next step** would be (1) come up with an effecient method for filtering the results and extracting and storing relevant information in a structured format and (2) explore extracting facets from PDF files.
 
 **Issue.** Did not figure out how to create a datatable in html format. Saw a discussion thread about this: http://discuss.contentmine.org/t/contentmine-tools/197 Not clear that is resolved.
-**Issue.** Could the ami output files in plain text format? It is hard to read xml files.
+
+**Issue.** Could the ami output files be in plain text format? It is hard to read xml files.
 
 ## (c) Find and downloand one paper each from *PLoS*, *eLife*, *PeerJ* and *BMC*.
 
@@ -123,4 +126,16 @@ quickscrape -u http://bmcevolbiol.biomedcentral.com/articles/10.1186/1471-2148-9
 Command was started, but not completd nor any error messages were given. Nothing was downloaded.
 
 **Issue.** URLs containing question marks cannot be read (PLOS URLS contain question marks, but the DOIs do not).
+
+**Issue.** The journal-scrapers folder has to be placed inside the output folder.  Is that right? Command below (without creating the output folder first). See example below.
+
+```bash
+quickscrape -u https://peerj.com/articles/502/ -s journal-scrapers/scrapers/peerj.json -o peerj.folder.test
+```
+
+Error message:
+
+> Error: ENOENT, no such file or directory '/vagrant/CMF-weevil-host-associations/peerj.folder.test/journal-scrapers/scrapers/peerj.json'
+
+Worked after creating the folder "peerj.folder.test/" and then placing the journal-scraper folder into that folder.
 
