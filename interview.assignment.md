@@ -1,8 +1,9 @@
 # ContentMine Fellowship Interview Assignment
 ## (a) Use `getpapers` to download  papers related to my project, weevil host plant associations.
 I downloaded 118 open access papers that contain both the terms 'Curculionidae' and 'host plant'. xml files were saved. Command:
-> getpapers -q 'Curculionidae AND "host plant"' -o OUTPUTDIRECTORY -x
-
+```bash
+getpapers -q 'Curculionidae AND "host plant"' -o OUTPUTDIRECTORY -x
+```
 To check if the papers are useful, I selected 11 papers at random and checked if they contain host plant information and if that information is original, and the results are as follows 
 
 | article #	 | contains host plant info?| info original?| 
@@ -39,4 +40,26 @@ for type in genus binomial genussp;
 do
  	ami2-species --project PROJECTFOLDER -i scholarly.html --sp.species --sp.type $type;
 done
+```
+
+Count the number of occurrences of 'results.xml' for each of the three types (genus, species, genussp) in the papers.
+```bash
+for type in genus binomial genussp;
+do
+	echo The number of papers with a results.xml file for $type is $(find PROJECTFOLDER/*/results/species/$type/results.xml | wc -l) >> facet.type.report;
+done
+```
+Report of the number of papers with results for each facet types.
+The number of papers with a results.xml file for **genus** is 76.
+The number of papers with a results.xml file for **binomial** is 98.
+The number of papers with a results.xml file for **genussp** is 54.
+
+Extract 'sequence' (dna) from papers. Other facets, disease, gene, chemical, drug do not apply to the papers I downloaded.
+```bash
+ami2-sequence --project PROJECTFOLDER -i scholarly.html --sq.sequence --sq.type dna
+```
+
+Two papers were found to have a 'result.xml' file for the sequence facet (type dna). Command used to count this number:
+```bash
+find PROJECTFOLDER/*/results/sequence/dna/results.xml | wc -l
 ```
