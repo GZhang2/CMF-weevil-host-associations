@@ -42,27 +42,37 @@ do
 done
 ```
 
-Count the number of occurrences of 'results.xml' for each of the three types (genus, species, genussp) in the papers.
+Count the number of occurrences of 'results.xml' for each of the three types (genus, species, genussp) generated for the papers.
 ```bash
 for type in genus binomial genussp;
 do
 	echo The number of papers with a results.xml file for $type is $(find PROJECTFOLDER/*/results/species/$type/results.xml | wc -l) >> facet.type.report;
 done
 ```
-Report of the number of papers with results for each facet types.
+Number of papers with results for each facet types.
 
-The number of papers with a results.xml file for **genus** is 76.
+Number of papers with a results.xml file for **genus** is 76.
 
-The number of papers with a results.xml file for **binomial** is 98.
+Number of papers with a results.xml file for **binomial** is 98.
 
-The number of papers with a results.xml file for **genussp** is 54.
+Number of papers with a results.xml file for **genussp** is 54.
 
-Extract 'sequence' (dna) from papers. Other facets, disease, gene, chemical, drug do not apply to the papers I downloaded.
+Extract **sequence** (type **dna**) from papers. Other facets, disease, gene, chemical, drug do not apply to the papers I downloaded. Also, not sure if disease, chemical and drug are implemented. No ami2-disease/chemical/drug plugin options.
 ```bash
 ami2-sequence --project PROJECTFOLDER -i scholarly.html --sq.sequence --sq.type dna
 ```
 
-Two papers were found to have a 'result.xml' file for the sequence facet (type dna). Command used to count this number:
+Two papers were found to have a 'result.xml' file for the **sequence** facet (type **dna**). Command used to count this number:
 ```bash
 find PROJECTFOLDER/*/results/sequence/dna/results.xml | wc -l
 ```
+
+Aggregate all results for facet type **dna**. 
+ami2-sequence --project curculionide.hostplant --filter file\(\*\*/sequence/dna/results.xml\)xpath\(//result\) -o dnasnippets.xml
+
+Aggregate all results for facet types **genus**, **binomial** and **genussp**.
+for type in genus, binomial and gensussp;
+do 
+	ami2-species --project curculionide.hostplant --filter file\(\*\*/species/$type/results.xml\)xpath\(//result\) -o $type.snippets.xml;
+done
+
