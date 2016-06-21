@@ -21,20 +21,21 @@ To check if the papers are useful, I selected 11 papers at random and checked if
 
 Four papers contain host plant information and two of these are original sources (or the host plant information is reported for the first time).
 
-Some other observation. For the 118 papers, 103 have an .xml file and 15 do not have one. Why? Not xml rendered by journal?
+Some other observation. For the 118 papers, 103 have an .xml file and 15 do not have one. Why? xml not provided by journal?
 
 I experimented with a query for 'aceae', which the ending of plant familiy names, e.g., Asteraceae and Fabaceae. I got 624 open access results. However, a query for 'weevil AND aceae' did not work and the following error was returned.
 
 > error: Malformed or empty response from EuropePMC. Try running again. Perhaps your query is wrong.
 
 ## (b) Extract facets using Norm and AMI.
-First use AMI command to convert xml to html.
+First use AMI to convert xml to html.
 
 > norma --project PROJECTFOLDER -i fulltext.xml -o scholarly.html --transform nlm2html
 
 Use AMI to extract species facets (genus, binomial and genussp), using a for-loop
 
-> for type in genus binomial genussp;
-> do
-> 	ami2-species --project PROJECTFOLDER -i scholarly.html --sp.species --sp.type $type;
-> done
+```for type in genus binomial genussp;
+do
+ 	ami2-species --project PROJECTFOLDER -i scholarly.html --sp.species --sp.type $type;
+done
+```
