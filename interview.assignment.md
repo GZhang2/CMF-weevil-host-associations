@@ -50,8 +50,11 @@ do
 done
 ```
 Report of the number of papers with results for each facet types.
+
 The number of papers with a results.xml file for **genus** is 76.
+
 The number of papers with a results.xml file for **binomial** is 98.
+
 The number of papers with a results.xml file for **genussp** is 54.
 
 Extract 'sequence' (dna) from papers. Other facets, disease, gene, chemical, drug do not apply to the papers I downloaded.
