@@ -1,0 +1,587 @@
+{
+  "http://elifesciences.org/content/3/e03080": {
+    "publisher": {
+      "value": [
+        "eLife Sciences Publications Limited"
+      ]
+    },
+    "journal": {
+      "value": [
+        "eLife"
+      ]
+    },
+    "title": {
+      "value": [
+        "Cryo-EM structure of the Plasmodium falciparum 80S ribosome bound to the anti-protozoan drug emetine"
+      ]
+    },
+    "authors": {
+      "value": [
+        "Wilson Wong",
+        "Xiao-chen Bai",
+        "Alan Brown",
+        "Israel S Fernandez",
+        "Eric Hanssen",
+        "Melanie Condron",
+        "Yan Hong Tan",
+        "Jake Baum",
+        "Sjors HW Scheres"
+      ]
+    },
+    "date": {
+      "value": [
+
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.7554/eLife.03080"
+      ]
+    },
+    "volume": {
+      "value": [
+        "3"
+      ]
+    },
+    "issue": {
+      "value": [
+
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "e03080"
+      ]
+    },
+    "description": {
+      "value": [
+        "The molecular mechanism behind how emetine inhibits the ribosome of the human malaria parasite, along with structural details of the complex formed, is revealed at high resolution using cryo-electron microscopy."
+      ]
+    },
+    "abstract": {
+      "value": [
+
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://elifesciences.org/content/3/e03080.full.pdf"
+      ]
+    },
+    "fulltext_xml": {
+      "value": [
+        "http://elifesciences.org/content/3/e03080.source.xml"
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+
+      ]
+    },
+    "figure": {
+      "value": [
+
+      ]
+    },
+    "figure_caption": {
+      "value": [
+
+      ]
+    },
+    "license": {
+      "value": [
+        ""
+      ]
+    },
+    "copyright": {
+      "value": [
+        ""
+      ]
+    },
+    "file_sizes": [
+      {
+        "fulltext.pdf": 1584602
+      },
+      {
+        "fulltext.xml": 265268
+      }
+    ]
+  },
+  "http://elifesciences.org/content/3/e02137": {
+    "publisher": {
+      "value": [
+        "eLife Sciences Publications Limited"
+      ]
+    },
+    "journal": {
+      "value": [
+        "eLife"
+      ]
+    },
+    "title": {
+      "value": [
+        "The quantitative architecture of centromeric chromatin"
+      ]
+    },
+    "authors": {
+      "value": [
+        "Dani L Bodor",
+        "João F Mata",
+        "Mikhail Sergeev",
+        "Ana Filipa David",
+        "Kevan J Salimian",
+        "Tanya Panchenko",
+        "Don W Cleveland",
+        "Ben E Black",
+        "Jagesh V Shah",
+        "Lars ET Jansen"
+      ]
+    },
+    "date": {
+      "value": [
+
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.7554/eLife.02137"
+      ]
+    },
+    "volume": {
+      "value": [
+        "3"
+      ]
+    },
+    "issue": {
+      "value": [
+
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "e02137"
+      ]
+    },
+    "description": {
+      "value": [
+        "The number of CENP-A molecules at human centromeres helps to explain how this structure is built and epigenetically inherited."
+      ]
+    },
+    "abstract": {
+      "value": [
+
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://elifesciences.org/content/3/e02137.full.pdf"
+      ]
+    },
+    "fulltext_xml": {
+      "value": [
+        "http://elifesciences.org/content/3/e02137.source.xml"
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+
+      ]
+    },
+    "figure": {
+      "value": [
+
+      ]
+    },
+    "figure_caption": {
+      "value": [
+
+      ]
+    },
+    "license": {
+      "value": [
+        ""
+      ]
+    },
+    "copyright": {
+      "value": [
+        ""
+      ]
+    },
+    "file_sizes": [
+      {
+        "fulltext.pdf": 2756614
+      },
+      {
+        "fulltext.xml": 336749
+      }
+    ]
+  },
+  "http://elifesciences.org/content/3/e02349": {
+    "publisher": {
+      "value": [
+        "eLife Sciences Publications Limited"
+      ]
+    },
+    "journal": {
+      "value": [
+        "eLife"
+      ]
+    },
+    "title": {
+      "value": [
+        "tRNA synthetase counteracts c-Myc to develop functional vasculature"
+      ]
+    },
+    "authors": {
+      "value": [
+        "Yi Shi",
+        "Xiaoling Xu",
+        "Qian Zhang",
+        "Guangsen Fu",
+        "Zhongying Mo",
+        "George S Wang",
+        "Shuji Kishi",
+        "Xiang-Lei Yang"
+      ]
+    },
+    "date": {
+      "value": [
+
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.7554/eLife.02349"
+      ]
+    },
+    "volume": {
+      "value": [
+        "3"
+      ]
+    },
+    "issue": {
+      "value": [
+
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "e02349"
+      ]
+    },
+    "description": {
+      "value": [
+        "In addition to its cytoplasmic role for translation, the seryl-tRNA synthetase also antagonizes the c-Myc transcription factor in the nucleus to transcriptionally repress the growth factor VEGFA and ensure proper development of the vasculature in vertebrates."
+      ]
+    },
+    "abstract": {
+      "value": [
+
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://elifesciences.org/content/3/e02349.full.pdf"
+      ]
+    },
+    "fulltext_xml": {
+      "value": [
+        "http://elifesciences.org/content/3/e02349.source.xml"
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+
+      ]
+    },
+    "figure": {
+      "value": [
+
+      ]
+    },
+    "figure_caption": {
+      "value": [
+
+      ]
+    },
+    "license": {
+      "value": [
+        ""
+      ]
+    },
+    "copyright": {
+      "value": [
+        ""
+      ]
+    },
+    "file_sizes": [
+      {
+        "fulltext.pdf": 6826005
+      },
+      {
+        "fulltext.xml": 184217
+      }
+    ]
+  },
+  "http://elifesciences.org/content/3/e00590": {
+    "publisher": {
+      "value": [
+        "eLife Sciences Publications Limited"
+      ]
+    },
+    "journal": {
+      "value": [
+        "eLife"
+      ]
+    },
+    "title": {
+      "value": [
+        "Extinction risk and conservation of the world’s sharks and rays"
+      ]
+    },
+    "authors": {
+      "value": [
+        "Nicholas K Dulvy",
+        "Sarah L Fowler",
+        "John A Musick",
+        "Rachel D Cavanagh",
+        "Peter M Kyne",
+        "Lucy R Harrison",
+        "John K Carlson",
+        "Lindsay NK Davidson",
+        "Sonja V Fordham",
+        "Malcolm P Francis",
+        "Caroline M Pollock",
+        "Colin A Simpfendorfer",
+        "George H Burgess",
+        "Kent E Carpenter",
+        "Leonard JV Compagno",
+        "David A Ebert",
+        "Claudine Gibson",
+        "Michelle R Heupel",
+        "Suzanne R Livingstone",
+        "Jonnell C Sanciangco",
+        "John D Stevens",
+        "Sarah Valenti",
+        "William T White"
+      ]
+    },
+    "date": {
+      "value": [
+
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.7554/eLife.00590"
+      ]
+    },
+    "volume": {
+      "value": [
+        "3"
+      ]
+    },
+    "issue": {
+      "value": [
+
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "e00590"
+      ]
+    },
+    "description": {
+      "value": [
+        "One-quarter of the Chondrichthyes have an elevated risk of extinction, mainly as a result of overfishing."
+      ]
+    },
+    "abstract": {
+      "value": [
+
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://elifesciences.org/content/3/e00590.full.pdf"
+      ]
+    },
+    "fulltext_xml": {
+      "value": [
+        "http://elifesciences.org/content/3/e00590.source.xml"
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+
+      ]
+    },
+    "figure": {
+      "value": [
+
+      ]
+    },
+    "figure_caption": {
+      "value": [
+
+      ]
+    },
+    "license": {
+      "value": [
+        ""
+      ]
+    },
+    "copyright": {
+      "value": [
+        ""
+      ]
+    },
+    "file_sizes": [
+      {
+        "fulltext.pdf": 3862063
+      },
+      {
+        "fulltext.xml": 458687
+      }
+    ]
+  },
+  "http://elifesciences.org/content/2/e00747": {
+    "publisher": {
+      "value": [
+        "eLife Sciences Publications Limited"
+      ]
+    },
+    "journal": {
+      "value": [
+        "eLife"
+      ]
+    },
+    "title": {
+      "value": [
+        "Evolutionary dynamics of cancer in response to targeted combination therapy"
+      ]
+    },
+    "authors": {
+      "value": [
+        "Ivana Bozic",
+        "Johannes G Reiter",
+        "Benjamin Allen",
+        "Tibor Antal",
+        "Krishnendu Chatterjee",
+        "Preya Shah",
+        "Yo Sup Moon",
+        "Amin Yaqubie",
+        "Nicole Kelly",
+        "Dung T Le",
+        "Evan J Lipson",
+        "Paul B Chapman",
+        "Luis A Diaz",
+        "Bert Vogelstein",
+        "Martin A Nowak"
+      ]
+    },
+    "date": {
+      "value": [
+
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.7554/eLife.00747"
+      ]
+    },
+    "volume": {
+      "value": [
+        "2"
+      ]
+    },
+    "issue": {
+      "value": [
+
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "e00747"
+      ]
+    },
+    "description": {
+      "value": [
+        "A study that models the evolution of drug resistance in tumors reveals that drugs are more effective when given in combination than sequentially, and that cure is much more likely when the drugs target different pathways."
+      ]
+    },
+    "abstract": {
+      "value": [
+
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://elifesciences.org/content/2/e00747.full.pdf"
+      ]
+    },
+    "fulltext_xml": {
+      "value": [
+        "http://elifesciences.org/content/2/e00747.source.xml"
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+
+      ]
+    },
+    "figure": {
+      "value": [
+
+      ]
+    },
+    "figure_caption": {
+      "value": [
+
+      ]
+    },
+    "license": {
+      "value": [
+        ""
+      ]
+    },
+    "copyright": {
+      "value": [
+        ""
+      ]
+    },
+    "file_sizes": [
+      {
+        "fulltext.pdf": 3358321
+      },
+      {
+        "fulltext.xml": 187697
+      }
+    ]
+  }
+}
