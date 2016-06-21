@@ -4,16 +4,23 @@ I downloaded 118 papers that contain both the terms 'Curculionidae' and 'host pl
 > getpapers -q 'Curculionidae AND "host plant"' -o OUTPUTDIRECTORY -x
 
 To check if the papers are useful, I manually selected and glanced over 10 papers at random, and the results are as follows 
-|article #]	|contains host plant info?|info original?| 
-|---------------|:-----------------------:|-------------:|
-|PMC2556394	|	y| n|
-|PMC2890155	|	n| -|
-|PMC3088325	|	y| y|
-|PMC3322136	|	n| -|
-|PMC3480431	|	n| -|
-|PMC3800779	|	n| -|
-|PMC3930711	|	n| -|
-|PMC4062527	|	y| y|
-|PMC4212853	|	y| n|
-|PMC4415217	|	n| -|
-|PMC4553632	|	n| -|
+| article #	 | contains host plant info?| info original?| 
+| ---------- |:------------------------:| -------------:|
+| PMC2556394 | y                        | n             |
+| PMC2890155 | n                        | -             |
+| PMC3088325 | y                        | y             |
+| PMC3322136 | n                        | -             |
+| PMC3480431 | n                        | -             |
+| PMC3800779 | n                        | -             |
+| PMC3930711 | n                        | -             |
+| PMC4062527 | y                        | y             |
+| PMC4212853 | y                        | n             |
+| PMC4415217 | n                        | -             |
+| PMC4553632 | n                        | -             |
+
+Test table
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
