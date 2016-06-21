@@ -35,7 +35,7 @@ First use `norma` to convert xml to html.
 > norma --project PROJECTFOLDER -i fulltext.xml -o scholarly.html --transform nlm2html
 ```
 
-Use AMI to extract species facets (genus, binomial and genussp), using a for-loop
+Use `AMI` to extract species facets (genus, binomial and genussp), using a for-loop
 
 ```bash
 for type in genus binomial genussp;
