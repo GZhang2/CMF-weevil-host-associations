@@ -91,9 +91,10 @@ grep aceae > species.all.aceae.xml
 ```
 645 lines contain a plant name (word ending with -aceae, but note that bacteria family names have the same ending). Some of the descriptions appear to be statements on host plant associations. For exmaple "five species of Curculio associated with Fagaceae...", and "[weevils] were collected ... from velvet mesquite trees, *Prosopis velutina* Woot. (Fabales: Fabaceae)...
 
-Next step would be come up with an effecien method for filtering the results and extracting the relevant information in a structured format.
+**Next step** would be (1) come up with an effecient method for filtering the results and extracting relevant information in a structured format (2) explore extracting facets from PDF files.
 
-**Issue.** Did not figur out how to create a datatable in html format. Saw a discussion thread about this: http://discuss.contentmine.org/t/contentmine-tools/197
+**Issue.** Did not figure out how to create a datatable in html format. Saw a discussion thread about this: http://discuss.contentmine.org/t/contentmine-tools/197 Not clear that is resolved.
+**Issue.** Could the ami output files in plain text format? It is hard to read xml files.
 
 ## (c) Find and downloand one paper each from *PLoS*, *eLife*, *PeerJ* and *BMC*.
 
@@ -109,17 +110,17 @@ quickscrape -u https://elifesciences.org/content/4/e04490 -s journal-scrapers/sc
 ```
 Supplemental files (which are called 'appendix' in eLife, containing figures, tables and text) were downloaded as part of the full text PDF. 
 
-Download a paper from PeerJ.
+Download a paper from *PeerJ*.
 ```bash
 quickscrape -u https://peerj.com/articles/502/ -s journal-scrapers/scrapers/peerj.json -o peerj.medeiros
 ```
 All supplementary files were downloaded as separate files.
 
-Downlaod a paper from BMC
+Downlaod a paper from *BMC*
 ```bash
 quickscrape -u http://bmcevolbiol.biomedcentral.com/articles/10.1186/1471-2148-9-103 -s journal-scrapers/scrapers/bmc.json -o bmc.aoki
 ```
 Command was started, but not completd nor any error messages were given. Nothing was downloaded.
 
-**Issue.** URLs containing question marks cannot be read.
+**Issue.** URLs containing question marks cannot be read (PLOS URLS contain question marks, but the DOIs do not).
 
