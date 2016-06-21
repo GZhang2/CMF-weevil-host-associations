@@ -68,11 +68,26 @@ find PROJECTFOLDER/*/results/sequence/dna/results.xml | wc -l
 ```
 
 Aggregate all results for facet type **dna**. 
+```bash
 ami2-sequence --project curculionide.hostplant --filter file\(\*\*/sequence/dna/results.xml\)xpath\(//result\) -o dnasnippets.xml
+```
 
 Aggregate all results for facet types **genus**, **binomial** and **genussp**.
+```bash
 for type in genus, binomial and gensussp;
 do 
 	ami2-species --project curculionide.hostplant --filter file\(\*\*/species/$type/results.xml\)xpath\(//result\) -o $type.snippets.xml;
 done
+```
+
+Append the three aggregated species type xml files into a single xml file. 
+```bash
+cat binomial.snippets.xml genus.snippets.xml genussp.snippets.xml > species.all.snippets.xml
+```
+
+Extract lines containing the string "aceae", which is the ending of plant names.
+```bash
+grep aceae > species.all.aceae.xml
+```
+
 
