@@ -1,0 +1,309 @@
+{
+  "id": [
+    "27047506"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27047506"
+  ],
+  "pmcid": [
+    "PMC4802167"
+  ],
+  "doi": [
+    "10.3389/fpls.2016.00321"
+  ],
+  "title": [
+    "Belowground Ecology of Scarabs Feeding on Grass Roots: Current Knowledge and Future Directions for Management in Australasia."
+  ],
+  "authorString": [
+    "Frew A, Barnett K, Nielsen UN, Riegler M, Johnson SN."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Frew A"
+          ],
+          "firstName": [
+            "Adam"
+          ],
+          "lastName": [
+            "Frew"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Hawkesbury Institute for the Environment, Western Sydney University Richmond, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Barnett K"
+          ],
+          "firstName": [
+            "Kirk"
+          ],
+          "lastName": [
+            "Barnett"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Hawkesbury Institute for the Environment, Western Sydney University Richmond, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Nielsen UN"
+          ],
+          "firstName": [
+            "Uffe N"
+          ],
+          "lastName": [
+            "Nielsen"
+          ],
+          "initials": [
+            "UN"
+          ],
+          "affiliation": [
+            "Hawkesbury Institute for the Environment, Western Sydney University Richmond, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Riegler M"
+          ],
+          "firstName": [
+            "Markus"
+          ],
+          "lastName": [
+            "Riegler"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Hawkesbury Institute for the Environment, Western Sydney University Richmond, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Johnson SN"
+          ],
+          "firstName": [
+            "Scott N"
+          ],
+          "lastName": [
+            "Johnson"
+          ],
+          "initials": [
+            "SN"
+          ],
+          "affiliation": [
+            "Hawkesbury Institute for the Environment, Western Sydney University Richmond, NSW, Australia."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2373635"
+      ],
+      "dateOfPublication": [
+        "2016"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in plant science"
+          ],
+          "ISOAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "medlineAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "NLMid": [
+            "101568200"
+          ],
+          "ESSN": [
+            "1664-462X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "321"
+  ],
+  "abstractText": [
+    "Many scarab beetles spend the majority of their lives belowground as larvae, feeding on grass roots. Many of these larvae are significant pests, causing damage to crops and grasslands. Damage by larvae of the greyback cane beetle (Dermolepida albohirtum), for example, can cause financial losses of up to AU$40 million annually to the Australian sugarcane industry. We review the ecology of some scarab larvae in Australasia, focusing on three subfamilies; Dynastinae, Rutelinae, and Melolonthinae, containing key pest species. Although considerable research on the control of some scarab pests has been carried out in Australasia, for some species, the basic biology and ecology remains largely unexplored. We synthesize what is known about these scarab larvae and outline key knowledge gaps to highlight future research directions with a view to improve pest management. We do this by presenting an overview of the scarab larval host plants and feeding behavior; the impacts of abiotic (temperature, moisture, and fertilization) and biotic (pathogens, natural enemies, and microbial symbionts) factors on scarab larvae and conclude with how abiotic and biotic factors can be applied in agriculture for improved pest management, suggesting future research directions. Several host plant microbial symbionts, such as arbuscular mycorrhizal fungi and endophytes, can improve plant tolerance to scarabs and reduce larval performance, which have shown promise for use in pest management. In addition to this, several microbial scarab pathogens have been isolated for commercial use in pest management with particularly promising results. The entomopathogenic fungus Metarhizium anisopliae caused a 50% reduction in cane beetle larvae while natural enemies such as entomopathogenic nematodes have also shown potential as a biocontrol. Key abiotic factors, such as soil water, play an important role in affecting both scarab larvae and these control agents and should therefore feature in future multi-factorial experiments. Continued research should focus on filling knowledge gaps including host plant preferences, attractive trap crops, and naturally occurring pathogens that are locally adapted, to achieve high efficacy in the field."
+  ],
+  "affiliation": [
+    "Hawkesbury Institute for the Environment, Western Sydney University Richmond, NSW, Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pasture",
+        "Pest management",
+        "Belowground Herbivory",
+        "Heteronychus Arator",
+        "Anoplognathus",
+        "Cyclocephala Signaticollis",
+        "Dermolepida Albohirtum",
+        "Sericesthis Nigrolineata"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4802167?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4802167"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.3389/fpls.2016.00321"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-04-06"
+  ],
+  "dateOfCreation": [
+    "2016-04-06"
+  ],
+  "dateOfRevision": [
+    "2016-04-07"
+  ],
+  "electronicPublicationDate": [
+    "2016-03-22"
+  ],
+  "firstPublicationDate": [
+    "2016-03-22"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

@@ -1,0 +1,503 @@
+{
+  "id": [
+    "19941669"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "19941669"
+  ],
+  "pmcid": [
+    "PMC2789073"
+  ],
+  "doi": [
+    "10.1186/1471-2148-9-273"
+  ],
+  "title": [
+    "Natural selection drives the fine-scale divergence of a coevolutionary arms race involving a long-mouthed weevil and its obligate host plant."
+  ],
+  "authorString": [
+    "Toju H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Toju H"
+          ],
+          "firstName": [
+            "Hirokazu"
+          ],
+          "lastName": [
+            "Toju"
+          ],
+          "initials": [
+            "H"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "1589837"
+      ],
+      "dateOfPublication": [
+        "2009 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2009"
+      ],
+      "printPublicationDate": [
+        "2009-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC evolutionary biology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Evol. Biol."
+          ],
+          "medlineAbbreviation": [
+            "BMC Evol Biol"
+          ],
+          "NLMid": [
+            "100966975"
+          ],
+          "ESSN": [
+            "1471-2148"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "273"
+  ],
+  "abstractText": [
+    " BACKGROUND: One of the major recent advances in evolutionary biology is the recognition that evolutionary interactions between species are substantially differentiated among geographic populations. To date, several authors have revealed natural selection pressures mediating the geographically-divergent processes of coevolution. How local, then, is the geographic structuring of natural selection in coevolutionary systems? RESULTS: I examined the spatial scale of a \"geographic selection mosaic,\" focusing on a system involving a seed-predatory insect, the camellia weevil (Curculio camelliae), and its host plant, the Japanese camellia (Camellia japonica). In this system, female weevils excavate camellia fruits with their extremely-long mouthparts to lay eggs into seeds, while camellia seeds are protected by thick pericarps. Quantitative evaluation of natural selection demonstrated that thicker camellia pericarps are significantly favored in some, but not all, populations within a small island (Yakushima Island, Japan; diameter ca. 30 km). At the extreme, camellia populations separated by only several kilometers were subject to different selection pressures. Interestingly, in a population with the thickest pericarps, camellia individuals with intermediate pericarp thickness had relatively high fitness when the potential costs of producing thick pericarps were considered. Also importantly, some parameters of the weevil - camellia interaction such as the severity of seed infestation showed clines along temperature, suggesting the effects of climate on the fine-scale geographic differentiation of the coevolutionary processes. CONCLUSION: These results show that natural selection can drive the geographic differentiation of interspecific interactions at surprisingly small spatial scales. Future studies should reveal the evolutionary/ecological outcomes of the \"fine scale geographic mosaics\" in biological communities."
+  ],
+  "affiliation": [
+    "Research Institute of Genome-based Biofactory, National Institute of Advanced Industrial Science and Technology (AIST), Tsukuba, Ibaraki 305-8566, Japan. hiro.toju@gmail.com"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Weevils"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Camellia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fruit"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genetics, Population"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ecosystem"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Species Specificity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oviposition"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Geography"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Japan"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genetic Variation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Selection, Genetic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Biological Evolution"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2789073?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2789073"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/1471-2148/9/273"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/content/pdf/1471-2148-9-273.pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "abs"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/1471-2148/9/273/abstract"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=19941669&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=19941669"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1186/1471-2148-9-273"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "10"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2009-12-29"
+  ],
+  "dateOfCreation": [
+    "2009-12-07"
+  ],
+  "dateOfRevision": [
+    "2013-05-31"
+  ],
+  "electronicPublicationDate": [
+    "2009-11-27"
+  ],
+  "firstPublicationDate": [
+    "2009-11-27"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

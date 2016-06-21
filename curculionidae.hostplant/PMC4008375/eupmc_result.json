@@ -1,0 +1,439 @@
+{
+  "id": [
+    "24788720"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24788720"
+  ],
+  "pmcid": [
+    "PMC4008375"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0094950"
+  ],
+  "title": [
+    "Insect leaf-chewing damage tracks herbivore richness in modern and ancient forests."
+  ],
+  "authorString": [
+    "Carvalho MR, Wilf P, Barrios H, Windsor DM, Currano ED, Labandeira CC, Jaramillo CA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Carvalho MR"
+          ],
+          "firstName": [
+            "Mónica R"
+          ],
+          "lastName": [
+            "Carvalho"
+          ],
+          "initials": [
+            "MR"
+          ],
+          "affiliation": [
+            "Department of Geosciences, Pennsylvania State University, University Park, Pennsylvania, United States of America; Department of Plant Biology, Mann Library Building, Cornell University, Ithaca, New York, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Wilf P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Wilf"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Geosciences, Pennsylvania State University, University Park, Pennsylvania, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Barrios H"
+          ],
+          "firstName": [
+            "Héctor"
+          ],
+          "lastName": [
+            "Barrios"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Programa de Maestría en Entomología, Universidad de Panamá, Provincia de Panamá, Panamá"
+          ]
+        },
+        {
+          "fullName": [
+            "Windsor DM"
+          ],
+          "firstName": [
+            "Donald M"
+          ],
+          "lastName": [
+            "Windsor"
+          ],
+          "initials": [
+            "DM"
+          ],
+          "affiliation": [
+            "Smithsonian Tropical Research Institute, Balboa, Ancón, Republic of Panamá"
+          ]
+        },
+        {
+          "fullName": [
+            "Currano ED"
+          ],
+          "firstName": [
+            "Ellen D"
+          ],
+          "lastName": [
+            "Currano"
+          ],
+          "initials": [
+            "ED"
+          ],
+          "affiliation": [
+            "Department of Geology and Environmental Earth Science, Miami University, Oxford, Ohio, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Labandeira CC"
+          ],
+          "firstName": [
+            "Conrad C"
+          ],
+          "lastName": [
+            "Labandeira"
+          ],
+          "initials": [
+            "CC"
+          ],
+          "affiliation": [
+            "Department of Paleobiology, Smithsonian Institution, Washington, DC, United States of America; Department of Entomology and BEES Program, University of Maryland, College Park, Maryland, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Jaramillo CA"
+          ],
+          "firstName": [
+            "Carlos A"
+          ],
+          "lastName": [
+            "Jaramillo"
+          ],
+          "initials": [
+            "CA"
+          ],
+          "affiliation": [
+            "Smithsonian Tropical Research Institute, Balboa, Ancón, Republic of Panamá"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2154399"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "e94950"
+  ],
+  "abstractText": [
+    "The fossil record demonstrates that past climate changes and extinctions significantly affected the diversity of insect leaf-feeding damage, implying that the richness of damage types reflects that of the unsampled damage makers, and that the two are correlated through time. However, this relationship has not been quantified for living leaf-chewing insects, whose richness and mouthpart convergence have obscured their value for understanding past and present herbivore diversity. We hypothesized that the correlation of leaf-chewing damage types (DTs) and damage maker richness is directly observable in living forests. Using canopy access cranes at two lowland tropical rainforest sites in Panamá to survey 24 host-plant species, we found significant correlations between the numbers of leaf chewing insect species collected and the numbers of DTs observed to be made by the same species in feeding experiments, strongly supporting our hypothesis. Damage type richness was largely driven by insect species that make multiple DTs. Also, the rank-order abundances of DTs recorded at the Panamá sites and across a set of latest Cretaceous to middle Eocene fossil floras were highly correlated, indicating remarkable consistency of feeding-mode distributions through time. Most fossil and modern host-plant pairs displayed high similarity indices for their leaf-chewing DTs, but informative differences and trends in fossil damage composition became apparent when endophytic damage was included. Our results greatly expand the potential of insect-mediated leaf damage for interpreting insect herbivore richness and compositional heterogeneity from fossil floras and, equally promisingly, in living forests."
+  ],
+  "affiliation": [
+    "Department of Geosciences, Pennsylvania State University, University Park, Pennsylvania, United States of America; Department of Plant Biology, Mann Library Building, Cornell University, Ithaca, New York, United States of America."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Insects"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Plant Leaves"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Biodiversity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fossils"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Herbivory"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Forests"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4008375?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4008375"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=24788720&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=24788720"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1371/journal.pone.0094950"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-12-22"
+  ],
+  "dateOfCreation": [
+    "2014-05-05"
+  ],
+  "electronicPublicationDate": [
+    "2014-05-02"
+  ],
+  "firstPublicationDate": [
+    "2014-05-02"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

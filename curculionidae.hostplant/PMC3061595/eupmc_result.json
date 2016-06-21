@@ -1,0 +1,500 @@
+{
+  "id": [
+    "20298113"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "20298113"
+  ],
+  "pmcid": [
+    "PMC3061595"
+  ],
+  "doi": [
+    "10.1673/031.008.2301"
+  ],
+  "title": [
+    "Onion thrips, Thrips tabaci, have gut bacteria that are closely related to the symbionts of the western flower thrips, Frankliniella occidentalis."
+  ],
+  "authorString": [
+    "de Vries EJ, van der Wurff AW, Jacobs G, Breeuwer JA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "de Vries EJ"
+          ],
+          "firstName": [
+            "Egbert J"
+          ],
+          "lastName": [
+            "de Vries"
+          ],
+          "initials": [
+            "EJ"
+          ]
+        },
+        {
+          "fullName": [
+            "van der Wurff AW"
+          ],
+          "firstName": [
+            "André W G"
+          ],
+          "lastName": [
+            "van der Wurff"
+          ],
+          "initials": [
+            "AW"
+          ]
+        },
+        {
+          "fullName": [
+            "Jacobs G"
+          ],
+          "firstName": [
+            "Gerrit"
+          ],
+          "lastName": [
+            "Jacobs"
+          ],
+          "initials": [
+            "G"
+          ]
+        },
+        {
+          "fullName": [
+            "Breeuwer JA"
+          ],
+          "firstName": [
+            "Johannes A J"
+          ],
+          "lastName": [
+            "Breeuwer"
+          ],
+          "initials": [
+            "JA"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "1717376"
+      ],
+      "dateOfPublication": [
+        "2008 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2008"
+      ],
+      "printPublicationDate": [
+        "2008-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of insect science (Online)"
+          ],
+          "ISOAbbreviation": [
+            "J. Insect Sci."
+          ],
+          "medlineAbbreviation": [
+            "J Insect Sci"
+          ],
+          "NLMid": [
+            "101096396"
+          ],
+          "ESSN": [
+            "1536-2442"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "1-11"
+  ],
+  "abstractText": [
+    "It has been shown that many insects have Enterobacteriaceae bacteria in their gut system. The western flower thrips, Frankliniella occidentalis Pergande [Thysanoptera: Thripidae], has a symbiotic relation with Erwinia species gut bacteria. To determine if other Thripidae species have similar bacterial symbionts, the onion thrips, Thrips tabaci, was studied because, like F. occidentalis, it is phytophagous. Contrary to F. occidentalis, T. tabaci is endemic in Europe and biotypes have been described. Bacteria were isolated from the majority of populations and biotypes of T. tabaci examined. Bacteria were present in high numbers in most individuals of the populations studied. Like F. occidentalis, T. tabaci contained one type of bacterium that clearly outnumbered all other types present in the gut. This bacterium was identified as an Erwinia species, as was also the case for F. occidentalis. However, its biochemical characteristics and 16S rDNA sequence differed from the bacteria present in F. occidentalis."
+  ],
+  "affiliation": [
+    "Institute for Biodiversity and Ecosystem Dynamics, University of Amsterdam, Kruislaan 318, 1098 SM Amsterdam, the Netherlands. vries@science.uva.nl"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Intestines"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Insects"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Erwinia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RNA, Ribosomal, 16S"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Bacterial Typing Techniques"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phylogeny"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Species Specificity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Molecular Sequence Data"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "RNA, Ribosomal, 16S"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3061595?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3061595"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=20298113&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=20298113"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1673/031.008.2301"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2010-06-10"
+  ],
+  "dateOfCreation": [
+    "2010-03-19"
+  ],
+  "dateOfRevision": [
+    "2013-05-29"
+  ],
+  "firstPublicationDate": [
+    "2008-01-01"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

@@ -1,0 +1,411 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1d3 20150301//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing.dtd?><?SourceDTD.Version 2.3?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">Insects</journal-id><journal-id journal-id-type="iso-abbrev">Insects</journal-id><journal-id journal-id-type="publisher-id">insects</journal-id><journal-title-group><journal-title>Insects</journal-title></journal-title-group><issn pub-type="epub">2075-4450</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">4592596</article-id><article-id pub-id-type="doi">10.3390/insects5020364</article-id><article-id pub-id-type="publisher-id">insects-05-00364</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Biomechanical Properties of Hemlocks: A Novel Approach to Evaluating Physical Barriers of the Plant&#x02013;Insect Interface and Resistance to a Phloem-Feeding Herbivore</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Ayayee</surname><given-names>Paul</given-names></name><xref ref-type="aff" rid="af1-insects-05-00364">1</xref><xref ref-type="author-notes" rid="fn1-insects-05-00364">&#x02020;</xref></contrib><contrib contrib-type="author"><name><surname>Yang</surname><given-names>Fuqian</given-names></name><xref ref-type="aff" rid="af2-insects-05-00364">2</xref></contrib><contrib contrib-type="author"><name><surname>Rieske</surname><given-names>Lynne K.</given-names></name><xref ref-type="aff" rid="af1-insects-05-00364">1</xref><xref rid="c1-insects-05-00364" ref-type="corresp">*</xref></contrib></contrib-group><aff id="af1-insects-05-00364"><label>1</label>Department of Entomology, University of Kentucky, S-225 Ag North, Lexington, KY 40546, USA </aff><aff id="af2-insects-05-00364"><label>2</label>Department of Chemical and Materials Engineering, University of Kentucky, Lexington, KY 40506, USA; E-Mail: <email>fyang0@engr.uky.edu</email></aff><author-notes><fn id="fn1-insects-05-00364"><label>&#x02020;</label><p>Current address: Department of Evolution, Ecology and Organismal Biology, Ohio State University, 318 W. 12th Avenue, Columbus, OH 43210, USA; E-Mail: <email>Ayayee.1@osu.edu</email>. </p></fn><corresp id="c1-insects-05-00364"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>Lrieske@uky.edu</email>; Tel.: +1-859-257-1167.</corresp></author-notes><pub-date pub-type="epub"><day>03</day><month>6</month><year>2014</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2014</year></pub-date><volume>5</volume><issue>2</issue><fpage>364</fpage><lpage>376</lpage><history><date date-type="received"><day>19</day><month>3</month><year>2014</year></date><date date-type="rev-recd"><day>06</day><month>5</month><year>2014</year></date><date date-type="accepted"><day>20</day><month>5</month><year>2014</year></date></history><permissions><copyright-statement>&#x000a9; 2014 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement><copyright-year>2014</copyright-year><license><license-p><!--CREATIVE COMMONS-->This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">http://creativecommons.org/licenses/by/3.0/</ext-link>).</license-p></license></permissions><abstract><p>Micromechanical properties that help mediate herbivore access may be particularly important when considering herbivorous insects that feed with piercing-sucking stylets. We used microindentation to quantify the micromechanical properties of hemlock, <italic>Tsuga</italic> spp., to quantify the hardness of the feeding site of the invasive hemlock woolly adelgid, <italic>Adelges tsugae</italic>. We measured hardness of the hemlock leaf cushion, the stylet insertion point of the adelgid, across four seasons in a 1 y period for four hemlock species growing in a common garden, including eastern, western, mountain, and northern Japanese hemlocks. Leaf cushion hardness was highest in the fall and winter and lowest in summer for all species. Northern Japanese hemlock had relatively greater hardness than the remaining species. Our data contributes an additional perspective to the existing framework within which greater susceptibility and subsequent mortality of eastern hemlocks is observed. The potential application of microindentation to understanding the nature and relevance of plant mechanical defenses in plant&#x02013;herbivore interactions is also demonstrated and highlighted.</p></abstract><kwd-group><kwd>hemlock woolly adelgid</kwd><kwd>constitutive resistance</kwd><kwd>leaf cushion</kwd><kwd>microindentation</kwd></kwd-group></article-meta></front><body><sec><title>1. Introduction</title><p>Plants employ a range of constitutive and induced defenses to deter insect herbivory. Constitutive defenses rely on inherent preexisting qualities to protect against herbivore attack, resulting in less damage relative to plants lacking these qualities [<xref rid="B1-insects-05-00364" ref-type="bibr">1</xref>]. In contrast, induced defenses are more specific and are activated via external stimuli, resulting in differential damage [<xref rid="B2-insects-05-00364" ref-type="bibr">2</xref>]. Plant resistance mechanisms may be chemical [<xref rid="B3-insects-05-00364" ref-type="bibr">3</xref>], nutritional [<xref rid="B4-insects-05-00364" ref-type="bibr">4</xref>], phenological [<xref rid="B5-insects-05-00364" ref-type="bibr">5</xref>,<xref rid="B6-insects-05-00364" ref-type="bibr">6</xref>,<xref rid="B7-insects-05-00364" ref-type="bibr">7</xref>], or mechanical [<xref rid="B8-insects-05-00364" ref-type="bibr">8</xref>]. Each mechanism may contribute to overall herbivore resistance, suggesting a link between resistance mechanisms and plant genetic composition, and several mechanisms may act in concert [<xref rid="B6-insects-05-00364" ref-type="bibr">6</xref>].</p><p>Seasonal and developmental variations in plant properties, such as foliar nutrients, defensive compounds, and toughness, correlate with seasonal herbivory [<xref rid="B9-insects-05-00364" ref-type="bibr">9</xref>,<xref rid="B10-insects-05-00364" ref-type="bibr">10</xref>,<xref rid="B11-insects-05-00364" ref-type="bibr">11</xref>,<xref rid="B12-insects-05-00364" ref-type="bibr">12</xref>]. For example, foliar toughness helps define the phenological window of opportunity for spruce budworm, <italic>Choristoneura fumiferana</italic> (Clemens) (Lepidoptera: Tortricidae) feeding on white spruce, <italic>Picea glauca</italic> (Moench) Voss, demonstrating a link between host plant phenology, needle toughness, and herbivore susceptibility [<xref rid="B6-insects-05-00364" ref-type="bibr">6</xref>]. Foliar toughness varies within and between taxa, among age classes, and with environmental variability [<xref rid="B8-insects-05-00364" ref-type="bibr">8</xref>].</p><p>Plant micromechanical properties have been cited as evidence of antiherbivore defense [<xref rid="B8-insects-05-00364" ref-type="bibr">8</xref>,<xref rid="B13-insects-05-00364" ref-type="bibr">13</xref>,<xref rid="B14-insects-05-00364" ref-type="bibr">14</xref>], but the basis for this mode of resistance is not well studied. This lack of attention appears to be due to difficulties inherent in characterizing plant micromechanical properties. This is due in part to the heterogeneous, composite and anisotropic nature of plant tissues [<xref rid="B14-insects-05-00364" ref-type="bibr">14</xref>], misapplication of the terms &#x02018;toughness&#x02019; and &#x02018;hardness&#x02019; and their measurements [<xref rid="B13-insects-05-00364" ref-type="bibr">13</xref>], and to inadequate instrumentation used to measure these properties. </p><p>The application of force on a material produces a displacement in the direction of the force, which has consequences for the shape and integrity of the material [<xref rid="B13-insects-05-00364" ref-type="bibr">13</xref>]. Hardness is defined as force per unit area (MPa) required to cause permanent material deformation due to the contact from a sharp object. Toughness refers to a material&#x02019;s ability to resist deformations and is defined as the energy consumed in generating a deformation (KJm<sup>&#x02212;2</sup>), <italic>i.e.</italic>, force applied multiplied by the displacement of the material [<xref rid="B13-insects-05-00364" ref-type="bibr">13</xref>].</p><p>Plant micromechanical properties (<italic>i.e.</italic>, toughness) in ecological studies have historically been measured using penetrometers, which measure the force needed to puncture specific plant tissue [<xref rid="B15-insects-05-00364" ref-type="bibr">15</xref>,<xref rid="B16-insects-05-00364" ref-type="bibr">16</xref>,<xref rid="B17-insects-05-00364" ref-type="bibr">17</xref>,<xref rid="B18-insects-05-00364" ref-type="bibr">18</xref>,<xref rid="B19-insects-05-00364" ref-type="bibr">19</xref>]. Penetrometers rely on application of a weighted material on top of a sharp or blunt object such as a pin. The weight required to puncture the test material is taken as the toughness of the material, and is usually represented as newtons (N), grams (g), or in some cases gcm<sup>2</sup>, instead of the appropriate unit, KJm<sup>&#x02212;2</sup>. Obvious issues with penetrometer readings include lack of a standardized process for quantifying target measurements, lack of detail in construction, superficial use of the measures generated, and the realization that what is measured is not technically &#x02018;toughness&#x02019; [<xref rid="B13-insects-05-00364" ref-type="bibr">13</xref>,<xref rid="B20-insects-05-00364" ref-type="bibr">20</xref>,<xref rid="B21-insects-05-00364" ref-type="bibr">21</xref>]. Alternatives such as razor slicing have also been used to estimate leaf fracture toughness [<xref rid="B21-insects-05-00364" ref-type="bibr">21</xref>], but both approaches have drawbacks [<xref rid="B14-insects-05-00364" ref-type="bibr">14</xref>,<xref rid="B21-insects-05-00364" ref-type="bibr">21</xref>] that limit their ability to reliably measure the biomechanical properties relevant in insect-plant relations.</p><p>Microindentation, a depth sensing procedure used to characterize mechanical properties of materials on a fine scale and with a high degree of accuracy [<xref rid="B22-insects-05-00364" ref-type="bibr">22</xref>], may provide a novel approach to evaluating the interface between insect herbivores and their host plants, and to explore with greater accuracy and resolution the mechanical dimensions underlying host plant resistance mechanisms. Microindentation employs diamond pyramidal or spherical tip indenters to produce local deformations on a specified material, and then measures the resistive force of the material to the deformation as a function of the depth or area of the deformation [<xref rid="B23-insects-05-00364" ref-type="bibr">23</xref>]. It measures specific physical attributes of a given material with much greater precision than traditional penetrometers. Additionally, other micromechanical properties such as the elastic modulus, energy of indentation, and stiffness of materials can be determined from the load-displacement curve generated from the indentation process. Microindentation has the added advantage of being an automated and standard process that facilitates easy replication and repeatability; it is relatively fast [<xref rid="B24-insects-05-00364" ref-type="bibr">24</xref>] and non-destructive [<xref rid="B22-insects-05-00364" ref-type="bibr">22</xref>].</p><p>Microindentation approaches have previously been used to assess plant tissue characteristics relevant to wood processing and plant structure studies [<xref rid="B25-insects-05-00364" ref-type="bibr">25</xref>,<xref rid="B26-insects-05-00364" ref-type="bibr">26</xref>,<xref rid="B27-insects-05-00364" ref-type="bibr">27</xref>,<xref rid="B28-insects-05-00364" ref-type="bibr">28</xref>,<xref rid="B29-insects-05-00364" ref-type="bibr">29</xref>]. Its application for evaluating micromechanical properties of the penetration point for stylet-inserting herbivores such as aphids, stink bugs and the hemlock woolly adelgid, however, has not been investigated.</p><p>The hemlock woolly adelgid (HWA), <italic>Adelges tsugae</italic> (Annand) (Hemiptera: Adelgidae), is an invasive forest pest in eastern North America. Hemlocks vary in their suitability for and susceptibility to adelgid colonization and feeding [<xref rid="B30-insects-05-00364" ref-type="bibr">30</xref>,<xref rid="B31-insects-05-00364" ref-type="bibr">31</xref>,<xref rid="B32-insects-05-00364" ref-type="bibr">32</xref>,<xref rid="B33-insects-05-00364" ref-type="bibr">33</xref>,<xref rid="B34-insects-05-00364" ref-type="bibr">34</xref>], but the adelgid causes extensive mortality of the highly susceptible eastern, <italic>Tsuga canadensis</italic> (L.) Carri&#x000e8;re, and Carolina, <italic>T. caroliniana</italic> Engelm, hemlocks. Adults are sessile and are recognized by the presence of a white woolly ovisac. Newly hatched nymphs (crawlers) of both generations actively disperse to suitable feeding sites. The adelgid feeding stylet is about three times the length of the adult adelgid [<xref rid="B35-insects-05-00364" ref-type="bibr">35</xref>], and is inserted into the plant immediately proximal to the abscission layer at the base of the hemlock leaf (leaf cushion) (<xref ref-type="fig" rid="insects-05-00364-f001">Figure 1</xref>). The stylet penetrates deep through the vascular tissues of the leaf cushion, accessing starches stored in the xylem ray parenchyma cells at the leaf base [<xref rid="B35-insects-05-00364" ref-type="bibr">35</xref>]. Feeding depletes starch reserves, leading to needle loss, twig and branch dieback, and causing tree mortality [<xref rid="B34-insects-05-00364" ref-type="bibr">34</xref>,<xref rid="B36-insects-05-00364" ref-type="bibr">36</xref>].</p><fig id="insects-05-00364-f001" position="float"><label>Figure 1</label><caption><p>Hemlock woolly adelgid nymphs insert their feeding sylet proximal to the abscission layer at the base of the hemlock leaf (leaf cushion). Photo: Lori A. Nelson.</p></caption><graphic xlink:href="insects-05-00364-g001"/></fig><p>Because adults are sessile, the ability of the crawlers to locate and penetrate suitable leaf cushions is critical to colonization success. Ontogenetic or phenological differences in the feeding site during periods of crawler activity may provide a basis for hemlock woolly adelgid resistance among hemlocks [<xref rid="B30-insects-05-00364" ref-type="bibr">30</xref>,<xref rid="B31-insects-05-00364" ref-type="bibr">31</xref>,<xref rid="B33-insects-05-00364" ref-type="bibr">33</xref>,<xref rid="B37-insects-05-00364" ref-type="bibr">37</xref>]. In this study we investigated the application of microindentation to elucidate the role of biomechanical properties toward resistance in hemlocks to adelgid herbivory, and also quantified species-specific and seasonal differences in hardness of the adelgid feeding site for four hemlock species over a one-year period. Ultimately we sought to determine whether the susceptibility of eastern hemlock to the hemlock woolly adelgid might be influenced by micromechanical properties of the adelgid stylet insertion point.</p></sec><sec><title>2. Experimental Section</title><sec><title>2.1. Experimental Design</title><p>Four hemlock species were planted in winter 2007 in a common garden at the University of Kentucky Spindletop Research Farm, including eastern hemlock, western hemlock, <italic>T. heterophylla</italic> (Rafin.) Sarg., mountain hemlock, <italic>T. mertensiana</italic> (Bong.) Carri&#x000e8;re, and northern Japanese hemlock <italic>T. diversifolia</italic> (Maxim.) Mast. Trees were planted as 3&#x02013;4 year old containerized nursery stock in a common garden at 3 m intervals in a randomized block design. Each block (n = 10) contained a single tree of each species arranged randomly. Trees were fertilized with 15&#x02013;15&#x02013;15, N&#x02013;P&#x02013;K slow release fertilizer with a 3 month release duration (Osmocote, Sierra Chemical, Milipitas, CA, USA) at planting. Competing vegetation was suppressed with landscape fabric (DuPont, Wilmington, DE, USA). Trees were protected with 70% shade cloth (Dewitt, Sikeston, MO, USA) and watered at 2&#x02013;3 week intervals throughout the summer months. </p></sec><sec><title>2.2. Sampling</title><p>To evaluate species-specific and seasonal changes in micromechanical properties of the leaf cushions, three blocks containing all four hemlock species were randomly selected. Branch tips were removed from the apical region in the upper third of the south side of each tree, and separated into current- <italic>versus</italic> previous-year (new <italic>versus</italic> old) growth, generating three current-growth twigs and three previous-growth twigs per tree. Needles were removed using a scalpel, taking care to excise them distal to the abscission layer and leaving the leaf cushions intact. The twigs, with leaf cushions intact, were then stabilized on a glass microscope slide by immobilizing them in a 4.5 mL aliquot of a synthetic polymer composed of a 2:1 ratio of Sample Kwik Powder: Sample Kwik liquid (Buehler Ltd., Lake Bluff, IL, USA), so that the leaf cushions themselves were exposed. A single species (N = 3 trees) was sampled on each day, so that microindentations were performed on all four species over four consecutive days. </p><p>Sampling and subsequent microindentations for each replicate of each species (N = 3 trees) were completed in a single day, and repeated four times during each season. Sampling was conducted in spring (24 March&#x02013;10 April), as progrediens eggs and crawlers were generated, summer (7&#x02013;26 July), during sistens&#x02019; aestivation, fall (18&#x02013;23 November), coinciding with emergence of sistens nymphs from aestivation, and winter (9&#x02013;13 February), during sistens&#x02019; development. </p></sec><sec><title>2.3. Microindentations</title><p>Micromechanical properties of leaf cushions were measured using a micro-indenter (CSM Instruments, Needham, MA, USA) in the Micromechanics Laboratory at the University of Kentucky. Indentation tests were performed using a Vickers diamond indenter, creating an indentation on the leaf cushions following application of a load (<xref ref-type="fig" rid="insects-05-00364-f002">Figure 2</xref>). </p><fig id="insects-05-00364-f002" position="float"><label>Figure 2</label><caption><p>(<bold>a</bold>) Actual and (<bold>b</bold>) diagrammatic indentation mark resulting from the microindentation process of a CSM pyramidal micro-indenter.</p></caption><graphic xlink:href="insects-05-00364-g002"/></fig><p>Following the indentation, hardness is then determined using the load used to create the indentation and the calculated area of the impression on the material (<xref ref-type="fig" rid="insects-05-00364-f003">Figure 3</xref>) [<xref rid="B22-insects-05-00364" ref-type="bibr">22</xref>].</p><fig id="insects-05-00364-f003" position="float"><label>Figure 3</label><caption><p>A schematic representation of a typical indentation process, demonstrating the relationship between indentation depth and load, where Hp: final depth after load removal, Hr: residual depth after load removal, Hc: contact depth of indentation, and Hm: maximum depth of indentation.</p></caption><graphic xlink:href="insects-05-00364-g003"/></fig><p>Indentations were performed directly on the leaf cushions (<xref ref-type="fig" rid="insects-05-00364-f002">Figure 2</xref>a) attached to the twigs that were embedded in the polymer on the glass microscope slides. Two loads were used (30 and 45 mN), with constant loading and unloading rates of 120 N/min with no holding time/ pause for the loading phase and the unloading phase. There were two replications per load. For each species, there were twelve 30 mN and 45 mN indentations, making a total of 24 indentations per species. Indentations were repeated 4 times for each species during each season for a total of 96 indentations per species per season. Thus, there were 384 indentations for each species over four seasons.</p><p>Because the fluid-like behavior of plant material resists deformation, a confounding factor in this approach is the inability to consistently obtain indentation marks on leaf cushions. The indentation mark is needed for calculation of the area of deformation following indentation at a particular load, in order to determine hardness (<xref ref-type="fig" rid="insects-05-00364-f003">Figure 3</xref>). Knowing the actual area of an impression is essential to directly obtain the true mechanical properties of the material being evaluated [<xref rid="B22-insects-05-00364" ref-type="bibr">22</xref>]; it is calculated by determining the square of the average diagonal lengths of the indentation mark. Consequently we used an alternate approach to determine the projected area of impression/ indentation using contact depth (Hc) (<xref ref-type="fig" rid="insects-05-00364-f003">Figure 3</xref>), a parameter in the indentation process. The projected contact area (mm<sup>2</sup>) for the pyramidal indenter we used is calculated as<disp-formula>
+A = 24.5 (Hc)&#x000b2;
+</disp-formula>
+where Hc = contact depth of indentation (mm), or the vertical distance from the edge of the contact area to the indenter tip [<xref rid="B22-insects-05-00364" ref-type="bibr">22</xref>].</p><p>Hardness is determined following indentation using the load of indentation and the calculated area of the impression on the material [<xref rid="B22-insects-05-00364" ref-type="bibr">22</xref>] (<xref ref-type="fig" rid="insects-05-00364-f002">Figure 2</xref>). Leaf cushion hardness (N/mm<sup>2</sup>) or (MPa) is then calculated using
+<disp-formula>
+H = P<sub>max</sub>&#x02219;A<sup>&#x02212;1</sup>;
+</disp-formula>
+where H = hardness, A = projected contact area (mm&#x000b2;), and P<sub>max</sub> = Load (N).</p><p>Microindentation measurements can also be confounded by an indentation size effect, or a decrease in hardness with increasing applied load [<xref rid="B22-insects-05-00364" ref-type="bibr">22</xref>], which can be caused by elastic recovery of the material, potential for a mixed elastic/plastic deformation response of the test material, and indenter-specimen friction resistance coupled with elastic resistance of material [<xref rid="B38-insects-05-00364" ref-type="bibr">38</xref>]. Any indentation size effect in our samples would likely be attributable to the heterogeneous and anisotropic nature of our target material, coupled with its high viscoelastic feature, relative to the harder, homogeneous, and more rigid materials used in conventional microindentation [<xref rid="B22-insects-05-00364" ref-type="bibr">22</xref>,<xref rid="B38-insects-05-00364" ref-type="bibr">38</xref>]. Additional concerns for our indentation process might arise from the unevenness of our leaf cushion surfaces, the initial depth of penetration, compliance of the system, and noise associated with unloading [<xref rid="B39-insects-05-00364" ref-type="bibr">39</xref>].</p><p>For any hardness determination there are &#x02018;load-dependent&#x02019; and &#x02018;load-independent&#x02019; components; we utilized a load-dependent approach for our determinations. This approach uses average hardness values determined using multiple test loads to account for any decrease in hardness with increasing load of indentation. In this approach, the Y-axis values (<xref ref-type="fig" rid="insects-05-00364-f003">Figure 3</xref>) are the &#x02018;load-dependent hardness&#x02019;, <italic>i.e.</italic>, the hardness determined at particular loads, and reflects actual hardness of the material being tested. A second approach is to apply multiple loads on the same material and subsequently regress the determined hardness values against the tested indentation loads. The negative slopes of the resulting lines are an indication of the rate of change of the hardness with increasing loads, and the intercepts are the hardness estimates as the indentation load approaches zero, or the &#x02018;load-independent hardness&#x02019;. The nature of our plant material precluded the use of load-independent hardness, so in this study we focused on load-dependent hardness, and values obtained at loads of 30 mN and 45 mN were averaged for the four hemlock species across four seasons. </p></sec><sec><title>2.4. Statistical Analysis</title><p>Trees were our unit of replication, generating a total of 96 data points (3 trees &#x000d7; 4 species &#x000d7; 4 sample intervals &#x000d7; 2 growth classes). Hardness values from microindentations were calculated using the projected area approach, and data for both loads and hardness values were log transformed for subsequent analysis. A repeated measure ANOVA was performed using species, load, tree and tissue age as model effects, with season as the repeated measure. This approach allowed us to evaluate effects over time with the absence of independence between measurements on the same treatment unit (tree). Indentation load, tree and tissue age accounted for the majority of the variability in the data; treating them as fixed effects enabled the species effect to be determined with greater precision. Means comparisons were then carried out for significant effects using the standard least squares model with seasonal hardness as the dependent variable and species, age, and load as model factors. Means separations were carried out using Tukey&#x02019;s HSD. All analyses were performed using JMP<sup>&#x000ae;</sup> 10.0.</p></sec></sec><sec><title>3. Results and Discussion</title><p>Microindentations at loads of 30 and 45 mN yielded hemlock leaf cushion hardness values with comparable variability for all species, supporting the feasibility of utilizing this approach to evaluate relevant plant micromechanical properties, appropriately optimized for target test materials. </p><p>Our overall model evaluating leaf cushion hardness was significant (F = 47.23; df = 7, 40; <italic>p</italic> &#x0003c; 0.0001), including the effects of hemlock species (F = 14.06; df = 3, 40; <italic>p</italic> &#x0003c; 0.0001), tissue age (F = 6.09; df = 1, 40; <italic>p</italic> = 0.018), tree (F = 7.29; df = 2, 40; <italic>p</italic> = 0.0020), and indentation load (F = 267.7; df = 1, 40; <italic>p</italic> &#x0003c; 0.0001), in the repeated measures analysis. </p><p>Not surprisingly, all four hemlock species demonstrated significant seasonal changes in leaf cushion hardness over the course of sampling (F = 9.82; df = 3, 38; <italic>p</italic> &#x0003c; 0.0001). Winter and spring leaf cushion hardness values were comparable, followed by a decrease in summer, and subsequent increase to an autumn maximum (<xref ref-type="table" rid="insects-05-00364-t001">Table 1</xref>). </p><table-wrap id="insects-05-00364-t001" position="float"><object-id pub-id-type="pii">insects-05-00364-t001_Table 1</object-id><label>Table 1</label><caption><p>Seasonal hardness (mean &#x000b1; s.e.) (MPa) of the hemlock woolly adelgid feeding stylet insertion point across four <italic>Tsuga</italic> species. Means separation performed on log-transformed data. Means followed by the same letter do not differ (<italic>p</italic> &#x0003c; 0.05).</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" valign="middle" rowspan="1" colspan="1">Season</th><th align="center" valign="middle" rowspan="1" colspan="1">Hardness (MPa)</th></tr></thead><tbody><tr><td align="center" valign="middle" rowspan="1" colspan="1">Spring</td><td align="center" valign="middle" rowspan="1" colspan="1">83.17 &#x000b1; 0.02 b</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Summer</td><td align="center" valign="middle" rowspan="1" colspan="1">47.71 &#x000b1; 0.03 c</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Autumn</td><td align="center" valign="middle" rowspan="1" colspan="1">158.48 &#x000b1; 0.03 a</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Winter</td><td align="center" valign="middle" rowspan="1" colspan="1">95.50 &#x000b1; 0.02 b</td></tr><tr style="border-top:solid thin"><td align="center" valign="middle" rowspan="1" colspan="1">F; df = 3, 38/<italic>p</italic></td><td align="center" valign="middle" rowspan="1" colspan="1">9.82/&#x0003c;0.0001</td></tr></tbody></table></table-wrap><p>We found significant species-specific variation in leaf cushion hardness between seasons (F = 14.06; df = 3, 40; <italic>p</italic> &#x0003c; 0.0001), with northern Japanese hemlock having significantly greater hardness values across seasons (<xref ref-type="table" rid="insects-05-00364-t002">Table 2</xref>). </p><table-wrap id="insects-05-00364-t002" position="float"><object-id pub-id-type="pii">insects-05-00364-t002_Table 2</object-id><label>Table 2</label><caption><p>Species-specific hardness (mean &#x000b1; s.e.) (MPa) of four <italic>Tsuga</italic> species at the feeding stylet insertion point of the hemlock woolly adelgid, <italic>Adelges tsugae</italic>. Means separation performed on log-transformed data; means followed by the same letter do not differ (<italic>p</italic> &#x0003c; 0.05).</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" valign="middle" rowspan="1" colspan="1">Hemlock species</th><th align="center" valign="middle" rowspan="1" colspan="1">Hardness (MPa)</th></tr></thead><tbody><tr><td align="center" valign="middle" rowspan="1" colspan="1">Eastern, <italic>T. canadensis</italic></td><td align="center" valign="middle" rowspan="1" colspan="1">87.09 &#x000b1; 0.04 ab</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Northern Japanese, <italic>T. diversifolia</italic></td><td align="center" valign="middle" rowspan="1" colspan="1">104.71 &#x000b1; 0.04 a</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Mountain, <italic>T. mertensiana</italic></td><td align="center" valign="middle" rowspan="1" colspan="1">81.28 &#x000b1; 0.04 b</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Western, <italic>T. heterophylla</italic></td><td align="center" valign="middle" rowspan="1" colspan="1">77.62 &#x000b1; 0.03 b</td></tr><tr style="border-top:solid thin"><td align="center" valign="middle" rowspan="1" colspan="1">F; df = 3, 40/<italic>p</italic></td><td align="center" valign="middle" rowspan="1" colspan="1">14.60/&#x0003c;0.0001</td></tr></tbody></table></table-wrap><p>There was a significant season &#x000d7; species interaction (Wilks&#x02019; Lambda F = 3.82; df = 9, 92; <italic>p</italic> = 0.0004), driven by differences in autumn and winter hardness (<xref ref-type="table" rid="insects-05-00364-t003">Table 3</xref>). </p><table-wrap id="insects-05-00364-t003" position="float"><object-id pub-id-type="pii">insects-05-00364-t003_Table 3</object-id><label>Table 3</label><caption><p>Hardness (mean &#x000b1; s.e.) of the hemlock woolly adelgid feeding stylet insertion point of four <italic>Tsuga</italic> species across four seasons. Means separation performed on log&#x02011;transformed data; means within columns followed by the same letter do not differ (<italic>p</italic> &#x0003c; 0.05).</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="2" align="center" valign="middle" colspan="1">Hemlock species</th><th colspan="4" align="center" valign="middle" rowspan="1">Hardness (MPa)</th></tr><tr style="border-top:solid thin"><th align="center" valign="middle" rowspan="1" colspan="1">Spring</th><th align="center" valign="middle" rowspan="1" colspan="1">Summer</th><th align="center" valign="middle" rowspan="1" colspan="1">Autumn</th><th align="center" valign="middle" rowspan="1" colspan="1">Winter</th></tr></thead><tbody><tr><td align="center" valign="middle" rowspan="1" colspan="1">Eastern, <italic>T. canadensis</italic></td><td align="center" valign="middle" rowspan="1" colspan="1">89.12 &#x000b1; 0.05 a</td><td align="center" valign="middle" rowspan="1" colspan="1">46.77 &#x000b1; 0.05 a</td><td align="center" valign="middle" rowspan="1" colspan="1">151.35 &#x000b1; 0.06 bc</td><td align="center" valign="middle" rowspan="1" colspan="1">93.32 &#x000b1; 0.04 b</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">N. Japanese, <italic>T. diversifolia</italic></td><td align="center" valign="middle" rowspan="1" colspan="1">74.13 &#x000b1; 0.05 a</td><td align="center" valign="middle" rowspan="1" colspan="1">51.28 &#x000b1; 0.06 a</td><td align="center" valign="middle" rowspan="1" colspan="1">213.80 &#x000b1; 0.05 a</td><td align="center" valign="middle" rowspan="1" colspan="1">147.91 &#x000b1; 0.05 a</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Mountain, <italic>T. mertensiana</italic></td><td align="center" valign="middle" rowspan="1" colspan="1">81.28 &#x000b1; 0.05 a</td><td align="center" valign="middle" rowspan="1" colspan="1">43.65 &#x000b1; 0.05 a</td><td align="center" valign="middle" rowspan="1" colspan="1">165.95 &#x000b1; 0.05 ab</td><td align="center" valign="middle" rowspan="1" colspan="1">77.62 &#x000b1; 0.04 b</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Western, <italic>T. heterophylla</italic></td><td align="center" valign="middle" rowspan="1" colspan="1">85.11 &#x000b1; 0.04 a</td><td align="center" valign="middle" rowspan="1" colspan="1">43.65 &#x000b1; 0.05 a</td><td align="center" valign="middle" rowspan="1" colspan="1">123.03 &#x000b1; 0.05 c</td><td align="center" valign="middle" rowspan="1" colspan="1">83.18 &#x000b1; 0.03 b</td></tr><tr style="border-top:solid thin"><td align="center" valign="middle" rowspan="1" colspan="1">F; df = 3, 44/<italic>p</italic></td><td align="center" valign="middle" rowspan="1" colspan="1">0.89/0.45</td><td align="center" valign="middle" rowspan="1" colspan="1">0.77/0.52</td><td align="center" valign="middle" rowspan="1" colspan="1">11.35/0.0001</td><td align="center" valign="middle" rowspan="1" colspan="1">13.68/0.0001</td></tr></tbody></table></table-wrap><p>Northern Japanese hemlock leaf cushion hardness was highest and western hemlock leaf cushion hardness was lowest in the autumn. In the winter, however, northern Japanese hemlock was significantly higher than all the other hemlocks evaluated (<xref ref-type="table" rid="insects-05-00364-t003">Table 3</xref>). No significant differences among species were evident in spring and summer, when hardness values were relatively low. </p><p>There were significant season &#x000d7; age (F = 3.87; df = 3, 38; <italic>p</italic> &#x0003c; 0.0001) and season &#x000d7; tree (Wilks&#x02019; Lambda F = 3.42; df = 6, 76; <italic>p</italic> &#x0003c; 0.0001) interactions in the repeated measures analysis. These most likely reflect differential maturation of twigs of different species across seasons, and between different trees of a species, reflected by higher hardness values in the fall and winter compared to spring and summer.</p><p>Lastly, there was a significant effect of microindentation load (F = 267.7; df = 1, 40; <italic>p</italic> &#x0003c; 0.0001) that suggest an indentation size effect; this was addressed in our study by using average hardness estimates across both loads in determining the species and seasonal effects and interactions, rather than a single hardness reading at a specific load. </p></sec><sec><title>4. Discussion and Conclusions</title><p>Our data demonstrate that microindentation can provide a repeatable and reliable means of evaluating micromechanical behavior of a heterogeneous, composite biological material [<xref rid="B14-insects-05-00364" ref-type="bibr">14</xref>]. Using the predicted area approach to overcome the presence of an indentation size effect [<xref rid="B22-insects-05-00364" ref-type="bibr">22</xref>], we generated consistent and repeatable results for our test materials. We demonstrate temporal changes in hemlock leaf cushion hardness, but these differences differ from the seasonal increases in tissue hardness evident in some systems [<xref rid="B5-insects-05-00364" ref-type="bibr">5</xref>,<xref rid="B9-insects-05-00364" ref-type="bibr">9</xref>,<xref rid="B11-insects-05-00364" ref-type="bibr">11</xref>,<xref rid="B12-insects-05-00364" ref-type="bibr">12</xref>,<xref rid="B17-insects-05-00364" ref-type="bibr">17</xref>]. Leaf cushion hardness across hemlock species was lowest in the summer and greatest in the autumn, perhaps reflecting tissue maturation following spring growth and summer dormancy [<xref rid="B40-insects-05-00364" ref-type="bibr">40</xref>]; leaf cushion hardness was intermediate in the winter and spring. </p><p>Hemlock woolly adelgid crawler survival may be compromised due to difficulties inherent in penetrating leaf cushions. Greater difficulty in stylet penetration, whether because the material is too hard or too soft, may hinder adelgid colonization on resistant hemlocks, and/or minimize the negative effects of adelgid feeding on the hemlock host. The intermediate hardness in early spring (late March to early April) coincides with spring generation adelgid crawler activity, and occurs before hemlock budbreak and leaf expansion. Thus, all tissues sampled during our spring sample interval were from the previous year&#x02019;s growth [<xref rid="B41-insects-05-00364" ref-type="bibr">41</xref>], which may explain the absence of differences in hardness based on tissue age. Although our focus in this study was on the hemlock host plant and no bioassays were conducted, adelgid crawlers of the spring generation preferentially settle on the same age tissue on which their parents fed [<xref rid="B42-insects-05-00364" ref-type="bibr">42</xref>]; our findings corroborate this. Oten <italic>et al.</italic> [<xref rid="B33-insects-05-00364" ref-type="bibr">33</xref>,<xref rid="B37-insects-05-00364" ref-type="bibr">37</xref>] evaluated six <italic>Tsuga</italic> species and a hybrid, and found that the hemlock leaf cuticle was thinnest near the point of adelgid stylet insertion relative to other locations measured, and this might relate to adelgid host selection and/or hemlock susceptibility. It follows that cuticle thickness could relate to leaf cushion hardness.</p><p>Physical characteristics of the plant&#x02013;insect interface are known to play a role in other systems. The aphids <italic>Myzus persicae</italic> (Sulz.) and <italic>Nasonovia ribisnigri</italic> (Mosley) (Hemiptera: Aphididae), make a greater number of shorter probes on resistant lettuce, <italic>Lactuca</italic>
+<italic>sativa</italic> (Fam: Asteraceae), than on susceptible plants, and shorter probes lead to less successful feeding [<xref rid="B42-insects-05-00364" ref-type="bibr">42</xref>]. Leaf toughness of the herbaceous <italic>Aristolochia kaempferi</italic> (Fam: Aristolochiaceae) prolonged larval development, decreased larval survival, and lengthened pupal diapause in <italic>Byasa alcinous</italic> (Fam: Papilionidae), a mandibulate folivore [<xref rid="B12-insects-05-00364" ref-type="bibr">12</xref>]. Similar findings were reported for the endophagous <italic>Bagous hydrillae</italic> (Fam: Curculionidae) on aquatic <italic>Hydrilla</italic> sp. [<xref rid="B11-insects-05-00364" ref-type="bibr">11</xref>]. Studies have demonstrated a link between host phenology, foliar toughness, and herbivore susceptibility. Foliar toughness is correlated with phenological development, and has been shown to play a role in herbivore susceptibility of neotropical shrubs [<xref rid="B43-insects-05-00364" ref-type="bibr">43</xref>], temperate evergreen trees [<xref rid="B44-insects-05-00364" ref-type="bibr">44</xref>], and temperate deciduous trees [<xref rid="B17-insects-05-00364" ref-type="bibr">17</xref>,<xref rid="B45-insects-05-00364" ref-type="bibr">45</xref>].</p><p>Plant chemistry likely also influences hemlock susceptibility to hemlock woolly adelgid [<xref rid="B41-insects-05-00364" ref-type="bibr">41</xref>,<xref rid="B46-insects-05-00364" ref-type="bibr">46</xref>,<xref rid="B47-insects-05-00364" ref-type="bibr">47</xref>]. Lagalante and Montgomery [<xref rid="B41-insects-05-00364" ref-type="bibr">41</xref>] show that eastern and Carolina hemlocks have fluctuating levels of specific terpenes that may be linked to adelgid life history and influence adelgid behavior. It is conceivable that phytochemical defenses may be mediating resistance to adelgid during certain times of the year, and as hemlocks mature, micromechanical properties of the feeding site become increasingly responsible for mediating resistance.</p><p>We demonstrate the feasibility of utilizing a novel approach to evaluate plant micromechanical properties that may contribute to constitutive defenses against phloem-feeding herbivores. Here we focus on eastern hemlock and the invasive hemlock woolly adelgid, but our approach may be applicable to other plant&#x02013;herbivore systems. Given the role of eastern hemlock as a foundation species in eastern North American forests, a greater understanding of the mechanisms of plant resistance, in concert with biological control efforts, may enhance our ability to mitigate the devastating effects of this invasive herbivore. </p></sec></body><back><ack><title>Acknowledgments</title><p>We thank Rong Chen, Josh Clark, Li Ding, Amber Jones, and Melanie Sprinkle for assistance, and Dan Potter for reviewing an earlier version of this manuscript. Special thanks to Yan Li for technical assistance with the microindentation instrumentation. Thanks to Angela Schoergendorfer, University of Kentucky, and Michael Coccia, Pennsylvania State University, for statistical assistance. We appreciate the input of two anonymous reviewers, whose comments helped strengthen this manuscript. This research was supported by the Kentucky Agricultural Experiment Station and is published as Experiment Station Report 14-08-009.</p></ack><notes><title>Author Contributions</title><p>This experiment was conceptualized and designed by L.K. Rieske, with assistance from co-authors. P. Ayayee carried out the experiments, with significant oversight and input from F. Yang. P. Ayayee also conducted the statistical analysis and contributed significantly to the write up, with supervision and input from L.K. Rieske. F. Yang provided the instrumentation and much need technical input on technique and optimization.</p></notes><notes><title>Conflicts of Interest</title><p>The authors declare no conflict of interest. </p></notes><ref-list><title>References</title><ref id="B1-insects-05-00364"><label>1.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Painter</surname><given-names>R.H.</given-names></name></person-group>
+<article-title>Resistance of plants to insects</article-title>
+<source>Ann. Rev. Entomol.</source>
+<year>1958</year>
+<volume>3</volume>
+<fpage>267</fpage>
+<lpage>290</lpage>
+<pub-id pub-id-type="doi">10.1146/annurev.en.03.010158.001411</pub-id>
+</element-citation></ref><ref id="B2-insects-05-00364"><label>2.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hart</surname><given-names>S.V.</given-names></name><name><surname>Kogan</surname><given-names>M.</given-names></name><name><surname>Paxton</surname><given-names>J.D.</given-names></name></person-group>
+<article-title>Effect of soybean phytoalexins on the herbivorous insects mexican bean beetle and soybean lopper</article-title>
+<source>J. Chem. Ecol.</source>
+<year>1983</year>
+<volume>9</volume>
+<fpage>657</fpage>
+<lpage>672</lpage>
+<pub-id pub-id-type="pmid">24407615</pub-id></element-citation></ref><ref id="B3-insects-05-00364"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dreyer</surname><given-names>D.L.</given-names></name><name><surname>Campbell</surname><given-names>B.C.</given-names></name></person-group>
+<article-title>Chemical basis of host-plant resistance to aphids</article-title>
+<source>Plant Cell Environ.</source>
+<year>1987</year>
+<volume>10</volume>
+<fpage>353</fpage>
+<lpage>361</lpage>
+</element-citation></ref><ref id="B4-insects-05-00364"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Price</surname><given-names>P.W.</given-names></name></person-group>
+<article-title>The plant vigor hypothesis and herbivore attack</article-title>
+<source>Oikos</source>
+<year>1991</year>
+<volume>62</volume>
+<fpage>244</fpage>
+<lpage>251</lpage>
+<pub-id pub-id-type="doi">10.2307/3545270</pub-id>
+</element-citation></ref><ref id="B5-insects-05-00364"><label>5.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Eliason</surname><given-names>E.A.</given-names></name><name><surname>Potter</surname><given-names>D.A.</given-names></name></person-group>
+<article-title>Budburst phenology, plant vigor, and host genotype effects on the leaf-galling generation of <italic>Callirhytis cornigera</italic> (Hymenoptera: Cynipidae) on pin oak</article-title>
+<source>Environ. Entomol.</source>
+<year>2000</year>
+<volume>29</volume>
+<fpage>1199</fpage>
+<lpage>1207</lpage>
+</element-citation></ref><ref id="B6-insects-05-00364"><label>6.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Clancy</surname><given-names>K.M.</given-names></name></person-group>
+<article-title>Mechanisms of resistance in trees to defoliators</article-title>
+<source>Mechanisms of Deployment of Resistance in Trees to Insects</source>
+<person-group person-group-type="editor"><name><surname>Wagner</surname><given-names>M.R.</given-names></name><name><surname>Clancy</surname><given-names>K.M.</given-names></name><name><surname>Lieutier</surname><given-names>F.</given-names></name><name><surname>Paine</surname><given-names>T.D.</given-names></name></person-group>
+<publisher-name>Kluwer</publisher-name>
+<publisher-loc>Dordrecht, The Netherlands</publisher-loc>
+<year>2002</year>
+<fpage>79</fpage>
+<lpage>104</lpage>
+</element-citation></ref><ref id="B7-insects-05-00364"><label>7.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Foss</surname><given-names>L.K.</given-names></name><name><surname>Rieske</surname><given-names>L.K.</given-names></name></person-group>
+<article-title>Stem galls affect oak foliage with potential consequences for herbivory</article-title>
+<source>Ecol. Entomol.</source>
+<year>2004</year>
+<volume>29</volume>
+<fpage>273</fpage>
+<lpage>280</lpage>
+</element-citation></ref><ref id="B8-insects-05-00364"><label>8.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Larsson</surname><given-names>S.</given-names></name></person-group>
+<article-title>Resistance in trees to insects&#x02014;An overview of mechanisms and interactions</article-title>
+<source>Mechanisms of Deployment of Resistance in Trees to Insects</source>
+<person-group person-group-type="editor"><name><surname>Wagner</surname><given-names>M.R.</given-names></name><name><surname>Clancy</surname><given-names>K.M.</given-names></name><name><surname>Lieutier</surname><given-names>F.</given-names></name><name><surname>Paine</surname><given-names>T.D.</given-names></name></person-group>
+<publisher-name>Kluwer</publisher-name>
+<publisher-loc>Dordrecht, The Netherlands</publisher-loc>
+<year>2002</year>
+<fpage>1</fpage>
+<lpage>30</lpage>
+</element-citation></ref><ref id="B9-insects-05-00364"><label>9.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schultz</surname><given-names>J.C.</given-names></name><name><surname>Nothnagle</surname><given-names>P.J.</given-names></name><name><surname>Baldwin</surname><given-names>I.T.</given-names></name></person-group>
+<article-title>Seasonal and individual variation in leaf quality of two northern hardwood tree species</article-title>
+<source>Am. J. Bot.</source>
+<year>1982</year>
+<volume>69</volume>
+<fpage>753</fpage>
+<lpage>759</lpage>
+</element-citation></ref><ref id="B10-insects-05-00364"><label>10.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lowman</surname><given-names>M.D.</given-names></name><name><surname>Box</surname><given-names>J.D.</given-names></name></person-group>
+<article-title>Variation in leaf toughness and phenolic content among five species of Australian rain forest trees</article-title>
+<source>Austral Ecol.</source>
+<year>1983</year>
+<volume>8</volume>
+<fpage>17</fpage>
+<lpage>25</lpage>
+</element-citation></ref><ref id="B11-insects-05-00364"><label>11.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wheeler</surname><given-names>G.S.</given-names></name><name><surname>Center</surname><given-names>T.D.</given-names></name></person-group>
+<article-title>Growth and development of the biological control agent <italic>Bagous hydrillae</italic> as influenced by hydrilla (<italic>Hydrilla verticillata</italic>) stem quality</article-title>
+<source>Biol. Contr.</source>
+<year>1997</year>
+<volume>8</volume>
+<fpage>52</fpage>
+<lpage>57</lpage>
+</element-citation></ref><ref id="B12-insects-05-00364"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Takagi</surname><given-names>S.</given-names></name><name><surname>Miyashita</surname><given-names>T.</given-names></name></person-group>
+<article-title>Host plant quality influences diapause induction of <italic>Byasa alcinous</italic> (Lepidoptera: Papillionidae)</article-title>
+<source>Ann. Ent. Soc. Am.</source>
+<year>2008</year>
+<volume>101</volume>
+<fpage>392</fpage>
+<lpage>396</lpage>
+</element-citation></ref><ref id="B13-insects-05-00364"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lucas</surname><given-names>P.W.</given-names></name><name><surname>Turner</surname><given-names>I.M.</given-names></name><name><surname>Dominy</surname><given-names>N.J.</given-names></name><name><surname>Yamashita</surname><given-names>N.</given-names></name></person-group>
+<article-title>Mechanical defences to herbivory</article-title>
+<source>Ann. Bot.</source>
+<year>2000</year>
+<volume>86</volume>
+<fpage>913</fpage>
+<lpage>920</lpage>
+</element-citation></ref><ref id="B14-insects-05-00364"><label>14.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sanson</surname><given-names>G.</given-names></name><name><surname>Read</surname><given-names>J.</given-names></name><name><surname>Aranwela</surname><given-names>N.</given-names></name><name><surname>Clissold</surname><given-names>F.</given-names></name><name><surname>Peeters</surname><given-names>P.</given-names></name></person-group>
+<article-title>Measurement of leaf biomechanical properties in studies of herbivory: Opportunities, problems and procedures</article-title>
+<source>Austral Ecol.</source>
+<year>2001</year>
+<volume>26</volume>
+<fpage>535</fpage>
+<lpage>546</lpage>
+</element-citation></ref><ref id="B15-insects-05-00364"><label>15.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Potter</surname><given-names>D.</given-names></name></person-group>
+<article-title>Population regulation of the native holly leafminer, <italic>Phytomyza ilicicola</italic> Loew (Diptera: Agromyzidae), on American holly</article-title>
+<source>Oecologia</source>
+<year>1985</year>
+<volume>66</volume>
+<fpage>499</fpage>
+<lpage>505</lpage>
+<pub-id pub-id-type="doi">10.1007/BF00379340</pub-id>
+</element-citation></ref><ref id="B16-insects-05-00364"><label>16.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Choong</surname><given-names>M.F.</given-names></name></person-group>
+<article-title>What makes a leaf tough and how this affects the pattern of <italic>Castanopsis fissa</italic> leaf consumption by caterpillars</article-title>
+<source>Func. Ecol.</source>
+<year>1996</year>
+<volume>10</volume>
+<fpage>668</fpage>
+<lpage>674</lpage>
+<pub-id pub-id-type="doi">10.2307/2390178</pub-id>
+</element-citation></ref><ref id="B17-insects-05-00364"><label>17.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Foss</surname><given-names>L.K.</given-names></name><name><surname>Rieske</surname><given-names>L.K.</given-names></name></person-group>
+<article-title>Species-specific differences in oak foliage affect preference and performance of gypsy moth caterpillars</article-title>
+<source>Entomol. Exp. Appl.</source>
+<year>2003</year>
+<volume>108</volume>
+<fpage>87</fpage>
+<lpage>93</lpage>
+</element-citation></ref><ref id="B18-insects-05-00364"><label>18.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Agrawal</surname><given-names>A.A.</given-names></name><name><surname>Kotanen</surname><given-names>P.M.</given-names></name><name><surname>Mitchell</surname><given-names>C.E.</given-names></name><name><surname>Power</surname><given-names>A.G.</given-names></name><name><surname>Godsoe</surname><given-names>W.</given-names></name><name><surname>Klironomos</surname><given-names>J.</given-names></name></person-group>
+<article-title>Enemy release? An experiment with congeneric plant pairs and diverse above- and belowground enemies</article-title>
+<source>Ecology</source>
+<year>2005</year>
+<volume>86</volume>
+<fpage>2979</fpage>
+<lpage>2989</lpage>
+</element-citation></ref><ref id="B19-insects-05-00364"><label>19.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dimarco</surname><given-names>R.D.</given-names></name><name><surname>Nice</surname><given-names>C.C.</given-names></name><name><surname>Fordyce</surname><given-names>J.A.</given-names></name></person-group>
+<article-title>Family matters: Effect of host plant variation in chemical and mechanical defenses on a sequestering specialist herbivore</article-title>
+<source>Oecologia</source>
+<year>2012</year>
+<volume>170</volume>
+<fpage>687</fpage>
+<lpage>693</lpage>
+<pub-id pub-id-type="pmid">22584583</pub-id></element-citation></ref><ref id="B20-insects-05-00364"><label>20.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brazhkin</surname><given-names>V.</given-names></name><name><surname>Dubrovinskaia</surname><given-names>N.</given-names></name><name><surname>Nicol</surname><given-names>M.</given-names></name><name><surname>Novikov</surname><given-names>N.</given-names></name><name><surname>Riedel</surname><given-names>R.</given-names></name><name><surname>Solozhenko</surname><given-names>V.</given-names></name><name><surname>Zhao</surname><given-names>Y.</given-names></name></person-group>
+<article-title>What does &#x0201c;Harder than Diamond&#x0201d; mean?</article-title>
+<source>Nat. Mater.</source>
+<year>2004</year>
+<volume>3</volume>
+<fpage>576</fpage>
+<lpage>577</lpage>
+<pub-id pub-id-type="pmid">15343282</pub-id></element-citation></ref><ref id="B21-insects-05-00364"><label>21.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ang</surname><given-names>K.Y.</given-names></name><name><surname>Lucas</surname><given-names>P.W.</given-names></name><name><surname>Tan</surname><given-names>H.T.W.</given-names></name></person-group>
+<article-title>Novel way of measuring the fracture toughness of leaves and other thin films using a single inclined razor blade</article-title>
+<source>New Phytol.</source>
+<year>2008</year>
+<volume>177</volume>
+<fpage>830</fpage>
+<lpage>837</lpage>
+<pub-id pub-id-type="pmid">18069959</pub-id></element-citation></ref><ref id="B22-insects-05-00364"><label>22.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Oliver</surname><given-names>W.C.</given-names></name><name><surname>Pharr</surname><given-names>G.M.</given-names></name></person-group>
+<article-title>An improved technique for determining hardness and elastic modulus using load and displacement sensing indentation experiments</article-title>
+<source>J. Mater. Res.</source>
+<year>1992</year>
+<volume>7</volume>
+<fpage>1564</fpage>
+<lpage>1583</lpage>
+</element-citation></ref><ref id="B23-insects-05-00364"><label>23.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bolduc</surname><given-names>J.-F.</given-names></name><name><surname>Lewis</surname><given-names>L.</given-names></name><name><surname>Aubin</surname><given-names>C.-&#x000c9;.</given-names></name><name><surname>Geitmann</surname><given-names>A.</given-names></name></person-group>
+<article-title>Finite-element analysis of geometrical factors in micro-indentation of pollen tubes</article-title>
+<source>Biomech. Model. Mechan.</source>
+<year>2006</year>
+<volume>5</volume>
+<fpage>227</fpage>
+<lpage>236</lpage>
+</element-citation></ref><ref id="B24-insects-05-00364"><label>24.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>X.Y.</given-names></name><name><surname>Yap</surname><given-names>A.U.J.</given-names></name><name><surname>Ngo</surname><given-names>H.C.</given-names></name><name><surname>Chung</surname><given-names>S.M.</given-names></name></person-group>
+<article-title>Environmental degradation of glass-ionomer cements: A depth-sensing microindentation study</article-title>
+<source>J. Biomed. Mater. Res. B</source>
+<year>2007</year>
+<volume>82</volume>
+<fpage>1</fpage>
+<lpage>6</lpage>
+</element-citation></ref><ref id="B25-insects-05-00364"><label>25.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wimmer</surname><given-names>R.</given-names></name><name><surname>Lucas</surname><given-names>B.N.</given-names></name><name><surname>Oliver</surname><given-names>W.C.</given-names></name><name><surname>Tsui</surname><given-names>T.Y.</given-names></name></person-group>
+<article-title>Longitudinal hardness and Young's modulus of spruce tracheid secondary walls using nanoindentation technique</article-title>
+<source>Wood Sci. Technol.</source>
+<year>1997</year>
+<volume>31</volume>
+<fpage>131</fpage>
+<lpage>141</lpage>
+</element-citation></ref><ref id="B26-insects-05-00364"><label>26.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Burgert</surname><given-names>I.</given-names></name></person-group>
+<article-title>Exploring the micromechanical design of plant cell walls</article-title>
+<source>Am. J. Bot.</source>
+<year>2006</year>
+<volume>93</volume>
+<fpage>1391</fpage>
+<lpage>1401</lpage>
+<pub-id pub-id-type="doi">10.3732/ajb.93.10.1391</pub-id>
+<pub-id pub-id-type="pmid">21642086</pub-id></element-citation></ref><ref id="B27-insects-05-00364"><label>27.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Enders</surname><given-names>S.</given-names></name><name><surname>Barbakadse</surname><given-names>N.</given-names></name><name><surname>Gorb</surname><given-names>S.N.</given-names></name><name><surname>Arzt</surname><given-names>E.</given-names></name></person-group>
+<article-title>Exploring biological surfaces by nanoindentation</article-title>
+<source>J. Mater. Res.</source>
+<year>2004</year>
+<volume>19</volume>
+<fpage>880</fpage>
+<lpage>887</lpage>
+</element-citation></ref><ref id="B28-insects-05-00364"><label>28.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Niklas</surname><given-names>K.J.</given-names></name><name><surname>Spatz</surname><given-names>H.-C.</given-names></name><name><surname>Vincent</surname><given-names>J.</given-names></name></person-group>
+<article-title>Plant biomechanics: An overview and prospectus</article-title>
+<source>Am. J. Bot.</source>
+<year>2006</year>
+<volume>93</volume>
+<fpage>1369</fpage>
+<lpage>1378</lpage>
+<pub-id pub-id-type="pmid">21642084</pub-id></element-citation></ref><ref id="B29-insects-05-00364"><label>29.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zickler</surname><given-names>G.A.</given-names></name><name><surname>Sch&#x000f6;berl</surname><given-names>T.</given-names></name><name><surname>Paris</surname><given-names>O.</given-names></name></person-group>
+<article-title>Mechanical properties of pyrolysed wood: A nanoindentation study</article-title>
+<source>Philos. Mag.</source>
+<year>2006</year>
+<volume>86</volume>
+<fpage>1373</fpage>
+<lpage>1386</lpage>
+</element-citation></ref><ref id="B30-insects-05-00364"><label>30.</label><element-citation publication-type="confproc">
+<person-group person-group-type="author"><name><surname>Montgomery</surname><given-names>M.E.</given-names></name><name><surname>Lagalante</surname><given-names>A.F.</given-names></name><name><surname>Shields</surname><given-names>K.M.</given-names></name></person-group>
+<article-title>Resistance of hemlock to <italic>Adelges tsugae</italic>: Promising new developments</article-title>
+<source>Third Symposium on Hemlock Woolly Adelgid in the Eastern United States</source>
+<conf-loc>Ashville, NC, USA</conf-loc>
+<conf-date>1&#x02013;3 February 2005</conf-date>
+<person-group person-group-type="compiler"><name><surname>Onken</surname><given-names>B.</given-names></name><name><surname>Reardon</surname><given-names>R.</given-names></name></person-group>
+<publisher-name>USDA Forest Service</publisher-name>
+<publisher-loc>Morgantown, WV, USA</publisher-loc>
+<year>2005</year>
+<comment>FHTET-2005-01</comment>
+<fpage>179</fpage>
+</element-citation></ref><ref id="B31-insects-05-00364"><label>31.</label><element-citation publication-type="confproc">
+<person-group person-group-type="author"><name><surname>Bentz</surname><given-names>S.E.</given-names></name><name><surname>Montgomery</surname><given-names>M.E.</given-names></name><name><surname>Olsen</surname><given-names>R.T.</given-names></name></person-group>
+<article-title>Resistance of hemlock species and hybrids to hemlock woolly adelgid</article-title>
+<source>Fourth Symposium on Hemlock Woolly Adelgid in the Eastern United States</source>
+<conf-loc>Hartford, CT, USA</conf-loc>
+<conf-date>12&#x02013;14 February 2008</conf-date>
+<person-group person-group-type="compiler"><name><surname>Onken</surname><given-names>B.</given-names></name><name><surname>Reardon</surname><given-names>R.</given-names></name></person-group>
+<publisher-name>USDA Forest Service</publisher-name>
+<publisher-loc>Morgantown, WV, USA</publisher-loc>
+<year>2008</year>
+<comment>FHTET-2008-01</comment>
+<fpage>137</fpage>
+<lpage>139</lpage>
+</element-citation></ref><ref id="B32-insects-05-00364"><label>32.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Montgomery</surname><given-names>M.E.</given-names></name><name><surname>Bentz</surname><given-names>S.E.</given-names></name><name><surname>Olsen</surname><given-names>R.T.</given-names></name></person-group>
+<article-title>Evaluation of hemlock (<italic>Tsuga</italic>) species and hybrids for resistance to <italic>Adelges tsugae</italic> (Hemiptera: Adelgidae) using artificial infestation</article-title>
+<source>J. Econ. Entomol.</source>
+<year>2009</year>
+<volume>102</volume>
+<fpage>1247</fpage>
+<lpage>1254</lpage>
+<pub-id pub-id-type="pmid">19610445</pub-id></element-citation></ref><ref id="B33-insects-05-00364"><label>33.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Oten</surname><given-names>K.L.F.</given-names></name><name><surname>Bauchan</surname><given-names>G.R.</given-names></name><name><surname>Frampton</surname><given-names>J.</given-names></name><name><surname>Hain</surname><given-names>F.P.</given-names></name></person-group>
+<article-title>Biophysical characteristics of the stem and petiole surface of six hemlock (<italic>Tsuga</italic>) species and a hybrid: Implications for resistance to <italic>Adelges tsugae</italic></article-title>
+<source>Botany</source>
+<year>2012</year>
+<volume>90</volume>
+<fpage>1170</fpage>
+<lpage>1178</lpage>
+</element-citation></ref><ref id="B34-insects-05-00364"><label>34.</label><element-citation publication-type="confproc">
+<person-group person-group-type="author"><name><surname>McClure</surname><given-names>M.S.</given-names></name></person-group>
+<article-title>Biology of <italic>Adelges tsugae</italic> and its potential for spread in the northeastern United States</article-title>
+<source>Proceedings of the First Hemlock Woolly Adelgid Review</source>
+<conf-loc>Charlottesville, VA, USA</conf-loc>
+<conf-date>12 October 1995</conf-date>
+<person-group person-group-type="compiler"><name><surname>Salom</surname><given-names>S.M.</given-names></name><name><surname>Tigner</surname><given-names>T.C.</given-names></name><name><surname>Reardon</surname><given-names>R.C.</given-names></name></person-group>
+<publisher-name>USDA Forest Service</publisher-name>
+<publisher-loc>Morgantown, WV, USA</publisher-loc>
+<year>1996</year>
+<comment>FHTET 96-10</comment>
+<fpage>16</fpage>
+<lpage>25</lpage>
+</element-citation></ref><ref id="B35-insects-05-00364"><label>35.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Young</surname><given-names>R.F.</given-names></name><name><surname>Shields</surname><given-names>K.S.</given-names></name><name><surname>Berlyn</surname><given-names>G.P.</given-names></name></person-group>
+<article-title>Hemlock woolly adelgid (Homoptera: Adelgidae): Stylet bundle insertion and feeding sites</article-title>
+<source>Ann. Ent. Soc. Am.</source>
+<year>1995</year>
+<volume>88</volume>
+<fpage>827</fpage>
+<lpage>835</lpage>
+</element-citation></ref><ref id="B36-insects-05-00364"><label>36.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Orwig</surname><given-names>D.A.</given-names></name><name><surname>Foster</surname><given-names>D.R.</given-names></name></person-group>
+<article-title>Forest response to the introduced hemlock woolly adelgid in southern New England, USA</article-title>
+<source>J. Torrey Bot. Soc.</source>
+<year>1998</year>
+<volume>125</volume>
+<fpage>60</fpage>
+<lpage>73</lpage>
+</element-citation></ref><ref id="B37-insects-05-00364"><label>37.</label><element-citation publication-type="confproc">
+<person-group person-group-type="author"><name><surname>Oten</surname><given-names>K.L.F.</given-names></name><name><surname>Cohen</surname><given-names>A.C.</given-names></name><name><surname>Hain</surname><given-names>F.P.</given-names></name></person-group>
+<article-title>Insertion site selection and feeding of the hemlock woolly adelgid: Implications for host-plant resistance</article-title>
+<source>Proceedings of the Fourth International Workshop on the Genetics of Host-Parasite Interactions in Forestry: Disease and Insect Resistance in Forest Trees</source>
+<conf-loc>Eugene, CA, USA</conf-loc>
+<conf-date>31 July&#x02013;5 August 2011</conf-date>
+<publisher-name>UDSA Forest Service Gen Tech Rep PSW-GTR-240</publisher-name>
+<publisher-loc>Albany, CA, USA</publisher-loc>
+<year>2011</year>
+<fpage>6</fpage>
+<lpage>9</lpage>
+</element-citation></ref><ref id="B38-insects-05-00364"><label>38.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sahin</surname><given-names>O.</given-names></name><name><surname>Uzun</surname><given-names>O.</given-names></name><name><surname>Kolemen</surname><given-names>U.</given-names></name><name><surname>Duzgun</surname><given-names>B.</given-names></name><name><surname>Ucar</surname><given-names>N.</given-names></name></person-group>
+<article-title>Indentation size effect and microhardness study of &#x003b2;-sn single crystals</article-title>
+<source>Chinese Phys. Lett.</source>
+<year>2005</year>
+<volume>22</volume>
+<fpage>3137</fpage>
+<lpage>3140</lpage>
+</element-citation></ref><ref id="B39-insects-05-00364"><label>39.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Men&#x0010d;&#x000ed;k</surname><given-names>J.</given-names></name><name><surname>Munz</surname><given-names>D.</given-names></name><name><surname>Quandt</surname><given-names>E.</given-names></name><name><surname>Weppelmann</surname><given-names>E.R.</given-names></name><name><surname>Swain</surname><given-names>M.V.</given-names></name></person-group>
+<article-title>Determination of elastic modulus of thin layers using nanoindentation</article-title>
+<source>J. Mater. Res.</source>
+<year>1997</year>
+<volume>12</volume>
+<fpage>2475</fpage>
+<lpage>2484</lpage>
+</element-citation></ref><ref id="B40-insects-05-00364"><label>40.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Kramer</surname><given-names>K.J.</given-names></name><name><surname>Kozlowski</surname><given-names>T.T.</given-names></name></person-group>
+<source>Physiology of Woody Plants</source>
+<publisher-name>Academic Press</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>1979</year>
+</element-citation></ref><ref id="B41-insects-05-00364"><label>41.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lagalante</surname><given-names>A.F.</given-names></name><name><surname>Lewis</surname><given-names>N.</given-names></name><name><surname>Montgomery</surname><given-names>M.E.</given-names></name><name><surname>Shields</surname><given-names>K.S.</given-names></name></person-group>
+<article-title>Temporal and spatial variation of terpenoids in eastern hemlock (<italic>Tsuga canadensis</italic>) in relation to feeding by Adelges tsugae</article-title>
+<source>J. Chem. Ecol.</source>
+<year>2006</year>
+<volume>32</volume>
+<fpage>2389</fpage>
+<lpage>2403</lpage>
+<pub-id pub-id-type="pmid">17078000</pub-id></element-citation></ref><ref id="B42-insects-05-00364"><label>42.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Montllor</surname><given-names>C.B.</given-names></name><name><surname>Tjallingii</surname><given-names>W.F.</given-names></name></person-group>
+<article-title>Stylet penetration by two aphid species on susceptible and resistant lettuce</article-title>
+<source>Entom. Exp. Appl.</source>
+<year>1989</year>
+<volume>52</volume>
+<fpage>103</fpage>
+<lpage>111</lpage>
+</element-citation></ref><ref id="B43-insects-05-00364"><label>43.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sagers</surname><given-names>C.L.</given-names></name><name><surname>Coley</surname><given-names>P.D.</given-names></name></person-group>
+<article-title>Benefits and costs of defense in a neotropical shrub</article-title>
+<source>Ecology</source>
+<year>1995</year>
+<volume>76</volume>
+<fpage>1835</fpage>
+<lpage>1843</lpage>
+</element-citation></ref><ref id="B44-insects-05-00364"><label>44.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Potter</surname><given-names>D.A.</given-names></name></person-group>
+<article-title>Abundance and mortality of a specialist leafminer in response to experimental shading and fertilization of American holly</article-title>
+<source>Oecologia</source>
+<year>1992</year>
+<volume>91</volume>
+<fpage>14</fpage>
+<lpage>22</lpage>
+</element-citation></ref><ref id="B45-insects-05-00364"><label>45.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rieske</surname><given-names>L.K.</given-names></name></person-group>
+<article-title>Wildfire alters oak growth, foliar chemistry, and herbivory</article-title>
+<source>For. Ecol. Manage.</source>
+<year>2002</year>
+<volume>168</volume>
+<fpage>91</fpage>
+<lpage>99</lpage>
+<pub-id pub-id-type="doi">10.1016/S0378-1127(01)00731-9</pub-id>
+</element-citation></ref><ref id="B46-insects-05-00364"><label>46.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lagalante</surname><given-names>A.F.</given-names></name><name><surname>Montgomery</surname><given-names>M.E.</given-names></name></person-group>
+<article-title>Analysis of terpenoids from hemlock (<italic>Tsuga</italic>) species by solid-phase microextraction/gas chromatography/ion-trap mass spectrometry</article-title>
+<source>J. Agric. Food Chem.</source>
+<year>2003</year>
+<volume>51</volume>
+<fpage>2115</fpage>
+<lpage>2120</lpage>
+<pub-id pub-id-type="pmid">12670144</pub-id></element-citation></ref><ref id="B47-insects-05-00364"><label>47.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pontius</surname><given-names>J.A.</given-names></name><name><surname>Hallett</surname><given-names>R.A.</given-names></name><name><surname>Jenkins</surname><given-names>J.C.</given-names></name></person-group>
+<article-title>Foliar chemistry linked to infestation and susceptibility to hemlock woolly adelgid (Homoptera: Adelgidae)</article-title>
+<source>Environ. Entomol.</source>
+<year>2006</year>
+<volume>35</volume>
+<fpage>112</fpage>
+<lpage>120</lpage>
+</element-citation></ref></ref-list></back></article>

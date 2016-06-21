@@ -1,0 +1,212 @@
+{
+  "id": [
+    "27182070"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27182070"
+  ],
+  "pmcid": [
+    "PMC4839050"
+  ],
+  "title": [
+    "Biodiversity, ecosystem functioning, and classical biological control."
+  ],
+  "authorString": [
+    "Evans EW."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Evans EW"
+          ],
+          "firstName": [
+            "Edward W"
+          ],
+          "lastName": [
+            "Evans"
+          ],
+          "initials": [
+            "EW"
+          ],
+          "affiliation": [
+            "Department of Biology, Utah State University, Logan, UT 84322-5305 USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "51"
+      ],
+      "journalIssueId": [
+        "2374614"
+      ],
+      "dateOfPublication": [
+        "2016"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Applied entomology and zoology"
+          ],
+          "ISOAbbreviation": [
+            "Appl. Entomol. Zool. (Jpn.)"
+          ],
+          "NLMid": [
+            "0215145"
+          ],
+          "ISSN": [
+            "0003-6862"
+          ],
+          "ESSN": [
+            "1347-605X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "173-184"
+  ],
+  "abstractText": [
+    "Increasing concern over worldwide loss of biodiversity has led ecologists to focus intently on how ecosystem functioning may depend on diversity. In applied entomology, there is longstanding interest in the issue, especially as regards the importance of natural enemy diversity for pest control. Here I review parallels in interest, conceptual framework, and conclusions concerning biodiversity as it affects ecosystem functioning in general and classical biological control in particular. Whereas the former focuses on implications of loss of diversity, the latter focuses on implications of increase in diversity as additional species of natural enemies are introduced to novel communities in new geographic regions for insect pest and weed control. Many field studies now demonstrate that ecosystem functioning, e.g., as reflected in primary productivity, is enhanced and stabilized over time by high diversity as the community increases in its efficiency in exploiting available resources. Similarly, there is growing field support for the generalization that increasing species and functional diversity of natural enemies leads to increasing pest suppression. Nonetheless a central concern of classical biological control in particular, as it seeks to minimize non-target effects, remains as to whether one or a few species of natural enemies can provide sufficient pest control."
+  ],
+  "affiliation": [
+    "Department of Biology, Utah State University, Logan, UT 84322-5305 USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Niche partitioning",
+        "Species Complementarity",
+        "Species Introductions",
+        "Ecological Redundancy",
+        "Squarrose Knapweed"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4839050?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4839050"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2016-05-16"
+  ],
+  "dateOfRevision": [
+    "2016-05-19"
+  ],
+  "electronicPublicationDate": [
+    "2016-03-14"
+  ],
+  "firstPublicationDate": [
+    "2016-03-14"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

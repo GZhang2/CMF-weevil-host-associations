@@ -1,0 +1,618 @@
+{
+  "id": [
+    "22848363"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22848363"
+  ],
+  "pmcid": [
+    "PMC3407206"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0039845"
+  ],
+  "title": [
+    "Genomic characterization of a novel virus of the family Tymoviridae isolated from mosquitoes."
+  ],
+  "authorString": [
+    "Wang L, Lv X, Zhai Y, Fu S, Wang D, Rayner S, Tang Q, Liang G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang L"
+          ],
+          "firstName": [
+            "Lihua"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Lv X"
+          ],
+          "firstName": [
+            "Xinjun"
+          ],
+          "lastName": [
+            "Lv"
+          ],
+          "initials": [
+            "X"
+          ]
+        },
+        {
+          "fullName": [
+            "Zhai Y"
+          ],
+          "firstName": [
+            "Yougang"
+          ],
+          "lastName": [
+            "Zhai"
+          ],
+          "initials": [
+            "Y"
+          ]
+        },
+        {
+          "fullName": [
+            "Fu S"
+          ],
+          "firstName": [
+            "Shihong"
+          ],
+          "lastName": [
+            "Fu"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Wang D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Rayner S"
+          ],
+          "firstName": [
+            "Simon"
+          ],
+          "lastName": [
+            "Rayner"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8703-9140",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tang Q"
+          ],
+          "firstName": [
+            "Qing"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "Q"
+          ]
+        },
+        {
+          "fullName": [
+            "Liang G"
+          ],
+          "firstName": [
+            "Guodong"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "G"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8703-9140",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "1947059"
+      ],
+      "dateOfPublication": [
+        "2012 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "e39845"
+  ],
+  "abstractText": [
+    " BACKGROUND: The family Tymoviridae comprises three plant virus genera, including Tymovirus, Marafivirus, and Maculavirus, which are found in most parts of the world and cause severe agricultural losses. We describe a putatively novel member of the family Tymoviridae, which is isolated from mosquitoes (Culex spp.), referred to as CuTLV. METHODS AND RESULTS: The CuTLV was isolated by cell culture, which replicates and causes cytopathic effects in Aedes albopictus C6/36 cells, but not in mammalian BHK-21 or Vero cells. The complete 6471 nucleotide sequence of CuTLV was determined. The genome of CuTLV is predicted to contain three open reading frames (ORFs). The largest ORF1 is 5307 nucleotides (nt) in length and encodes a putative polypeptide of 1769 amino acids (aa), which contains the conserved motifs for the methyltransferase (MTR), Tymovirus endopeptidase (PRO), helicase (HEL), and RNA-dependent RNA polymerase (RdRp) of the replication-associated proteins (RPs) of positive-stranded RNA viruses. In contrast, the ORF1 sequence does not contain the so-called \"tymobox\" or \"marafibox\", the conserved subgenomic RNA promoter present in all tymoviruses or marafiviruses, respectively. ORF2 and ORF3 putatively encode a 248-aa coat protein (CP) and a proline-rich 149-aa polypeptide. The whole genomic nucleotide identity of CuTLV with other members of family Tymoviridae ranged from 46.2% (ChiYMV) to 52.4% (GFkV). Phylogenetic analysis based on the putative RP and CP genes of CuTLV demonstrated that the virus is most closely related to viruses in the genus Maculavirus. CONCLUSIONS: The CuTLV is a novel virus related to members of the family Tymoviridae, with molecular characters that are distinct from those of tymoviruses, marafiviruses, and other maculaviruses or macula-like viruses. This is the first report of the isolation of a Tymoviridae-like virus from mosquitoes. Further investigations are required to clarify the origin, replication strategy, and the public health or agricultural importance of the CuTLV."
+  ],
+  "affiliation": [
+    "State Key Laboratory for Infectious Diseases Prevention and Control, Institute for Viral Disease Control and Prevention, Chinese Center for Disease Control and Prevention, Beijing, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Line"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Culex"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Tymoviridae"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Viral Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genome, Viral"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Open Reading Frames"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cricetinae"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Viral Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3407206?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3407206"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=22848363"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=22848363&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1371/journal.pone.0039845"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL",
+        "UNIPROT"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2013-04-02"
+  ],
+  "dateOfCreation": [
+    "2012-07-31"
+  ],
+  "dateOfRevision": [
+    "2013-07-12"
+  ],
+  "electronicPublicationDate": [
+    "2012-07-27"
+  ],
+  "firstPublicationDate": [
+    "2012-07-27"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

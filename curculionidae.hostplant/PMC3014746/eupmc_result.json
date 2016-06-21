@@ -1,0 +1,443 @@
+{
+  "id": [
+    "20578956"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "20578956"
+  ],
+  "pmcid": [
+    "PMC3014746"
+  ],
+  "doi": [
+    "10.1673/031.010.3501"
+  ],
+  "title": [
+    "Histopathology caused by the entomopathogenic fungi, Beauveria bassiana and Metarhizium anisopliae, in the adult planthopper, Peregrinus maidis, a maize virus vector."
+  ],
+  "authorString": [
+    "Toledo AV, de Remes Lenicov AM, López Lastra CC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Toledo AV"
+          ],
+          "firstName": [
+            "A V"
+          ],
+          "lastName": [
+            "Toledo"
+          ],
+          "initials": [
+            "AV"
+          ]
+        },
+        {
+          "fullName": [
+            "de Remes Lenicov AM"
+          ],
+          "firstName": [
+            "A M M"
+          ],
+          "lastName": [
+            "de Remes Lenicov"
+          ],
+          "initials": [
+            "AM"
+          ]
+        },
+        {
+          "fullName": [
+            "López Lastra CC"
+          ],
+          "firstName": [
+            "C C"
+          ],
+          "lastName": [
+            "López Lastra"
+          ],
+          "initials": [
+            "CC"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "1741235"
+      ],
+      "dateOfPublication": [
+        "2010 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2010"
+      ],
+      "printPublicationDate": [
+        "2010-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of insect science (Online)"
+          ],
+          "ISOAbbreviation": [
+            "J. Insect Sci."
+          ],
+          "medlineAbbreviation": [
+            "J Insect Sci"
+          ],
+          "NLMid": [
+            "101096396"
+          ],
+          "ESSN": [
+            "1536-2442"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "35"
+  ],
+  "abstractText": [
+    "The planthopper Peregrinus maidis (Ashmead) (Hemiptera: Delphacidae) is an important vector of maize viruses in tropical and subtropical areas. Planthoppers are biologically controlled with several species of entomopathogenic fungi that have been isolated from these insect pests of rice in Asia. Beauveria bassiana (Balsamo-Crivelli) Vuillemin and Metarhizium anisopliae (Metschnikoff) Sorokin (Hypocreales: Clavicipitaceae) appear to be the most useful against planthoppers because of their ease of mass production, storage, virulence, and application. In the present study, adults of P. maidis infected with B. bassiana and M. anisopliae were observed under light and scanning electron microscopy to characterize morphologically the process of infection and the development of these fungi, prior to and after the death of the host. The hydrophobic conidia of both fungal species were able to attach to all body regions, with a preference for surfaces containing hairs. Few germinated conidia were observed on the insect's body surface at 24, 48, and 72 hr post-inoculation. On the cuticular surface of P. maidis treated with B. bassiana and M. anisopliae, bacillus-like bacteria were observed. These microorganisms could be interacting with fungal conidia, playing a role of antibiosis that will not allow the fungal pathogens to germinate and penetrate. In the colonization events observed in this study, the formation and multiplication of hyphal bodies by both fungal species inside the host's body was noted. The host's whole body was invaded by hyphae between five and six days post-inoculation, and body fat was the most affected tissue."
+  ],
+  "affiliation": [
+    "Centro de Investigaciones de Fitopatología (CIDEFI), Facultad de Ciencias Agrarias y Forestales, UNLP. Calle 60 y 119, (1900) La Plata, Buenos Aires, Argentina. atoledo@cepave.edu.ar"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hemiptera"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Microscopy, Electron, Scanning"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Insect Vectors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Beauveria"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Metarhizium"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Host-Pathogen Interactions"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3014746?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3014746"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=20578956"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=20578956&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1673/031.010.3501"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2010-10-07"
+  ],
+  "dateOfCreation": [
+    "2010-06-28"
+  ],
+  "dateOfRevision": [
+    "2013-03-05"
+  ],
+  "firstPublicationDate": [
+    "2010-01-01"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

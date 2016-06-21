@@ -1,0 +1,271 @@
+{
+  "id": [
+    "25408617"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25408617"
+  ],
+  "pmcid": [
+    "PMC4233402"
+  ],
+  "doi": [
+    "10.3897/zookeys.450.7452"
+  ],
+  "title": [
+    "A taxonomic monograph of Nearctic Scolytus Geoffroy (Coleoptera, Curculionidae, Scolytinae)."
+  ],
+  "authorString": [
+    "Smith SM, Cognato AI."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Smith SM"
+          ],
+          "firstName": [
+            "Sarah M"
+          ],
+          "lastName": [
+            "Smith"
+          ],
+          "initials": [
+            "SM"
+          ],
+          "affiliation": [
+            "Department of Entomology, Michigan State University, Natural Science Building, room 243, 288 Farm Lane, East Lansing, MI 48824, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Cognato AI"
+          ],
+          "firstName": [
+            "Anthony I"
+          ],
+          "lastName": [
+            "Cognato"
+          ],
+          "initials": [
+            "AI"
+          ],
+          "affiliation": [
+            "Department of Entomology, Michigan State University, Natural Science Building, room 243, 288 Farm Lane, East Lansing, MI 48824, United States of America."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "450"
+      ],
+      "journalIssueId": [
+        "2221131"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ZooKeys"
+          ],
+          "ISOAbbreviation": [
+            "Zookeys"
+          ],
+          "medlineAbbreviation": [
+            "Zookeys"
+          ],
+          "NLMid": [
+            "101497933"
+          ],
+          "ISSN": [
+            "1313-2989"
+          ],
+          "ESSN": [
+            "1313-2970"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "1-182"
+  ],
+  "abstractText": [
+    "The Nearctic bark beetle genus Scolytus Geoffroy was revised based in part on a molecular and morphological phylogeny. Monophyly of the native species was tested using mitochondrial (COI) and nuclear (28S, CAD, ArgK) genes and 43 morphological characters in parsimony and Bayesian phylogenetic analyses. Parsimony analyses of molecular and combined datasets provided mixed results while Bayesian analysis recovered most nodes with posterior probabilities >90%. Native hardwood- and conifer-feeding Scolytus species were recovered as paraphyletic. Native Nearctic species were recovered as paraphyletic with hardwood-feeding species sister to Palearctic hardwood-feeding species rather than to native conifer-feeding species. The Nearctic conifer-feeding species were monophyletic. Twenty-five species were recognized. Four new synonyms were discovered: Scolytuspraeceps LeConte, 1868 (= Scolytusabietis Blackman, 1934; = Scolytusopacus Blackman, 1934), Scolytusreflexus Blackman, 1934 (= Scolytusvirgatus Bright, 1972; = Scolytuswickhami Blackman, 1934). Two species were reinstated: Scolytusfiskei Blackman, 1934 and Scolytussilvaticus Bright, 1972. A diagnosis, description, distribution, host records and images were provided for each species and a key is presented to all species."
+  ],
+  "affiliation": [
+    "Department of Entomology, Michigan State University, Natural Science Building, room 243, 288 Farm Lane, East Lansing, MI 48824, United States of America."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Taxonomy",
+        "Revision",
+        "Scolytidae",
+        "Bark Beetle",
+        "Banded Elm Bark Beetle",
+        "Fir Engraver",
+        "Lesser Elm Bark Beetle",
+        "Douglas-fir Engraver",
+        "Hickory Bark Beetle",
+        "Shot Hole Borer",
+        "Large Shot Hole Borer",
+        "Hackberry Engraver"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4233402?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4233402"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.3897/zookeys.450.7452"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2014-11-21"
+  ],
+  "dateOfCreation": [
+    "2014-11-21"
+  ],
+  "dateOfRevision": [
+    "2014-12-15"
+  ],
+  "electronicPublicationDate": [
+    "2014-10-29"
+  ],
+  "firstPublicationDate": [
+    "2014-10-29"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

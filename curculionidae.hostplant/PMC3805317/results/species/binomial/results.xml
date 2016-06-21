@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="binomial">
+ <result pre="re in Central America ( Furth and Savini 1996), and more than 60 from South America. " exact=" Disonycha nigrita " xpath="/html[1]/body[1]/div[2]/div[3]/div[13]/p[1]" match="Disonycha nigrita" post=" Jacoby ( Figure 10E) is new to Mexico from the south, previously known only from Gu" name="binomial"/>
+ <result pre="Figure 10E) is new to Mexico from the south, previously known only from Guatemala and El Salvador. " exact=" Trichaltica zapotensis " xpath="/html[1]/body[1]/div[2]/div[3]/div[13]/p[1]" match="Trichaltica zapotensis" post=" (Jacoby) ( Figure 10F) is new to Mexico from the south, only previously only known " name="binomial"/>
+ <result pre="M A ( Figure 10G) is almost certainly a new genus probably of Neotropical affinity. " exact=" Phyllotreta aeneicollis " xpath="/html[1]/body[1]/div[2]/div[3]/div[13]/p[1]" match="Phyllotreta aeneicollis" post=" Crotch ( Figure 10H) is a Nearctic element, new to Mexico from the north, previousl" name="binomial"/>
+ <result pre="2 B Allochroma OM sp. 1 C Deuteraltica OM sp.1 D Hypolampsis OM sp. 2 E " exact=" Disonycha nigrita " xpath="/html[1]/body[1]/div[2]/div[3]/div[13]/p[1]" match="Disonycha nigrita" post=" F Trichaltica zapotensis G New Genus H Phyllotreta aeneipennis . " name="binomial"/>
+ <result pre=". 1 C Deuteraltica OM sp.1 D Hypolampsis OM sp. 2 E Disonycha nigrita F " exact=" Trichaltica zapotensis " xpath="/html[1]/body[1]/div[2]/div[3]/div[13]/p[1]" match="Trichaltica zapotensis" post=" G New Genus H Phyllotreta aeneipennis . " name="binomial"/>
+ <result pre="lampsis OM sp. 2 E Disonycha nigrita F Trichaltica zapotensis G New Genus H " exact=" Phyllotreta aeneipennis " xpath="/html[1]/body[1]/div[2]/div[3]/div[13]/p[1]" match="Phyllotreta aeneipennis" post=". " name="binomial"/>
+ <result pre="A view of typical Bromeliad-dominant cloud forest (many trees covered by " exact=" Tillandsia usneoides " match="Tillandsia usneoides" post=" (Linnaeus) (L.) Bromeliaceae) around Santa Catarina Lachatao with some of the 2010 collecting team" name="binomial"/>
+</results>

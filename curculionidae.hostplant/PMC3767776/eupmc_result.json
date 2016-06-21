@@ -1,0 +1,599 @@
+{
+  "id": [
+    "24039994"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24039994"
+  ],
+  "pmcid": [
+    "PMC3767776"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0073601"
+  ],
+  "title": [
+    "Terpenoid variations within and among half-sibling avocado trees, Persea americana Mill. (Lauraceae)."
+  ],
+  "authorString": [
+    "Niogret J, Epsky ND, Schnell RJ, Boza EJ, Kendra PE, Heath RR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Niogret J"
+          ],
+          "firstName": [
+            "Jerome"
+          ],
+          "lastName": [
+            "Niogret"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "USDA-ARS, Subtropical Horticulture Research Station, Miami, Florida, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Epsky ND"
+          ],
+          "firstName": [
+            "Nancy D"
+          ],
+          "lastName": [
+            "Epsky"
+          ],
+          "initials": [
+            "ND"
+          ]
+        },
+        {
+          "fullName": [
+            "Schnell RJ"
+          ],
+          "firstName": [
+            "Raymond J"
+          ],
+          "lastName": [
+            "Schnell"
+          ],
+          "initials": [
+            "RJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Boza EJ"
+          ],
+          "firstName": [
+            "Edward J"
+          ],
+          "lastName": [
+            "Boza"
+          ],
+          "initials": [
+            "EJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Kendra PE"
+          ],
+          "firstName": [
+            "Paul E"
+          ],
+          "lastName": [
+            "Kendra"
+          ],
+          "initials": [
+            "PE"
+          ]
+        },
+        {
+          "fullName": [
+            "Heath RR"
+          ],
+          "firstName": [
+            "Robert R"
+          ],
+          "lastName": [
+            "Heath"
+          ],
+          "initials": [
+            "RR"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2074012"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "e73601"
+  ],
+  "abstractText": [
+    "Chemical analyses were conducted to determine the qualitative and quantitative differences in monoterpenes and sesquiterpenes in plant material from avocado trees, Persea americana Mill. (Lauraceae). The initial study analyzed plant material sampled from the trunk to the leaves through different branch diameters to quantify proximo-distal spatial differences within a tree. All trees were seedlings initiated from a single maternal tree. Two-way analysis of variance was conducted on 34 chemicals that comprised at least 3% of the total chemical content of at least one tree and/or location within a tree. There were significant interactions between genotype and location sampled for most chemicals. Parentage analysis using microsatellite molecular markers (SSR's) determined that the four trees had three fathers and that they represented two full-siblings and two half-sibling trees. Descriptive discriminant analysis found that both genotype and location within a tree could be separated based on chemical content, and that the chemical content from full-siblings tended to be more similar than chemical content from half-siblings. To further explore the relationship between genetic background and chemical content, samples were analyzed from leaf material from 20 trees that included two sets of full-sibling seedling trees, the maternal tree and the surviving paternal tree. Descriptive discriminant analysis found good separation between the two full-sibling groups, and that the separation was associated with chemistry of the parental trees. Six groups of chemicals were identified that explained the variation among the trees. We discuss the results in relation to the discrimination process used by wood-boring insects for site-selection on host trees, for tree selection among potential host trees, and the potential use of terpenoid chemical content in chemotaxonomy of avocado trees."
+  ],
+  "affiliation": [
+    "USDA-ARS, Subtropical Horticulture Research Station, Miami, Florida, United States of America."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Persea"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pollen"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Leaves"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Seedling"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Terpenes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Discriminant Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Polymerase Chain Reaction"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Microsatellite Repeats"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gas Chromatography-Mass Spectrometry"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Terpenes"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3767776?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3767776"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=24039994&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=24039994"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1371/journal.pone.0073601"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-07-02"
+  ],
+  "dateOfCreation": [
+    "2013-09-16"
+  ],
+  "electronicPublicationDate": [
+    "2013-09-09"
+  ],
+  "firstPublicationDate": [
+    "2013-09-09"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

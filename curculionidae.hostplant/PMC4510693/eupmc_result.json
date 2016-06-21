@@ -1,0 +1,643 @@
+{
+  "id": [
+    "26173063"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26173063"
+  ],
+  "pmcid": [
+    "PMC4510693"
+  ],
+  "doi": [
+    "10.1038/ncomms8618"
+  ],
+  "title": [
+    "Gut microbiota mediate caffeine detoxification in the primary insect pest of coffee."
+  ],
+  "authorString": [
+    "Ceja-Navarro JA, Vega FE, Karaoz U, Hao Z, Jenkins S, Lim HC, Kosina P, Infante F, Northen TR, Brodie EL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ceja-Navarro JA"
+          ],
+          "firstName": [
+            "Javier A"
+          ],
+          "lastName": [
+            "Ceja-Navarro"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "affiliation": [
+            "Ecology Department, Earth Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, California 94720, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Vega FE"
+          ],
+          "firstName": [
+            "Fernando E"
+          ],
+          "lastName": [
+            "Vega"
+          ],
+          "initials": [
+            "FE"
+          ],
+          "affiliation": [
+            "Sustainable Perennial Crops Laboratory, United States Department of Agriculture, Agricultural Research Service, Building 001, BARC-W, Beltsville, Maryland 20705, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Karaoz U"
+          ],
+          "firstName": [
+            "Ulas"
+          ],
+          "lastName": [
+            "Karaoz"
+          ],
+          "initials": [
+            "U"
+          ],
+          "affiliation": [
+            "Ecology Department, Earth Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, California 94720, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hao Z"
+          ],
+          "firstName": [
+            "Zhao"
+          ],
+          "lastName": [
+            "Hao"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Ecology Department, Earth Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, California 94720, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Jenkins S"
+          ],
+          "firstName": [
+            "Stefan"
+          ],
+          "lastName": [
+            "Jenkins"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Genome Dynamics Department, Life Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, California 94720, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lim HC"
+          ],
+          "firstName": [
+            "Hsiao Chien"
+          ],
+          "lastName": [
+            "Lim"
+          ],
+          "initials": [
+            "HC"
+          ],
+          "affiliation": [
+            "Ecology Department, Earth Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, California 94720, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kosina P"
+          ],
+          "firstName": [
+            "Petr"
+          ],
+          "lastName": [
+            "Kosina"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8805-0306",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "International Maize and Wheat Improvement Center (CIMMYT), Carretera Mexico-Veracruz Km. 45, El Batán, Texcoco 56130, Mexico."
+          ]
+        },
+        {
+          "fullName": [
+            "Infante F"
+          ],
+          "firstName": [
+            "Francisco"
+          ],
+          "lastName": [
+            "Infante"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "El Colegio de la Frontera Sur (ECOSUR), Carretera Antiguo Aeropuerto Km. 2.5, Tapachula, Chiapas 30700, Mexico."
+          ]
+        },
+        {
+          "fullName": [
+            "Northen TR"
+          ],
+          "firstName": [
+            "Trent R"
+          ],
+          "lastName": [
+            "Northen"
+          ],
+          "initials": [
+            "TR"
+          ],
+          "affiliation": [
+            "Genome Dynamics Department, Life Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, California 94720, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Brodie EL"
+          ],
+          "firstName": [
+            "Eoin L"
+          ],
+          "lastName": [
+            "Brodie"
+          ],
+          "initials": [
+            "EL"
+          ],
+          "affiliation": [
+            "1] Ecology Department, Earth Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, California 94720, USA [2] Department of Environmental Science, Policy and Management, University of California, Berkeley, California 94720, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8805-0306",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2238847"
+      ],
+      "dateOfPublication": [
+        "2015 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "7618"
+  ],
+  "abstractText": [
+    "The coffee berry borer (Hypothenemus hampei) is the most devastating insect pest of coffee worldwide with its infestations decreasing crop yield by up to 80%. Caffeine is an alkaloid that can be toxic to insects and is hypothesized to act as a defence mechanism to inhibit herbivory. Here we show that caffeine is degraded in the gut of H. hampei, and that experimental inactivation of the gut microbiota eliminates this activity. We demonstrate that gut microbiota in H. hampei specimens from seven major coffee-producing countries and laboratory-reared colonies share a core of microorganisms. Globally ubiquitous members of the gut microbiota, including prominent Pseudomonas species, subsist on caffeine as a sole source of carbon and nitrogen. Pseudomonas caffeine demethylase genes are expressed in vivo in the gut of H. hampei, and re-inoculation of antibiotic-treated insects with an isolated Pseudomonas strain reinstates caffeine-degradation ability confirming their key role."
+  ],
+  "affiliation": [
+    "Ecology Department, Earth Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, California 94720, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Weevils"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pseudomonas"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Coffea"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Caffeine"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cytochrome P-450 CYP1A2"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Base Sequence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Molecular Sequence Data"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Inactivation, Metabolic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gastrointestinal Microbiome"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Cytochrome P-450 CYP1A2"
+          ],
+          "registryNumber": [
+            "EC 1.14.14.1"
+          ]
+        },
+        {
+          "name": [
+            "Caffeine"
+          ],
+          "registryNumber": [
+            "3G6A5W338E"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4510693?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4510693"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1038/ncomms8618"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2016-04-13"
+  ],
+  "dateOfCreation": [
+    "2015-07-16"
+  ],
+  "dateOfRevision": [
+    "2015-07-30"
+  ],
+  "electronicPublicationDate": [
+    "2015-07-14"
+  ],
+  "firstPublicationDate": [
+    "2015-07-14"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

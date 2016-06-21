@@ -1,0 +1,543 @@
+{
+  "id": [
+    "19445688"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "19445688"
+  ],
+  "pmcid": [
+    "PMC2691738"
+  ],
+  "doi": [
+    "10.1186/1471-2148-9-103"
+  ],
+  "title": [
+    "Phylogeographical patterns of a generalist acorn weevil: insight into the biogeographical history of broadleaved deciduous and evergreen forests."
+  ],
+  "authorString": [
+    "Aoki K, Kato M, Murakami N."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Aoki K"
+          ],
+          "firstName": [
+            "Kyoko"
+          ],
+          "lastName": [
+            "Aoki"
+          ],
+          "initials": [
+            "K"
+          ]
+        },
+        {
+          "fullName": [
+            "Kato M"
+          ],
+          "firstName": [
+            "Makoto"
+          ],
+          "lastName": [
+            "Kato"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Murakami N"
+          ],
+          "firstName": [
+            "Noriaki"
+          ],
+          "lastName": [
+            "Murakami"
+          ],
+          "initials": [
+            "N"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "1589837"
+      ],
+      "dateOfPublication": [
+        "2009 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2009"
+      ],
+      "printPublicationDate": [
+        "2009-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC evolutionary biology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Evol. Biol."
+          ],
+          "medlineAbbreviation": [
+            "BMC Evol Biol"
+          ],
+          "NLMid": [
+            "100966975"
+          ],
+          "ESSN": [
+            "1471-2148"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "103"
+  ],
+  "abstractText": [
+    " BACKGROUND: Climatic changes during glacial periods have had a major influence on the recent evolutionary history of living organisms, even in temperate forests on islands, where the land was not covered with ice sheets. We investigated the phylogeographical patterns of the weevil Curculio sikkimensis (Curculionidae), a generalist seed predator of Fagaceae plants living in both deciduous oak and evergreen forests of Japan. Its genetic structure was compared to that of another host-specific seed predator, C. hilgendorfi, inhabiting only evergreen forests. RESULTS: We examined 921 bp of mitochondrial DNA for 115 individuals collected from 33 populations of C. sikkimensis from 11 plant species of three genera, Quercus, Lithocarpus, and Castanopsis. An analysis of molecular variance revealed that a large proportion (almost 50%, P < 0.001) of the total genetic variance could be explained by differences between two geographical regions, the southwestern and northeastern parts of the main islands of Japan. In contrast, no significant genetic differentiation of the weevil was observed among vegetation types of their utilized host plant species. The phylogeographical patterns of the generalist and the host-specific seed predator exhibited a congruent genetic boundary in the Chugoku-Shikoku region. CONCLUSION: Our results suggest that geology and historical environment have contributed to shaping the present genetic structure of C. sikkimensis. The geographical patterns of genetic differentiation in the Chugoku-Shikoku region observed in the two types of Fagaceae-associated Curculio in this study have also been observed in several plant species growing in warm and cool temperate zones of Japan. The occurrence of this common pattern suggests that deciduous oak and evergreen forests of Japan survived together, or adjacent to each other, in small refugia during glacial ages, in the southwestern and northeastern parts of the main islands, although these two types of forests are presently distributed in cool and warm temperate zones of Japan, respectively."
+  ],
+  "affiliation": [
+    "Graduate School of Human and Environmental Studies, Kyoto University, Sakyo-ku, Kyoto, Japan. aoki@sys.bot.kyoto-u.ac.jp"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Weevils"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Trees"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA, Mitochondrial"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, DNA"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ice Cover"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Evolution, Molecular"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Phylogeny"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Species Specificity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Haplotypes"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genes, Insect"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Geography"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Japan"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genetic Variation"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "DNA, Mitochondrial"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2691738?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2691738"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "abs"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/1471-2148/9/103/abstract"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/content/pdf/1471-2148-9-103.pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/1471-2148/9/103"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=19445688&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=19445688"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1186/1471-2148-9-103"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL",
+        "UNIPROT"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2009-06-22"
+  ],
+  "dateOfCreation": [
+    "2009-06-08"
+  ],
+  "dateOfRevision": [
+    "2013-06-02"
+  ],
+  "electronicPublicationDate": [
+    "2009-05-16"
+  ],
+  "firstPublicationDate": [
+    "2009-05-16"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

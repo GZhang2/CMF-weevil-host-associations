@@ -1,0 +1,566 @@
+{
+  "id": [
+    "26394401"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26394401"
+  ],
+  "pmcid": [
+    "PMC4578773"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0138157"
+  ],
+  "title": [
+    "The Influence of Host Plant Extrafloral Nectaries on Multitrophic Interactions: An Experimental Investigation."
+  ],
+  "authorString": [
+    "Koptur S, Jones IM, Peña JE."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Koptur S"
+          ],
+          "firstName": [
+            "Suzanne"
+          ],
+          "lastName": [
+            "Koptur"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Biological Sciences, Florida International University, Miami, Florida, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Jones IM"
+          ],
+          "firstName": [
+            "Ian M"
+          ],
+          "lastName": [
+            "Jones"
+          ],
+          "initials": [
+            "IM"
+          ],
+          "affiliation": [
+            "Department of Biological Sciences, Florida International University, Miami, Florida, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Peña JE"
+          ],
+          "firstName": [
+            "Jorge E"
+          ],
+          "lastName": [
+            "Peña"
+          ],
+          "initials": [
+            "JE"
+          ],
+          "affiliation": [
+            "Tropical Research and Education Center, University of Florida, Homestead, Florida, United States of America."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2318586"
+      ],
+      "dateOfPublication": [
+        "2015"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "e0138157"
+  ],
+  "abstractText": [
+    "A field experiment was conducted with outplantings of the native perennial shrub Senna mexicana var. chapmanii in a semi-natural area adjacent to native pine rockland habitat in southern Florida. The presence of ants and the availability of extrafloral nectar were manipulated in a stratified random design. Insect communities were monitored and recorded over a period of six months with a view to addressing three main questions. Do ants provide biotic defense against key herbivores on S. chapmanii? Is the presence of ants on S. chapmanii mediated by EFN? Finally, are there ecological costs associated with the presence of ants on S. chapmanii, such as a reduction in alternative predator or parasitoid numbers? Herbivores on S. chapmanii included immature stages of three pierid butterflies, and adult weevils. Eight species of ants were associated with the plants, and other predators included spiders, ladybugs, wasps, and hemipterans. Parasitic, haemolymph-sucking midges (Ceratopogonidae) and parasitoid flies were also associated with the caterpillar herbivores, and possibly the extrafloral nectaries of the plants. The presence of ants did not appear to influence oviposition by butterflies, as numbers of lepidopterans of all developmental stages did not differ among treatments. Significantly more late instar caterpillars, however, were observed on plants with ants excluded, indicating that ants remove small caterpillars from plants. Substantially more alternative predators (spiders, ladybugs, and wasps) were observed on plants with ants excluded. Rates of parasitization did not differ among the treatments, but there were substantially fewer caterpillars succumbing to virus among those collected from control plants. We provide a rare look at facultative ant-plant mutualisms in the context of the many other interactions with which they overlap. We conclude that ants provide some biotic defense against herbivores on S. chapmanii, and plants benefit overall from the presence of ants, despite negative impacts on non-ant predators."
+  ],
+  "affiliation": [
+    "Department of Biological Sciences, Florida International University, Miami, Florida, United States of America."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Spiders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Weevils"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ants"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Wasps"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Butterflies"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Senna Plant"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Predatory Behavior"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ecosystem"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Florida"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Host-Parasite Interactions"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Nectar"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Herbivory"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Plant Nectar"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4578773?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4578773"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1371/journal.pone.0138157"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-05-31"
+  ],
+  "dateOfCreation": [
+    "2015-09-23"
+  ],
+  "dateOfRevision": [
+    "2015-10-02"
+  ],
+  "electronicPublicationDate": [
+    "2015-09-22"
+  ],
+  "firstPublicationDate": [
+    "2015-09-22"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

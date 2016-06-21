@@ -1,0 +1,649 @@
+{
+  "id": [
+    "24223726"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24223726"
+  ],
+  "pmcid": [
+    "PMC3815198"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0077777"
+  ],
+  "title": [
+    "Disentangling detoxification: gene expression analysis of feeding mountain pine beetle illuminates molecular-level host chemical defense detoxification mechanisms."
+  ],
+  "authorString": [
+    "Robert JA, Pitt C, Bonnett TR, Yuen MM, Keeling CI, Bohlmann J, Huber DP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Robert JA"
+          ],
+          "firstName": [
+            "Jeanne A"
+          ],
+          "lastName": [
+            "Robert"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "affiliation": [
+            "Ecosystem Science and Management Program, University of Northern British Columbia, Prince George, BC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Pitt C"
+          ],
+          "firstName": [
+            "Caitlin"
+          ],
+          "lastName": [
+            "Pitt"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Bonnett TR"
+          ],
+          "firstName": [
+            "Tiffany R"
+          ],
+          "lastName": [
+            "Bonnett"
+          ],
+          "initials": [
+            "TR"
+          ]
+        },
+        {
+          "fullName": [
+            "Yuen MM"
+          ],
+          "firstName": [
+            "Macaire M S"
+          ],
+          "lastName": [
+            "Yuen"
+          ],
+          "initials": [
+            "MM"
+          ]
+        },
+        {
+          "fullName": [
+            "Keeling CI"
+          ],
+          "firstName": [
+            "Christopher I"
+          ],
+          "lastName": [
+            "Keeling"
+          ],
+          "initials": [
+            "CI"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7885-8558",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bohlmann J"
+          ],
+          "firstName": [
+            "Jörg"
+          ],
+          "lastName": [
+            "Bohlmann"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Huber DP"
+          ],
+          "firstName": [
+            "Dezene P W"
+          ],
+          "lastName": [
+            "Huber"
+          ],
+          "initials": [
+            "DP"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7885-8558",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2093574"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "e77777"
+  ],
+  "abstractText": [
+    "The mountain pine beetle, Dendroctonus ponderosae, is a native species of bark beetle (Coleoptera: Curculionidae) that caused unprecedented damage to the pine forests of British Columbia and other parts of western North America and is currently expanding its range into the boreal forests of central and eastern Canada and the USA. We conducted a large-scale gene expression analysis (RNA-seq) of mountain pine beetle male and female adults either starved or fed in male-female pairs for 24 hours on lodgepole pine host tree tissues. Our aim was to uncover transcripts involved in coniferophagous mountain pine beetle detoxification systems during early host colonization. Transcripts of members from several gene families significantly increased in insects fed on host tissue including: cytochromes P450, glucosyl transferases and glutathione S-transferases, esterases, and one ABC transporter. Other significantly increasing transcripts with potential roles in detoxification of host defenses included alcohol dehydrogenases and a group of unexpected transcripts whose products may play an, as yet, undiscovered role in host colonization by mountain pine beetle."
+  ],
+  "affiliation": [
+    "Ecosystem Science and Management Program, University of Northern British Columbia, Prince George, BC, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Beetles"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pinus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cytochrome P-450 Enzyme System"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Insect Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Profiling"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Feeding Behavior"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Food Deprivation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Expressed Sequence Tags"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Host-Parasite Interactions"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Molecular Sequence Annotation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Transcriptome"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Cytochrome P-450 Enzyme System"
+          ],
+          "registryNumber": [
+            "9035-51-2"
+          ]
+        },
+        {
+          "name": [
+            "Insect Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3815198?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3815198"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=24223726&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=24223726"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1371/journal.pone.0077777"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2014-08-20"
+  ],
+  "dateOfCreation": [
+    "2013-11-13"
+  ],
+  "electronicPublicationDate": [
+    "2013-11-01"
+  ],
+  "firstPublicationDate": [
+    "2013-11-01"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

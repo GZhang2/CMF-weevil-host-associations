@@ -1,0 +1,499 @@
+{
+  "id": [
+    "19127385"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "19127385"
+  ],
+  "pmcid": [
+    "PMC2758384"
+  ],
+  "doi": [
+    "10.1007/s10886-008-9577-1"
+  ],
+  "title": [
+    "The chlorophyll catabolite, pheophorbide a, confers predation resistance in a larval tortoise beetle shield defense."
+  ],
+  "authorString": [
+    "Vencl FV, Gómez NE, Ploss K, Boland W."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Vencl FV"
+          ],
+          "firstName": [
+            "Fredric V"
+          ],
+          "lastName": [
+            "Vencl"
+          ],
+          "initials": [
+            "FV"
+          ]
+        },
+        {
+          "fullName": [
+            "Gómez NE"
+          ],
+          "firstName": [
+            "Nélida E"
+          ],
+          "lastName": [
+            "Gómez"
+          ],
+          "initials": [
+            "NE"
+          ]
+        },
+        {
+          "fullName": [
+            "Ploss K"
+          ],
+          "firstName": [
+            "Kerstin"
+          ],
+          "lastName": [
+            "Ploss"
+          ],
+          "initials": [
+            "K"
+          ]
+        },
+        {
+          "fullName": [
+            "Boland W"
+          ],
+          "firstName": [
+            "Wilhelm"
+          ],
+          "lastName": [
+            "Boland"
+          ],
+          "initials": [
+            "W"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "35"
+      ],
+      "journalIssueId": [
+        "1604987"
+      ],
+      "dateOfPublication": [
+        "2009 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2009"
+      ],
+      "printPublicationDate": [
+        "2009-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of chemical ecology"
+          ],
+          "ISOAbbreviation": [
+            "J. Chem. Ecol."
+          ],
+          "medlineAbbreviation": [
+            "J Chem Ecol"
+          ],
+          "NLMid": [
+            "7505563"
+          ],
+          "ISSN": [
+            "0098-0331"
+          ],
+          "ESSN": [
+            "1573-1561"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "281-288"
+  ],
+  "abstractText": [
+    "Larval insect herbivores feeding externally on leaves are vulnerable to numerous and varied enemies. Larvae of the Neotropical herbivore, Chelymorpha alternans (Chrysomelidae:Cassidinae), possess shields made of cast skins and feces, which can be aimed and waved at attacking enemies. Prior work with C. alternans feeding on Merremia umbellata (Convolvulaceae) showed that shields offered protection from generalist predators, and polar compounds were implicated. This study used a ubiquitous ant predator, Azteca lacrymosa, in field bioassays to determine the chemical constitution of the defense. We confirmed that intact shields do protect larvae and that methanol-water leaching significantly reduced shield effectiveness. Liquid chromatography-mass spectrometry (LC-MS) of the methanolic shield extract revealed two peaks at 20.18 min and 21.97 min, both with a molecular ion at m/z 593.4, and a strong UV absorption around 409 nm, suggesting a porphyrin-type compound. LC-MS analysis of a commercial standard confirmed pheophorbide a (Pha) identity. C. alternans shields contained more than 100 microg Pha per shield. Shields leached with methanol-water did not deter ants. Methanol-water-leached shields enhanced with 3 microg of Pha were more deterrent than larvae with solvent-leached shields, while those with 5 microg additional Pha provided slightly less deterrence than larvae with intact shields. Solvent-leached shields with 10 microg added Pha were comparable to intact shields, even though the Pha concentration was less than 10% of its natural concentration. Our findings are the first to assign an ecological role for a chlorophyll catabolite as a deterrent in an insect defense."
+  ],
+  "affiliation": [
+    "Department of Ecology and Evolution, Stony Brook University, Stony Brook, NY 11794-5245, USA. fvencl@life.bio.sunysb.edu"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Beetles"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GD"
+                  ],
+                  "qualifierName": [
+                    "growth & development"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chlorophyll"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AA"
+                  ],
+                  "qualifierName": [
+                    "analogs & derivatives"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chromatography, High Pressure Liquid"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Larva"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mass Spectrometry"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "pheophorbide a"
+          ],
+          "registryNumber": [
+            "15664-29-6"
+          ]
+        },
+        {
+          "name": [
+            "Chlorophyll"
+          ],
+          "registryNumber": [
+            "1406-65-1"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2758384?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2758384"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=19127385&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=19127385"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1007/s10886-008-9577-1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2009-06-23"
+  ],
+  "dateOfCreation": [
+    "2009-03-13"
+  ],
+  "dateOfRevision": [
+    "2013-06-02"
+  ],
+  "electronicPublicationDate": [
+    "2009-01-07"
+  ],
+  "firstPublicationDate": [
+    "2009-01-07"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

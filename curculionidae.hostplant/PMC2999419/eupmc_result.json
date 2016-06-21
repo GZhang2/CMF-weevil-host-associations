@@ -1,0 +1,489 @@
+{
+  "id": [
+    "20307233"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "20307233"
+  ],
+  "pmcid": [
+    "PMC2999419"
+  ],
+  "doi": [
+    "10.1673/031.007.2101"
+  ],
+  "title": [
+    "Impact of the stem borer, Dectes texanus, on yield of the cultivated sunflower, Helianthus annuus."
+  ],
+  "authorString": [
+    "Michaud JP, Grant AK, Jyoti JL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Michaud JP"
+          ],
+          "firstName": [
+            "J P"
+          ],
+          "lastName": [
+            "Michaud"
+          ],
+          "initials": [
+            "JP"
+          ]
+        },
+        {
+          "fullName": [
+            "Grant AK"
+          ],
+          "firstName": [
+            "Angela K"
+          ],
+          "lastName": [
+            "Grant"
+          ],
+          "initials": [
+            "AK"
+          ]
+        },
+        {
+          "fullName": [
+            "Jyoti JL"
+          ],
+          "firstName": [
+            "J L"
+          ],
+          "lastName": [
+            "Jyoti"
+          ],
+          "initials": [
+            "JL"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "1717375"
+      ],
+      "dateOfPublication": [
+        "2007 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2007"
+      ],
+      "printPublicationDate": [
+        "2007-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of insect science (Online)"
+          ],
+          "ISOAbbreviation": [
+            "J. Insect Sci."
+          ],
+          "medlineAbbreviation": [
+            "J Insect Sci"
+          ],
+          "NLMid": [
+            "101096396"
+          ],
+          "ESSN": [
+            "1536-2442"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "21"
+  ],
+  "abstractText": [
+    "Foliar and soil-drench insecticide treatments were used in attempts to manipulate infestation of cultivated sunflower plants, Helianthus annuus LeConte (Asterales: Asteraceae) by Dectes texanus LeConte, (Coleoptera: Cerambycidae) a serious pest of sunflowers in the High Plains of the USA. Seed yields were assessed on a per-plant basis for both oilseed and confection type sunflower hybrids in two years. Both insecticide treatments (foliar ë-cyhalothrin and soil-drench carbofuran) improved yield of oilseed sunflowers in 2004, but not in 2005. Yield of confection hybrids was improved by a systemic fungicide (thiophanate methyl) in 2005, but insecticides did not improve yield in either year. Both insecticide treatments gave good control of various stalk-boring insects such as Cylindrocopturus adspersus (Coleoptera: Curculionidae), Mordellistena sp. (Coleoptera: Mordellidae), and Pelochrista womanana (Lepidoptera: Tortricidae), but neither gave better than 50% control of D. texanus. Plants were sorted according to the presence or absence of D. texanus larvae and no reduction was found in total seed weight, seed size, or oil content as a result of infestation. However, mature larvae of D. texanus girdle stalks at the base in preparation for overwintering, a behavior that reduced stalk breakage force by 34-40%, leading to yield losses through lodging. At harvest in 2005, there were differences between cultivars and among treatments in the proportions of D. texanus larvae that had girdled their plants at harvest. It was concluded that further research aimed at reducing crop losses to D. texanus should focus on means of delaying stalk desiccation and/or deterioration, factors that appear to trigger girdling behavior."
+  ],
+  "affiliation": [
+    "Kansas State University, Agricultural Research Center - Hays, Hays, KS 67601, USA. jpmi@ksu.edu"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Beetles"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Helianthus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Seeds"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Oils"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Insecticides"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Linear Models"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Random Allocation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Temperature"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Larva"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Agriculture"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "sunflower seed oil"
+          ],
+          "registryNumber": [
+            "8001-21-6"
+          ]
+        },
+        {
+          "name": [
+            "Insecticides"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Plant Oils"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2999419?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2999419"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=20307233&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=20307233"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1673/031.007.2101"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2010-06-11"
+  ],
+  "dateOfCreation": [
+    "2010-03-23"
+  ],
+  "dateOfRevision": [
+    "2013-05-29"
+  ],
+  "firstPublicationDate": [
+    "2007-01-01"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

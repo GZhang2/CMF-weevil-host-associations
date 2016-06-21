@@ -1,0 +1,397 @@
+{
+  "id": [
+    "24454755"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24454755"
+  ],
+  "pmcid": [
+    "PMC3890286"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0084847"
+  ],
+  "title": [
+    "What magnitude are observed non-target impacts from weed biocontrol?"
+  ],
+  "authorString": [
+    "Suckling DM, Sforza RF."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Suckling DM"
+          ],
+          "firstName": [
+            "David Maxwell"
+          ],
+          "lastName": [
+            "Suckling"
+          ],
+          "initials": [
+            "DM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7216-9348",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Biosecurity Group, The New Zealand Institute of Plant and Food Research Ltd, Christchurch, New Zealand ; Better Border Biosecurity, Christchurch, New Zealand."
+          ]
+        },
+        {
+          "fullName": [
+            "Sforza RF"
+          ],
+          "firstName": [
+            "René François Henri"
+          ],
+          "lastName": [
+            "Sforza"
+          ],
+          "initials": [
+            "RF"
+          ],
+          "affiliation": [
+            "European Biological Control Laboratory, USDA-ARS, Campus International de Baillarguet, Montferrier-sur-Lez, France."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7216-9348",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2111165"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "e84847"
+  ],
+  "abstractText": [
+    "A systematic review focused by plant on non-target impacts from agents deliberately introduced for the biological control of weeds found significant non-target impacts to be rare. The magnitude of direct impact of 43 biocontrol agents on 140 non-target plants was retrospectively categorized using a risk management framework for ecological impacts of invasive species (minimal, minor, moderate, major, massive). The vast majority of agents introduced for classical biological control of weeds (>99% of 512 agents released) have had no known significant adverse effects on non-target plants thus far; major effects suppressing non-target plant populations could be expected to be detectable. Most direct non-target impacts on plants (91.6%) were categorized as minimal or minor in magnitude with no known adverse long-term impact on non-target plant populations, but a few cacti and thistles are affected at moderate (n = 3), major (n = 7) to massive (n = 1) scale. The largest direct impacts are from two agents (Cactoblastis cactorum on native cacti and Rhinocyllus conicus on native thistles), but these introductions would not be permitted today as more balanced attitudes exist to plant biodiversity, driven by both society and the scientific community. Our analysis shows (as far as is known), weed biological control agents have a biosafety track record of >99% of cases avoiding significant non-target impacts on plant populations. Some impacts could have been overlooked, but this seems unlikely to change the basic distribution of very limited adverse effects. Fewer non-target impacts can be expected in future because of improved science and incorporation of wider values. Failure to use biological control represents a significant opportunity cost from the certainty of ongoing adverse impacts from invasive weeds. It is recommended that a simple five-step scale be used to better communicate the risk of consequences from both action (classical biological control) and no action (ongoing impacts from invasive weeds)."
+  ],
+  "affiliation": [
+    "Biosecurity Group, The New Zealand Institute of Plant and Food Research Ltd, Christchurch, New Zealand ; Better Border Biosecurity, Christchurch, New Zealand."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Insects"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plants"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Pest Control, Biological"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phylogeny"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Weeds"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3890286?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3890286"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=24454755"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=24454755&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1371/journal.pone.0084847"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-09-18"
+  ],
+  "dateOfCreation": [
+    "2014-01-23"
+  ],
+  "electronicPublicationDate": [
+    "2014-01-13"
+  ],
+  "firstPublicationDate": [
+    "2014-01-13"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

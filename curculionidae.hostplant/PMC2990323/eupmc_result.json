@@ -1,0 +1,256 @@
+{
+  "id": [
+    "PMC2990323"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC2990323"
+  ],
+  "title": [
+    "Application of Bark Beetle Semiochemicals for Quarantine of Bark Beetles in China."
+  ],
+  "authorString": [
+    "Liu Y, Dai H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liu Y"
+          ],
+          "firstName": [
+            "Yong"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "College of Plant Protection, Nanjing Agricultural University, Nanjing, 210095, China"
+          ]
+        },
+        {
+          "fullName": [
+            "Dai H"
+          ],
+          "firstName": [
+            "Huaguo"
+          ],
+          "lastName": [
+            "Dai"
+          ],
+          "initials": [
+            "H"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "1785183"
+      ],
+      "dateOfPublication": [
+        "2006 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2006"
+      ],
+      "printPublicationDate": [
+        "2006-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of Insect Science"
+          ],
+          "medlineAbbreviation": [
+            "Journal of Insect Science"
+          ],
+          "ISSN": [
+            "1536-2442"
+          ]
+        }
+      ]
+    }
+  ],
+  "abstractText": [
+    "This article describes the use of bark beetle semiochemicals for quarantine in China. Using traps with two isomeric compounds of α-pinene, ethanol, trans-verbenol, verbenone, camphene and isononylaldehyde, insects of four families (Scolytidae, Platypodidae, Bostychidae and Cleridae) were trapped, including eight genera of Scolytidae, (Xyleborus, Cryphalus, Polygraphs, Xyloterus, Ips, Dendroctonus, Orthotomicus and Scolytus), totaling 16 species. The present condition of bark beetle quarantine in China is briefly discussed, and the broad research trends are outlined."
+  ],
+  "affiliation": [
+    "College of Plant Protection, Nanjing Agricultural University, Nanjing, 210095, China"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Scolytus",
+        "Scolytidae",
+        "Ips",
+        "Dendroctonus",
+        "Platypodidae",
+        "Bostychidae And Cleridae",
+        "Xyleborus",
+        "Cryphalus",
+        "Polygraphs",
+        "Xyloterus",
+        "Orthotomicus"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2990323?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2990323"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.org/articles/PMC2990323/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.org/articles/PMC2990323/?tool=EBI"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2010-12-04"
+  ],
+  "dateOfRevision": [
+    "2014-09-16"
+  ],
+  "electronicPublicationDate": [
+    "2006-11-16"
+  ],
+  "firstPublicationDate": [
+    "2006-11-16"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

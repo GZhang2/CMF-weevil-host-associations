@@ -1,0 +1,279 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN" "archivearticle3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//Atypon//DTD Atypon Systems Archival NLM DTD Suite v2.2.0 20090301//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName atypon-archivearticle.dtd?><?SourceDTD.Version 2.2?><?ConverterInfo.XSLTName atypon2nlmx.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Insect Sci</journal-id><journal-id journal-id-type="publisher-id">insc</journal-id><journal-title-group><journal-title>Journal of Insect Science</journal-title></journal-title-group><issn pub-type="epub">1536-2442</issn><publisher><publisher-name>University of Wisconsin Library</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">3061598</article-id><article-id pub-id-type="doi">10.1673/031.008.2601</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Extensive Natural Intraspecific Variation in Stoichiometric (C:N:P) Composition in Two Terrestrial Insect Species</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Bertram</surname><given-names>S. M.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1,</sup>
+</xref><xref ref-type="corresp" rid="corr1">
+<sup>a</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Bowen</surname><given-names>M.</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Kyle</surname><given-names>M.</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Schade</surname><given-names>J. D.</given-names></name><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref></contrib><aff id="aff1"><label><sup>1</sup></label>Department of Biology, Carleton University, 1125 Colonel By Drive, Ottawa, Ontario, Canada K1S 5B6</aff><aff id="aff2"><label><sup>2</sup></label>School of Life Sciences, Arizona State University, Tempe, AZ, 85287-4501</aff><aff id="aff3"><label><sup>3</sup></label>Department of Biology, St. Olaf College, 1520 St. Olaf Avenue, Northfield, MN, 55057</aff></contrib-group><author-notes><corresp id="corr1"><label><sup>a</sup></label><email>Susan_Bertram@carleton.ca</email></corresp></author-notes><pub-date pub-type="collection"><year>2008</year></pub-date><pub-date pub-type="epub"><day>27</day><month>3</month><year>2008</year></pub-date><volume>8</volume><elocation-id>26</elocation-id><history><date date-type="received"><day>26</day><month>5</month><year>2006</year></date><date date-type="accepted"><day>30</day><month>7</month><year>2007</year></date></history><permissions><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.5/"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><abstract><p>Heterotrophic organisms must obtain essential elements in sufficient quantities from their food. Because plants naturally exhibit extensive variation in their elemental content, it is important to quantify the within-species stoichiometric variation of consumers. If extensive stoichiometric variation exists, it may help explain consumer variation in life-history strategy and fitness. To date, however, research on stoichiometric variation has focused on <italic>interspecific</italic> differences and assumed minimal <italic>intraspecific</italic> differences. Here this assumption is tested. Natural variation is quantified in body stoichiometry of two terrestrial insects: the generalist field cricket, <italic>Gryllus texensis</italic> Cade and Otte (Orthoptera: Gryllidae) and a specialist curculionid weevil, <italic>Sabinia setosa</italic> (Le Conte) (Coleoptera: Curculionidae). Both species exhibited extensive intraspecific stoichiometric variation. Cricket body nitrogen content ranged from 8&#x02013;12% and there was a four-fold difference in body phosphorus content, ranging from 0.32&#x02013;1.27%. Body size explained half this stoichiometric variation, with larger individuals containing less nitrogen and phosphorus. Weevils exhibited an almost three-fold difference in body phosphorus content, ranging from 0.38&#x02013;0.97%. Overall, the variation observed within each of these species is comparable to the variation previously observed across almost all terrestrial insect species.</p></abstract><kwd-group><title>Keywords
+</title><kwd>stoichiometry</kwd><kwd>carbon</kwd><kwd>nitrogen</kwd><kwd>phosphorus</kwd><kwd>cricket</kwd><kwd><italic>Gryllus</italic></kwd><kwd>weevil</kwd><kwd><italic>Sabinia</italic></kwd><kwd>essential elements</kwd></kwd-group><counts><page-count count="7"/></counts></article-meta></front><body><sec sec-type="" id="sec1"><title>Introduction</title><p>Organisms that are incapable of making their own food must obtain their essential elements from their diet. However, plant nitrogen (N) and phosphorus (P) content is on average 6&#x02013;16 times lower than it is in terrestrial insect herbivores (plants: &#x0223c;1.5%N, &#x0223c;0.05%P; insects: &#x0223c;9.3%N, &#x0223c;o.76%P, <xref ref-type="bibr" rid="bibr08">Elser et al. 2000</xref>; <xref ref-type="bibr" rid="bibr09">Pagan et al. 2002</xref>; <xref ref-type="bibr" rid="bibr13">Mattson 1980</xref>; <xref ref-type="bibr" rid="bibr22">Woods et al. 2004</xref>). This elemental mismatch between consumers and producers places inherent constraints on consumer ability to meet their nutritional requirements (<xref ref-type="bibr" rid="bibr08">Elser et al. 2000</xref>; <xref ref-type="bibr" rid="bibr13">Mattson 1980</xref>; <xref ref-type="bibr" rid="bibr20">Strong et al. 1984</xref>).</p><p>The ability of consumers to self-regulate their internal elemental content (stoichiometry) should critically influence how intensely diet quality affects herbivore fitness. If herbivores can maintain their stoichiometry regardless of diet quality they may reduce the fitness consequences of poor quality food. Research suggests, however, that consumers do not always maintain strict stoichiometric homeostasis. Instead, consumer body stoichiometry often tracks diet stoichiometry. For example, a laboratory experiment revealed that <italic>Manduca sexta</italic> caterpillars fed high phosphorus diets had significantly more phosphorus in their bodies than those fed low phosphorus diets (<xref ref-type="bibr" rid="bibr15">Perkins et al. 2004</xref>). Further, a field study revealed a tight association between soil phosphorus, mesquite phosphorus, and the body phosphorus content of <italic>Sabina setosa</italic>, a curculionid weevil that feeds on the mesquite. An increase in soil phosphorus was correlated with an increase in mesquite and weevil phosphorus (<xref ref-type="bibr" rid="bibr17">Schade et al. 2003</xref>). Overall, these results suggest diet stoichiometry may strongly influence consumer stoichiometry.</p><p>Both nitrogen and phosphorus are vitally important to insects. Nitrogen plays a fundamental role in protein production (<xref ref-type="bibr" rid="bibr19">Sterner and Elser 2002</xref>) and experimental manipulations reveal that consumer growth, reproduction, and survival are all strongly affected (<xref ref-type="bibr" rid="bibr04">Busch and Phelan 1999</xref>; <xref ref-type="bibr" rid="bibr07">Elser et al. 2003</xref>; <xref ref-type="bibr" rid="bibr10">Huberty and Denno 2006</xref>; <xref ref-type="bibr" rid="bibr15">Perkins et al. 2004</xref>). Phosphorus is also fundamentally tied to protein production through the synthesis of nucleic acids. While terrestrial insects are thought to be more limited by dietary nitrogen then by dietary phosphorus, the few studies that have examined the effects of dietary phosphorus have revealed that it can also affect growth rate and body size (<xref ref-type="bibr" rid="bibr04">Busch and Phelan 1999</xref>; <xref ref-type="bibr" rid="bibr11">Janssen 1994</xref>; <xref ref-type="bibr" rid="bibr15">Perkins et al. 2004</xref>), population density (<xref ref-type="bibr" rid="bibr17">Schade et al. 2003</xref>), reproduction (<xref ref-type="bibr" rid="bibr16">Popp et al. 1989</xref>), and survival (<xref ref-type="bibr" rid="bibr06">Clancy and King 1993</xref>). In a recent study examining the effects of both dietary nitrogen and phosphorus, Huberty and Denno (<xref ref-type="bibr" rid="bibr10">2006</xref>) found that elemental subsidies enhanced the body stoichiometry of the phytophagus planthopper, <italic>Prokelisia marginata</italic>. <italic>P</italic>. <italic>marginata</italic> raised on elementally enriched diets grew larger, developed more rapidly, and exhibited greater survival (<xref ref-type="bibr" rid="bibr10">Huberty &#x00026; Denno 2006</xref>).</p><p>Because body stoichiometry appears to be intimately connected with insect growth rate, body size, reproduction, and survival, it is important to quantify the natural variation that exists among individuals in their body stoichiometry. Understanding the extent of this natural variation and the factors that affect it are necessary steps toward determining whether an ecological stoichiometric approach can help explain a fundamental evolutionary problem: the persistence of extensive variation in individual fitness in the face of strong directional selection.</p><p>To date, most studies examining insect stoichiometry have focused on taxonomic variation. Woods et al (<xref ref-type="bibr" rid="bibr22">2004</xref>) examined the body phosphorus content of 155 species of adult insects. Body phosphorus content was highly variable across taxa (range = 0.36% to 1.48%; mean = 0.79%), inversely correlated with insect size, and phylogenetically older orders tended to have more phosphorus (<xref ref-type="bibr" rid="bibr22">Woods et al. 2004</xref>). Only one individual was assayed in 98 of the 155 species examined and, when body phosphorus from two or more individuals were assayed, the results were averaged (<xref ref-type="bibr" rid="bibr22">Woods et al 2004</xref>). In a similar study, Fagan et al (<xref ref-type="bibr" rid="bibr09">2002</xref>) examined the body nitrogen content of 143 terrestrial insect species and revealed extensive variation across taxa (range = 5.7% to 13%; mean = 9.87%). Predators had significantly more nitrogen than herbivores; predator nitrogen was inversely correlated with body size, and phylogenetically older herbivorous lineages tended to contain more nitrogen (<xref ref-type="bibr" rid="bibr09">Fagan et al. 2002</xref>). All within-species estimates of body nitrogen content were averaged prior to analysis (<xref ref-type="bibr" rid="bibr09">Fagan et al 2002</xref>). Overall, both studies revealed a strong inverse relationship between body stoichiometry and body size across insect taxa. Both studies assumed that intraspecific stoichiometric variation was minimal.</p><p>Here the natural variation in body stoichiometry is quantified within two terrestrial insect species, the omnivorous Texas field cricket, <italic>Gryllus texensis</italic> Cade and Otte (Orthoptera: Gryllidae) and the specialist phloem feeding curculionid weevil, <italic>Sabinia setosa</italic> (Le Conte) (Coleoptera: Curculionidae). We chose the Texas field cricket because they exhibit extensive stoichiometric variation when reared in the laboratory on a high quality diet, suggesting that they might naturally display high intraspecific variation (<xref ref-type="bibr" rid="bibr03">Bertram et al. 2006</xref>). Because crickets are also highly variable in their body size (<xref ref-type="bibr" rid="bibr02">Bertram 2000</xref>), they also provide a natural intraspecific test of Fagan et al (<xref ref-type="bibr" rid="bibr09">2002</xref>) and Woods et al (<xref ref-type="bibr" rid="bibr22">2004</xref>) findings that an inverse relationship exists between body size and body stoichiometry across insect taxa. The curculionid weevil was chosen because its' body stoichiometry also appears highly variable; weevil body stoichiometry seems to track its' host plant stoichiometry which in turn tracks the natural variation in soil stoichiometry. Our overall goal was three-fold: (1) to quantify the natural variation within each of these two terrestrial insect species, (2) to determine whether body stoichiometry is inversely correlated to size within a species, and (3) to compare and contrast intraspecific variation to the previously described interspecific variation in terrestrial insects (<xref ref-type="bibr" rid="bibr09">Fagan et al. 2002</xref>; <xref ref-type="bibr" rid="bibr22">Woods et al. 2004</xref>).</p></sec><sec sec-type="materials|methods" id="sec2"><title>Materials and Methods</title><p>Adult male Texas field crickets (<italic>G</italic>. <italic>texensis</italic>) were captured (N = 78) in October, 2004 after being observed flying at the bright lights of a golf course driving range in Austin Texas. Austin crickets collected in this manner typically have a mean age of 11.1 &#x000b1;2.6 (range = 7&#x02013;18) days post final molt (<xref ref-type="bibr" rid="bibr14">Murray and Cade 1995</xref>). As part of a different experiment to quantify long distance mate attraction signals, each male was housed individually, provided with a water source, fed a uniform diet (4% N and 1.08% P; Harlan's Teklad Rodent Diet (W) 8604), and monitored acoustically for a one week period. Crickets were then placed in labeled plastic vials and frozen.</p><p>Crickets were dried at 60&#x000b0;C for ten days. Dried crickets were weighed to the nearest hundredth of a milligram using a Mettler MX5 electrobalance (<ext-link ext-link-type="uri" xlink:href="http://us.mt.com/home">http://us.mt.com/home</ext-link>). Each of the 78 crickets were then individually ground to a fine powder using a Spex Certiprep 8000D ball mill (<ext-link ext-link-type="uri" xlink:href="www.spexcsp.com/">www.spexcsp.com/</ext-link>). Body phosphorus content (percent of dry mass) was determined on several (mean = 3.9; range = 3&#x02013;12 samples per individual) 1&#x02013;2 mg powdered sub-samples of each cricket using the persulfate oxidation technique followed by analysis of orthophosphate using the acid molybdate technique (<xref ref-type="bibr" rid="bibr01">APHA 1992</xref>). Twelve of the 78 crickets were randomly selected for carbon and nitrogen analyses. Body carbon and nitrogen contents was analyzed using a Perkin-Elmer (<ext-link ext-link-type="uri" xlink:href="www.perkinelmer.com">www.perkinelmer.com</ext-link>) 2400 CHN elemental analyzer; a &#x0223c;4 mg powdered sub-sample was used. Cost limitations negated analyzing CHN of more than twelve individuals, or running more than one sample per cricket.</p><p>Adult curculionid weevils (<italic>S</italic>. <italic>setosa</italic>) were collected in May 2000, September 2000, and April 2001 from velvet mesquite trees, <italic>Prosopis velutina</italic> Woot. (Fabales: Fabaceae), found in three different habitats (riparian, desert, and woodland) in the Sonoran Desert near Phoenix, AZ. Insect nets were placed over the tree branch, the branch was pruned from the tree, and then shaken vigorously to dislodge the weevils. A sub-sample of weevils from each tree were dried (mean = 5.2). The phosphorus content of each individual was determined using the methodology described above. The entire individual was used in the phosphorus analysis because of the weevils' small body size (100 &#x02013; 150 &#x000b5;g dry weight). It was therefore not possible to analyze CHN on these individuals. Population scale weevil data were originally published by Schade et al. (<xref ref-type="bibr" rid="bibr17">2003</xref>) in an examination of how soil phosphorus variation impacted mesquite and weevil phosphorus variation. In the present study the intra-specific phosphorus variation is compared and contrasted in weevils to the reported inter-specific phosphorus variation that exists across insects (<xref ref-type="bibr" rid="bibr22">Woods et al. 2004</xref>).</p><p>Statistical analyses were conducted using JMP software. The Shapiro-Wilk Goodness of Fit test was used to ensure data did not differ significantly from normal. Correlation analysis was used to examine the relationships between C, N, P, C:N, C:P, N:P and dry weight for the field-captured male crickets. Significance probabilities were adjusted to p&#x0003c;0.0165 to account for the 21 correlations (Dunn-&#x0015c;id&#x000e1;k method - <xref ref-type="bibr" rid="bibr18">Sokal and Rohlf 1995</xref>). We used an ANOVA to determine if field-captured weevils differ from field-captured crickets in their body phosphorus content. We analyzed the April 2001 seasonal weevil body phosphorus data separately from the phosphorus data collected in 2000 because body phosphorus content was significantly higher in 2001 than it was in the two 2000 collections (<xref ref-type="bibr" rid="bibr17">Schade et al. 2003</xref>). The May and September 2000 body phosphorus data did not differ significantly (<xref ref-type="bibr" rid="bibr17">Schade et al. 2003</xref>) so those two seasons were combined for subsequent analyses. The significance probability was adjusted to p&#x0003c;0.0253 to account for the 2 ANOVAs (Dunn-&#x0015c;id&#x000e1;k method). ANOVA was used to quantify potential influences of habitat (riparian, woodland, and desert) the weevils were collected from. The significance probability was adjusted to p&#x0003c;0.0253 to account for the 2 ANOVAs (Dunn-&#x0015c;id&#x000e1;k method).</p><table-wrap id="t01" position="float"><label>Table 1. </label><caption><p>Organismal stoichiometric descriptive statistics for field-captured adult male Texas field crickets (<italic>Gryllus texensis</italic>) and field-captured adult curculionid weevil (<italic>Sabinia setosa</italic>).</p></caption><graphic xlink:href="t01_01"/></table-wrap></sec><sec sec-type="" id="sec3"><title>Results</title><p>Body stoichiometry of <italic>G</italic>. <italic>texensis</italic> exhibited extensive natural variation (<xref ref-type="table" rid="t01">Table 1</xref>). Body carbon content ranged from 48&#x02013;57% total body mass, body nitrogen content ranged from 8&#x02013;12%, and there was a four-fold difference in body phosphorus content, ranging from 0.32&#x02013;1.27. The C:N and C:P ratios of adult male crickets both also exhibited an almost two-fold variation, ranging from 4.7 to 7.6, and 127 to 235, respectively. The N:P ratio ranged from 23 to 36. These results reveal that substantial stoichiometric variation exists within this one cricket species.</p><p>Carbon, nitrogen, and phosphorus content exhibited significant tradeoffs (<xref ref-type="table" rid="t02">Table 2</xref>). Cricket body carbon content was negatively correlated with nitrogen and phosphorus content. There was also a non-significant trend for nitrogen and phosphorus content to be positively correlated, suggesting that animals that are good at acquiring and retaining nitrogen are also good at acquiring and retaining phosphorus.</p><table-wrap id="t02" position="float"><label>Table 2. </label><caption><p>Correlations between dry weight and stoichiometric balance for field-captured crickets. Statistically significant correlations are in bold (statistical significance was reduced to P&#x0003c;0.0165 using the Dunn-&#x0015c;id&#x000e1;k method to account for 21 correlations). Stoichiometric ratios are atomic.</p></caption><graphic xlink:href="t02_01"/></table-wrap><p>Heavier individuals contained more carbon and less nitrogen and phosphorus than lighter individuals (<xref ref-type="table" rid="t02">Table 2</xref>). Overall, 62% of variation in C, 51% of variation in N, and 47% of variation in phosphorus was explained by cricket dry weight (Regression: 96C: F = 19.02, p = 0.0014, R<sup>2</sup>adj = 0.62, df = 10,1; %N: F = 12.26, p = 0.0057, R<sup>2</sup>adj = 0.51, df = 10,1; %P: F = 68.58, p&#x0003c;0.0001, R<sup>2</sup>adj = 0.47, df = 76,1).</p><p><italic>S</italic>. <italic>setosa</italic> also exhibited large variation in their body phosphorus content (<xref ref-type="table" rid="t01">Table 1</xref>). Weevils exhibited a two-fold difference in body phosphorus content in 2000, ranging from 0.32&#x02013;0.63 %P. In 2001 the variation increased and individuals exhibited an almost three-fold difference in body phosphorus content, ranging from 0.38&#x02013;0.97 %P. Body phosphorus content did not differ across the three habitats (riparian, desert, and woodland; ANOVA: 2000: F = 3.34, R<sup>2</sup>adj = 0.08, df = 49,2, P = 0.0435; 2001: F = 0.44, R<sup>2</sup>adj = -0.02, df = 53,2, P = 0.6470; the significance probability was adjusted to p&#x0003c;0.0253 to account for the multiple ANOVAs using the Dunn-&#x0015c;id&#x000e1;k method).</p><p>The weevils collected in 2001 did not differ from the crickets in their body phosphorus content (ANOVA: F = 5.09, R<sup>2</sup>adj = 0.03, df = 132,1, P = 0.0258; <xref ref-type="table" rid="t01">Table 1</xref>). However, the weevils collected in 2000 exhibited significantly lower body phosphorus contents than the crickets (ANOVA: F = 106.81, R<sup>2</sup>adj = 0.45, df = 128,1, P&#x0003c;0.0001; <xref ref-type="table" rid="t01">Table 1</xref>).</p><fig id="f01" fig-type="figure" position="float"><label>Figure 1. </label><caption><p>Comparing variation in total body phosphorus content within and across taxa. (A) The intraspecific variation in Texas field crickets (<italic>Gryllus texensis</italic>; dark bars) is compared to the interspecific variation (across insect taxa - light bars) in total body phosphorus content; (B) The intraspecific variation in Cuculinoid weevils (<italic>Sabinia setosa</italic>; dark bars) is compared to the interspecific variation (across insect taxa - light bars) in total body phosphorus content. Interspecific variation data are from Woods et al. (<xref ref-type="bibr" rid="bibr22">2004</xref>).</p></caption><graphic xlink:href="f01_01"/></fig><fig id="f02" fig-type="figure" position="float"><label>Figure 2. </label><caption><p>Comparing variation in total body nitrogen content within and across taxa. Intraspecific variation in Texas field crickets (<italic>Gryllus texensis</italic>; dark bars) is compared to the interspecific variation (across insect taxa - light bars) in total body nitrogen content. Interspecific variation data are from Fagan et al. (<xref ref-type="bibr" rid="bibr09">2004</xref>).</p></caption><graphic xlink:href="f02_01"/></fig></sec><sec sec-type="" id="sec4"><title>Discussion</title><p>The cricket, <italic>G</italic>. <italic>texensis</italic>, exhibited substantial natural variation in their elemental stoichiometry. Crickets differed up to 20% in their body carbon content, up to 50% in their body N, and up to 400% in their body phosphorus content. Stoichiometric ratios were also highly variable with individuals differing up to 60% in their C:N, up to 85% in their C:P, and up to 60% in their N:P ratio. Overall, the intraspecific nitrogen and phosphorus variation in <italic>G</italic>. <italic>texensis</italic> was almost as high as the previously published interspecific variation estimates for terrestrial insect species (<xref ref-type="fig" rid="f01">Figure 1a</xref>, <xref ref-type="fig" rid="f02">2</xref>). High intraspecific Stoichiometric variation was not limited to crickets: the specialist curculionid weevil, <italic>S</italic>. <italic>setosa</italic>, also exhibited substantial natural variation in body phosphorus (<xref ref-type="fig" rid="f01">Figure 1b</xref>). These results suggest that high intraspecific Stoichiometric variation could be common across terrestrial insect taxa.</p><p>What might drive this extensive intraspecific variation in body stoichiometry? Approximately half the intraspecific Stoichiometric variation can be explained by individual differences in body size. Body stoichiometry is strongly and inversely correlated to body size. This inverse intraspecific relationship between body size and body stoichiometry is consistent with the inverse relationship observed across insect taxa; smaller species tend to have higher nitrogen and phosphorus contents than larger species (<xref ref-type="bibr" rid="bibr09">Fagan et al. 2002</xref>; <xref ref-type="bibr" rid="bibr22">Woods et al. 2004</xref>). Woods et al. (<xref ref-type="bibr" rid="bibr22">2004</xref>) and Fagan et al. (<xref ref-type="bibr" rid="bibr09">2002</xref>) provide a detailed discussion of what might drive this Stoichiometric allometry.</p><p>Differences in sex, stage, age, or wing morphology cannot explain the remaining observed intraspecific variation in our cricket samples because only flight capable adult males of similar age were used in these experiements. The crickets were collected while flying at lights. Macropterous (long winged and flight capable) males collected in this manner have a mean age of 11.1 &#x000b1; 2.6 days post final moult (<xref ref-type="bibr" rid="bibr14">Murray and Cade 1995</xref>). The intraspecific variation in cricket stoichiometry can also not be explained by population differences because the crickets were all collected from one location over a one-week period. Variation in age, stage, or sex could, however, increase the intraspecific variation in body nitrogen and phosphorus beyond what was observed in this study. Larval <italic>Drosophila melanogaster</italic>, for example, exhibit substantial shifts in their nitrogen and phosphorus contents as they age. Young larvae tend to have 30% more nitrogen and 200% more phosphorus than larvae that are about to pupate (<xref ref-type="bibr" rid="bibr21">Watts et al. 2006</xref>).</p><p>Stoichiometric variation during developmental stages has been observed in the calanoid copepod (<italic>Mixodiaptomus laciniatus</italic>) (<xref ref-type="bibr" rid="bibr05">Carrillo et al. 2001</xref>). Nitrogen increases over 400% were measured during development from nauplii (mean &#x000b1; SD = 1.4% &#x000b1; 1.1) to copepodite (mean &#x000b1; SD = 6.0% &#x000b1; 2.1. Phosphorus increased across nauplii stages (stage Nil: mean &#x000b1; SD = 0.75 &#x000b1; 0.15; stage V: mean &#x000b1; SD = 1.19 &#x000b1; 0.17) but then declined across copepodite stages (stage CV: mean &#x000b1; SD = 0.63 &#x000b1; 0.07; (<xref ref-type="bibr" rid="bibr05">Carrillo et al. 2001</xref>). Likewise, female <italic>D</italic>. <italic>melanogaster</italic> contain significantly more phosphorus than males. Female <italic>D</italic>. <italic>pseudoobscura</italic>, for example, contain 74% more phosphorus than males; females: 1.14%P, males: 0.84%P (<xref ref-type="bibr" rid="bibr12">Markow et al. 1999</xref>). Thus, variation in age, stage, and/or sex could increase intraspecific Stoichiometric variation.</p><p>Variation among individuals in their body stoichiometry may result from differences in their ability to locate, consume, and retain sufficient essential elements from the diet. Terrestrial autotrophs display highly variable elemental contents that are typically poor in nitrogen and phosphorus (<xref ref-type="bibr" rid="bibr08">Elser et al. 2000</xref>). Autotrophic Stoichiometric variation might, therefore, partially explain the intraspecific variation in terrestrial insect stoichiometry. In support of this view, our research reveals that crickets reared in the laboratory on a constant diet exhibit less variation in their body nitrogen content (mean &#x000b1; sd = 10.99 &#x000b1; 0.98, range = 9.04 - 12.66, CV = 8.90, n = 55; (<xref ref-type="bibr" rid="bibr03">Bertram et al. 2006</xref>) than those that were captured as adults in the field after consuming presumably highly variable Stoichiometric diets (mean &#x000b1; sd = 10.37 &#x000b1; 1.22, range = 8.7 - 12.02, CV = 11.76, n = 12; this study). Similarly, the laboratory reared crickets exhibited substantially less variation in their body phosphorus content (mean &#x000b1; sd = 0.67 &#x000b1; 0.10, range = 0.44 &#x02013; 0.87, CV = 14.95, n = 55; (<xref ref-type="bibr" rid="bibr03">Bertram et al. 2006</xref>) than those that were captured as adults in the field (mean &#x000b1; sd = 0.74 &#x000b1; 0.17, range = 0.32 &#x02013; 1.27, CV = 23.5, n = 78; this study). Because intraspecific variation in body stoichiometry is high, future research on insects should examine how the ability to uptake and retain essential and limited elements influences intraspecific variation in fitness. Future research should also examine the relationship between body stoichiometry and the amount of energy stored, as variation among individuals in their energy stores might explain some of the observed intraspecific variation in nitrogen.</p><p>Studies examining stoichiometric variation across insect taxa indicate predators differ from herbivores in their body nitrogen content, and older insect lineages tend to contain more nitrogen and phosphorus than recently evolved liineages (<xref ref-type="bibr" rid="bibr09">Fagan et al. 2002</xref>; <xref ref-type="bibr" rid="bibr22">Woods et al. 2004</xref>). These studies were conducted under the assumption of minimal intraspecific stoichiometric variation. Our results suggest that the stoichiometric variation observed within crickets and weevils is almost as large as that previously observed across all insect taxa (<xref ref-type="fig" rid="f01">Figure s1</xref>, <xref ref-type="fig" rid="f02">2</xref>). Future taxonomic studies should, therefore, take intraspecific stoichiometric variation into consideration.</p></sec></body><back><ref-list content-type="parsed"><title>References</title><ref id="bibr01"><element-citation publication-type="book">
+<collab>APHA</collab><year>1992</year><source><italic>Standard Methods for the Examination of Water and Wastewater</italic></source><publisher-name>American Public Health Association</publisher-name><publisher-loc>Washington, DC</publisher-loc></element-citation></ref><ref id="bibr02"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bertram</surname><given-names>SM</given-names></name></person-group>
+<year>2000</year>
+
+<article-title>The influence of age and size on temporal mate signalling behaviour.</article-title>
+
+<source><italic>Animal Behaviour</italic></source>
+
+<volume>60</volume>
+
+<fpage>333</fpage>
+
+<lpage>339</lpage>
+
+<pub-id pub-id-type="pmid">11007642</pub-id></element-citation></ref><ref id="bibr03"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bertram</surname><given-names>SM</given-names></name><name><surname>Schade</surname><given-names>JD</given-names></name><name><surname>Elser</surname><given-names>JJ</given-names></name></person-group>
+<year>2006</year>
+
+<article-title>Signalling and phosphorus: correlations between mate signalling effort and body elemental composition in crickets.</article-title>
+
+<source><italic>Animal Behaviour</italic></source>
+
+<volume>72</volume>
+
+<fpage>899</fpage>
+
+<lpage>907</lpage>
+
+</element-citation></ref><ref id="bibr04"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Busch</surname><given-names>JW</given-names></name><name><surname>Phelan</surname><given-names>L</given-names></name></person-group>
+<year>1999</year>
+
+<article-title>Mixture models of soybean growth and herbivore performance in response to nitrogen-sulphur-phosphorus nutrient interactions.</article-title>
+
+<source><italic>Ecological Entomology</italic></source>
+
+<volume>24</volume>
+
+<fpage>132</fpage>
+
+<lpage>145</lpage>
+
+</element-citation></ref><ref id="bibr05"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Carrillo</surname><given-names>P</given-names></name><name><surname>Villar-Argaiz</surname><given-names>M</given-names></name><name><surname>Medina-Sanchez</surname><given-names>JM</given-names></name></person-group>
+<year>2001</year>
+
+<article-title>Relationship between N:P ratio and growth rate during the life cycle of calenoid copepods: An <italic>in</italic> <italic>situ</italic> measurement.</article-title>
+
+<source><italic>Journal of Plankton Research</italic></source>
+
+<volume>23</volume>
+
+<fpage>537</fpage>
+
+<lpage>547</lpage>
+
+</element-citation></ref><ref id="bibr06"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Clancy</surname><given-names>KM</given-names></name><name><surname>King</surname><given-names>RM</given-names></name></person-group>
+<year>1993</year>
+
+<article-title>Defining the western spruce budworm's nutritional niche with response surface methodology.</article-title>
+
+<source><italic>Ecology</italic></source>
+
+<volume>74</volume>
+
+<fpage>442</fpage>
+
+<lpage>454</lpage>
+
+</element-citation></ref><ref id="bibr07"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Elser</surname><given-names>JJ</given-names></name><name><surname>Acharya</surname><given-names>K</given-names></name><name><surname>Kyle</surname><given-names>M</given-names></name><name><surname>Cotner</surname><given-names>JB</given-names></name><name><surname>Makino</surname><given-names>W</given-names></name><name><surname>Markow</surname><given-names>TA</given-names></name><name><surname>Watts</surname><given-names>TD</given-names></name><name><surname>Hobbie</surname><given-names>SE</given-names></name><name><surname>Pagan</surname><given-names>WF</given-names></name><name><surname>Schade</surname><given-names>J</given-names></name><name><surname>Hood</surname><given-names>J</given-names></name><name><surname>Sterner</surname><given-names>RW</given-names></name></person-group>
+<year>2003</year>
+
+<article-title>Growth rate - stoichiometry couplings in diverse biota.</article-title>
+
+<source><italic>Ecology Letters</italic></source>
+
+<volume>6</volume>
+
+<fpage>936</fpage>
+
+<lpage>943</lpage>
+
+</element-citation></ref><ref id="bibr08"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Elser</surname><given-names>JJ</given-names></name><name><surname>Fagan</surname><given-names>WF</given-names></name><name><surname>Denno</surname><given-names>RF</given-names></name><name><surname>Dobberfuhl</surname><given-names>D</given-names></name><name><surname>Folarin</surname><given-names>A</given-names></name><name><surname>Huberty</surname><given-names>A</given-names></name><name><surname>Interlandi</surname><given-names>S</given-names></name><name><surname>Kilham</surname><given-names>SS</given-names></name><name><surname>McCauley</surname><given-names>E</given-names></name><name><surname>Schulz</surname><given-names>KL</given-names></name><name><surname>Siemann</surname><given-names>EH</given-names></name><name><surname>Sterner</surname><given-names>RW</given-names></name></person-group>
+<year>2000</year>
+
+<article-title>Nutritional constraints in terrestrial and freshwater food webs.</article-title>
+
+<source><italic>Nature</italic></source>
+
+<volume>408</volume>
+
+<fpage>578</fpage>
+
+<lpage>580</lpage>
+
+<pub-id pub-id-type="pmid">11117743</pub-id></element-citation></ref><ref id="bibr09"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fagan</surname><given-names>WF</given-names></name><name><surname>Siemann</surname><given-names>EH</given-names></name><name><surname>Denno</surname><given-names>RF</given-names></name><name><surname>Mitter</surname><given-names>C</given-names></name><name><surname>Huberty</surname><given-names>A</given-names></name><name><surname>Woods</surname><given-names>HA</given-names></name><name><surname>Elser</surname><given-names>JJ</given-names></name></person-group>
+<year>2002</year>
+
+<article-title>Nitrogen in insects: Implications for trophic complexity and species diversification.</article-title>
+
+<source><italic>American Naturalist</italic></source>
+
+<volume>160</volume>
+
+<fpage>784</fpage>
+
+<lpage>802</lpage>
+
+</element-citation></ref><ref id="bibr10"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Huberty</surname><given-names>AF</given-names></name><name><surname>Denno</surname><given-names>RF</given-names></name></person-group>
+<year>2006</year>
+
+<article-title>Consequences of nitrogen and phosphorus limitation for the performance of two planthoppers with divergent life-history strategies.</article-title>
+
+<source><italic>Oecologia</italic></source>
+
+<volume>149</volume>
+
+<fpage>444</fpage>
+
+<lpage>455</lpage>
+
+<pub-id pub-id-type="pmid">16794833</pub-id></element-citation></ref><ref id="bibr11"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Janssen</surname><given-names>JAM</given-names></name></person-group>
+<year>1994</year>
+
+<article-title>Imapct of the mineral composition and water content of excised maize leaf sections on fitness of the African armyworm, Spodoptera expemta (Lepidoptera: Noctuidae).</article-title>
+
+<source><italic>Bulletin of Entomological Research</italic></source>
+
+<volume>84</volume>
+
+<fpage>232</fpage>
+
+<lpage>245</lpage>
+
+</element-citation></ref><ref id="bibr12"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Markow</surname><given-names>TA</given-names></name><name><surname>Raphael</surname><given-names>B</given-names></name><name><surname>Dobberfuhl</surname><given-names>D</given-names></name><name><surname>Breitmeyer</surname><given-names>CM</given-names></name><name><surname>Elser</surname><given-names>JJ</given-names></name><name><surname>Pfeiler</surname><given-names>E</given-names></name></person-group>
+<year>1999</year>
+
+<article-title>Elemental stoichiometry of Drosophila and their hosts.</article-title>
+
+<source><italic>Functional Ecology</italic></source>
+
+<volume>13</volume>
+
+<fpage>78</fpage>
+
+<lpage>84</lpage>
+
+</element-citation></ref><ref id="bibr13"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mattson</surname><given-names>JJJ</given-names></name></person-group>
+<year>1980</year>
+
+<article-title>Herbivory in relation to plant nitrogen content.</article-title>
+
+<source><italic>Annual Review of Ecology and Systematics</italic></source>
+
+<volume>11</volume>
+
+<fpage>119</fpage>
+
+<lpage>161</lpage>
+
+</element-citation></ref><ref id="bibr14"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Murray</surname><given-names>AM</given-names></name><name><surname>Cade</surname><given-names>WH</given-names></name></person-group>
+<year>1995</year>
+
+<article-title>Differences in age structure among field cricket populations (Orthoptera, Gryllidae) -possible influence of a sex-biased parasitoid.</article-title>
+
+<source><italic>Canadian Journal of Zoology</italic></source>
+
+<volume>73</volume>
+
+<fpage>1207</fpage>
+
+<lpage>1213</lpage>
+
+</element-citation></ref><ref id="bibr15"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Perkins</surname><given-names>MC</given-names></name><name><surname>Woods</surname><given-names>HA</given-names></name><name><surname>Harrison</surname><given-names>JF</given-names></name><name><surname>Elser</surname><given-names>JJ</given-names></name></person-group>
+<year>2004</year>
+
+<article-title>Dietary phosphorus affects the growth of larval <italic>Manduca sexta</italic>.</article-title>
+
+<source><italic>Archives of Insect Biochemistry and Physiology</italic></source>
+
+<volume>55</volume>
+
+<fpage>153</fpage>
+
+<lpage>168</lpage>
+
+<pub-id pub-id-type="pmid">14981659</pub-id></element-citation></ref><ref id="bibr16"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Popp</surname><given-names>MC</given-names></name><name><surname>Wilkinson</surname><given-names>RS</given-names></name><name><surname>Jokela</surname><given-names>EJ</given-names></name><name><surname>Hardin</surname><given-names>RB</given-names></name><name><surname>Phillips</surname><given-names>TW</given-names></name></person-group>
+<year>1989</year>
+
+<article-title>
+Effects of slash pine phloem nutrition on the reproductive performance of <italic>Ips calligraphus</italic> (Coleoptera: Scolytidae).</article-title>
+
+<source><italic>Environmental Entomology</italic></source>
+
+<volume>18</volume>
+
+<fpage>795</fpage>
+
+<lpage>799</lpage>
+
+</element-citation></ref><ref id="bibr17"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schade</surname><given-names>J</given-names></name><name><surname>Kyle</surname><given-names>M</given-names></name><name><surname>Hobbie</surname><given-names>SE</given-names></name><name><surname>Fagan</surname><given-names>WF</given-names></name><name><surname>Elser</surname><given-names>JJ</given-names></name></person-group>
+<year>2003</year>
+
+<article-title>Stoichiometric tracking of soil nutrients by a desert insect herbivore.</article-title>
+
+<source><italic>Ecology Letters</italic></source>
+
+<volume>6</volume>
+
+<fpage>96</fpage>
+
+<lpage>101</lpage>
+
+</element-citation></ref><ref id="bibr18"><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Sokal</surname><given-names>RR</given-names></name><name><surname>Rohlf</surname><given-names>FJ</given-names></name></person-group>
+<year>1995</year>
+
+<source><italic>Biometry</italic></source>
+
+<publisher-name>W.H. Freeman and Company</publisher-name>
+
+<publisher-loc>New York</publisher-loc>
+
+</element-citation></ref><ref id="bibr19"><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Sterner</surname><given-names>RW</given-names></name><name><surname>Elser</surname><given-names>JJ</given-names></name></person-group>
+<year>2002</year><source><italic>Ecological Stoichiometry</italic>: <italic>The Biology of Elements from Molecules to the Biosphere</italic></source><publisher-name>Princeton University Press</publisher-name><publisher-loc>Princeton, N.J</publisher-loc></element-citation></ref><ref id="bibr20"><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Strong</surname><given-names>DR</given-names></name><name><surname>Lawton</surname><given-names>JH</given-names></name><name><surname>Southwood</surname><given-names>R</given-names></name></person-group>
+<year>1984</year><source><italic>Insects on Plants</italic>: <italic>Community Patterns and Mechanisms</italic></source><publisher-name>Blackwell Scientific</publisher-name><publisher-loc>London</publisher-loc></element-citation></ref><ref id="bibr21"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Watts</surname><given-names>T</given-names></name><name><surname>Woods</surname><given-names>HA</given-names></name><name><surname>Hargand</surname><given-names>S</given-names></name><name><surname>Elser</surname><given-names>JJ</given-names></name><name><surname>Markow</surname><given-names>TA</given-names></name></person-group>
+<year>2006</year>
+
+<article-title>Biological stoichiometry of growth in <italic>Drosophila melanogaster</italic>.</article-title>
+
+<source><italic>Journal of Insect Physiology</italic></source>
+
+<volume>52</volume>
+
+<fpage>187</fpage>
+
+<lpage>193</lpage>
+
+<pub-id pub-id-type="pmid">16310212</pub-id></element-citation></ref><ref id="bibr22"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Woods</surname><given-names>HA</given-names></name><name><surname>Fagan</surname><given-names>WF</given-names></name><name><surname>Elser</surname><given-names>JJ</given-names></name><name><surname>Harrison</surname><given-names>JF</given-names></name></person-group>
+<year>2004</year>
+
+<article-title>Allometric and phylogenetic variation in insect phosphorus content.</article-title>
+
+<source><italic>Functional Ecology</italic></source>
+
+<volume>18</volume>
+
+<fpage>103</fpage>
+
+<lpage>109</lpage>
+</element-citation></ref></ref-list></back></article>

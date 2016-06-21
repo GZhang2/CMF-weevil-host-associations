@@ -1,0 +1,463 @@
+{
+  "id": [
+    "25360753"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25360753"
+  ],
+  "pmcid": [
+    "PMC4215907"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0110673"
+  ],
+  "title": [
+    "Proteomics indicators of the rapidly shifting physiology from whole mountain pine beetle, Dendroctonus ponderosae (Coleoptera: Curculionidae), adults during early host colonization."
+  ],
+  "authorString": [
+    "Pitt C, Robert JA, Bonnett TR, Keeling CI, Bohlmann J, Huber DP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pitt C"
+          ],
+          "firstName": [
+            "Caitlin"
+          ],
+          "lastName": [
+            "Pitt"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Ecosystem Science and Management Program, University of Northern British Columbia, Prince George, BC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Robert JA"
+          ],
+          "firstName": [
+            "Jeanne A"
+          ],
+          "lastName": [
+            "Robert"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "affiliation": [
+            "Ecosystem Science and Management Program, University of Northern British Columbia, Prince George, BC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Bonnett TR"
+          ],
+          "firstName": [
+            "Tiffany R"
+          ],
+          "lastName": [
+            "Bonnett"
+          ],
+          "initials": [
+            "TR"
+          ],
+          "affiliation": [
+            "Ecosystem Science and Management Program, University of Northern British Columbia, Prince George, BC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Keeling CI"
+          ],
+          "firstName": [
+            "Christopher I"
+          ],
+          "lastName": [
+            "Keeling"
+          ],
+          "initials": [
+            "CI"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7885-8558",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Michael Smith Laboratories, University of British Columbia, Vancouver, BC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Bohlmann J"
+          ],
+          "firstName": [
+            "Jörg"
+          ],
+          "lastName": [
+            "Bohlmann"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Michael Smith Laboratories, University of British Columbia, Vancouver, BC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Huber DP"
+          ],
+          "firstName": [
+            "Dezene P W"
+          ],
+          "lastName": [
+            "Huber"
+          ],
+          "initials": [
+            "DP"
+          ],
+          "affiliation": [
+            "Ecosystem Science and Management Program, University of Northern British Columbia, Prince George, BC, Canada."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7885-8558",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2206285"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "e110673"
+  ],
+  "abstractText": [
+    "We developed proteome profiles for host colonizing mountain pine beetle adults, Dendroctonus ponderosae Hopkins (Coleoptera: Curculionidae). Adult insects were fed in pairs on fresh host lodgepole pine, Pinus contorta Dougl. ex Loud, phloem tissue. The proteomes of fed individuals were monitored using iTRAQ and compared to those of starved beetles, revealing 757 and 739 expressed proteins in females and males, respectively, for which quantitative information was obtained. Overall functional category distributions were similar for males and females, with the majority of proteins falling under carbohydrate metabolism (glycolysis, gluconeogenesis, citric acid cycle), structure (cuticle, muscle, cytoskeleton), and protein and amino acid metabolism. Females had 23 proteins with levels that changed significantly with feeding (p<0.05, FDR<0.20), including chaperones and enzymes required for vitellogenesis. In males, levels of 29 proteins changed significantly with feeding (p<0.05, FDR<0.20), including chaperones as well as motor proteins. Only two proteins, both chaperones, exhibited a significant change in both females and males with feeding. Proteins with differential accumulation patterns in females exhibited higher fold changes with feeding than did those in males. This difference may be due to major and rapid physiological changes occurring in females upon finding a host tree during the physiological shift from dispersal to reproduction. The significant accumulation of chaperone proteins, a cytochrome P450, and a glutathione S-transferase, indicate secondary metabolite-induced stress physiology related to chemical detoxification during early host colonization. The females' activation of vitellogenin only after encountering a host indicates deliberate partitioning of resources and a balancing of the needs of dispersal and reproduction."
+  ],
+  "affiliation": [
+    "Ecosystem Science and Management Program, University of Northern British Columbia, Prince George, BC, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Weevils"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GD"
+                  ],
+                  "qualifierName": [
+                    "growth & development"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Proteomics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pest Control"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation, Developmental"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Life Cycle Stages"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Eating"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4215907?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4215907"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1371/journal.pone.0110673"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-06-24"
+  ],
+  "dateOfCreation": [
+    "2014-11-01"
+  ],
+  "electronicPublicationDate": [
+    "2014-10-31"
+  ],
+  "firstPublicationDate": [
+    "2014-10-31"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

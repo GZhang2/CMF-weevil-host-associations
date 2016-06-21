@@ -1,0 +1,356 @@
+{
+  "id": [
+    "24260653"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24260653"
+  ],
+  "pmcid": [
+    "PMC3833767"
+  ],
+  "doi": [
+    "10.3897/compcytogen.v6i1.2349"
+  ],
+  "title": [
+    "Comparative cytogenetic study on two species of the genus Entedon Dalman, 1820 (Hymenoptera, Eulophidae) using DNA-binding fluorochromes and molecular and immunofluorescent markers."
+  ],
+  "authorString": [
+    "Bolsheva NL, Gokhman VE, Muravenko OV, Gumovsky AV, Zelenin AV."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bolsheva NL"
+          ],
+          "firstName": [
+            "Nadezhda L"
+          ],
+          "lastName": [
+            "Bolsheva"
+          ],
+          "initials": [
+            "NL"
+          ],
+          "affiliation": [
+            "Engelhardt Institute of Molecular Biology, Russian Academy of Sciences, Moscow 119991, Russia."
+          ]
+        },
+        {
+          "fullName": [
+            "Gokhman VE"
+          ],
+          "firstName": [
+            "Vladimir E"
+          ],
+          "lastName": [
+            "Gokhman"
+          ],
+          "initials": [
+            "VE"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9909-7559",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Muravenko OV"
+          ],
+          "firstName": [
+            "Olga V"
+          ],
+          "lastName": [
+            "Muravenko"
+          ],
+          "initials": [
+            "OV"
+          ]
+        },
+        {
+          "fullName": [
+            "Gumovsky AV"
+          ],
+          "firstName": [
+            "Alex V"
+          ],
+          "lastName": [
+            "Gumovsky"
+          ],
+          "initials": [
+            "AV"
+          ]
+        },
+        {
+          "fullName": [
+            "Zelenin AV"
+          ],
+          "firstName": [
+            "Alexander V"
+          ],
+          "lastName": [
+            "Zelenin"
+          ],
+          "initials": [
+            "AV"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9909-7559",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2096440"
+      ],
+      "dateOfPublication": [
+        "2012 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Comparative cytogenetics"
+          ],
+          "ISOAbbreviation": [
+            "Comp Cytogenet"
+          ],
+          "medlineAbbreviation": [
+            "Comp Cytogenet"
+          ],
+          "NLMid": [
+            "101503807"
+          ],
+          "ISSN": [
+            "1993-0771"
+          ],
+          "ESSN": [
+            "1993-078X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "79-92"
+  ],
+  "abstractText": [
+    "Karyotypes of Entedon cionobius Thomson, 1878 and Entedon cioni Thomson, 1878 (Hymenoptera: Eulophidae) were studied using DNA-binding ligands with different base specificity (propidium iodide, chromomycin A3, methyl green and DAPI; all these ligands, except for the last one, were used for the first time in parasitic wasps), C-banding, fluorescence in situ hybridization (FISH) with a 45S rDNA probe and 5-methylcytosine immunodetection. Female karyotypes of both species contain five pairs of relatively large metacentric chromosomes and a pair of smaller acrocentric chromosomes (2n = 12). As in many other Hymenoptera, males of both Entedon Dalman, 1820 species have haploid chromosome sets (n = 6). Fluorochrome staining revealed chromosome-specific banding patterns that were similar between the different fluorochromes, except for the CMA3- and PI-positive and DAPI-negative band in the pericentromeric regions of the long arms of both acrocentric chromosomes. The obtained banding patterns were virtually identical in both species and allowed for the identification of each individual chromosome. C-banding revealed a pattern similar to DAPI staining, although centromeric and telomeric regions were stained more intensively using the former technique. FISH detected a single rDNA site in the same position on the acrocentric chromosomes as the bright CMA3-positive band. Immunodetection of 5-methylcytosine that was performed for the first time in the order Hymenoptera revealed 5-methylcytosine-rich sites in the telomeric, centromeric and certain interstitial regions of most of the chromosomes. "
+  ],
+  "affiliation": [
+    "Engelhardt Institute of Molecular Biology, Russian Academy of Sciences, Moscow 119991, Russia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Hymenoptera",
+        "DNA methylation",
+        "Eulophidae",
+        "chromosomes",
+        "karyotypes",
+        "Entedon",
+        "Base-specific Fluorochromes",
+        "Fluorescence In Situ Hybridization (Fish)"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3833767?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3833767"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=24260653&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=24260653"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.3897/CompCytogen.v6i1.2349"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-11-22"
+  ],
+  "dateOfCreation": [
+    "2013-11-22"
+  ],
+  "dateOfRevision": [
+    "2014-01-24"
+  ],
+  "electronicPublicationDate": [
+    "2012-02-23"
+  ],
+  "firstPublicationDate": [
+    "2012-02-23"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

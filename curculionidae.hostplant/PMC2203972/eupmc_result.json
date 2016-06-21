@@ -1,0 +1,426 @@
+{
+  "id": [
+    "17976232"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "17976232"
+  ],
+  "pmcid": [
+    "PMC2203972"
+  ],
+  "doi": [
+    "10.1186/1741-7007-5-49"
+  ],
+  "title": [
+    "Reciprocal diversification in a complex plant-herbivore-parasitoid food web."
+  ],
+  "authorString": [
+    "Nyman T, Bokma F, Kopelke JP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Nyman T"
+          ],
+          "firstName": [
+            "Tommi"
+          ],
+          "lastName": [
+            "Nyman"
+          ],
+          "initials": [
+            "T"
+          ]
+        },
+        {
+          "fullName": [
+            "Bokma F"
+          ],
+          "firstName": [
+            "Folmer"
+          ],
+          "lastName": [
+            "Bokma"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Kopelke JP"
+          ],
+          "firstName": [
+            "Jens-Peter"
+          ],
+          "lastName": [
+            "Kopelke"
+          ],
+          "initials": [
+            "JP"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "1374388"
+      ],
+      "dateOfPublication": [
+        "2007 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2007"
+      ],
+      "printPublicationDate": [
+        "2007-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC biology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Biol."
+          ],
+          "medlineAbbreviation": [
+            "BMC Biol"
+          ],
+          "NLMid": [
+            "101190720"
+          ],
+          "ESSN": [
+            "1741-7007"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "49"
+  ],
+  "abstractText": [
+    " BACKGROUND: Plants, plant-feeding insects, and insect parasitoids form some of the most complex and species-rich food webs. According to the classic escape-and-radiate (EAR) hypothesis, these hyperdiverse communities result from coevolutionary arms races consisting of successive cycles of enemy escape, radiation, and colonization by new enemy lineages. It has also been suggested that \"enemy-free space\" provided by novel host plants could promote host shifts by herbivores, and that parasitoids could similarly drive diversification of gall form in insects that induce galls on plants. Because these central coevolutionary hypotheses have never been tested in a phylogenetic framework, we combined phylogenetic information on willow-galling sawflies with data on their host plants, gall types, and enemy communities. RESULTS: We found that evolutionary shifts in host plant use and habitat have led to dramatic prunings of parasitoid communities, and that changes in gall phenotype can provide \"enemy-free morphospace\" for millions of years even in the absence of host plant shifts. Some parasites have nevertheless managed to colonize recently-evolved gall types, and this has apparently led to adaptive speciation in several enemy groups. However, having fewer enemies does not in itself increase speciation probabilities in individual sawfly lineages, partly because the high diversity of the enemy community facilitates compensatory attack by remaining parasite taxa. CONCLUSION: Taken together, our results indicate that niche-dependent parasitism is a major force promoting ecological divergence in herbivorous insects, and that prey divergence can cause speciation in parasite lineages. However, the results also show that the EAR hypothesis is too simplistic for species-rich food webs: instead, diversification seems to be spurred by a continuous stepwise process, in which ecological and phenotypic shifts in prey lineages are followed by a lagged evolutionary response by some of the associated enemies."
+  ],
+  "affiliation": [
+    "Faculty of Biosciences, University of Joensuu, FI-80101 Joensuu, Finland. Tommi.Nyman@joensuu.fi"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Insects"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hymenoptera"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plants"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Predatory Behavior"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Ecosystem"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Food Chain"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phylogeny"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genetic Speciation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Host-Parasite Interactions"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biological Evolution"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2203972?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2203972"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1186/1741-7007-5-49"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "15"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL",
+        "UNIPROT"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2008-01-18"
+  ],
+  "dateOfCreation": [
+    "2008-01-17"
+  ],
+  "dateOfRevision": [
+    "2013-06-06"
+  ],
+  "electronicPublicationDate": [
+    "2007-11-01"
+  ],
+  "firstPublicationDate": [
+    "2007-11-01"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

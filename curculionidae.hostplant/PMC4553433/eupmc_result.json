@@ -1,0 +1,257 @@
+{
+  "id": [
+    "26466799"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26466799"
+  ],
+  "pmcid": [
+    "PMC4553433"
+  ],
+  "doi": [
+    "10.3390/insects4010117"
+  ],
+  "title": [
+    "Wireworms' Management: An Overview of the Existing Methods, with Particular Regards to Agriotes spp. (Coleoptera: Elateridae)."
+  ],
+  "authorString": [
+    "Barsics F, Haubruge E, Verheggen FJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Barsics F"
+          ],
+          "firstName": [
+            "Fanny"
+          ],
+          "lastName": [
+            "Barsics"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Functional and Evolutionary Entomology, Gembloux Agro-Bio Tech, University of Liege. 2, Passage des Déportés, 5030 Gembloux, Belgium. entomologie.gembloux@ulg.ac.be."
+          ]
+        },
+        {
+          "fullName": [
+            "Haubruge E"
+          ],
+          "firstName": [
+            "Eric"
+          ],
+          "lastName": [
+            "Haubruge"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Functional and Evolutionary Entomology, Gembloux Agro-Bio Tech, University of Liege. 2, Passage des Déportés, 5030 Gembloux, Belgium. e.haubruge@ulg.ac.be."
+          ]
+        },
+        {
+          "fullName": [
+            "Verheggen FJ"
+          ],
+          "firstName": [
+            "François J"
+          ],
+          "lastName": [
+            "Verheggen"
+          ],
+          "initials": [
+            "FJ"
+          ],
+          "affiliation": [
+            "Department of Functional and Evolutionary Entomology, Gembloux Agro-Bio Tech, University of Liege. 2, Passage des Déportés, 5030 Gembloux, Belgium. entomologie.gembloux@ulg.ac.be."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2333759"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Insects"
+          ],
+          "ISOAbbreviation": [
+            "Insects"
+          ],
+          "medlineAbbreviation": [
+            "Insects"
+          ],
+          "NLMid": [
+            "101574235"
+          ],
+          "ESSN": [
+            "2075-4450"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "117-152"
+  ],
+  "abstractText": [
+    "Wireworms (Coleoptera: Elateridae) are important soil dwelling pests worldwide causing yield losses in many crops. The progressive restrictions in the matter of efficient synthetic chemicals for health and environmental care brought out the need for alternative management techniques. This paper summarizes the main potential tools that have been studied up to now and that could be applied together in integrated pest management systems and suggests guidelines for future research."
+  ],
+  "affiliation": [
+    "Department of Functional and Evolutionary Entomology, Gembloux Agro-Bio Tech, University of Liege. 2, Passage des Déportés, 5030 Gembloux, Belgium. entomologie.gembloux@ulg.ac.be."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Integrated pest management",
+        "Wireworms",
+        "Agriotes",
+        "Click Beetles"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4553433"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.3390/insects4010117"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-10-15"
+  ],
+  "dateOfCreation": [
+    "2015-10-15"
+  ],
+  "dateOfRevision": [
+    "2015-10-22"
+  ],
+  "electronicPublicationDate": [
+    "2013-01-25"
+  ],
+  "firstPublicationDate": [
+    "2013-01-25"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

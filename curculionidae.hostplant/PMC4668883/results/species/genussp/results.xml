@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="genussp">
+ <result pre="Bohart, Collectors&quot; ( CAS: 1 male); &quot;San Pedro, L. Cal. X-7-41/ Ross &amp;amp;amp; Bohart, Collectors/ " exact=" Elissa sp" xpath="/html[1]/body[1]/div[2]/div[3]/div[19]/div[7]/p[1]" match="Elissa sp" post=". # 1&quot; ( CAS: 3 females, 5 males); &quot;MEX: 12 mi. NW La Paz, Baja Calif. IX-18-67/ J. Chemsak, A. &amp;am" name="genussp"/>
+ <result pre="female, 1 male); &quot;MEX: Baja Sur, 8 mi. S. Mulege, X-7-1983 BLACKLIGHT, Faulkner &amp;amp;amp; Andrews/ " exact=" Minyomerus sp" xpath="/html[1]/body[1]/div[2]/div[3]/div[19]/div[7]/p[1]" match="Minyomerus sp" post=".&quot; ( CSCA: 2 females); &quot;MEX: Baja Calif. Sur, 34.4 mi. SE. Guerrero, Negro IX-22-1981, F. Andrews &amp;" name="genussp"/>
+ <result pre="ollected in, Cereal bowl, Pit trap&quot; ( CSCA: 1 female); &quot;Purissima, Oct. ‘73, Baja Calif., WM Mann. " exact=" Minyomerus sp" match="Minyomerus sp" post="., DET. A T HOWDEN&quot; ( USNM: 1 male). " name="genussp"/>
+</results>

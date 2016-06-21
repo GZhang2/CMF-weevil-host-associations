@@ -1,0 +1,366 @@
+{
+  "id": [
+    "22567344"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22567344"
+  ],
+  "pmcid": [
+    "PMC3335529"
+  ],
+  "doi": [
+    "10.1155/2012/126819"
+  ],
+  "title": [
+    "Myco-biocontrol of insect pests: factors involved, mechanism, and regulation."
+  ],
+  "authorString": [
+    "Sandhu SS, Sharma AK, Beniwal V, Goel G, Batra P, Kumar A, Jaglan S, Sharma AK, Malhotra S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sandhu SS"
+          ],
+          "firstName": [
+            "Sardul Singh"
+          ],
+          "lastName": [
+            "Sandhu"
+          ],
+          "initials": [
+            "SS"
+          ]
+        },
+        {
+          "fullName": [
+            "Sharma AK"
+          ],
+          "firstName": [
+            "Anil K"
+          ],
+          "lastName": [
+            "Sharma"
+          ],
+          "initials": [
+            "AK"
+          ]
+        },
+        {
+          "fullName": [
+            "Beniwal V"
+          ],
+          "firstName": [
+            "Vikas"
+          ],
+          "lastName": [
+            "Beniwal"
+          ],
+          "initials": [
+            "V"
+          ]
+        },
+        {
+          "fullName": [
+            "Goel G"
+          ],
+          "firstName": [
+            "Gunjan"
+          ],
+          "lastName": [
+            "Goel"
+          ],
+          "initials": [
+            "G"
+          ]
+        },
+        {
+          "fullName": [
+            "Batra P"
+          ],
+          "firstName": [
+            "Priya"
+          ],
+          "lastName": [
+            "Batra"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar A"
+          ],
+          "firstName": [
+            "Anil"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Jaglan S"
+          ],
+          "firstName": [
+            "Sundeep"
+          ],
+          "lastName": [
+            "Jaglan"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Sharma AK"
+          ],
+          "firstName": [
+            "A K"
+          ],
+          "lastName": [
+            "Sharma"
+          ],
+          "initials": [
+            "AK"
+          ]
+        },
+        {
+          "fullName": [
+            "Malhotra S"
+          ],
+          "firstName": [
+            "Sonal"
+          ],
+          "lastName": [
+            "Malhotra"
+          ],
+          "initials": [
+            "S"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2012"
+      ],
+      "journalIssueId": [
+        "1929790"
+      ],
+      "dateOfPublication": [
+        "2012 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of pathogens"
+          ],
+          "ISOAbbreviation": [
+            "J Pathog"
+          ],
+          "medlineAbbreviation": [
+            "J Pathog"
+          ],
+          "NLMid": [
+            "101571433"
+          ],
+          "ISSN": [
+            "2090-3057"
+          ],
+          "ESSN": [
+            "2090-3065"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "126819"
+  ],
+  "abstractText": [
+    "The growing demand for reducing chemical inputs in agriculture and increased resistance to insecticides have provided great impetus to the development of alternative forms of insect-pest control. Myco-biocontrol offers an attractive alternative to the use of chemical pesticides. Myco-biocontrol agents are naturally occurring organisms which are perceived as less damaging to the environment. Their mode of action appears little complex which makes it highly unlikely that resistance could be developed to a biopesticide. Past research has shown some promise of the use of fungi as a selective pesticide. The current paper updates us about the recent progress in the field of myco-biocontrol of insect pests and their possible mechanism of action to further enhance our understanding about the biological control of insect pests."
+  ],
+  "affiliation": [
+    "Department of Biotechnology, Maharishi Markandeshwar, Mullana, Ambala, Haryana 133203, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3335529?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3335529"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=22567344&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=22567344"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1155/2012/126819"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-08-23"
+  ],
+  "dateOfCreation": [
+    "2012-05-08"
+  ],
+  "electronicPublicationDate": [
+    "2012-02-23"
+  ],
+  "firstPublicationDate": [
+    "2012-02-23"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "id": [
+    "25061346"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25061346"
+  ],
+  "pmcid": [
+    "PMC4109509"
+  ],
+  "doi": [
+    "10.3897/zookeys.416.7164"
+  ],
+  "title": [
+    "A taxonomic revision of Limnobaris Bedel in the strict sense (Coleoptera, Curculionidae, Baridinae), with particular emphasis on the species found in China."
+  ],
+  "authorString": [
+    "Prena J, Korotyaev B, Wang Z, Ren L, Liu N, Zhang R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Prena J"
+          ],
+          "firstName": [
+            "Jens"
+          ],
+          "lastName": [
+            "Prena"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Key Laboratory of Zoological Systematics and Evolution, Institute of Zoology, Chinese Academy of Sciences, Beijing 100101, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Korotyaev B"
+          ],
+          "firstName": [
+            "Boris"
+          ],
+          "lastName": [
+            "Korotyaev"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Zoological Institute, Russian Academy of Sciences, Universitetskaya nab., 1, St. Petersburg 199034, Russia."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Z"
+          ],
+          "firstName": [
+            "Zhiliang"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Key Laboratory of Zoological Systematics and Evolution, Institute of Zoology, Chinese Academy of Sciences, Beijing 100101, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ren L"
+          ],
+          "firstName": [
+            "Li"
+          ],
+          "lastName": [
+            "Ren"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Key Laboratory of Zoological Systematics and Evolution, Institute of Zoology, Chinese Academy of Sciences, Beijing 100101, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu N"
+          ],
+          "firstName": [
+            "Ning"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Key Laboratory of Zoological Systematics and Evolution, Institute of Zoology, Chinese Academy of Sciences, Beijing 100101, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang R"
+          ],
+          "firstName": [
+            "Runzhi"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Key Laboratory of Zoological Systematics and Evolution, Institute of Zoology, Chinese Academy of Sciences, Beijing 100101, P. R. China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "416"
+      ],
+      "journalIssueId": [
+        "2183985"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ZooKeys"
+          ],
+          "ISOAbbreviation": [
+            "Zookeys"
+          ],
+          "medlineAbbreviation": [
+            "Zookeys"
+          ],
+          "NLMid": [
+            "101497933"
+          ],
+          "ISSN": [
+            "1313-2989"
+          ],
+          "ESSN": [
+            "1313-2970"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "41-66"
+  ],
+  "abstractText": [
+    "The genus name Limnobaris Bedel is applied in a restricted sense to baridine weevils with a covered pygidium and non-prominent, decussate mandibles which occur on sedges in the Palaearctic Region and immediately adjacent parts of tropical Southeast Asia. Calyptopygus Marshall and Pertorcus Voss are syn. n. of Limnobaris. Some species from Africa and the Americas are maintained provisionally in Limnobaris in the widest sense but will need to be transferred to other genera in future studies. A total of eleven species is recognized in Asia, two of which are widespread and occur also in the Western Palaearctic Region. Limnobaris martensi Korotyaev sp. n. is described from Nepal. Pertorcus tibialis basalis Voss is raised to species rank, as L. basalis (stat. prom.). New or reestablished synonyms are L. dolorosa (Goeze) (= L. jucunda Reitter, = L. koltzei Reitter), L. tibialis (Voss) (= Pertorcus tibialis pilifer Voss) and L. t-album (Linnaeus) (= L. bedeli Reitter, = Baridius crocopelmus Gyllenhal, = L. sahlbergi Reitter, = L. scutellaris Reitter, = Baris t-album sculpturata Faust). Calandra uniseriata Dufour is considered a junior synonym of Sitophilus oryzae (L.) (syn. n.). A key for identification and a distribution map are provided."
+  ],
+  "affiliation": [
+    "Key Laboratory of Zoological Systematics and Evolution, Institute of Zoology, Chinese Academy of Sciences, Beijing 100101, P. R. China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Life history",
+        "Distribution",
+        "Parasitoid",
+        "Sedge",
+        "Palaearctic",
+        "weevil"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4109509?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4109509"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=25061346"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=25061346&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.3897/zookeys.416.7164"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-07-25"
+  ],
+  "dateOfCreation": [
+    "2014-07-25"
+  ],
+  "dateOfRevision": [
+    "2014-07-28"
+  ],
+  "electronicPublicationDate": [
+    "2014-06-16"
+  ],
+  "firstPublicationDate": [
+    "2014-06-16"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

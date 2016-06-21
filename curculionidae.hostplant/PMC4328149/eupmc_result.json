@@ -1,0 +1,320 @@
+{
+  "id": [
+    "25745268"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25745268"
+  ],
+  "pmcid": [
+    "PMC4328149"
+  ],
+  "doi": [
+    "10.1111/zoj.12210"
+  ],
+  "title": [
+    "An integrative study of Necremnus Thomson (Hymenoptera: Eulophidae) associated with invasive pests in Europe and North America: taxonomic and ecological implications."
+  ],
+  "authorString": [
+    "Gebiola M, Bernardo U, Ribes A, Gibson GA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gebiola M"
+          ],
+          "firstName": [
+            "Marco"
+          ],
+          "lastName": [
+            "Gebiola"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "CNR - Istituto per la Protezione Sostenibile delle Plante UOS di Portici - Via Università 133, 80055, Portici, NA, Italy ; Department of Entomology, The University of Arizona 410 Forbes Bldg., Tucson, AZ, 85721, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bernardo U"
+          ],
+          "firstName": [
+            "Umberto"
+          ],
+          "lastName": [
+            "Bernardo"
+          ],
+          "initials": [
+            "U"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8190-2177",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "CNR - Istituto per la Protezione Sostenibile delle Plante UOS di Portici - Via Università 133, 80055, Portici, NA, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Ribes A"
+          ],
+          "firstName": [
+            "Antoni"
+          ],
+          "lastName": [
+            "Ribes"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "C/Lleida 36 25170 Torres de Segre, Lleida, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Gibson GA"
+          ],
+          "firstName": [
+            "Gary A P"
+          ],
+          "lastName": [
+            "Gibson"
+          ],
+          "initials": [
+            "GA"
+          ],
+          "affiliation": [
+            "Agriculture and Agri-Food Canada, Canadian National Collection of Insects, Arachnids and Nematodes K. W. Neatby Building, 960 Carling Avenue, Ottawa, Ontario, Canada, K1A 0C6."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8190-2177",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "173"
+      ],
+      "journalIssueId": [
+        "2258876"
+      ],
+      "dateOfPublication": [
+        "2015 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Zoological journal of the Linnean Society"
+          ],
+          "ISOAbbreviation": [
+            "Zool. J. Linn. Soc."
+          ],
+          "medlineAbbreviation": [
+            "Zool J Linn Soc"
+          ],
+          "NLMid": [
+            "0254212"
+          ],
+          "ISSN": [
+            "0024-4082"
+          ],
+          "ESSN": [
+            "1096-3642"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "352-423"
+  ],
+  "abstractText": [
+    "The species of Necremnus attacking two invasive pests of tomato and canola in Europe and North America, respectively, Tuta absoluta (Meyrick) (Lepidoptera: Gelechiidae) and Ceutorhynchus obstrictus (Marsham) (Coleoptera: Curculionidae), have been revised using an integrative taxonomy approach. Molecular data from the mitochondrial cytochrome oxidase c subunit I and the nuclear D2 expansion region of the 28S ribosomal subunit and internal transcribed spacer 2, the discovery of new morphological features, and study of type material resulted in the delineation of three species groups, the Necremnus artynes, Necremnus cosconius, and Necremnus tidius groups, the discovery of four new species, and the resurrection of three taxa from synonymy. Lectotypes have been designated for 13 species originally described in Eulophus by Walker. Although Necremnus has not been revised, an illustrated key is given to differentiate 23 recognized European species. The key, type images, and treatments of the three species groups will enable more accurate identification of the valid species of Necremnus in the future. They will also benefit biological control practitioners of pest species. The ecological consequences of the new taxonomic concepts are discussed."
+  ],
+  "affiliation": [
+    "CNR - Istituto per la Protezione Sostenibile delle Plante UOS di Portici - Via Università 133, 80055, Portici, NA, Italy ; Department of Entomology, The University of Arizona 410 Forbes Bldg., Tucson, AZ, 85721, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Morphology",
+        "phylogenetics",
+        "parasitoids",
+        "Cryptic Species",
+        "Integrative Taxonomy",
+        "Tuta Absoluta",
+        "Ceutorhynchus Obstrictus"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4328149?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4328149"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1111/zoj.12210"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2015-03-06"
+  ],
+  "dateOfRevision": [
+    "2015-03-10"
+  ],
+  "electronicPublicationDate": [
+    "2015-01-29"
+  ],
+  "firstPublicationDate": [
+    "2015-01-29"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

@@ -1,0 +1,447 @@
+{
+  "id": [
+    "24614681"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24614681"
+  ],
+  "pmcid": [
+    "PMC3948897"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0091777"
+  ],
+  "title": [
+    "The functional significance of aposematic signals: geographic variation in the responses of widespread lizard predators to colourful invertebrate prey."
+  ],
+  "authorString": [
+    "Tseng HY, Lin CP, Hsu JY, Pike DA, Huang WS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tseng HY"
+          ],
+          "firstName": [
+            "Hui-Yun"
+          ],
+          "lastName": [
+            "Tseng"
+          ],
+          "initials": [
+            "HY"
+          ],
+          "affiliation": [
+            "Department of Life Science, Tunghai University, Taiwan; Department of Biology, National Museum of Natural Science, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Lin CP"
+          ],
+          "firstName": [
+            "Chung-Ping"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "CP"
+          ],
+          "affiliation": [
+            "Department of Life Science, Tunghai University, Taiwan; Department of Life Science, National Taiwan Normal University, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Hsu JY"
+          ],
+          "firstName": [
+            "Jung-Ya"
+          ],
+          "lastName": [
+            "Hsu"
+          ],
+          "initials": [
+            "JY"
+          ],
+          "affiliation": [
+            "Department of Biology, National Museum of Natural Science, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Pike DA"
+          ],
+          "firstName": [
+            "David A"
+          ],
+          "lastName": [
+            "Pike"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "affiliation": [
+            "School of Marine and Tropical Biology and Centre for Tropical Environmental and Sustainability Science, James Cook University, Townsville, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang WS"
+          ],
+          "firstName": [
+            "Wen-San"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "WS"
+          ],
+          "affiliation": [
+            "Department of Biology, National Museum of Natural Science, Taiwan; Department of Life Sciences, National Chung Hsing University, Taiwan."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2135647"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "e91777"
+  ],
+  "abstractText": [
+    "Conspicuous colouration can evolve as a primary defence mechanism that advertises unprofitability and discourages predatory attacks. Geographic overlap is a primary determinant of whether individual predators encounter, and thus learn to avoid, such aposematic prey. We experimentally tested whether the conspicuous colouration displayed by Old World pachyrhynchid weevils (Pachyrhynchus tobafolius and Kashotonus multipunctatus) deters predation by visual predators (Swinhoe's tree lizard; Agamidae, Japalura swinhonis). During staged encounters, sympatric lizards attacked weevils without conspicuous patterns at higher rates than weevils with intact conspicuous patterns, whereas allopatric lizards attacked weevils with intact patterns at higher rates than sympatric lizards. Sympatric lizards also attacked masked weevils at lower rates, suggesting that other attributes of the weevils (size/shape/smell) also facilitate recognition. Allopatric lizards rapidly learned to avoid weevils after only a single encounter, and maintained aversive behaviours for more than three weeks. The imperfect ability of visual predators to recognize potential prey as unpalatable, both in the presence and absence of the aposematic signal, may help explain how diverse forms of mimicry exploit the predator's visual system to deter predation."
+  ],
+  "affiliation": [
+    "Department of Life Science, Tunghai University, Taiwan; Department of Biology, National Museum of Natural Science, Taiwan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lizards"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Invertebrates"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Pigmentation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Predatory Behavior"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Memory"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Geography"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sympatry"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3948897?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3948897"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=24614681&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=24614681"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1371/journal.pone.0091777"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-03-31"
+  ],
+  "dateOfCreation": [
+    "2014-03-11"
+  ],
+  "electronicPublicationDate": [
+    "2014-03-10"
+  ],
+  "firstPublicationDate": [
+    "2014-03-10"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

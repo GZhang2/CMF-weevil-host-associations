@@ -1,0 +1,597 @@
+{
+  "id": [
+    "25280771"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25280771"
+  ],
+  "pmcid": [
+    "PMC4234063"
+  ],
+  "doi": [
+    "10.1186/1471-2164-15-854"
+  ],
+  "title": [
+    "Transcriptome analysis of Gossypium hirsutum flower buds infested by cotton boll weevil (Anthonomus grandis) larvae."
+  ],
+  "authorString": [
+    "Artico S, Ribeiro-Alves M, Oliveira-Neto OB, de Macedo LL, Silveira S, Grossi-de-Sa MF, Martinelli AP, Alves-Ferreira M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Artico S"
+          ],
+          "firstName": [
+            "Sinara"
+          ],
+          "lastName": [
+            "Artico"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Ribeiro-Alves M"
+          ],
+          "firstName": [
+            "Marcelo"
+          ],
+          "lastName": [
+            "Ribeiro-Alves"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Oliveira-Neto OB"
+          ],
+          "firstName": [
+            "Osmundo Brilhante"
+          ],
+          "lastName": [
+            "Oliveira-Neto"
+          ],
+          "initials": [
+            "OB"
+          ]
+        },
+        {
+          "fullName": [
+            "de Macedo LL"
+          ],
+          "firstName": [
+            "Leonardo Lima Pepino"
+          ],
+          "lastName": [
+            "de Macedo"
+          ],
+          "initials": [
+            "LL"
+          ]
+        },
+        {
+          "fullName": [
+            "Silveira S"
+          ],
+          "firstName": [
+            "Sylvia"
+          ],
+          "lastName": [
+            "Silveira"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Grossi-de-Sa MF"
+          ],
+          "firstName": [
+            "Maria Fátima"
+          ],
+          "lastName": [
+            "Grossi-de-Sa"
+          ],
+          "initials": [
+            "MF"
+          ]
+        },
+        {
+          "fullName": [
+            "Martinelli AP"
+          ],
+          "firstName": [
+            "Adriana Pinheiro"
+          ],
+          "lastName": [
+            "Martinelli"
+          ],
+          "initials": [
+            "AP"
+          ]
+        },
+        {
+          "fullName": [
+            "Alves-Ferreira M"
+          ],
+          "firstName": [
+            "Marcio"
+          ],
+          "lastName": [
+            "Alves-Ferreira"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Genetics, Universidade Federal do Rio de Janeiro - UFRJ Av, Prof, Rodolpho Paulo Rocco, s/n - Prédio do CCS Instituto de Biologia, 2° andar - sala 93, 219410-970 Rio de Janeiro, RJ, Brazil. alvesfer@uol.com.br."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2131045"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "854"
+  ],
+  "abstractText": [
+    "BACKGROUND: Cotton is a major fibre crop grown worldwide that suffers extensive damage from chewing insects, including the cotton boll weevil larvae (Anthonomus grandis). Transcriptome analysis was performed to understand the molecular interactions between Gossypium hirsutum L. and cotton boll weevil larvae. The Illumina HiSeq 2000 platform was used to sequence the transcriptome of cotton flower buds infested with boll weevil larvae. RESULTS: The analysis generated a total of 327,489,418 sequence reads that were aligned to the G. hirsutum reference transcriptome. The total number of expressed genes was over 21,697 per sample with an average length of 1,063 bp. The DEGseq analysis identified 443 differentially expressed genes (DEG) in cotton flower buds infected with boll weevil larvae. Among them, 402 (90.7%) were up-regulated, 41 (9.3%) were down-regulated and 432 (97.5%) were identified as orthologues of A. thaliana genes using Blastx. Mapman analysis of DEG indicated that many genes were involved in the biotic stress response spanning a range of functions, from a gene encoding a receptor-like kinase to genes involved in triggering defensive responses such as MAPK, transcription factors (WRKY and ERF) and signalling by ethylene (ET) and jasmonic acid (JA) hormones. Furthermore, the spatial expression pattern of 32 of the genes responsive to boll weevil larvae feeding was determined by \"in situ\" qPCR analysis from RNA isolated from two flower structures, the stamen and the carpel, by laser microdissection (LMD). CONCLUSION: A large number of cotton transcripts were significantly altered upon infestation by larvae. Among the changes in gene expression, we highlighted the transcription of receptors/sensors that recognise chitin or insect oral secretions; the altered regulation of transcripts encoding enzymes related to kinase cascades, transcription factors, Ca2+ influxes, and reactive oxygen species; and the modulation of transcripts encoding enzymes from phytohormone signalling pathways. These data will aid in the selection of target genes to genetically engineer cotton to control the cotton boll weevil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Weevils"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GD"
+                  ],
+                  "qualifierName": [
+                    "growth & development"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gossypium"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AH"
+                  ],
+                  "qualifierName": [
+                    "anatomy & histology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Flowers"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Profiling"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, RNA"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phylogeny"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation, Plant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Homology, Nucleic Acid"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Larva"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PY"
+                  ],
+                  "qualifierName": [
+                    "pathogenicity"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Herbivory"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Plant Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4234063?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4234063"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1186/1471-2164-15-854"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "go; bioproject"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2015-07-02"
+  ],
+  "dateOfCreation": [
+    "2014-10-17"
+  ],
+  "electronicPublicationDate": [
+    "2014-10-04"
+  ],
+  "firstPublicationDate": [
+    "2014-10-04"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "id": [
+    "16292358"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "16292358"
+  ],
+  "pmcid": [
+    "PMC524672"
+  ],
+  "title": [
+    "Abstracts from the XIII International Entomophagous Insects Workshop, July 27-31, 2003, Tucson, Arizona, USA."
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "1228125"
+      ],
+      "dateOfPublication": [
+        "2003 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2003"
+      ],
+      "printPublicationDate": [
+        "2003-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of insect science (Online)"
+          ],
+          "ISOAbbreviation": [
+            "J. Insect Sci."
+          ],
+          "medlineAbbreviation": [
+            "J Insect Sci"
+          ],
+          "NLMid": [
+            "101096396"
+          ],
+          "ESSN": [
+            "1536-2442"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "33"
+  ],
+  "abstractText": [
+    " "
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Congresses",
+        "Overall"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Insects"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Entomology"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC524672?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC524672"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=16292358&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=16292358"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2006-01-13"
+  ],
+  "dateOfCreation": [
+    "2005-11-18"
+  ],
+  "dateOfRevision": [
+    "2008-11-20"
+  ],
+  "electronicPublicationDate": [
+    "2003-10-16"
+  ],
+  "firstPublicationDate": [
+    "2003-10-16"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

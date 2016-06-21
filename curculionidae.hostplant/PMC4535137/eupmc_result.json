@@ -1,0 +1,651 @@
+{
+  "id": [
+    "25673050"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25673050"
+  ],
+  "pmcid": [
+    "PMC4535137"
+  ],
+  "doi": [
+    "10.1093/jisesa/ieu168"
+  ],
+  "title": [
+    "Pectinases from Sphenophorus levis Vaurie, 1978 (Coleoptera: Curculionidae): putative accessory digestive enzymes."
+  ],
+  "authorString": [
+    "Evangelista DE, de Paula FF, Rodrigues A, Henrique-Silva F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Evangelista DE"
+          ],
+          "firstName": [
+            "Danilo Elton"
+          ],
+          "lastName": [
+            "Evangelista"
+          ],
+          "initials": [
+            "DE"
+          ],
+          "affiliation": [
+            "Laboratory of Molecular Biology, Department of Genetics and Evolution, Federal University of São Carlos, Road Washington Luis Km 235, São Carlos, 13565-905 São Paulo, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "de Paula FF"
+          ],
+          "firstName": [
+            "Fernando Fonseca Pereira"
+          ],
+          "lastName": [
+            "de Paula"
+          ],
+          "initials": [
+            "FF"
+          ],
+          "affiliation": [
+            "Laboratory of Molecular Biology, Department of Genetics and Evolution, Federal University of São Carlos, Road Washington Luis Km 235, São Carlos, 13565-905 São Paulo, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Rodrigues A"
+          ],
+          "firstName": [
+            "André"
+          ],
+          "lastName": [
+            "Rodrigues"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4164-9362",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biochemistry and Microbiology, UNESP-São Paulo State University, Av. 24A, n. 1515-Bela Vista, Rio Claro, São Paulo 13506-900, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Henrique-Silva F"
+          ],
+          "firstName": [
+            "Flávio"
+          ],
+          "lastName": [
+            "Henrique-Silva"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Laboratory of Molecular Biology, Department of Genetics and Evolution, Federal University of São Carlos, Road Washington Luis Km 235, São Carlos, 13565-905 São Paulo, Brazil dfhs@ufscar.br."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4164-9362",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2258903"
+      ],
+      "dateOfPublication": [
+        "2015 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of insect science (Online)"
+          ],
+          "ISOAbbreviation": [
+            "J. Insect Sci."
+          ],
+          "medlineAbbreviation": [
+            "J Insect Sci"
+          ],
+          "NLMid": [
+            "101096396"
+          ],
+          "ESSN": [
+            "1536-2442"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "168"
+  ],
+  "abstractText": [
+    "The cell wall in plants offers protection against invading organisms and is mainly composed of the polysaccharides pectin, cellulose, and hemicellulose, which can be degraded by plant cell wall degrading enzymes (PCWDEs). Such enzymes are often synthesized by free living microorganisms or endosymbionts that live in the gut of some animals, including certain phytophagous insects. Thus, the ability of an insect to degrade the cell wall was once thought to be related to endosymbiont enzyme activity. However, recent studies have revealed that some phytophagous insects are able to synthesize their own PCWDEs by endogenous genes, although questions regarding the origin of these genes remain unclear. This study describes two pectinases from the sugarcane weevil, Sphenophorus levis Vaurie, 1978 (Sl-pectinases), which is considered one of the most serious agricultural pests in Brazil. Two cDNA sequences identified in a cDNA library of the insect larvae coding for a pectin methylesterase (PME) and an endo-polygalacturonase (endo-PG)-denominated Sl-PME and Sl-endoPG, respectively-were isolated and characterized. The quantitative real-time reverse transcriptase polymerase chain reaction expression profile for both Sl-pectinases showed mRNA production mainly in the insect feeding stages and exclusively in midgut tissue of the larvae. This analysis, together Western blotting data, suggests that Sl-pectinases have a digestive role. Phylogenetic analyses indicate that Sl-PME and Sl-endoPG sequences are closely related to bacteria and fungi, respectively. Moreover, the partial genomic sequences of the pectinases were amplified from insect fat body DNA, which was certified to be free of endosymbiotic DNA. The analysis of genomic sequences revealed the existence of two small introns with 53 and 166 bp in Sl-endoPG, which is similar to the common pattern in fungal introns. In contrast, no intron was identified in the Sl-PME genomic sequence, as generally observed in bacteria. These data support the theory of horizontal gene transfer proposed for the origin of insect pectinases, reinforcing the acquisition of PME genes from bacteria and endo-PG genes from fungi."
+  ],
+  "affiliation": [
+    "Laboratory of Molecular Biology, Department of Genetics and Evolution, Federal University of São Carlos, Road Washington Luis Km 235, São Carlos, 13565-905 São Paulo, Brazil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gastrointestinal Tract"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EN"
+                  ],
+                  "qualifierName": [
+                    "enzymology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Wall"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Weevils"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EN"
+                  ],
+                  "qualifierName": [
+                    "enzymology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Bacteria"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fungi"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Carboxylic Ester Hydrolases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Polygalacturonase"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA, Complementary"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RNA, Messenger"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phylogeny"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Amino Acid Sequence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Base Sequence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Larva"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EN"
+                  ],
+                  "qualifierName": [
+                    "enzymology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pecten"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Horizontal gene transfer",
+        "Endo-polygalacturonase",
+        "pectin methylesterase",
+        "Plant Cell Wall Degrading Enzyme",
+        "Insect Pectinase"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "pectinesterase"
+          ],
+          "registryNumber": [
+            "EC 3.1.1.11"
+          ]
+        },
+        {
+          "name": [
+            "RNA, Messenger"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Polygalacturonase"
+          ],
+          "registryNumber": [
+            "EC 3.2.1.15"
+          ]
+        },
+        {
+          "name": [
+            "DNA, Complementary"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Carboxylic Ester Hydrolases"
+          ],
+          "registryNumber": [
+            "EC 3.1.1.-"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4535137?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4535137"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1093/jisesa/ieu168"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL",
+        "UNIPROT"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2015-07-09"
+  ],
+  "dateOfCreation": [
+    "2015-02-12"
+  ],
+  "dateOfRevision": [
+    "2015-09-08"
+  ],
+  "electronicPublicationDate": [
+    "2015-02-11"
+  ],
+  "firstPublicationDate": [
+    "2015-02-11"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

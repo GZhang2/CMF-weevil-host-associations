@@ -1,0 +1,235 @@
+{
+  "id": [
+    "26959066"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26959066"
+  ],
+  "pmcid": [
+    "PMC4808789"
+  ],
+  "doi": [
+    "10.3390/insects7010009"
+  ],
+  "title": [
+    "Pepper Weevil (Coleoptera: Curculionidae) Preferences for Specific Pepper Cultivars, Plant Parts, Fruit Colors, Fruit Sizes, and Timing."
+  ],
+  "authorString": [
+    "Seal DR, Martin CG."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Seal DR"
+          ],
+          "firstName": [
+            "Dakshina R"
+          ],
+          "lastName": [
+            "Seal"
+          ],
+          "initials": [
+            "DR"
+          ],
+          "affiliation": [
+            "Tropical Research and Education Center (TREC), University of Florida, 18905 SW 280th Street, Homestead, FL 33031, USA. dseal3@ufl.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Martin CG"
+          ],
+          "firstName": [
+            "Cliff G"
+          ],
+          "lastName": [
+            "Martin"
+          ],
+          "initials": [
+            "CG"
+          ],
+          "affiliation": [
+            "Tropical Research and Education Center (TREC), University of Florida, 18905 SW 280th Street, Homestead, FL 33031, USA. cgm@ufl.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2361735"
+      ],
+      "dateOfPublication": [
+        "2016"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Insects"
+          ],
+          "ISOAbbreviation": [
+            "Insects"
+          ],
+          "medlineAbbreviation": [
+            "Insects"
+          ],
+          "NLMid": [
+            "101574235"
+          ],
+          "ESSN": [
+            "2075-4450"
+          ]
+        }
+      ]
+    }
+  ],
+  "abstractText": [
+    "Peppers (Capsicum spp.) are an important crop in the USA, with about 32,000 ha cultivated in 2007, which resulted in $588 million in farm revenue. The pepper weevil, Anthonomus eugenii Cano (Coleoptera: Curculionidae), is the most troublesome insect pest of peppers in the southern United States. It is therefore urgent to find different vulnerabilities of pepper cultivars, fruit and plants parts, fruit colors and sizes, and timing to infestation by A. eugenii. Also relevant is testing whether fruit length and infestation state affect fruit numbers, weights, and proportions of fruit that are infested. Counts of A. eugenii adults and marks from oviposition and feeding suggested that C. chinense Jacquin \"Habanero\" was least susceptible, and C. annuum L. cultivars \"SY\" and \"SR\" were most susceptible. Comparison of plant parts and fruit sizes revealed that A. eugenii preferred the peduncle, calyx, and top of pepper fruits over the middle, bottom, leaves, or remainder of flowers. Anthonomus eugenii does not discriminate between green or yellow fruit color nor vary diurnally in numbers. Based on adult counts, medium to extra-large fruits (≥1.5 cm long) attracted more weevils than small fruits (<1.5 cm). However based on proportions of fruit numbers or fruit weights that were infested, there were no differences between large and small fruits. Choice of pepper cultivar can thus be an important part of an IPM cultural control program designed to combat A. eugenii by reduced susceptibility or by synchronous fruit drop of infested fruits. Our results are potentially helpful in developing scouting programs including paying particular attention to the preferred locations of adults and their sites of feeding and oviposition on the fruit. The results also suggested the potential value of spraying when the fruits are still immature to prevent and control infestation."
+  ],
+  "affiliation": [
+    "Tropical Research and Education Center (TREC), University of Florida, 18905 SW 280th Street, Homestead, FL 33031, USA. dseal3@ufl.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cultural Control",
+        "Scouting",
+        "Anthonomus Eugenii"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4808789"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.3390/insects7010009"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-03-10"
+  ],
+  "dateOfCreation": [
+    "2016-03-10"
+  ],
+  "dateOfRevision": [
+    "2016-04-05"
+  ],
+  "electronicPublicationDate": [
+    "2016-03-04"
+  ],
+  "firstPublicationDate": [
+    "2016-03-04"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "id": [
+    "PMC4653128"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC4653128"
+  ],
+  "title": [
+    "Bioactive constituents of wood rot extract of tea, Camellia sinensis L.O. Kuntze against alates of low country live wood termite Glyptotermes dilatatus Bugnion and Popoff (Isoptera: Kalotermitidae)."
+  ],
+  "authorString": [
+    "Senanayake PD, Mohotti K, Paranagama PA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Senanayake PD"
+          ],
+          "firstName": [
+            "P. D."
+          ],
+          "lastName": [
+            "Senanayake"
+          ],
+          "initials": [
+            "PD"
+          ],
+          "affiliation": [
+            "Entomology Division, Tea Research Institute, Talawakelle, Sri Lanka"
+          ]
+        },
+        {
+          "fullName": [
+            "Mohotti K"
+          ],
+          "firstName": [
+            "K."
+          ],
+          "lastName": [
+            "Mohotti"
+          ],
+          "initials": [
+            "K"
+          ]
+        },
+        {
+          "fullName": [
+            "Paranagama PA"
+          ],
+          "firstName": [
+            "P. A."
+          ],
+          "lastName": [
+            "Paranagama"
+          ],
+          "initials": [
+            "PA"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2246822"
+      ],
+      "dateOfPublication": [
+        "2015 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "SpringerPlus"
+          ],
+          "ISOAbbreviation": [
+            "Springerplus"
+          ],
+          "medlineAbbreviation": [
+            "Springerplus"
+          ],
+          "NLMid": [
+            "101597967"
+          ],
+          "ESSN": [
+            "2193-1801"
+          ]
+        }
+      ]
+    }
+  ],
+  "abstractText": [
+    "Low country live wood termite (LCLWT), Glyptotermes dilatatus is attractive to rotted stumps of tea plant, Camellia sinensis. Rotted stumps are formed due to the attack of wood rot fungi in pruned stems. The objective of the present study was to investigate the response of LCLWT to extracts of rotted and healthy stems of susceptible tea cultivars, TRI 2023 and TRI 4042 and tolerant cultivars, TRI 2027 and TRI 4049 and isolate the LCLWT attractive fractions of tea stem extract. Since pieces of rotted stem of both susceptible and tolerant tea cultivars were moreattractive to the alates than that of healthy stems, effects of EtOAc extracts of rotted and healthy stems of four tea cultivars were compared on behavior of the alates. The results revealed that the alates positively responded to extracts of rotted tea stems of four tea cultivars than that of healthy tea stems. Therefore hexane, chloroform and aqueous methanol fractions of the extracts of rotted stems were tested against alates using orientation bioassays. Results revealed that the hexane fraction of rotted stem of each cultivar was more attractive than that of the chloroform and methanol fractions. The results of bioassay guided fractionation of the hexane fraction using column chromatography revealed the presence of two bioactive sub-fractions suggesting non-polar compounds in rotted tea wood are more attractive to G. dilatatus than other sub-fractions. These two fractions can be used to develop a trapping mechanism to strengthen present IPM program of LCLWT."
+  ],
+  "affiliation": [
+    "Entomology Division, Tea Research Institute, Talawakelle, Sri Lanka"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Camellia sinensis",
+        "Semiochemicals",
+        "Glyptotermes Dilatatus",
+        "Rotted Tea Stem",
+        "Healthy Tea Stem"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4653128"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.org/articles/PMC4653128/?tool=EBI"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2016-04-22"
+  ],
+  "dateOfRevision": [
+    "2016-04-22"
+  ],
+  "electronicPublicationDate": [
+    "2015-11-19"
+  ],
+  "firstPublicationDate": [
+    "2015-11-19"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

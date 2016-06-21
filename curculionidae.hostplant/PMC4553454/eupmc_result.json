@@ -1,0 +1,263 @@
+{
+  "id": [
+    "26467618"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26467618"
+  ],
+  "pmcid": [
+    "PMC4553454"
+  ],
+  "doi": [
+    "10.3390/insects2020128"
+  ],
+  "title": [
+    "Phylogeography of Phytophagous Weevils and Plant Species in Broadleaved Evergreen Forests: A Congruent Genetic Gap between Western and Eastern Parts of Japan."
+  ],
+  "authorString": [
+    "Aoki K, Kato M, Murakami N."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Aoki K"
+          ],
+          "firstName": [
+            "Kyoko"
+          ],
+          "lastName": [
+            "Aoki"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Graduate School of Human and Environmental Studies, Kyoto University, Kyoto, Kyoto 606-8501, Japan. aoki@sys.bot.kyoto-u.ac.jp."
+          ]
+        },
+        {
+          "fullName": [
+            "Kato M"
+          ],
+          "firstName": [
+            "Makoto"
+          ],
+          "lastName": [
+            "Kato"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Graduate School of Human and Environmental Studies, Kyoto University, Kyoto, Kyoto 606-8501, Japan. kato@zoo.zool.kyoto-u.ac.jp."
+          ]
+        },
+        {
+          "fullName": [
+            "Murakami N"
+          ],
+          "firstName": [
+            "Noriaki"
+          ],
+          "lastName": [
+            "Murakami"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Makino Herbarium, Tokyo Metropolitan University, Hachioji, Tokyo 192-0397, Japan. nmurak@tmu.ac.jp."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "2333750"
+      ],
+      "dateOfPublication": [
+        "2011 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2011"
+      ],
+      "printPublicationDate": [
+        "2011-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Insects"
+          ],
+          "ISOAbbreviation": [
+            "Insects"
+          ],
+          "medlineAbbreviation": [
+            "Insects"
+          ],
+          "NLMid": [
+            "101574235"
+          ],
+          "ESSN": [
+            "2075-4450"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "128-150"
+  ],
+  "abstractText": [
+    "The Quaternary climate cycles played an important role in shaping the distribution of biodiversity among current populations, even in warm-temperate zones, where land was not covered by ice sheets. We focused on the Castanopsis-type broadleaved evergreen forest community in Japan, which characterizes the biodiversity and endemism of the warm-temperate zone. A comparison of the phylogeographic patterns of three types of phytophagous weevils associated with Castanopsis (a host-specific seed predator, a generalist seed predator, and a host-specific leaf miner) and several other plant species inhabiting the forests revealed largely congruent patterns of genetic differentiation between western and eastern parts of the main islands of Japan. A genetic gap was detected in the Kii Peninsula to Chugoku-Shikoku region, around the Seto Inland Sea. The patterns of western-eastern differentiation suggest past fragmentation of broadleaved evergreen forests into at least two separate refugia consisting of the southern parts of Kyushu to Shikoku and of Kii to Boso Peninsula. Moreover, the congruent phylogeographic patterns observed in Castanopsis and the phytophagous insect species imply that the plant-herbivore relationship has been largely maintained since the last glacial periods. These results reinforce the robustness of the deduced glacial and postglacial histories of Castanopsis-associated organisms."
+  ],
+  "affiliation": [
+    "Graduate School of Human and Environmental Studies, Kyoto University, Kyoto, Kyoto 606-8501, Japan. aoki@sys.bot.kyoto-u.ac.jp."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Castanopsis",
+        "Biogeography",
+        "Parasite",
+        "Japan",
+        "host specificity",
+        "Population Expansion",
+        "Glacial Refugia",
+        "Comparative Phylogeography",
+        "Curculio",
+        "Rhynchaenus"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4553454"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.3390/insects2020128"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-10-15"
+  ],
+  "dateOfCreation": [
+    "2015-10-15"
+  ],
+  "dateOfRevision": [
+    "2015-10-22"
+  ],
+  "electronicPublicationDate": [
+    "2011-04-21"
+  ],
+  "firstPublicationDate": [
+    "2011-04-21"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "id": [
+    "27233666"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27233666"
+  ],
+  "pmcid": [
+    "PMC4882834"
+  ],
+  "doi": [
+    "10.1186/s12862-016-0660-x"
+  ],
+  "title": [
+    "Evidence for common horizontal transmission of Wolbachia among butterflies and moths."
+  ],
+  "authorString": [
+    "Ahmed MZ, Breinholt JW, Kawahara AY."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ahmed MZ"
+          ],
+          "firstName": [
+            "Muhammad Z"
+          ],
+          "lastName": [
+            "Ahmed"
+          ],
+          "initials": [
+            "MZ"
+          ],
+          "affiliation": [
+            "Florida Museum of Natural History, University of Florida, Gainesville, FL, 32611, USA. zaheerento@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Breinholt JW"
+          ],
+          "firstName": [
+            "Jesse W"
+          ],
+          "lastName": [
+            "Breinholt"
+          ],
+          "initials": [
+            "JW"
+          ],
+          "affiliation": [
+            "Florida Museum of Natural History, University of Florida, Gainesville, FL, 32611, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kawahara AY"
+          ],
+          "firstName": [
+            "Akito Y"
+          ],
+          "lastName": [
+            "Kawahara"
+          ],
+          "initials": [
+            "AY"
+          ],
+          "affiliation": [
+            "Florida Museum of Natural History, University of Florida, Gainesville, FL, 32611, USA. kawahara@flmnh.ufl.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2358701"
+      ],
+      "dateOfPublication": [
+        "2016 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC evolutionary biology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Evol. Biol."
+          ],
+          "medlineAbbreviation": [
+            "BMC Evol Biol"
+          ],
+          "NLMid": [
+            "100966975"
+          ],
+          "ESSN": [
+            "1471-2148"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "118"
+  ],
+  "abstractText": [
+    "Wolbachia is one of the most widespread bacteria on Earth. Previous research on Wolbachia-host interactions indicates that the bacterium is typically transferred vertically, from mother to offspring, through the egg cytoplasm. Although horizontal transmission of Wolbachia from one species to another is reported to be common in arthropods, limited direct ecological evidence is available. In this study, we examine horizontal transmission of Wolbachia using a multilocus sequence typing (MLST) strains dataset and used Wolbachia and Lepidoptera genomes to search for evidence for lateral gene transfer (LGT) in Lepidoptera, one of the most diverse cosmopolitan insect orders. We constructed a phylogeny of arthropod-associated MLST Wolbachia strains and calibrated the age of Wolbachia strains associated with lepidopteran species.Our results reveal inter-specific, inter-generic, inter-familial, and inter-ordinal horizontal transmission of Wolbachia strains, without discernible geographic patterns. We found at least seven probable cases of horizontal transmission among 31 species within Lepidoptera and between Lepidoptera and other arthropod hosts. The divergence time analysis revealed that Wolbachia is recently (22.6-4.7 mya, 95 % HPD) introduced in Lepidoptera. Analysis of nine Lepidoptera genomes (Bombyx mori, Danaus plexippus, Heliconius melpomene, Manduca sexta, Melitaea cinxia, Papilio glaucus, P. polytes, P. xuthus and Plutella xylostella) yielded one possible instance of Wolbachia LGT.Our results provide evidence of high incidence of identical and multiple strains of Wolbachia among butterflies and moths, adding Lepidoptera to the growing body of evidence for common horizontal transmission of Wolbachia. This study demonstrates interesting dynamics of this remarkable and influential microorganism."
+  ],
+  "affiliation": [
+    "Florida Museum of Natural History, University of Florida, Gainesville, FL, 32611, USA. zaheerento@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Genome",
+        "Butterfly",
+        "Moth",
+        "Lateral Gene Transfer",
+        "Symbiont",
+        "Transmission Route",
+        "Mlst Strains"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4882834?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4882834"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1186/s12862-016-0660-x"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2016-05-28"
+  ],
+  "dateOfRevision": [
+    "2016-05-31"
+  ],
+  "electronicPublicationDate": [
+    "2016-05-27"
+  ],
+  "firstPublicationDate": [
+    "2016-05-27"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

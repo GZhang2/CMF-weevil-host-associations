@@ -1,0 +1,440 @@
+{
+  "id": [
+    "20298112"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "20298112"
+  ],
+  "pmcid": [
+    "PMC3127418"
+  ],
+  "doi": [
+    "10.1673/031.008.5101"
+  ],
+  "title": [
+    "Larval survival of fuller's rose weevil, Naupactus cervinus, on common groundcover species in orchards of New Zealand kiwifruit."
+  ],
+  "authorString": [
+    "Logan DP, Maher BJ, Dobson SS, Connolly PG."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Logan DP"
+          ],
+          "firstName": [
+            "David P"
+          ],
+          "lastName": [
+            "Logan"
+          ],
+          "initials": [
+            "DP"
+          ]
+        },
+        {
+          "fullName": [
+            "Maher BJ"
+          ],
+          "firstName": [
+            "Bridget J"
+          ],
+          "lastName": [
+            "Maher"
+          ],
+          "initials": [
+            "BJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Dobson SS"
+          ],
+          "firstName": [
+            "Shirley S"
+          ],
+          "lastName": [
+            "Dobson"
+          ],
+          "initials": [
+            "SS"
+          ]
+        },
+        {
+          "fullName": [
+            "Connolly PG"
+          ],
+          "firstName": [
+            "Patrick G"
+          ],
+          "lastName": [
+            "Connolly"
+          ],
+          "initials": [
+            "PG"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "1717376"
+      ],
+      "dateOfPublication": [
+        "2008 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2008"
+      ],
+      "printPublicationDate": [
+        "2008-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of insect science (Online)"
+          ],
+          "ISOAbbreviation": [
+            "J. Insect Sci."
+          ],
+          "medlineAbbreviation": [
+            "J Insect Sci"
+          ],
+          "NLMid": [
+            "101096396"
+          ],
+          "ESSN": [
+            "1536-2442"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "1-10"
+  ],
+  "abstractText": [
+    "Fuller's rose weevil, Naupactus cervinus (Boheman) (Curculionidae: Entiminae), is an important quarantine pest of New Zealand kiwifruit exported to Asian markets. Both adults and larvae are considered to be polyphagous. In this study, the survival of larval N. cervinus was estimated on common groundcover species of kiwifruit (Actinidia spp.) in the Bay of Plenty, the main region in New Zealand where kiwifruit is grown. The botanical composition of groundcover in commercial kiwifruit orchards, characterised by survey, was dominated by ryegrass (Lolium perenne), with white clover (Trifolium repens), creeping buttercup (Ranunculus repens), wild strawberry (Duchesnea indica) and broadleaf dock (Rumex obtusifolius) in lower abundance. Survival to mature larvae or adult was relatively low (.11%) for N. cervinus introduced as neonates to field plots or potted ryegrass, white clover and broadleaf dock. White clover was a more favourable host for survival to adults than ryegrass. This study suggests that increased survival of N. cervinus larvae may occur where white clover and large dock plants are abundant, but that survival is likely to be highly variable because of the heterogeneous availability of preferred host plants and host plant quality. These data suggest that larval polyphagy is a strategy that enables N. cervinus to persist at low densities in kiwifruit orchards despite variation in the quality and diversity of groundcover."
+  ],
+  "affiliation": [
+    "The Horticulture and Food Research Institute of New Zealand Ltd. (HortResearch), 412 No. 1 Road, RD2, Te Puke, New Zealand. dlogan@hortresearch.co.nz"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Weevils"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plants"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lolium"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Actinidia"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Survival Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Population Density"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Larva"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "New Zealand"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3127418?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3127418"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=20298112&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=20298112"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1673/031.008.5101"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2010-06-14"
+  ],
+  "dateOfCreation": [
+    "2010-03-19"
+  ],
+  "dateOfRevision": [
+    "2011-07-22"
+  ],
+  "firstPublicationDate": [
+    "2008-01-01"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

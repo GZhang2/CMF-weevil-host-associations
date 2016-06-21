@@ -1,0 +1,285 @@
+{
+  "id": [
+    "21747674"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "21747674"
+  ],
+  "pmcid": [
+    "PMC3131080"
+  ],
+  "doi": [
+    "10.3897/zookeys.102.1240"
+  ],
+  "title": [
+    "Obrieniolus, a new monotypic genus of Naupactini (Coleoptera, Curculionidae, Entiminae) from the Peruvian Andes and its phylogenetic placement."
+  ],
+  "authorString": [
+    "Del Río MG, Lanteri AA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Del Río MG"
+          ],
+          "firstName": [
+            "M Guadalupe"
+          ],
+          "lastName": [
+            "Del Río"
+          ],
+          "initials": [
+            "MG"
+          ]
+        },
+        {
+          "fullName": [
+            "Lanteri AA"
+          ],
+          "firstName": [
+            "Analía A"
+          ],
+          "lastName": [
+            "Lanteri"
+          ],
+          "initials": [
+            "AA"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "102"
+      ],
+      "journalIssueId": [
+        "1848067"
+      ],
+      "dateOfPublication": [
+        "2011 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2011"
+      ],
+      "printPublicationDate": [
+        "2011-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ZooKeys"
+          ],
+          "ISOAbbreviation": [
+            "Zookeys"
+          ],
+          "medlineAbbreviation": [
+            "Zookeys"
+          ],
+          "NLMid": [
+            "101497933"
+          ],
+          "ISSN": [
+            "1313-2989"
+          ],
+          "ESSN": [
+            "1313-2970"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "51-63"
+  ],
+  "abstractText": [
+    "A new monotypic genus of Naupactini (Coleoptera: Curculionidae), Obrieniolus del Río is described based on the new species Obrieniolus robustus del Río, endemic to Peru. This genus is easily recognized by the black, denuded and shiny integument, with imbricate microsculpture and the rounded body, with short, cordiform and moderately convex elytra. According to a cladistic analysis based on 69 continuous and discrete morphological characters, the new genus is the sister taxon of a group formed by Amitrus Schoenherr, Trichocyphus Heller, Amphideritus Schoenherr, Asymmathetes Wibmer & O'Brien and Galapaganus Lanteri. The paper includes habitus photographs, line drawings of genitalia, mouthparts, and other external features of taxonomic value, and a dichotomous key to the genera of Naupactini distributed in the South American Transition Zone."
+  ],
+  "affiliation": [
+    "División Entomología, Museo de La Plata, Paseo del Bosque s/n, 1900 La Plata, Argentina."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "New taxa",
+        "Phylogeny",
+        "Obrieniolus Robustus",
+        "Paramo-puna Subregion",
+        "South American Transition Zone"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3131080?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3131080"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=21747674"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=21747674&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.3897/zookeys.102.1240"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2011-07-14"
+  ],
+  "dateOfCreation": [
+    "2011-07-12"
+  ],
+  "dateOfRevision": [
+    "2013-05-29"
+  ],
+  "electronicPublicationDate": [
+    "2011-06-02"
+  ],
+  "firstPublicationDate": [
+    "2011-06-02"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

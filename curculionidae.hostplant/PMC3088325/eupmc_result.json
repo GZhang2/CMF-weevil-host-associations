@@ -1,0 +1,272 @@
+{
+  "id": [
+    "21594180"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "21594180"
+  ],
+  "pmcid": [
+    "PMC3088325"
+  ],
+  "doi": [
+    "10.3897/zookeys.56.526"
+  ],
+  "title": [
+    "Five new species of Triotemnus (Coleoptera, Curculionidae, Scolytinae) from Morocco and Yemen."
+  ],
+  "authorString": [
+    "Knížek M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Knížek M"
+          ],
+          "firstName": [
+            "Miloš"
+          ],
+          "lastName": [
+            "Knížek"
+          ],
+          "initials": [
+            "M"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "56"
+      ],
+      "journalIssueId": [
+        "1833484"
+      ],
+      "dateOfPublication": [
+        "2010 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2010"
+      ],
+      "printPublicationDate": [
+        "2010-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ZooKeys"
+          ],
+          "ISOAbbreviation": [
+            "Zookeys"
+          ],
+          "medlineAbbreviation": [
+            "Zookeys"
+          ],
+          "NLMid": [
+            "101497933"
+          ],
+          "ISSN": [
+            "1313-2989"
+          ],
+          "ESSN": [
+            "1313-2970"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "191-206"
+  ],
+  "abstractText": [
+    "Fivenew species of the genus Triotemnus from Morocco and Yemen are described. Triotemnus is a new genus of Scolytinae for the Yemen region. External morphology of the new species and all morphologically related species of the genus were studied. While the new species from Morocco are morphologically similar to the known species from the corresponding region, all three newly described species from Yemen, mainly two of them living in Socotra, are morphologically very different from all other known species of the genus. Geographical distribution and the probability of endemicity are discussed."
+  ],
+  "affiliation": [
+    "Department of Forest Protection, Forestry and Game Management Research Institute, Jíloviště - Strnady, CZ-156 04 Praha 5 - Zbraslav, Czech Republic."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Bark beetles",
+        "Palaearctic region",
+        "Yemen",
+        "Morocco",
+        "Socotra",
+        "Dryocoetini"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3088325?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3088325"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=21594180"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=21594180&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.3897/zookeys.56.526"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2011-07-14"
+  ],
+  "dateOfCreation": [
+    "2011-05-19"
+  ],
+  "dateOfRevision": [
+    "2013-05-29"
+  ],
+  "electronicPublicationDate": [
+    "2010-09-17"
+  ],
+  "firstPublicationDate": [
+    "2010-09-17"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

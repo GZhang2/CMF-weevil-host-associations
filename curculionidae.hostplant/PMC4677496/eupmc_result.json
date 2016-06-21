@@ -1,0 +1,438 @@
+{
+  "id": [
+    "26078300"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26078300"
+  ],
+  "pmcid": [
+    "PMC4677496"
+  ],
+  "doi": [
+    "10.1093/jisesa/iev058"
+  ],
+  "title": [
+    "Molecular markers as a method to evaluate the movement of Hypothenemus hampei (Ferrari)."
+  ],
+  "authorString": [
+    "Gil ZN, Benavides P, De Souza O, Acevedo FE, Lima E."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gil ZN"
+          ],
+          "firstName": [
+            "Zulma Nancy"
+          ],
+          "lastName": [
+            "Gil"
+          ],
+          "initials": [
+            "ZN"
+          ],
+          "affiliation": [
+            "Centro Nacional de Investigaciones de Café-Cenicafé, Colombia zulma.gil@cafedecolombia.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Benavides P"
+          ],
+          "firstName": [
+            "Pablo"
+          ],
+          "lastName": [
+            "Benavides"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Centro Nacional de Investigaciones de Café-Cenicafé, Colombia."
+          ]
+        },
+        {
+          "fullName": [
+            "De Souza O"
+          ],
+          "firstName": [
+            "Og"
+          ],
+          "lastName": [
+            "De Souza"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            "Universidade Federal de Viçosa, Minas Gerais, Brasil, CEP 36571-000."
+          ]
+        },
+        {
+          "fullName": [
+            "Acevedo FE"
+          ],
+          "firstName": [
+            "Flor Edith"
+          ],
+          "lastName": [
+            "Acevedo"
+          ],
+          "initials": [
+            "FE"
+          ],
+          "affiliation": [
+            "Pennsylvania State University, State College, PA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lima E"
+          ],
+          "firstName": [
+            "Eraldo"
+          ],
+          "lastName": [
+            "Lima"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Universidade Federal de Viçosa, Minas Gerais, Brasil, CEP 36571-000."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2258903"
+      ],
+      "dateOfPublication": [
+        "2015 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of insect science (Online)"
+          ],
+          "ISOAbbreviation": [
+            "J. Insect Sci."
+          ],
+          "medlineAbbreviation": [
+            "J Insect Sci"
+          ],
+          "NLMid": [
+            "101096396"
+          ],
+          "ESSN": [
+            "1536-2442"
+          ]
+        }
+      ]
+    }
+  ],
+  "abstractText": [
+    "The objective of this research was to develop a methodology to describe the movement of the coffee berry borer Hypothenemus hampei (Coleoptera: Curculionidae) in the field through: (i) the evaluation of allele variation of a microsatellite marker on polymorphic Colombian H. hampei populations; (ii) the invention of a device for releasing H. hampei adults; (iii) the standardization of a release-recapture technique for H. hampei populations; (iv) the estimation of the flight distance of the insect; and (v) the calculation of a mathematical expression that describes the movement of H. hampei in space over time. The results indicated that: (i) the microsatellite molecular marker HHK.1.6 was exclusively present in a population from Guapotá-Santander, was dominant and allows the evaluation of H. hampei movement for several generations; (ii) a device that released 88.8% of H. hampei adults in 2 s was designed; (iii) this device was used as H. hampei populations containing HHK.1.6 marker release strategy, and coffee seeds as recapture strategy; (iv) it was estimated that H. hampei adults flew as far as 65 m, however, 90% were recovered in a radius of <40 m. Finally, (v) the mathematical expression that described the movement of H. hampei in space over time was [Formula: see text], being [Formula: see text] the average number of borer beetles recaptured per tree, and x the distance in meters. This method will allow to determine the movement of H. hampei from different environmental and ecological scenarios."
+  ],
+  "affiliation": [
+    "Centro Nacional de Investigaciones de Café-Cenicafé, Colombia zulma.gil@cafedecolombia.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Weevils"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Coffea"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Seeds"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Microsatellite Repeats"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Flight, Animal"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Animal Distribution"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Dispersal",
+        "Microsatellites",
+        "Coffee",
+        "Coffea Arabica",
+        "Releasing Device"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4677496?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4677496"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1093/jisesa/iev058"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-06-07"
+  ],
+  "dateOfCreation": [
+    "2015-06-16"
+  ],
+  "electronicPublicationDate": [
+    "2015-06-15"
+  ],
+  "firstPublicationDate": [
+    "2015-06-15"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

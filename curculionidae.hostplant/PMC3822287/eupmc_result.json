@@ -1,0 +1,349 @@
+{
+  "id": [
+    "24273544"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24273544"
+  ],
+  "pmcid": [
+    "PMC3822287"
+  ],
+  "doi": [
+    "10.3389/fpls.2013.00445"
+  ],
+  "title": [
+    "Effects of elevated temperature and CO2 on aboveground-belowground systems: a case study with plants, their mutualistic bacteria and root/shoot herbivores."
+  ],
+  "authorString": [
+    "Ryalls JM, Riegler M, Moore BD, Lopaticki G, Johnson SN."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ryalls JM"
+          ],
+          "firstName": [
+            "James M W"
+          ],
+          "lastName": [
+            "Ryalls"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Hawkesbury Institute for the Environment, University of Western Sydney Richmond, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Riegler M"
+          ],
+          "firstName": [
+            "Markus"
+          ],
+          "lastName": [
+            "Riegler"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Moore BD"
+          ],
+          "firstName": [
+            "Ben D"
+          ],
+          "lastName": [
+            "Moore"
+          ],
+          "initials": [
+            "BD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6995-4721",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lopaticki G"
+          ],
+          "firstName": [
+            "Goran"
+          ],
+          "lastName": [
+            "Lopaticki"
+          ],
+          "initials": [
+            "G"
+          ]
+        },
+        {
+          "fullName": [
+            "Johnson SN"
+          ],
+          "firstName": [
+            "Scott N"
+          ],
+          "lastName": [
+            "Johnson"
+          ],
+          "initials": [
+            "SN"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6995-4721",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2003510"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in plant science"
+          ],
+          "ISOAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "medlineAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "NLMid": [
+            "101568200"
+          ],
+          "ESSN": [
+            "1664-462X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "445"
+  ],
+  "abstractText": [
+    "Interactions between above- and belowground herbivores have been prominent in the field of aboveground-belowground ecology from the outset, although little is known about how climate change affects these organisms when they share the same plant. Additionally, the interactive effects of multiple factors associated with climate change such as elevated temperature (eT) and elevated atmospheric carbon dioxide (eCO2) are untested. We investigated how eT and eCO2 affected larval development of the lucerne weevil (Sitona discoideus) and colonization by the pea aphid (Acyrthosiphon pisum), on three cultivars of a common host plant, lucerne (Medicago sativa). Sitona discoideus larvae feed on root nodules housing N2-fixing rhizobial bacteria, allowing us to test the effects of eT and eCO2 across trophic levels. Moreover, we assessed the influence of these factors on plant growth. eT increased plant growth rate initially (6, 8 and 10 weeks after sowing), with cultivar \"Sequel\" achieving the greatest height. Inoculation with aphids, however, reduced plant growth at week 14. eT severely reduced root nodulation by 43%, whereas eCO2 promoted nodulation by 56%, but only at ambient temperatures. Weevil presence increased net root biomass and nodulation, by 31 and 45%, respectively, showing an overcompensatory plant growth response. Effects of eT and eCO2 on root nodulation were mirrored by weevil larval development; eT and eCO2 reduced and increased larval development, respectively. Contrary to expectations, aphid colonization was unaffected by eT or eCO2, but there was a near-significant 10% reduction in colonization rates on plants with weevils present belowground. The contrasting effects of eT and eCO2 on weevils potentially occurred through changes in root nodulation patterns. "
+  ],
+  "affiliation": [
+    "Hawkesbury Institute for the Environment, University of Western Sydney Richmond, NSW, Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Root",
+        "Medicago sativa",
+        "Nodule",
+        "Alfalfa",
+        "Lucerne",
+        "weevil",
+        "aphid"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3822287?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3822287"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=24273544"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=24273544&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.3389/fpls.2013.00445"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-11-25"
+  ],
+  "dateOfCreation": [
+    "2013-11-25"
+  ],
+  "dateOfRevision": [
+    "2014-01-24"
+  ],
+  "electronicPublicationDate": [
+    "2013-11-11"
+  ],
+  "firstPublicationDate": [
+    "2013-11-11"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

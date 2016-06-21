@@ -1,0 +1,256 @@
+{
+  "id": [
+    "26462689"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26462689"
+  ],
+  "pmcid": [
+    "PMC4592596"
+  ],
+  "doi": [
+    "10.3390/insects5020364"
+  ],
+  "title": [
+    "Biomechanical Properties of Hemlocks: A Novel Approach to Evaluating Physical Barriers of the Plant-Insect Interface and Resistance to a Phloem-Feeding Herbivore."
+  ],
+  "authorString": [
+    "Ayayee P, Yang F, Rieske LK."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ayayee P"
+          ],
+          "firstName": [
+            "Paul"
+          ],
+          "lastName": [
+            "Ayayee"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Entomology, University of Kentucky, S-225 Ag North, Lexington, KY 40546, USA. Ayayee.1@osu.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang F"
+          ],
+          "firstName": [
+            "Fuqian"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Chemical and Materials Engineering, University of Kentucky, Lexington, KY 40506, USA. fyang0@engr.uky.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Rieske LK"
+          ],
+          "firstName": [
+            "Lynne K"
+          ],
+          "lastName": [
+            "Rieske"
+          ],
+          "initials": [
+            "LK"
+          ],
+          "affiliation": [
+            "Department of Entomology, University of Kentucky, S-225 Ag North, Lexington, KY 40546, USA. Lrieske@uky.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2333450"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Insects"
+          ],
+          "ISOAbbreviation": [
+            "Insects"
+          ],
+          "medlineAbbreviation": [
+            "Insects"
+          ],
+          "NLMid": [
+            "101574235"
+          ],
+          "ESSN": [
+            "2075-4450"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "364-376"
+  ],
+  "abstractText": [
+    "Micromechanical properties that help mediate herbivore access may be particularly important when considering herbivorous insects that feed with piercing-sucking stylets. We used microindentation to quantify the micromechanical properties of hemlock, Tsuga spp., to quantify the hardness of the feeding site of the invasive hemlock woolly adelgid, Adelges tsugae. We measured hardness of the hemlock leaf cushion, the stylet insertion point of the adelgid, across four seasons in a 1 y period for four hemlock species growing in a common garden, including eastern, western, mountain, and northern Japanese hemlocks. Leaf cushion hardness was highest in the fall and winter and lowest in summer for all species. Northern Japanese hemlock had relatively greater hardness than the remaining species. Our data contributes an additional perspective to the existing framework within which greater susceptibility and subsequent mortality of eastern hemlocks is observed. The potential application of microindentation to understanding the nature and relevance of plant mechanical defenses in plant-herbivore interactions is also demonstrated and highlighted."
+  ],
+  "affiliation": [
+    "Department of Entomology, University of Kentucky, S-225 Ag North, Lexington, KY 40546, USA. Ayayee.1@osu.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Constitutive Resistance",
+        "Hemlock Woolly Adelgid",
+        "Microindentation",
+        "Leaf Cushion"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4592596"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.3390/insects5020364"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-10-14"
+  ],
+  "dateOfCreation": [
+    "2015-10-14"
+  ],
+  "dateOfRevision": [
+    "2015-10-20"
+  ],
+  "electronicPublicationDate": [
+    "2014-06-03"
+  ],
+  "firstPublicationDate": [
+    "2014-06-03"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "id": [
+    "23794807"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23794807"
+  ],
+  "pmcid": [
+    "PMC3677392"
+  ],
+  "doi": [
+    "10.3897/zookeys.274.4529"
+  ],
+  "title": [
+    "A preliminary study on the insect fauna of Al-Baha Province, Saudi Arabia, with descriptions of two new species."
+  ],
+  "authorString": [
+    "El-Hawagry MS, Khalil MW, Sharaf MR, Hassan H Fadl, Aldawood AS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "El-Hawagry MS"
+          ],
+          "firstName": [
+            "Magdi S"
+          ],
+          "lastName": [
+            "El-Hawagry"
+          ],
+          "initials": [
+            "MS"
+          ]
+        },
+        {
+          "fullName": [
+            "Khalil MW"
+          ],
+          "firstName": [
+            "Mohammed W"
+          ],
+          "lastName": [
+            "Khalil"
+          ],
+          "initials": [
+            "MW"
+          ]
+        },
+        {
+          "fullName": [
+            "Sharaf MR"
+          ],
+          "firstName": [
+            "Mostafa R"
+          ],
+          "lastName": [
+            "Sharaf"
+          ],
+          "initials": [
+            "MR"
+          ]
+        },
+        {
+          "fullName": [
+            "Hassan H Fadl"
+          ],
+          "lastName": [
+            "Hassan H Fadl"
+          ]
+        },
+        {
+          "fullName": [
+            "Aldawood AS"
+          ],
+          "firstName": [
+            "Abdulrahman S"
+          ],
+          "lastName": [
+            "Aldawood"
+          ],
+          "initials": [
+            "AS"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "274"
+      ],
+      "journalIssueId": [
+        "2050597"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ZooKeys"
+          ],
+          "ISOAbbreviation": [
+            "Zookeys"
+          ],
+          "medlineAbbreviation": [
+            "Zookeys"
+          ],
+          "NLMid": [
+            "101497933"
+          ],
+          "ISSN": [
+            "1313-2989"
+          ],
+          "ESSN": [
+            "1313-2970"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "1-88"
+  ],
+  "abstractText": [
+    "A preliminary study was carried out on the insect fauna of Al-Baha Province, south-western part of Saudi Arabia. A total number of 582 species and subspecies (few identified only to the genus level) belonging to 129 families and representing 17 orders were recorded. Two of these species are described as new, namely: Monomorium sarawatensis Sharaf & Aldawood, sp. n. [Formicidae, Hymenoptera] and Anthrax alruqibi El-Hawagry sp. n. [Bombyliidae, Diptera]. Another eight species are recorded for the first time in Saudi Arabia, namely: Xiphoceriana arabica (Uvarov, 1922) [Pamphagidae, Orthoptera], Pyrgomorpha conica (Olivier, 1791) [Pyrgomorphidae, Orthoptera], Catopsilia florella (Fabricius, 1775) [Pieridae, Lepidoptera], Anthrax chionanthrax (Bezzi, 1926) [Bombyliidae, Diptera], Spogostylum near tripunctatum Pallas in Wiedemann, 1818 [Bombyliidae, Diptera], Cononedys dichromatopa (Bezzi, 1925) [Bombyliidae, Diptera], Mydas sp. [Mydidae, Diptera], and Hippobosca equina Linnaeus, 1758 [Hippoboscidae, Diptera]. Al-Baha Province is divided by huge and steep Rocky Mountains into two main sectors, a lowland coastal plain at the west, known as \"Tihama\", and a mountainous area with an elevation of 1500 to 2450 m above sea level at the east, known as \"Al-Sarat or Al-Sarah\" which form a part of Al-Sarawat Mountains range. Insect species richness in the two sectors (Tihama and Al-Sarah) was compared, and the results showed that each of the two sectors of Al-Baha Province has a unique insect community. The study generally concluded that the insect faunal composition in Al-Baha Province has an Afrotropical flavor, with the Afrotropical elements predominant, and a closer affiliation to the Afrotropical region than to the Palearctic region or the Eremic zone. Consequently, we tend to agree with those biogeographers who consider that parts of the Arabian Peninsula, including Al-Baha Province, should be included in the Afrotropical region rather than in the Palaearctic region or the Eremic zone. "
+  ],
+  "affiliation": [
+    "Basic Sciences Department, Community College, Al-Baha University, Al-Baha, Saudi Arabia, PO Box 1598, Project: Survey and Classification of Agricultural and Medical Insects in Al-Baha Province."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "New species",
+        "List",
+        "Palaearctic",
+        "Arabian Peninsula",
+        "Afrotropical",
+        "Eremic",
+        "Insect Species",
+        "Tihama",
+        "Al-sarah",
+        "Al-sarawat Mountains"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3677392?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3677392"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=23794807"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=23794807&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.3897/zookeys.274.4529"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "7"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-06-25"
+  ],
+  "dateOfCreation": [
+    "2013-06-24"
+  ],
+  "dateOfRevision": [
+    "2013-06-26"
+  ],
+  "electronicPublicationDate": [
+    "2013-03-01"
+  ],
+  "firstPublicationDate": [
+    "2013-03-01"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

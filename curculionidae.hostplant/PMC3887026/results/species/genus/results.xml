@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="genus">
+ <result pre="ces [37] as well as other coleopteran insect larvae feeding on " exact="Plantago" xpath="/html[1]/body[1]/div[2]/div[4]/div[4]/p[1]" match="Plantago" post=" and Trifolium plants [38]. " name="genus"/>
+ <result pre="085152-MohdNorowi1&quot;&gt;[37] as well as other coleopteran insect larvae feeding on Plantago and " exact="Trifolium" xpath="/html[1]/body[1]/div[2]/div[4]/div[4]/p[1]" match="Trifolium" post=" plants [38]. " name="genus"/>
+ <result pre="alist larvae that severely damaged the plant [54]. However, adult " exact="Mecinus" match="Mecinus" post=" weevils chew only upon small parts of the flower stem. Therefore, the adult weevils are not expect" name="genus"/>
+</results>

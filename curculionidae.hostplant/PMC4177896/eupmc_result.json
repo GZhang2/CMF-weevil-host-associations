@@ -1,0 +1,498 @@
+{
+  "id": [
+    "25254657"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25254657"
+  ],
+  "pmcid": [
+    "PMC4177896"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0108242"
+  ],
+  "title": [
+    "Colonization of onions by endophytic fungi and their impacts on the biology of Thrips tabaci."
+  ],
+  "authorString": [
+    "Muvea AM, Meyhöfer R, Subramanian S, Poehling HM, Ekesi S, Maniania NK."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Muvea AM"
+          ],
+          "firstName": [
+            "Alexander M"
+          ],
+          "lastName": [
+            "Muvea"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "affiliation": [
+            "Institute of Horticultural Production Systems, Section Phytomedicine, Leibniz Universität Hannover, Hannover, Germany; Plant Health Division, IPM cluster, International Centre of Insect Physiology and Ecology, Nairobi, Kenya."
+          ]
+        },
+        {
+          "fullName": [
+            "Meyhöfer R"
+          ],
+          "firstName": [
+            "Rainer"
+          ],
+          "lastName": [
+            "Meyhöfer"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5624-001X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Horticultural Production Systems, Section Phytomedicine, Leibniz Universität Hannover, Hannover, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Subramanian S"
+          ],
+          "firstName": [
+            "Sevgan"
+          ],
+          "lastName": [
+            "Subramanian"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Plant Health Division, IPM cluster, International Centre of Insect Physiology and Ecology, Nairobi, Kenya."
+          ]
+        },
+        {
+          "fullName": [
+            "Poehling HM"
+          ],
+          "firstName": [
+            "Hans-Michael"
+          ],
+          "lastName": [
+            "Poehling"
+          ],
+          "initials": [
+            "HM"
+          ],
+          "affiliation": [
+            "Institute of Horticultural Production Systems, Section Phytomedicine, Leibniz Universität Hannover, Hannover, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Ekesi S"
+          ],
+          "firstName": [
+            "Sunday"
+          ],
+          "lastName": [
+            "Ekesi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Plant Health Division, IPM cluster, International Centre of Insect Physiology and Ecology, Nairobi, Kenya."
+          ]
+        },
+        {
+          "fullName": [
+            "Maniania NK"
+          ],
+          "firstName": [
+            "Nguya K"
+          ],
+          "lastName": [
+            "Maniania"
+          ],
+          "initials": [
+            "NK"
+          ],
+          "affiliation": [
+            "Plant Health Division, IPM cluster, International Centre of Insect Physiology and Ecology, Nairobi, Kenya."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5624-001X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2195941"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "e108242"
+  ],
+  "abstractText": [
+    "Endophytic fungi, which live within host plant tissues without causing any visible symptom of infection, are important mutualists that mediate plant-herbivore interactions. Thrips tabaci (Lindeman) is one of the key pests of onion, Allium cepa L., an economically important agricultural crop cultivated worldwide. However, information on endophyte colonization of onions, and their impacts on the biology of thrips feeding on them, is lacking. We tested the colonization of onion plants by selected fungal endophyte isolates using two inoculation methods. The effects of inoculated endophytes on T. tabaci infesting onion were also examined. Seven fungal endophytes used in our study were able to colonize onion plants either by the seed or seedling inoculation methods. Seed inoculation resulted in 1.47 times higher mean percentage post-inoculation recovery of all the endophytes tested as compared to seedling inoculation. Fewer thrips were observed on plants inoculated with Clonostachys rosea ICIPE 707, Trichoderma asperellum M2RT4, Trichoderma atroviride ICIPE 710, Trichoderma harzianum 709, Hypocrea lixii F3ST1 and Fusarium sp. ICIPE 712 isolates as compared to those inoculated with Fusarium sp. ICIPE 717 and the control treatments. Onion plants colonized by C. rosea ICIPE 707, T. asperellum M2RT4, T. atroviride ICIPE 710 and H. lixii F3ST1 had significantly lower feeding punctures as compared to the other treatments. Among the isolates tested, the lowest numbers of eggs were laid by T. tabaci on H. lixii F3ST1 and C. rosea ICIPE 707 inoculated plants. These results extend the knowledge on colonization of onions by fungal endophytes and their effects on Thrips tabaci."
+  ],
+  "affiliation": [
+    "Institute of Horticultural Production Systems, Section Phytomedicine, Leibniz Universität Hannover, Hannover, Germany; Plant Health Division, IPM cluster, International Centre of Insect Physiology and Ecology, Nairobi, Kenya."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Onions"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Seeds"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Molecular Sequence Data"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Endophytes"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Herbivory"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Thysanoptera"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Seedlings"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4177896?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4177896"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1371/journal.pone.0108242"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2015-12-04"
+  ],
+  "dateOfCreation": [
+    "2014-09-26"
+  ],
+  "electronicPublicationDate": [
+    "2014-09-25"
+  ],
+  "firstPublicationDate": [
+    "2014-09-25"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

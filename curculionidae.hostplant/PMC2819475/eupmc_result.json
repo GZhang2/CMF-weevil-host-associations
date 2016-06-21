@@ -1,0 +1,498 @@
+{
+  "id": [
+    "20033160"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "20033160"
+  ],
+  "pmcid": [
+    "PMC2819475"
+  ],
+  "doi": [
+    "10.1007/s00267-009-9413-6"
+  ],
+  "title": [
+    "Predictors of Ips confusus outbreaks during a record drought in southwestern USA: implications for monitoring and management."
+  ],
+  "authorString": [
+    "Santos MJ, Whitham TG."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Santos MJ"
+          ],
+          "firstName": [
+            "Maria J"
+          ],
+          "lastName": [
+            "Santos"
+          ],
+          "initials": [
+            "MJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Whitham TG"
+          ],
+          "firstName": [
+            "Thomas G"
+          ],
+          "lastName": [
+            "Whitham"
+          ],
+          "initials": [
+            "TG"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "45"
+      ],
+      "journalIssueId": [
+        "1697605"
+      ],
+      "dateOfPublication": [
+        "2010 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2010"
+      ],
+      "printPublicationDate": [
+        "2010-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Environmental management"
+          ],
+          "ISOAbbreviation": [
+            "Environ Manage"
+          ],
+          "medlineAbbreviation": [
+            "Environ Manage"
+          ],
+          "NLMid": [
+            "7703893"
+          ],
+          "ISSN": [
+            "0364-152X"
+          ],
+          "ESSN": [
+            "1432-1009"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "239-249"
+  ],
+  "abstractText": [
+    "In many ecosystems the effects of disturbance can be cryptic and disturbance may vary in subtle spatiotemporal ways. For instance, we know that bark beetle outbreaks are more frequent in temperate forests during droughts; however, we have little idea about why they occur in some locations and not others. Understanding biotic and abiotic factors promoting bark beetle outbreaks can be critical to predicting and responding to pest outbreaks. Here we address the environmental factors which are associated with Ips confusus outbreaks during the 2002 widespread drought within the distribution range of pinyon pine woodlands in Arizona. We used univariate statistics to test if whether tree characteristics, other herbivores, stand properties, soil type, wind, and topography were associated with I. confusus outbreak, and logistic regression to create a predictive model for the outbreaks. We found that I. confusus attacks occur in low elevation stands on steeper slopes, where favorable winds for I. confusus dispersion occur. I. confusus select larger trees, in high density stands with understory shrubs that exhibit phenotypic traits characteristic of resistance to stem-boring moths. The model was highly accurate, and explained 95% of the variability in occurrence (98% of the absences and 95% of the presences). Accurate prediction of the impacts of disturbance allow us to anticipate, minimize or mitigate for and eventually counteract its effects, especially those affecting diversity and ecosystem function. Identification of outbreak risk areas can guide regional and national management towards the reduction of infestation risk and enhancing conservation of pinyon-juniper woodlands."
+  ],
+  "affiliation": [
+    "Center for Environmental Sciences and Education, Northern Arizona University, Flagstaff, AZ, 86001-5694, USA. mjsantos@ucdavis.edu"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Beetles"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pinus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Bark"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Water"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Soil"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Wind"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Population Dynamics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Models, Biological"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Arizona"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Host-Parasite Interactions"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Droughts"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Water"
+          ],
+          "registryNumber": [
+            "7732-18-5"
+          ]
+        },
+        {
+          "name": [
+            "Soil"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2819475?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2819475"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=20033160&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=20033160"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1007/s00267-009-9413-6"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2010-05-04"
+  ],
+  "dateOfCreation": [
+    "2010-02-10"
+  ],
+  "dateOfRevision": [
+    "2013-05-31"
+  ],
+  "electronicPublicationDate": [
+    "2009-12-23"
+  ],
+  "firstPublicationDate": [
+    "2009-12-23"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

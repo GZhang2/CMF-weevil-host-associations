@@ -1,0 +1,611 @@
+{
+  "id": [
+    "22434385"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22434385"
+  ],
+  "pmcid": [
+    "PMC3324679"
+  ],
+  "doi": [
+    "10.1007/s10886-012-0096-8"
+  ],
+  "title": [
+    "Identification and synthesis of a male-produced pheromone for the neotropical root weevil Diaprepes abbreviatus."
+  ],
+  "authorString": [
+    "Lapointe SL, Alessandro RT, Robbins PS, Khrimian A, Svatos A, Dickens JC, Otálora-Luna F, Kaplan F, Alborn HT, Teal PE."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lapointe SL"
+          ],
+          "firstName": [
+            "Stephen L"
+          ],
+          "lastName": [
+            "Lapointe"
+          ],
+          "initials": [
+            "SL"
+          ]
+        },
+        {
+          "fullName": [
+            "Alessandro RT"
+          ],
+          "firstName": [
+            "Rocco T"
+          ],
+          "lastName": [
+            "Alessandro"
+          ],
+          "initials": [
+            "RT"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7983-0557",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Robbins PS"
+          ],
+          "firstName": [
+            "Paul S"
+          ],
+          "lastName": [
+            "Robbins"
+          ],
+          "initials": [
+            "PS"
+          ]
+        },
+        {
+          "fullName": [
+            "Khrimian A"
+          ],
+          "firstName": [
+            "Ashot"
+          ],
+          "lastName": [
+            "Khrimian"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Svatos A"
+          ],
+          "firstName": [
+            "Ales"
+          ],
+          "lastName": [
+            "Svatos"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Dickens JC"
+          ],
+          "firstName": [
+            "Joseph C"
+          ],
+          "lastName": [
+            "Dickens"
+          ],
+          "initials": [
+            "JC"
+          ]
+        },
+        {
+          "fullName": [
+            "Otálora-Luna F"
+          ],
+          "firstName": [
+            "Fernando"
+          ],
+          "lastName": [
+            "Otálora-Luna"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5313-2184",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kaplan F"
+          ],
+          "firstName": [
+            "Fatma"
+          ],
+          "lastName": [
+            "Kaplan"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Alborn HT"
+          ],
+          "firstName": [
+            "Hans T"
+          ],
+          "lastName": [
+            "Alborn"
+          ],
+          "initials": [
+            "HT"
+          ]
+        },
+        {
+          "fullName": [
+            "Teal PE"
+          ],
+          "firstName": [
+            "Peter E"
+          ],
+          "lastName": [
+            "Teal"
+          ],
+          "initials": [
+            "PE"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7983-0557",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5313-2184",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "38"
+      ],
+      "journalIssueId": [
+        "1925689"
+      ],
+      "dateOfPublication": [
+        "2012 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of chemical ecology"
+          ],
+          "ISOAbbreviation": [
+            "J. Chem. Ecol."
+          ],
+          "medlineAbbreviation": [
+            "J Chem Ecol"
+          ],
+          "NLMid": [
+            "7505563"
+          ],
+          "ISSN": [
+            "0098-0331"
+          ],
+          "ESSN": [
+            "1573-1561"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "408-417"
+  ],
+  "abstractText": [
+    "An unsaturated hydroxy-ester pheromone was isolated from the headspace and feces of male Diaprepes abbreviatus, identified, and synthesized. The pheromone, methyl (E)-3-(2-hydroxyethyl)-4-methyl-2-pentenoate, was discovered by gas chromatography-coupled electroantennogram detection (GC-EAD), and identified by gas chromatography-mass spectrometry (GC-MS) and nuclear magnetic resonance spectroscopy (NMR). The synthesis yielded an 86:14 mixture of methyl (E)-3-(2-hydroxyethyl)-4-methyl-2-pentenoate (active) and methyl (Z)-3-(2-hydroxyethyl)-4-methyl-2-pentenoate (inactive), along with a lactone breakdown product. The activity of the synthetic E-isomer was confirmed by GC-EAD, GC-MS, NMR, and bioassays. No antennal response was observed to the Z-isomer or the lactone. In a two-choice olfactometer bioassay, female D. abbreviatus moved upwind towards the synthetic pheromone or natural pheromone more often compared with clean air. Males showed no clear preference for the synthetic pheromone. This pheromone, alone or in combination with plant volatiles, may play a role in the location of males by female D. abbreviatus."
+  ],
+  "affiliation": [
+    "Agriculture Research Service, United States Department of Agriculture, U. S. Horticultural Research Laboratory, 2001 South Rock Road, Fort Pierce, FL 34945, USA. stephen.lapointe@ars.usda.gov"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Feces"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Weevils"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sex Attractants"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "BI"
+                  ],
+                  "qualifierName": [
+                    "biosynthesis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CS"
+                  ],
+                  "qualifierName": [
+                    "chemical synthesis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sexual Behavior, Animal"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Sex Attractants"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3324679?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3324679"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=22434385"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=22434385&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1007/s10886-012-0096-8"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-09-26"
+  ],
+  "dateOfCreation": [
+    "2012-04-24"
+  ],
+  "dateOfRevision": [
+    "2013-06-26"
+  ],
+  "electronicPublicationDate": [
+    "2012-03-21"
+  ],
+  "firstPublicationDate": [
+    "2012-03-21"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

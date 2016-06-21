@@ -1,0 +1,708 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1d2 20140930//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="data-paper"><?DTDIdentifier.IdentifierValue -//NPG//DTD XML Article//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName NPG_XML_Article.dtd?><?SourceDTD.Version 2.7.10?><?ConverterInfo.XSLTName nature2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">Sci Data</journal-id><journal-id journal-id-type="iso-abbrev">Sci Data</journal-id><journal-title-group><journal-title>Scientific Data</journal-title></journal-title-group><issn pub-type="epub">2052-4463</issn><publisher><publisher-name>Nature Publishing Group</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">4413242</article-id><article-id pub-id-type="pii">sdata201513</article-id><article-id pub-id-type="doi">10.1038/sdata.2015.13</article-id><article-id pub-id-type="pmid">25977817</article-id><article-categories><subj-group subj-group-type="heading"><subject>Data Descriptor</subject></subj-group></article-categories><title-group><article-title>A summary of eight traits of Coleoptera, Hemiptera, Orthoptera and Araneae, occurring in grasslands in Germany</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Gossner</surname><given-names>Martin M</given-names></name><xref ref-type="corresp" rid="c1">a</xref><xref ref-type="aff" rid="a1">1</xref></contrib><contrib contrib-type="author"><name><surname>Simons</surname><given-names>Nadja K</given-names></name><xref ref-type="aff" rid="a1">1</xref></contrib><contrib contrib-type="author"><name><surname>Achtziger</surname><given-names>Roland</given-names></name><xref ref-type="aff" rid="a2">2</xref></contrib><contrib contrib-type="author"><name><surname>Blick</surname><given-names>Theo</given-names></name><xref ref-type="aff" rid="a3">3</xref><xref ref-type="aff" rid="a4">4</xref></contrib><contrib contrib-type="author"><name><surname>Dorow</surname><given-names>Wolfgang H.O</given-names></name><xref ref-type="aff" rid="a4">4</xref></contrib><contrib contrib-type="author"><name><surname>Dziock</surname><given-names>Frank</given-names></name><xref ref-type="aff" rid="a5">5</xref></contrib><contrib contrib-type="author"><name><surname>K&#x000f6;hler</surname><given-names>Frank</given-names></name><xref ref-type="aff" rid="a6">6</xref></contrib><contrib contrib-type="author"><name><surname>Rabitsch</surname><given-names>Wolfgang</given-names></name><xref ref-type="aff" rid="a7">7</xref></contrib><contrib contrib-type="author"><name><surname>Weisser</surname><given-names>Wolfgang W</given-names></name><xref ref-type="aff" rid="a1">1</xref></contrib><aff id="a1"><label>1</label><institution>Terrestrial Ecology Research Group, Department of Ecology and Ecosystem Management, Center for Life and Food Sciences Weihenstephan, Technische Universit&#x000e4;t M&#x000fc;nchen</institution>, Hans-Carl-von-Carlowitz-Platz 2, D-85354 Freising, <country>Germany</country>
+</aff><aff id="a2"><label>2</label>
+<institution>TU Bergakademie Freiberg, Institute for Biosciences, Biology &#x00026; Ecology Unit</institution>, Leipziger Stra&#x000df;e 29, D-09599 Freiberg, <country>Germany</country>
+</aff><aff id="a3"><label>3</label>
+<institution>Callistus&#x02014;Gemeinschaft f&#x000fc;r Zoologische &#x00026; &#x000d6;kologische Untersuchungen</institution>, Heidloh 8, D-95503 Hummeltal, <country>Germany</country>
+</aff><aff id="a4"><label>4</label>
+<institution>Senckenberg Research Institute and Natural History Museum</institution>, Senckenberganlage 25, D-60325 Frankfurt am Main, <country>Germany</country>
+</aff><aff id="a5"><label>5</label>
+<institution>Faculty of Agriculture/Landscape Management, HTW Dresden University of Applied Sciences</institution>, Pillnitzer Platz 2, D-01326 Dresden, <country>Germany</country>
+</aff><aff id="a6"><label>6</label>
+<institution>Strombergstr. 22a</institution>, D-53332 Bornheim, <country>Germany</country>
+</aff><aff id="a7"><label>7</label>
+<institution>Environment Agency Austria, Dept. Biodiversity &#x00026; Nature Conservation</institution>, Spittelauer L&#x000e4;nde 5, A-1090 Vienna, <country>Austria</country>
+</aff></contrib-group><author-notes><corresp id="c1"><label>a</label>
+M.M.G. (email: <email>martin.gossner@tum.de</email>)</corresp><fn id="con"><label/><p>M.M.G. conceived the idea for the manuscript, defined the final outline of the manuscript, wrote the first manuscript draft, collected trait information, and provided a trait database of Heteroptera. N.K.S. conceived the idea for the manuscript, collected trait information, and commented on all manuscript versions. R.A. provided a trait database of Auchenorrhyncha and commented on the manuscript. T.B. provided a trait database of Araneae and commented on the manuscript W.H.O.D. provided a trait database of Heteroptera and commented on the manuscript. F.D. provided a trait database of Orthoptera and commented on the manuscript. F.K. provided a trait database of Coleoptera. W.R. provided a trait database of Heteroptera and commented on the manuscript. W.W.W. conceived the idea for the manuscript and commented on all manuscript versions.</p></fn></author-notes><pub-date pub-type="epub"><day>31</day><month>03</month><year>2015</year></pub-date><pub-date pub-type="collection"><year>2015</year></pub-date><volume>2</volume><elocation-id>150013</elocation-id><history><date date-type="received"><day>12</day><month>12</month><year>2014</year></date><date date-type="accepted"><day>04</day><month>03</month><year>2015</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2015, Macmillan Publishers Limited</copyright-statement><copyright-year>2015</copyright-year><copyright-holder>Macmillan Publishers Limited</copyright-holder><license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0"><!--author-paid--><license-p>This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article&#x02019;s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</ext-link> Metadata associated with this Data Descriptor is available at <ext-link ext-link-type="uri" xlink:href="http://www.nature.com/sdata/">http://www.nature.com/sdata/</ext-link> and is released under the CC0 waiver to maximize reuse.
+</license-p></license></permissions><abstract><p>Analyses of species traits have increased our understanding of how environmental drivers such as disturbances affect the composition of arthropod communities and related processes. There are, however, few studies on which traits in the arthropod community are affected by environmental changes and which traits affect ecosystem functioning. The assembly of arthropod traits of several taxa is difficult because of the large number of species, limited availability of trait databases and differences in available traits. We sampled arthropod species data from a total of 150 managed grassland plots in three regions of Germany. These plots represent the spectrum from extensively used pastures to mown pastures to intensively managed and fertilized meadows. In this paper, we summarize information on body size, dispersal ability, feeding guild and specialization (within herbivores), feeding mode, feeding tissue (within herbivorous suckers), plant part (within herbivorous chewers), endophagous lifestyle (within herbivores), and vertical stratum use for 1,230 species of Coleoptera, Hemiptera (Heteroptera, Auchenorrhyncha), Orthoptera (Saltatoria: Ensifera, Caelifera), and Araneae, sampled by sweep-netting between 2008 and 2012. We compiled traits from various literature sources and complemented data from reliable internet sources and the authors&#x02019; experience.</p></abstract><kwd-group kwd-group-type="npg.subject"><title>Subject terms</title><kwd>Community ecology</kwd><kwd>Biodiversity</kwd><kwd>Entomology</kwd><kwd>Grassland ecology</kwd></kwd-group></article-meta></front><body><sec disp-level="1"><title>Background &#x00026; Summary</title><p>Arthropod species&#x02019; traits are increasingly used in ecology to analyze the consequences of environmental change such as land-use change and intensification and climate warming<sup>
+<xref ref-type="bibr" rid="b1">1&#x02013;4</xref>
+</sup>. This is because species respond to environmental changes depending on the traits they possess, and because species&#x02019; functions in ecosystems are mediated by their traits<sup>
+<xref ref-type="bibr" rid="b5">5</xref>
+</sup>. In a review on freshwater ecosystems, the functional trait approach has been highlighted as one of the most promising tools emerging for biomonitoring<sup>
+<xref ref-type="bibr" rid="b6">6</xref>
+</sup>. Moreover, trait-based analyses have been shown to be useful for providing deeper insights into community assembly<sup>
+<xref ref-type="bibr" rid="b7">7&#x02013;9</xref>
+</sup>, for enabling worldwide comparisons e.g., of community responses to environmental drivers across different species assemblages<sup>
+<xref ref-type="bibr" rid="b10">10</xref>
+</sup>, and for predicting biological invasion<sup>
+<xref ref-type="bibr" rid="b11">11</xref>,<xref ref-type="bibr" rid="b12">12</xref>
+</sup>.</p><p>Currently, the availability of trait databases for arthropods is still limited. As a consequence, it is largely unclear which traits are favored or selected against by different environmental drivers such as human land use (response traits) and which traits affect ecosystem functioning (effect traits). Thus, the currently available trait information is likely underestimating the consequences of changes in the trait distribution within an arthropod community for ecosystem functioning<sup>
+<xref ref-type="bibr" rid="b13">13</xref>
+</sup>. As a consequence, a greater effort is needed to collate and provide relevant trait information.</p><p>During the last years, trait databases have been established for some arthropod groups in Europe, e.g., for carabids (carabid.org;<sup>
+<xref ref-type="bibr" rid="b14">14</xref>
+</sup>), cavity-nesting wasps and bees as well as European bees (Scales project; <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.scales-project.net/">www.scales-project.net/</ext-link>), European hoverflies (Syrph the Net;<sup>
+<xref ref-type="bibr" rid="b15">15</xref>
+</sup>), and stream macroinvertebrates<sup>
+<xref ref-type="bibr" rid="b16">16</xref>
+</sup>. For most groups publicly available trait databases are, however, still missing. More importantly, published standardized trait values across several taxonomic groups which would enable a common trait analysis over several taxa, are very rare in the literature, at least for terrestrial invertebrates (see e.g., ref. <xref ref-type="bibr" rid="b17">17</xref>).</p><p>Here, we summarize information on the nine traits body size, dispersal ability, feeding guild, feeding specialization (within herbivores), feeding mode, feeding tissue (within herbivorous suckers), plant part (within herbivorous chewers), endophyllous lifestyle (within herbivores), and vertical stratum use for a total of 1,230 species of Coleoptera, Hemiptera (Heteroptera, Auchenorrhyncha), Orthoptera (Saltatoria: Ensifera, Caelifera), and Araneae. All these species were sampled by sweep-netting on a total of 150 grassland plots across three regions in Germany between 2008 and 2012. We compiled traits from various literature sources (reference books and single publications) and complemented data from internet sources such as the spiders of Europe website (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.araneae.unibe.ch">http://www.araneae.unibe.ch</ext-link>) and the carabids.org online database, and the authors&#x02019; experiences. The data set supports future trait-based studies in central European grasslands and similar habitats and thus has a high reuse value. It further encourages the collection of the same trait data for species from other habitats (e.g., forests) and regions for which this information is readily available. It also encourages the establishment of additional multi-taxa trait data bases and hopefully provides a framework for the collection of traits in ecosystems or regions where complete taxonomic information is currently developed (e.g., in the tropics).</p></sec><sec disp-level="1"><title>Methods</title><sec disp-level="2"><title>Site description</title><p>The arthropod trait database was established in a project within the Biodiversity Exploratories<sup>
+<xref ref-type="bibr" rid="b18">18</xref>
+</sup>. The Biodiversity Exploratories cover three regions of Germany: (1) the UNESCO Biosphere Reserve Schorfheide-Chorin in the North-East (52&#x000b0;47&#x02032;25&#x02032;&#x02032;-53&#x000b0;13&#x02032;26&#x02032;&#x02032; N/13&#x000b0;23&#x02032;27&#x02032;&#x02032;-14&#x000b0;08&#x02032;53&#x02032;&#x02032; E, about 1,300&#x02009;km<sup>2</sup>&#x02009;in size, 3&#x02013;140 m a.s.l.), (2) the National Park Hainich and its surrounding areas in Central Germany (50&#x000b0;56&#x02032;14&#x02032;&#x02032;-51&#x000b0;22&#x02032;43&#x02032;&#x02032; N/10&#x000b0;10&#x02032;24&#x02032;&#x02032;-10&#x000b0;46&#x02032;45&#x02032;&#x02032; E, about 1,300&#x02009;km<sup>2</sup>, 285&#x02013;550 m a.s.l.), and (3) the UNESCO Biosphere Reserve Schw&#x000e4;bische Alb in the Swabian Jura in the South-West (48&#x000b0;20&#x02032;28&#x02032;&#x02032;-48&#x000b0;32&#x02032;02&#x02032;&#x02032; N/9&#x000b0;10&#x02032;49&#x02032;&#x02032;- 09&#x000b0;35&#x02032;54&#x02032;&#x02032;E, about 422 km<sup>2</sup>, 460&#x02013;860 m a.s.l.). Within each of those three regions, 50 grassland plots of 50&#x02009;m&#x000d7;50&#x02009;m size are used as experimental sites. The grasslands are continuously managed by farmers by mowing, and/or grazing and/or fertilization. The overall management intensity covers the typical range of management intensity of the respective region<sup>
+<xref ref-type="bibr" rid="b18">18</xref>,<xref ref-type="bibr" rid="b19">19</xref>
+</sup>.</p></sec><sec disp-level="2"><title>Field method</title><p>Arthropods were sampled by sweep netting on the 150 grassland plots across the three regions in Germany between 2008 and 2012. In June and August (July and September in Schorfheide-Chorin in 2009) all plots were sampled in all years; in additional months between May to October, samples were taken on a subset of plots (nine plots per region). On each plot and during each sampling period three transects of 50&#x02009;m along the plot borders were sampled with 20 double sweeps each (one double-sweep is defined as moving the net from the left to the right and back perpendicular to the walking direction). A round sweep net with 30&#x02009;cm diameter was used. Arthropods were stored in 70% ethanol in the field and sorted into taxonomic groups (Coleoptera, Hemiptera, Orthoptera, Araneae and others) in the laboratory and species were determined by taxonomic experts.</p><p>Trait data were collected for all 1,230 species of the above named target taxa sampled in all months between 2008 and 2012.</p></sec><sec disp-level="2"><title>Species identification method</title><p>All species were identified by taxonomic experts of the respective taxonomic group. Specialists were either one of the authors (MMG: Heteroptera, RA: Auchenorrhyncha, TB: Araneae, FK: Coleoptera) and/or additional specialists mentioned in the acknowledgements. Taxonomy follows the classification of Freude <italic>et al.</italic> incl. Supplement volumes<sup>
+<xref ref-type="bibr" rid="b20">20</xref>
+</sup>&#x02009;for Coleoptera, World Spider Catalogue WSC<sup>
+<xref ref-type="bibr" rid="b21">21</xref>
+</sup>&#x02009;for Araneae, and the Fauna Europaea data base (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.faunaeur.org">www.faunaeur.org</ext-link>;<sup>
+<xref ref-type="bibr" rid="b22">22</xref>
+</sup>) for the other orders.</p></sec><sec disp-level="2"><title>Trait assignment</title><sec disp-level="3"><title>Trait sources</title><p>Trait data was collected from different literature sources and completed by the authors&#x02019; previously collated databases. Trait data of Coleoptera were based on information given in taxonomic literature<sup>
+<xref ref-type="bibr" rid="b20">20</xref>,<xref ref-type="bibr" rid="b23">23&#x02013;26</xref>
+</sup>&#x02009;and trait databases<sup>
+<xref ref-type="bibr" rid="b14">14</xref>
+</sup>. Trait data of Auchenorrhyncha were based on information in taxonomic literature<sup>
+<xref ref-type="bibr" rid="b27">27</xref>,<xref ref-type="bibr" rid="b28">28</xref>
+</sup>. Trait data of Heteroptera were based on information in taxonomic literature<sup>
+<xref ref-type="bibr" rid="b29">29</xref>
+</sup>. Trait data of Araneae were based on information in faunistic literature<sup>
+<xref ref-type="bibr" rid="b30">30&#x02013;49</xref>
+</sup>, and on information in the online determination key <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.araneae.unibe.ch">http://www.araneae.unibe.ch</ext-link>
+<sup>
+<xref ref-type="bibr" rid="b50">50</xref>
+</sup>. Trait data of Orthoptera were based on information given in various sources<sup>
+<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b51">51&#x02013;59</xref>
+</sup>.</p></sec><sec disp-level="3"><title>Trait collection</title><p>We aimed at defining important ecological and morphological traits that can be assigned comparable values across arthropod taxonomic groups. Information for the nine traits body size, dispersal ability, feeding guild, feeding specialization (within herbivores), feeding mode, feeding tissue (within herbivorous suckers), plant part (within herbivorous chewers), endophagous lifestyle (within herbivores), and vertical stratum use was selected and derived from the sources listed above.</p></sec><sec disp-level="3"><title>Trait classification</title><p>The traits of the species were classified as follows (see also <xref ref-type="fig" rid="f1">Figs 1</xref> and <xref ref-type="fig" rid="f2">2</xref>):</p><p>(1) Body size was defined as the mean body length in mm over males and females. We standardized available information within one taxon by using information given in one standard compilation, i.e., Freude <italic>et al.</italic>
+<sup>
+<xref ref-type="bibr" rid="b20">20</xref>
+</sup>&#x02009;for Coleoptera, Biedermann and Niedringhaus<sup>
+<xref ref-type="bibr" rid="b27">27</xref>
+</sup>&#x02009;for Hemiptera: Auchenorrhyncha, Wachmann <italic>et al.</italic>
+<sup>
+<xref ref-type="bibr" rid="b29">29</xref>
+</sup>&#x02009;for Hemiptera: Heteroptera, and the spiders of Europe website<sup>
+<xref ref-type="bibr" rid="b50">50</xref>
+</sup>&#x02009;for Araneae. In Orthoptera, sizes were averaged across values given in different sources<sup>
+<xref ref-type="bibr" rid="b52">52&#x02013;54</xref>
+</sup>.</p><p>(2) Dispersal ability, ranging from 0 to 1 by steps of 0.25, was defined differently for the groups, depending on available information. For Hemiptera and most Coleoptera, wing dimorphism between males and females was used, assigning 1 for species with fully developed wings in both sexes; 0.75 for predominantly macropterous species; 0.5 for equally brachypterous and macropterous species; 0.25 for predominantly brachypterous species and 0 for always brachypterous species. For other Coleoptera, dispersal ability was based on descriptions of flying ability<sup>
+<xref ref-type="bibr" rid="b20">20</xref>,<xref ref-type="bibr" rid="b26">26</xref>
+</sup>. Species of Araneae were assigned to the five dispersal groups taking into account activity ranges and dispersal strategies (e.g., ballooning and migration), given in different sources<sup>
+<xref ref-type="bibr" rid="b41">41&#x02013;48</xref>
+</sup>. Species which are known to be very frequent &#x02018;aeronauts&#x02019; and which are observed very frequently outside their main habitat were assigned 1. In contrast, class 0 would include species which never show ballooning behavior, but this did not apply to any sampled species. Species which show ballooning only over a few meter distance and were never observed outside their main habitat were assigned 0.25. When species observations outside the main habitat have been observed more frequently, species were assigned to 0.5 or 0.75 depending on the relative frequency of these observations. For Orthoptera, active dispersal ability is estimated on the basis of the size of the hind wings (alae), the occurrence of macropterous forms and studies of individual movement and colonization dynamics. We followed the classification of Reinhardt <italic>et al.</italic>
+<sup>
+<xref ref-type="bibr" rid="b59">59</xref>
+</sup>&#x02009;for this trait, which takes these three criteria into account. It is largely based on the (a) wing development of the adults<sup>
+<xref ref-type="bibr" rid="b57">57</xref>
+</sup>, complemented by (b) results from population studies on individual movements reviewed in<sup>
+<xref ref-type="bibr" rid="b55">55</xref>,<xref ref-type="bibr" rid="b56">56</xref>
+</sup>&#x02009;and long-term observations of local and regional colonization dynamics reviewed in<sup>
+<xref ref-type="bibr" rid="b55">55</xref>,<xref ref-type="bibr" rid="b56">56</xref>
+</sup>. Additionally, (c) passive dispersal behavior, e.g., by eggs attached to stipes and spread by flooding was considered<sup>
+<xref ref-type="bibr" rid="b51">51</xref>,<xref ref-type="bibr" rid="b52">52</xref>
+</sup>. All flightless species were assigned very low (0) dispersal ability and low (0.25) dispersal ability if they were using passive dispersal behavior. The other species which are able to fly were assigned to the higher dispersal abilities depending on their dispersal behavior considering criteria (b); minor individual movements and colonization dynamics was assigned medium (0.5) dispersal ability, average individual movements and colonization dynamics was assigned high (0.75) dispersal ability and high individual movements and colonization dynamics was assigned very high (1) dispersal ability.</p><p>(3) Feeding guild was classified based on the main food during the larval and during the adult stage. For example, many Heteroptera feed on plants in their larval phase but mainly on other arthropods as adults<sup>
+<xref ref-type="bibr" rid="b29">29</xref>
+</sup>. A coarser (herbivores, predators, fungivores, detritivores, omnivores) as well as a finer classification is given. In the finer classification, all feeding types that substantially contribute to the nutritious source during larval and adult stages of a particular species are given, with less frequent assignments given in brackets. The coarser classification was defined as follows. In Heteroptera, for example, species were classified as herbivores when (a) both nymphs and adults feed exclusively or predominantly on plants, (b) either nymphs or adults feed exclusively or predominantly on plants and plants and arthropods contribute equally to the nutrition of the other stage, or (c) either nymphs or adults feed exclusively on plants and the other stage feeds predominantly on arthropods but uses also plants as nutritious source. All species that use more than one feeding source (plants, animals, fungi, decaying plants or animals) to similar extent across larval and adult stages were classified as omnivores. Classification in Coleoptera is based on B&#x000f6;hme<sup>
+<xref ref-type="bibr" rid="b23">23</xref>,<xref ref-type="bibr" rid="b24">24</xref>
+</sup>, and in Orthoptera on Baur <italic>et al.</italic>
+<sup>
+<xref ref-type="bibr" rid="b53">53</xref>
+</sup>, Detzel<sup>
+<xref ref-type="bibr" rid="b58">58</xref>
+</sup>, and Maas <italic>et al.</italic>
+<sup>
+<xref ref-type="bibr" rid="b52">52</xref>
+</sup> All Araneae are carnivore and all sampled Auchenorrhyncha herbivore.</p><p>(4) Feeding mode was defined as the way nutrients are ingested. We distinguished between three different modes: extraintestinal digestion, which is common in predacious spiders; chewing of plant or animal tissue by beetles and grasshoppers; sucking on plant or animal sap by Hemiptera.</p><p>(5) Feeding specialization was defined as host plant niche breadth of herbivores based on the main higher plant lineages<sup>
+<xref ref-type="bibr" rid="b60">60</xref>
+</sup>. We classified monophages as species feeding on one plant genus, oligophages as species feeding on one higher plant lineage (i.e., bryophytes, ferns, gymnosperms, angiosperms: monocots, angiosperms: basal eudicots, angiosperms: eurosids, angiosperms: euasterids), and polyphages as species feeding on more than one higher plant lineage. Generally, the classification is based on larval stages. Exceptions are Coleoptera species that develop in dead wood, but feed on plant pollen as adults, in which the specialization of adults was used. Classification is based on B&#x000f6;hme<sup>
+<xref ref-type="bibr" rid="b23">23</xref>,<xref ref-type="bibr" rid="b24">24</xref>
+</sup>, Koch<sup>
+<xref ref-type="bibr" rid="b61">61</xref>
+</sup>&#x02009;and Rheinheimer &#x00026; Hassler<sup>
+<xref ref-type="bibr" rid="b26">26</xref>
+</sup>&#x02009;for herbivorous Coleoptera, Nickel<sup>
+<xref ref-type="bibr" rid="b28">28</xref>
+</sup>&#x02009;for Auchenorrhyncha, Wachmann <italic>et al.</italic>
+<sup>
+<xref ref-type="bibr" rid="b29">29</xref>
+</sup>&#x02009;for herbivorous Heteroptera, and Baur <italic>et al.</italic>
+<sup>
+<xref ref-type="bibr" rid="b53">53</xref>
+</sup>, Detzel<sup>
+<xref ref-type="bibr" rid="b58">58</xref>
+</sup>, Ingrisch &#x00026; K&#x000f6;hler<sup>
+<xref ref-type="bibr" rid="b55">55</xref>
+</sup>, and Maas <italic>et al.</italic>
+<sup>
+<xref ref-type="bibr" rid="b52">52</xref>
+</sup>&#x02009;for herbivorous Orthoptera.</p><p>(6) For sucking herbivores we list the feeding tissue on which the species are sucking during the larval and during the adult stage. We distinguished between xylem-, phloem-, and mesophyll-suckers and additionally assigned species that suck on reproduction organs (flowers and unripe seed on the plant), which is common in the Heteroptera families Miridae, Pentatomidae and Rhopalidae and on hard lipid-rich ripe seeds on the ground, which is common in the Heteroptera family Lygaeidae. Classification is based on Nickel<sup>
+<xref ref-type="bibr" rid="b28">28</xref>
+</sup>&#x02009;for Auchenorrhyncha and Wachmann <italic>et al.</italic>
+<sup>
+<xref ref-type="bibr" rid="b29">29</xref>
+</sup>&#x02009;for Heteroptera.</p><p>(7) For chewing herbivores we list the plant parts on which the species are feeding on during the larval and during the adult stage. We distinguished between root-feeders, stem-feeders, leaf-feeders and feeders on flowers, pollen and unripe seeds on the plant (combined to feeders of reproductive organs). Classification is based on B&#x000f6;hme<sup>
+<xref ref-type="bibr" rid="b23">23</xref>,<xref ref-type="bibr" rid="b24">24</xref>
+</sup>, Koch<sup>
+<xref ref-type="bibr" rid="b61">61</xref>
+</sup>&#x02009;and Rheinheimer &#x00026; Hassler<sup>
+<xref ref-type="bibr" rid="b26">26</xref>
+</sup>&#x02009;for herbivorous Coleoptera, and Baur <italic>et al.</italic>
+<sup>
+<xref ref-type="bibr" rid="b53">53</xref>
+</sup>, Detzel<sup>
+<xref ref-type="bibr" rid="b58">58</xref>
+</sup>, Ingrisch &#x00026; K&#x000f6;hler<sup>
+<xref ref-type="bibr" rid="b55">55</xref>
+</sup>&#x02009;and Maas <italic>et al.</italic>
+<sup>
+<xref ref-type="bibr" rid="b52">52</xref>
+</sup>&#x02009;for Orthoptera.</p><p>(8) Within herbivorous species we additionally classified species with an endophagous lifestyle of their larvae into gall-inducers and miners following information given in Koch<sup>
+<xref ref-type="bibr" rid="b61">61</xref>
+</sup>&#x02009;and Rheinheimer &#x00026; Hassler<sup>
+<xref ref-type="bibr" rid="b26">26</xref>
+</sup>&#x02009;for herbivorous Coleoptera, Nickel<sup>
+<xref ref-type="bibr" rid="b28">28</xref>
+</sup>&#x02009;and Nickel &#x00026; Remane<sup>
+<xref ref-type="bibr" rid="b62">62</xref>
+</sup>&#x02009;for Auchenorrhyncha, and Wachmann <italic>et al.</italic>
+<sup>
+<xref ref-type="bibr" rid="b29">29</xref>
+</sup>&#x02009;for herbivorous Heteroptera. We additionally define the tissue were the larvae are feeding, e.g., leaf or stem miners.</p><p>(9) Vertical stratum use was selected as a trait of habitat preference and defined as the main vegetation layer (stratum) in which the species is usually observed as juvenile and adult. A coarser as well as a finer classification is given. We distinguished between soil-dwelling, ground-dwelling, herb-, shrub and/or tree-layer species, and species linked to water bodies. In the finer classification all strata which a particular species uses as habitat are given, with less frequent assignments given in brackets. In the coarser classification, all species that use more than one stratum during their life cycle were categorized as unspecific, thus ignoring different larval and adult habitat niches. For example, several Coleoptera of the family Curculionidae (e.g., genera <italic>Otiorhynchus</italic>, <italic>Phyllobius</italic>, <italic>Sitona</italic>) feed on plant roots in the soil in their larval phase but on leaves in the herb layer as adults<sup>
+<xref ref-type="bibr" rid="b26">26</xref>
+</sup>. Those species were hence assigned as unspecific in the coarse classification and as soil-and herb-layer species in the finer classification. Where specific information was missing (several Auchenorrhyncha &#x00026; Coleoptera), the stratum was assigned from the main feeding source or the association with certain plant species. Where information on the species level was missing, information on genera or family level was used, provided that the trait value of the higher taxonomic unit was assumed to be equal for all species based on information given in literature or based on authors&#x02019; experience. Classification is based on Platen<sup>
+<xref ref-type="bibr" rid="b49">49</xref>
+</sup>&#x02009;and Platen <italic>et al.</italic>
+<sup>
+<xref ref-type="bibr" rid="b32">32</xref>,<xref ref-type="bibr" rid="b36">36</xref>
+</sup>, and adapted with information in Maurer &#x00026; H&#x000e4;nggi<sup>
+<xref ref-type="bibr" rid="b31">31</xref>
+</sup>, Malten<sup>
+<xref ref-type="bibr" rid="b33">33</xref>,<xref ref-type="bibr" rid="b34">34</xref>
+</sup>, Malten &#x00026; Blick<sup>
+<xref ref-type="bibr" rid="b35">35</xref>
+</sup>, Blick<sup>
+<xref ref-type="bibr" rid="b38">38</xref>,<xref ref-type="bibr" rid="b39">39</xref>
+</sup>&#x02009;and the expert&#x02019;s experience for Araneae; on B&#x000f6;hme<sup>
+<xref ref-type="bibr" rid="b24">24</xref>
+</sup>, Freude <italic>et al.</italic>
+<sup>
+<xref ref-type="bibr" rid="b20">20</xref>
+</sup>, Homburg <italic>et al.</italic>
+<sup>
+<xref ref-type="bibr" rid="b14">14</xref>
+</sup>, and Rheinheimer and Hassler<sup>
+<xref ref-type="bibr" rid="b26">26</xref>
+</sup>&#x02009;for Coleoptera; on Nickel<sup>
+<xref ref-type="bibr" rid="b28">28</xref>
+</sup>&#x02009;for Auchenorrhyncha; on Wachmann <italic>et al.</italic>
+<sup>
+<xref ref-type="bibr" rid="b29">29</xref>
+</sup>&#x02009;for Heteroptera, and on K&#x000f6;hler<sup>
+<xref ref-type="bibr" rid="b51">51</xref>
+</sup>, Baur <italic>et al.</italic>
+<sup>
+<xref ref-type="bibr" rid="b53">53</xref>
+</sup>, and Maas <italic>et al.</italic>
+<sup>
+<xref ref-type="bibr" rid="b52">52</xref>
+</sup>&#x02009;for Orthoptera.</p></sec></sec></sec><sec disp-level="1"><title>Data Records</title><sec disp-level="2"><title>Data set descriptors</title><sec disp-level="3"><title>Data set identity</title><p>Species-level data set for body size, dispersal ability, feeding guild, feeding specialization (within herbivores), feeding mode, feeding tissue (within herbivorous suckers), plant part (within herbivorous chewers), endophagous lifestyle (within herbivores), and vertical stratum use for 1,230 species of Coleoptera, Hemiptera (Heteroptera, Auchenorrhyncha), Orthoptera (Saltatoria: Ensifera, Caelifera), and Araneae.</p></sec><sec disp-level="3"><title>Data set identification code</title><p>Our compiled species trait dataset (<xref ref-type="table" rid="t1">Table 1</xref>) can be found in ArthropodSpeciesTraits.txt (Data Citation 1).</p></sec><sec disp-level="3"><title>Data set description</title><p>The data set comprises literature trait data of species that were sampled and measured in a project within the Biodiversity Exploratories<sup>
+<xref ref-type="bibr" rid="b18">18</xref>
+</sup>&#x02009;which focuses on the effect of land use on arthropod community composition and related processes (e.g., species interactions such as herbivory or predation) in three regions of Germany<sup>
+<xref ref-type="bibr" rid="b63">63&#x02013;65</xref>
+</sup>. For details on the data set see <xref ref-type="table" rid="t2">Table 2</xref> (available online only).</p></sec></sec><sec disp-level="2"><title>Research origin descriptors</title><sec disp-level="3"><title>Identity</title><p>Understanding the consequences of land use in grasslands on trait composition of arthropods.</p></sec><sec disp-level="3"><title>Originators</title><p>Martin M. Gossner, Nadja K. Simons, Wolfgang W. Weisser; Terrestrial Ecology Research Group, Department for Ecology and Ecosystem Management, Center for Life and Food Sciences Weihenstephan, Technische Universit&#x000e4;t M&#x000fc;nchen, Hans-Carl-von-Carlowitz-Platz 2, D-85354 Freising, Germany</p></sec><sec disp-level="3"><title>Period of study</title><p>2008&#x02013;2012.</p></sec><sec disp-level="3"><title>Objectives</title><p>1. To identify important traits across taxonomic groups, 2. To detect traits that respond to land-use intensification. 3. To analyze the consequences of these trait changes for ecosystem functioning.</p></sec></sec></sec><sec disp-level="1"><title>Technical Validation</title><p>Field methods followed a standardized protocol. A total of 60&#x000d7;2 sweeps&#x000d7;2 months&#x000d7;5 years=1,200 sweeps per plot is an adequate sampling effort in grasslands<sup>
+<xref ref-type="bibr" rid="b66">66</xref>
+</sup>. Species identification was cross-checked by different taxonomic experts and at random by barcoding<sup>
+<xref ref-type="bibr" rid="b67">67</xref>
+</sup>. Trait data was sent out to other experts of species ecology for cross-checks. We compiled traits from various literature sources and complemented data from reliable internet sources and the authors&#x02019; experience. If information on traits from different sources varied, experts were asked for their opinion and information of the majority is given. Body-sizes were averaged across indications given in different sources.</p></sec><sec disp-level="1"><title>Additional information</title><p>Table 2 is only available in the online version of this paper.</p><p><bold>How to cite this article:</bold> Gossner, M. M. <italic>et al.</italic> A summary of eight traits of Coleoptera, Hemiptera, Orthoptera and Araneae, occurring in grasslands in Germany. <italic>Sci. Data</italic>. 2:150013 doi: 10.1038/sdata.2015.13 (2015).</p></sec><sec sec-type="supplementary-material" id="S1"><title>Supplementary Material</title><supplementary-material id="d33e21" content-type="local-data"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sdata201513-isa1.zip"/></supplementary-material></sec></body><back><ref-list content-type="data-citations"><title>Data Citations</title><ref id="d1"><mixed-citation publication-type="data"><source>Dryad</source><name><surname>Gossner</surname><given-names>M. M.</given-names></name><year>2015</year><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://dx.doi.org/10.5061/dryad.53ds2">http://dx.doi.org/10.5061/dryad.53ds2</ext-link></mixed-citation></ref></ref-list><ack><p>We thank Markus Lange, Manfred T&#x000fc;rke, Esther Pa&#x00161;ali&#x00107;, Ellen Sperr, Louis Sikora, Steffen Both and Norbert Leber for their help with sweep-netting and Boris B&#x000fc;che, Michael-Andreas Fritze and Thomas Wagner (Coleoptera), Anne K&#x000e4;stner and Oliver Wiche (Auchenorrhyncha), G&#x000fc;nter K&#x000f6;hler (Orthoptera), Franz Schmolke (Heteroptera), for identifying the arthropods and fruitful discussions. We thank the managers of the three Exploratories, Kirsten Reichel-Jung, Swen Renner, Katrin Hartwich, Sonja Gockel, Kerstin Wiesner, and Martin Gorke for their work in maintaining the plot and project infrastructure; Christiane Fischer and Simone Pfeiffer for giving support through the central office, Michael Owonibi for managing the central data base, and Markus Fischer, Eduard Linsenmair, Dominik Hessenm&#x000f6;ller, Jens Nieschulze, Daniel Prati, Ingo Sch&#x000f6;ning, Fran&#x000e7;ois Buscot, Ernst-Detlef Schulze and the late Elisabeth Kalko for their role in setting up the Biodiversity Exploratories project. The work has been funded by the DFG Priority Program 1374 &#x02018;Infrastructure-Biodiversity-Exploratories&#x02019; (DFG-WE 3081/21-1.). Field work permits were issued by the responsible state environmental offices of Baden-W&#x000fc;rttemberg, Th&#x000fc;ringen, and Brandenburg (according to &#x000a7; 72 BbgNatSchG).</p></ack><ref-list><ref id="b1"><mixed-citation publication-type="journal"><name><surname>B&#x000f6;rschig</surname><given-names>C.</given-names></name>, <name><surname>Klein</surname><given-names>A. M.</given-names></name>, <name><surname>von Wehrden</surname><given-names>H.</given-names></name> &#x00026; <name><surname>Krauss</surname><given-names>J.</given-names></name>
+<article-title>Traits of butterfly communities change from specialist to generalist characteristics with increasing land-use intensity</article-title>. <source>Basic Appl. Ecol.</source>
+<volume>14</volume>, <fpage>547</fpage>&#x02013;<lpage>554</lpage> (<year>2013</year>).</mixed-citation></ref><ref id="b2"><mixed-citation publication-type="journal"><name><surname>Dziock</surname><given-names>F.</given-names></name>
+<italic>et al.</italic>
+<article-title>Reproducing or dispersing? Using trait based habitat templet models to analyse Orthoptera response to flooding and land use</article-title>. <source>Agric., Ecosyst. Environ.</source>
+<volume>145</volume>, <fpage>85</fpage>&#x02013;<lpage>94</lpage> (<year>2011</year>).</mixed-citation></ref><ref id="b3"><mixed-citation publication-type="journal"><name><surname>Moretti</surname><given-names>M.</given-names></name>
+<italic>et al.</italic>
+<article-title>Linking traits between plants and invertebrate herbivores to track functional effects of land-use changes</article-title>. <source>J. Veg. Sci.</source>
+<volume>24</volume>, <fpage>949</fpage>&#x02013;<lpage>962</lpage> (<year>2013</year>).</mixed-citation></ref><ref id="b4"><mixed-citation publication-type="journal"><name><surname>Vandewalle</surname><given-names>M.</given-names></name>
+<italic>et al.</italic>
+<article-title>Functional traits as indicators of biodiversity response to land use changes across ecosystems and organisms</article-title>. <source>Biodivers. Conserv.</source>
+<volume>19</volume>, <fpage>2921</fpage>&#x02013;<lpage>2947</lpage> (<year>2010</year>).</mixed-citation></ref><ref id="b5"><mixed-citation publication-type="journal"><name><surname>D&#x000ed;az</surname><given-names>S.</given-names></name>
+<italic>et al.</italic>
+<article-title>Functional traits, the phylogeny of function, and ecosystem service vulnerability</article-title>. <source>Ecol. Evol</source>
+<volume>3</volume>, <fpage>2958</fpage>&#x02013;<lpage>2975</lpage> (<year>2013</year>).<pub-id pub-id-type="pmid">24101986</pub-id></mixed-citation></ref><ref id="b6"><mixed-citation publication-type="journal"><name><surname>Menezes</surname><given-names>S.</given-names></name>, <name><surname>Baird</surname><given-names>D. J.</given-names></name> &#x00026; <name><surname>Soares</surname><given-names>A. M. V. M.</given-names></name>
+<article-title>Beyond taxonomy: a review of macroinvertebrate trait-based community descriptors as tools for freshwater biomonitoring</article-title>. <source>J. Appl. Ecol.</source>
+<volume>47</volume>, <fpage>711</fpage>&#x02013;<lpage>719</lpage> (<year>2010</year>).</mixed-citation></ref><ref id="b7"><mixed-citation publication-type="journal"><name><surname>Van der Plas</surname><given-names>F.</given-names></name>, <name><surname>Anderson</surname><given-names>T. M.</given-names></name> &#x00026; <name><surname>Olff</surname><given-names>H.</given-names></name>
+<article-title>Trait similarity patterns within grass and grasshopper communities: multitrophic community assembly at work</article-title>. <source>Ecology</source>
+<volume>93</volume>, <fpage>836</fpage>&#x02013;<lpage>846</lpage> (<year>2011</year>).<pub-id pub-id-type="pmid">22690634</pub-id></mixed-citation></ref><ref id="b8"><mixed-citation publication-type="journal"><name><surname>Frenette-Dussault</surname><given-names>C.</given-names></name>, <name><surname>Shipley</surname><given-names>B.</given-names></name> &#x00026; <name><surname>Hingrat</surname><given-names>Y.</given-names></name>
+<article-title>Linking plant and insect traits to understand multitrophic community structure in arid steppes</article-title>. <source>Funct. Ecol.</source>
+<volume>27</volume>, <fpage>786</fpage>&#x02013;<lpage>792</lpage> (<year>2013</year>).</mixed-citation></ref><ref id="b9"><mixed-citation publication-type="journal"><name><surname>Hoiss</surname><given-names>B.</given-names></name>, <name><surname>Krauss</surname><given-names>J.</given-names></name>, <name><surname>Potts</surname><given-names>S. G.</given-names></name>, <name><surname>Roberts</surname><given-names>S.</given-names></name> &#x00026; <name><surname>Steffan-Dewenter</surname><given-names>I.</given-names></name>
+<article-title>Altitude acts as an environmental filter on phylogenetic composition, traits and diversity in bee communities</article-title>. <source>Proc. R. Soc. B</source>
+<volume>279</volume>, <fpage>4447</fpage>&#x02013;<lpage>4456</lpage> (<year>2012</year>).</mixed-citation></ref><ref id="b10"><mixed-citation publication-type="journal"><name><surname>Fountain-Jones</surname><given-names>N. M.</given-names></name>, <name><surname>Baker</surname><given-names>S. C.</given-names></name> &#x00026; <name><surname>Jordan</surname><given-names>G. J.</given-names></name>
+<article-title>Moving beyond the guild concept: developing a practical functional trait framework for terrestrial beetles</article-title>. <source>Ecol. Entomol.</source>
+<volume>40</volume>, <fpage>1</fpage>&#x02013;<lpage>13</lpage> (<year>2014</year>).</mixed-citation></ref><ref id="b11"><mixed-citation publication-type="journal"><name><surname>Kenis</surname><given-names>M.</given-names></name>, <name><surname>Rabitsch</surname><given-names>W.</given-names></name>, <name><surname>Auger-Rozenberg</surname><given-names>M.-A.</given-names></name> &#x00026; <name><surname>Roques</surname><given-names>A.</given-names></name>
+<article-title>How can alien species inventories and interception data help us prevent insect invasions?</article-title>
+<source>Bull. Entomol. Res.</source>
+<volume>97</volume>, <fpage>489</fpage>&#x02013;<lpage>502</lpage> (<year>2007</year>).<pub-id pub-id-type="pmid">17916267</pub-id></mixed-citation></ref><ref id="b12"><mixed-citation publication-type="journal"><name><surname>Kolar</surname><given-names>C. S.</given-names></name> &#x00026; <name><surname>Lodge</surname><given-names>D. M.</given-names></name>
+<article-title>Progress in invasion biology: predicting invaders</article-title>. <source>Trends Ecol. Evol.</source>
+<volume>16</volume>, <fpage>199</fpage>&#x02013;<lpage>204</lpage> (<year>2001</year>).<pub-id pub-id-type="pmid">11245943</pub-id></mixed-citation></ref><ref id="b13"><mixed-citation publication-type="journal"><name><surname>Wright</surname><given-names>J. P.</given-names></name>
+<italic>et al.</italic>
+<article-title>Conventional functional classification schemes underestimate the relationship with ecosystem functioning</article-title>. <source>Ecol. Lett.</source>
+<volume>9</volume>, <fpage>111</fpage>&#x02013;<lpage>120</lpage> (<year>2006</year>).<pub-id pub-id-type="pmid">16958875</pub-id></mixed-citation></ref><ref id="b14"><mixed-citation publication-type="journal"><name><surname>Homburg</surname><given-names>K.</given-names></name>, <name><surname>Homburg</surname><given-names>N.</given-names></name>, <name><surname>Sch&#x000e4;fer</surname><given-names>F.</given-names></name>, <name><surname>Schuldt</surname><given-names>A.</given-names></name> &#x00026; <name><surname>Assmann</surname><given-names>T.</given-names></name>
+<article-title>Carabids.org&#x02014;a dynamic online database of ground beetle species traits (Coleoptera, Carabidae)</article-title>. <source>Insect Conserv. Divers</source>
+<volume>7</volume>, <fpage>195</fpage>&#x02013;<lpage>205</lpage> (<year>2013</year>).</mixed-citation></ref><ref id="b15"><mixed-citation publication-type="book"><name><surname>Speight</surname><given-names>M. C. D.</given-names></name>, <name><surname>Castella</surname><given-names>E.</given-names></name> &#x00026; <name><surname>Sarthou</surname><given-names>J.-P.</given-names></name> in <source>Syrph the Net on CD, Issue 9. The database of European Syrphidae</source> (eds Speight M. C. D., Castella E., Sarthou J.-P., Vanappelghem C.) (Syrph the Net Publications, <year>2013</year>).</mixed-citation></ref><ref id="b16"><mixed-citation publication-type="book"><name><surname>Statzner</surname><given-names>B.</given-names></name>, <name><surname>Bonada</surname><given-names>N.</given-names></name> &#x00026; <name><surname>Dol&#x000e9;dec</surname><given-names>S.</given-names></name>
+<article-title>Conservation of taxonomic and biological trait diversity of European stream macroinvertebrate communities: a case for a collective public database</article-title>. in <source>Biodiversity and Conservation in Europe</source>
+<fpage>367</fpage>&#x02013;<lpage>390</lpage> (Springer, <year>2008</year>).</mixed-citation></ref><ref id="b17"><mixed-citation publication-type="journal"><name><surname>Moretti</surname><given-names>M.</given-names></name> &#x00026; <name><surname>Legg</surname><given-names>C.</given-names></name>
+<article-title>Combining plant and animal traits to assess community functional responses to disturbance</article-title>. <source>Ecography</source>
+<volume>32</volume>, <fpage>299</fpage>&#x02013;<lpage>309</lpage> (<year>2009</year>).</mixed-citation></ref><ref id="b18"><mixed-citation publication-type="journal"><name><surname>Fischer</surname><given-names>M.</given-names></name>
+<italic>et al.</italic>
+<article-title>Implementing large-scale and long-term functional biodiversity research: The Biodiversity Exploratories</article-title>. <source>Basic Appl. Ecol.</source>
+<volume>11</volume>, <fpage>473</fpage>&#x02013;<lpage>485</lpage> (<year>2010</year>).</mixed-citation></ref><ref id="b19"><mixed-citation publication-type="journal"><name><surname>Bl&#x000fc;thgen</surname><given-names>N.</given-names></name>
+<italic>et al.</italic>
+<article-title>A quantitative index of land-use intensity in grasslands: Integrating mowing, grazing and fertilization</article-title>. <source>Basic Appl. Ecol.</source>
+<volume>13</volume>, <fpage>207</fpage>&#x02013;<lpage>220</lpage> (<year>2012</year>).</mixed-citation></ref><ref id="b20"><mixed-citation publication-type="other"><name><surname>Freude</surname><given-names>H.</given-names></name>, <name><surname>Harde</surname><given-names>K. W.</given-names></name> &#x00026; <name><surname>Lohse</surname><given-names>G. A.</given-names></name>
+<italic>Die K&#x000e4;fer Mitteleuropas</italic>. Vol. 1-11 (<year>1964&#x02013;1983</year>).</mixed-citation></ref><ref id="b21"><mixed-citation publication-type="book">WSC. <source>World Spider Catalog, version 15.5</source>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://wsc.nmbe.ch">http://wsc.nmbe.ch</ext-link> (Natural History Museum Bern, <year>2014</year>).</mixed-citation></ref><ref id="b22"><mixed-citation publication-type="other"><name><surname>de Jong</surname><given-names>Y. S. D. M.</given-names></name> Fauna Europaea version 2.6, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.faunaeur.org">http://www.faunaeur.org</ext-link> (<year>2013</year>).</mixed-citation></ref><ref id="b23"><mixed-citation publication-type="book"><name><surname>B&#x000f6;hme</surname><given-names>J</given-names></name>. <source>Phytophage K&#x000e4;fer und ihre Wirtspflanzen in Mitteleuropa&#x02014;Ein Kompendium</source> (Bioform, <year>2001</year>).</mixed-citation></ref><ref id="b24"><mixed-citation publication-type="book"><name><surname>B&#x000f6;hme</surname><given-names>J</given-names></name>. <source>Die K&#x000e4;fer Mitteleuropas, Band K-Katalog: Faunistische &#x000dc;bersicht</source> (Elsevier GmbH, Spektrum Akademischer Verlag, <year>2005</year>).</mixed-citation></ref><ref id="b25"><mixed-citation publication-type="book"><name><surname>Reitter</surname><given-names>E</given-names></name>. <source>Die K&#x000e4;fer des Deutschen Reiches</source>, Vol. Band 1-5 (K. G. Lutz Verlag, <year>1908&#x02013;1911</year>).</mixed-citation></ref><ref id="b26"><mixed-citation publication-type="book"><name><surname>Rheinheimer</surname><given-names>J.</given-names></name> &#x00026; <name><surname>Hassler</surname><given-names>M</given-names></name>. <source>Die R&#x000fc;sselk&#x000e4;fer Baden-W&#x000fc;rttembergs</source> (Verlag Regionalkultur, <year>2010</year>).</mixed-citation></ref><ref id="b27"><mixed-citation publication-type="book"><name><surname>Biedermann</surname><given-names>R.</given-names></name> &#x00026; <name><surname>Niedringhaus</surname><given-names>R</given-names></name>. <source>The Planthoppers and Leafhoppers of Germany&#x02014;Identification Key to all Species</source> (WABV-Fr&#x000fc;nd, <year>2009</year>).</mixed-citation></ref><ref id="b28"><mixed-citation publication-type="book"><name><surname>Nickel</surname><given-names>H</given-names></name>. <source>The leafhoppers and planthoppers of Germany (Hemiptera, Auchenorrhyncha): patterns and strategies in a highly diverse group of phytophagous insects</source> (Pensoft, Goecke &#x00026; Evers, <year>2003</year>).</mixed-citation></ref><ref id="b29"><mixed-citation publication-type="book"><name><surname>Wachmann</surname><given-names>E.</given-names></name>, <name><surname>Melber</surname><given-names>A.</given-names></name> &#x00026; <name><surname>Deckert</surname><given-names>J</given-names></name>. <source>Wanzen Band 1-5</source> (Goecke &#x00026; Evers, <year>2004-2012</year>).</mixed-citation></ref><ref id="b30"><mixed-citation publication-type="journal"><name><surname>R&#x0016f;&#x0017e;i&#x0010d;ka</surname><given-names>V.</given-names></name>
+<article-title>The size groups in the spiders (Araneae) and carabids (Col. Carabidae)</article-title>. <source>Acta Univ. Carol. Biol</source>. <volume>1982-1985</volume>, <fpage>77</fpage>&#x02013;<lpage>107</lpage> (<year>1985</year>).</mixed-citation></ref><ref id="b31"><mixed-citation publication-type="book"><name><surname>Maurer</surname><given-names>R.</given-names></name> &#x00026; <name><surname>H&#x000e4;nggi</surname><given-names>A</given-names></name>. <source>Katalog der schweizerischen Spinnen</source> (Documenta Faunistica Helvetiae 12, <year>1990</year>).</mixed-citation></ref><ref id="b32"><mixed-citation publication-type="journal"><name><surname>Platen</surname><given-names>R.</given-names></name>, <name><surname>Moritz</surname><given-names>M.</given-names></name> &#x00026; <name><surname>von Broen</surname><given-names>B.</given-names></name>
+<article-title>Liste der Webspinnen- und Weberknechtarten (Arach.: Araneida, Opilionida) des Berliner Raumes und ihre Auswertung f&#x000fc;r Naturschutzzwecke (Rote Liste). in <italic>Rote Listen der gef&#x000e4;hrdeten Pflanzen und Tiere in Berlin</italic></article-title>, (eds Auhagen A., Platen R, Sukopp H.) <source>Landschaftsentw. u. Umweltfr.</source>
+<volume>S6</volume>, <fpage>196</fpage>&#x02013;<lpage>205</lpage> (<year>1991</year>).</mixed-citation></ref><ref id="b33"><mixed-citation publication-type="journal"><name><surname>Malten</surname><given-names>A.</given-names></name>
+<article-title>Araneae (Spinnen)</article-title>. in <source>Naturwaldreservate in Hessen 5/2.1. Niddah&#x000e4;nge &#x000f6;stlich Rudingshain. Zoologische Untersuchungen 1990&#x02013;1992. Teil 1.</source>, (eds G. Flechtner G., Dorow W. H. O., Kopelke J.-P.) <italic>Mitt. Hess. Landesforstverw.</italic>
+<volume>32/1</volume>, <fpage>85</fpage>&#x02013;<lpage>197</lpage> (<year>1999</year>).</mixed-citation></ref><ref id="b34"><mixed-citation publication-type="journal"><name><surname>Malten</surname><given-names>A.</given-names></name>
+<article-title>Araneae (Spinnen)</article-title>. in <source>Naturwaldreservate in Hessen 6/2.1. Sch&#x000f6;nbuche. Zoologische Untersuchungen. 1990&#x02013;1992</source> (eds Dorow W. H. O., Flechtner G., Kopelke J.-P.). <italic>Hessen-Forst&#x02013;FIV Ergeb.- u. Forschungsber.</italic>
+<volume>28/1</volume>, <fpage>35</fpage>&#x02013;<lpage>132</lpage> (<year>2001</year>).</mixed-citation></ref><ref id="b35"><mixed-citation publication-type="book"><name><surname>Malten</surname><given-names>A.</given-names></name> &#x00026; <name><surname>Blick</surname><given-names>T.</given-names></name>
+<article-title>Araneae (Spinnen)</article-title>. in <source>Naturwaldreservate in Hessen. Band 7/2.2. Hohestein. Zoologische Untersuchungen 1994-1996</source> (eds Dorow W. H. O., Kopelke J.-P.). <italic>Mitt. Hess. Landesforstverw.</italic>
+<bold>42</bold>, <fpage>7</fpage>&#x02013;<lpage>93</lpage> (<year>2007</year>).</mixed-citation></ref><ref id="b36"><mixed-citation publication-type="journal"><name><surname>Platen</surname><given-names>R.</given-names></name>, <name><surname>Broen</surname><given-names>B.</given-names></name>, <name><surname>Herrmann</surname><given-names>A.</given-names></name>, <name><surname>Ratschker</surname><given-names>U. M.</given-names></name> &#x00026; <name><surname>Sacher</surname><given-names>P</given-names></name>. <article-title>Gesamtartenliste und Rote Liste der Webspinnen, Weberknechte und Pseudoskorpione (Araneae, Opiliones, Pseudoscorpiones) mit Angaben zur H&#x000e4;ufigkeit und &#x000d6;kologie</article-title>. <source>Natursch. Landschaftspfl. Brandenburg</source>
+<volume>8</volume>(<issue>Suppl.</issue>) <fpage>1</fpage>&#x02013;<lpage>79</lpage> (<year>1999</year>).</mixed-citation></ref><ref id="b37"><mixed-citation publication-type="journal"><name><surname>Uetz</surname><given-names>G. W.</given-names></name>, <name><surname>Halaj</surname><given-names>J.</given-names></name> &#x00026; <name><surname>Cady</surname><given-names>A. B.</given-names></name>
+<article-title>Guild structure of spiders in major crops</article-title>. <source>J. Arachnol.</source>
+<volume>27</volume>, <fpage>270</fpage>&#x02013;<lpage>280</lpage> (<year>1999</year>).</mixed-citation></ref><ref id="b38"><mixed-citation publication-type="journal"><name><surname>Blick</surname><given-names>T.</given-names></name>
+<article-title>Die Spinnen (Araneae) des Naturwaldreservats Goldbachs- und Ziebachsr&#x000fc;ck (Hessen)</article-title>. <article-title>Untersuchungszeitraum 1994&#x02013;1996</article-title>. <source>Mitt. Hess. Landesforstverw.</source>
+<volume>45</volume>, <fpage>57</fpage>&#x02013;<lpage>138</lpage> (<year>2009</year>).</mixed-citation></ref><ref id="b39"><mixed-citation publication-type="journal"><name><surname>Blick</surname><given-names>T</given-names></name>. <article-title>Die Spinnen (Araneae) des Naturwaldreservats Kinzigaue (Hessen). Untersuchungszeitraum 1999&#x02013;2001</article-title>. <source>Naturwaldreserv. Hessen</source>
+<volume>12</volume>, <fpage>53</fpage>&#x02013;<lpage>124</lpage> (<year>2012</year>).</mixed-citation></ref><ref id="b40"><mixed-citation publication-type="book"><name><surname>Buchar</surname><given-names>J.</given-names></name>, <name><surname>R&#x0016f;&#x0017e;i&#x0010d;ka</surname><given-names>V.</given-names></name> &#x00026; <name><surname>Merrett</surname><given-names>P</given-names></name>. <source>Catalogue of Spiders of the Czech Republic</source> (Peres Publ., <year>2002</year>).</mixed-citation></ref><ref id="b41"><mixed-citation publication-type="journal"><name><surname>Blandenier</surname><given-names>G.</given-names></name>
+<article-title>Ballooning of spiders (Araneae) in Switzerland: general results from an eleven-year survey</article-title>. <source>Bull. Br. arachnol. Soc.</source>
+<volume>14</volume>, <fpage>308</fpage>&#x02013;<lpage>316</lpage> (<year>2009</year>).</mixed-citation></ref><ref id="b42"><mixed-citation publication-type="journal"><name><surname>Bonte</surname><given-names>D.</given-names></name>, <name><surname>Baert</surname><given-names>L.</given-names></name>, <name><surname>Lens</surname><given-names>L.</given-names></name> &#x00026; <name><surname>Maelfait</surname><given-names>J. P.</given-names></name>
+<article-title>Effects of aerial dispersal, habitat specialisation, and landscape structure on spider distribution across fragmented grey dunes</article-title>. <source>Ecography</source>
+<volume>27</volume>, <fpage>343</fpage>&#x02013;<lpage>349</lpage> (<year>2004</year>).</mixed-citation></ref><ref id="b43"><mixed-citation publication-type="journal"><name><surname>Duffey</surname><given-names>E.</given-names></name>
+<article-title>Aerial dispersal in a known spider population</article-title>. <source>J. Anim. Ecol.</source>
+<volume>25</volume>, <fpage>85</fpage>&#x02013;<lpage>111</lpage> (<year>1956</year>).</mixed-citation></ref><ref id="b44"><mixed-citation publication-type="journal"><name><surname>Entling</surname><given-names>M. H.</given-names></name>, <name><surname>St&#x000e4;mpfli</surname><given-names>K.</given-names></name> &#x00026; <name><surname>Ovaskainen</surname><given-names>O.</given-names></name>
+<article-title>Increased propensity for aerial dispersal in disturbed habitats due to intraspecific variation and species turnover</article-title>. <source>Oikos</source>
+<volume>120</volume>, <fpage>1099</fpage>&#x02013;<lpage>1109</lpage> (<year>2011</year>).</mixed-citation></ref><ref id="b45"><mixed-citation publication-type="journal"><name><surname>Rensch</surname><given-names>M.</given-names></name>, <name><surname>Volkmar</surname><given-names>C.</given-names></name> &#x00026; <name><surname>Spilke</surname><given-names>J.</given-names></name>
+<article-title>Aerial dispersal of spiders in middle-east Germany</article-title>. <source>Mitt. dt. Ges. allg. angew. Ent</source>
+<volume>17</volume>, <fpage>41</fpage>&#x02013;<lpage>44</lpage> (<year>2009</year>).</mixed-citation></ref><ref id="b46"><mixed-citation publication-type="journal"><name><surname>Richter</surname><given-names>C. J.</given-names></name>
+<article-title>Aerial dispersal in relation to habitat in eight wolf spider species (Pardosa, Araneae, Lycosidae)</article-title>. <source>Oecologia</source>
+<volume>5</volume>, <fpage>200</fpage>&#x02013;<lpage>214</lpage> (<year>1970</year>).</mixed-citation></ref><ref id="b47"><mixed-citation publication-type="journal"><name><surname>Thomas</surname><given-names>C.</given-names></name> &#x00026; <name><surname>Jepson</surname><given-names>P.</given-names></name>
+<article-title>Differential aerial dispersal of linyphiid spiders from a grass and a cereal field</article-title>. <source>J. Arachnol.</source>
+<volume>27</volume>, <fpage>294</fpage>&#x02013;<lpage>300</lpage> (<year>1999</year>).</mixed-citation></ref><ref id="b48"><mixed-citation publication-type="journal"><name><surname>Vanden Borre</surname><given-names>J.</given-names></name>, <name><surname>Bonte</surname><given-names>D.</given-names></name> &#x00026; <name><surname>Maelfait</surname><given-names>J.-P.</given-names></name>
+<article-title>Aeronautisch gedrag ('ballooning') bij spinnen (Araneae)</article-title>. <source>Nwsbr. Belg. Arachnol. Ver.</source>
+<volume>19</volume>, <fpage>1</fpage>&#x02013;<lpage>24</lpage> (<year>2004</year>).</mixed-citation></ref><ref id="b49"><mixed-citation publication-type="journal"><name><surname>Platen</surname><given-names>R.</given-names></name>
+<article-title>&#x000d6;kologie, Faunistik und Gef&#x000e4;hrdungssituation der Spinnen (Araneae) und Weberknechte (Opiliones) in Berlin (West) mit dem Vorschlag einer roten Liste</article-title>. <source>Zool. Beitr. N.F</source>
+<volume>28</volume>, <fpage>445</fpage>&#x02013;<lpage>487</lpage> (<year>1984</year>).</mixed-citation></ref><ref id="b50"><mixed-citation publication-type="other"><name><surname>Nentwig</surname><given-names>W.</given-names></name>, <name><surname>Blick</surname><given-names>T.</given-names></name>, <name><surname>Gloor</surname><given-names>D.</given-names></name>, <name><surname>H&#x000e4;nggi</surname><given-names>A.</given-names></name> &#x00026; <name><surname>Kropf</surname><given-names>C.</given-names></name>
+<italic>Araneae&#x02014;Spiders of Europe</italic>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.araneae.unibe.ch/">http://www.araneae.unibe.ch/</ext-link> (<year>2014</year>).</mixed-citation></ref><ref id="b51"><mixed-citation publication-type="book"><name><surname>K&#x000f6;hler</surname><given-names>G</given-names></name>. <source>Fauna der Heuschrecken (Ensifera et Caelifera) des Freistaates Th&#x000fc;ringen</source> (Th&#x000fc;ringer Landesanstalt f&#x000fc;r Umwelt und Geologie, <year>2001</year>).</mixed-citation></ref><ref id="b52"><mixed-citation publication-type="book"><name><surname>Maas</surname><given-names>S.</given-names></name>, <name><surname>Detzel</surname><given-names>P.</given-names></name> &#x00026; <name><surname>Staudt</surname><given-names>A</given-names></name>. <source>Gef&#x000e4;hrdungsanalyse der Heuschrecken Deutschlands: Verbreitungsatlas, Gef&#x000e4;hrdungseinstufung und Schutzkonzepte</source> (Bundesamt f&#x000fc;r Naturschutz, <year>2002</year>).</mixed-citation></ref><ref id="b53"><mixed-citation publication-type="book"><name><surname>Baur</surname><given-names>B.</given-names></name>, <name><surname>Baur</surname><given-names>H.</given-names></name>, <name><surname>Roesti</surname><given-names>C.</given-names></name> &#x00026; <name><surname>Roesti</surname><given-names>D</given-names></name>. <source>Die Heuschrecken der Schweiz</source> (Haupt Verlag, <year>2006</year>).</mixed-citation></ref><ref id="b54"><mixed-citation publication-type="book"><name><surname>Bellmann</surname><given-names>H</given-names></name>. <source>Heuschrecken: beobachten, bestimmen</source>
+<volume>Vol. 2</volume> (Naturbuch Verlag, <year>1993</year>).</mixed-citation></ref><ref id="b55"><mixed-citation publication-type="book"><name><surname>Ingrisch</surname><given-names>S.</given-names></name> &#x00026; <name><surname>K&#x000f6;hler</surname><given-names>G</given-names></name>. <source>Die Heuschrecken Mitteleuropas</source> (Westarp Wissenschaften, <year>1998</year>).</mixed-citation></ref><ref id="b56"><mixed-citation publication-type="book"><name><surname>K&#x000f6;hler</surname><given-names>G</given-names></name>. <source>&#x000d6;kologische Grundlagen von Aussterbeprozessen: Fallstudien an Heuschrecken (Caelifera et Ensifera)</source> (Laurenti, <year>1999</year>).</mixed-citation></ref><ref id="b57"><mixed-citation publication-type="journal"><name><surname>Bruckhaus</surname><given-names>A.</given-names></name> &#x00026; <name><surname>Detzel</surname><given-names>P.</given-names></name>
+<article-title>Erfassung und Bewertung von Heuschrecken-Populationen. Ein Beitrag zur Objektivierung des Instruments der Roten Listen</article-title>. <source>Nat.schutz Landsch.plan</source>
+<volume>29</volume>, <fpage>19</fpage>&#x02013;<lpage>33</lpage> (<year>1997</year>).</mixed-citation></ref><ref id="b58"><mixed-citation publication-type="book"><name><surname>Detzel</surname><given-names>P</given-names></name>. <source>Die Heuschrecken Baden-W&#x000fc;rttembergs</source> (Verlag Eugen Ulmer, <year>1998</year>).</mixed-citation></ref><ref id="b59"><mixed-citation publication-type="journal"><name><surname>Reinhardt</surname><given-names>K.</given-names></name>, <name><surname>K&#x000f6;hler</surname><given-names>G.</given-names></name>, <name><surname>Maas</surname><given-names>S.</given-names></name> &#x00026; <name><surname>Detzel</surname><given-names>P.</given-names></name>
+<article-title>Low dispersal ability and habitat specificity promote extinctions in rare but not in widespread species: the Orthoptera of Germany</article-title>. <source>Ecography</source>
+<volume>28</volume>, <fpage>593</fpage>&#x02013;<lpage>602</lpage> (<year>2005</year>).</mixed-citation></ref><ref id="b60"><mixed-citation publication-type="journal">The Angiosperm Phylogeny G. <article-title>An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG III</article-title>. <source>Bot. J. Linn. Soc.</source>
+<volume>161</volume>, <fpage>105</fpage>&#x02013;<lpage>121</lpage> (<year>2009</year>).</mixed-citation></ref><ref id="b61"><mixed-citation publication-type="book"><name><surname>Koch</surname><given-names>K</given-names></name>. <source>Die K&#x000e4;fer Mitteleuropas. &#x000d6;kologie, Band 1-3</source> (Goecke &#x00026; Evers, <year>1989&#x02013;1992</year>).</mixed-citation></ref><ref id="b62"><mixed-citation publication-type="journal"><name><surname>Nickel</surname><given-names>H.</given-names></name> &#x00026; <name><surname>Remane</surname><given-names>R.</given-names></name>
+<article-title>Artenliste der Zikaden Deutschlands, mit Angaben zu N&#x000e4;hrpflanzen, Lebenszyklen und Verbreitung (Hemiptera, Fulgoromorpha et Cicadomorpha)</article-title>. <source>Beitr. Zikadenkunde</source>
+<volume>5</volume>, <fpage>27</fpage>&#x02013;<lpage>64</lpage> (<year>2002</year>).</mixed-citation></ref><ref id="b63"><mixed-citation publication-type="journal"><name><surname>Gossner</surname><given-names>M. M.</given-names></name>, <name><surname>Weisser</surname><given-names>W. W.</given-names></name> &#x00026; <name><surname>Meyer</surname><given-names>S. T.</given-names></name>
+<article-title>Invertebrate herbivory decreases along a gradient of increasing land-use intensity in German grasslands</article-title>. <source>Basic Appl. Ecol.</source>
+<volume>15</volume>, <fpage>347</fpage>&#x02013;<lpage>352</lpage> (<year>2014</year>).</mixed-citation></ref><ref id="b64"><mixed-citation publication-type="journal"><name><surname>Simons</surname><given-names>N. K.</given-names></name>
+<italic>et al.</italic>
+<article-title>Resource-mediated indirect effects of grassland management on arthropod diversity</article-title>. <source>PLoS ONE</source>
+<volume>9</volume>, <fpage>e107033</fpage> (<year>2014</year>).<pub-id pub-id-type="pmid">25188423</pub-id></mixed-citation></ref><ref id="b65"><mixed-citation publication-type="journal"><name><surname>Simons</surname><given-names>N. K.</given-names></name>
+<italic>et al.</italic>
+<article-title>Effects of land-use intensity on arthropod species abundance distributions in grasslands</article-title>. <source>J. Anim. Ecol.</source>
+<volume>84</volume>, <fpage>143</fpage>&#x02013;<lpage>154</lpage> (<year>2015</year>).<pub-id pub-id-type="pmid">25074822</pub-id></mixed-citation></ref><ref id="b66"><mixed-citation publication-type="book"><name><surname>Southwood</surname><given-names>T. R. E.</given-names></name> &#x00026; <name><surname>Henderson</surname><given-names>P. A</given-names></name>. <source>Ecological methods</source>. 3rd edn (Blackwell Science Ltd, <year>2000</year>).</mixed-citation></ref><ref id="b67"><mixed-citation publication-type="journal"><name><surname>Raupach</surname><given-names>M. J.</given-names></name>
+<italic>et al.</italic>
+<article-title>Building-up of a DNA barcode library for true bugs (Insecta: Hemiptera: Heteroptera) of Germany reveals taxonomic uncertainties and surprises</article-title>. <source>PLoS ONE</source>
+<volume>9</volume>, <fpage>e106940</fpage> (<year>2014</year>).<pub-id pub-id-type="pmid">25203616</pub-id></mixed-citation></ref></ref-list><fn-group><fn fn-type="conflict"><p>The authors declare no competing financial interests.</p></fn></fn-group></back><floats-group><fig id="f1"><label>Figure 1</label><caption><title>Number of species per order and trait category (body size, dispersal ability, stratum use).</title><p>Overview on the number of species of the four orders Coleoptera, Hemiptera (Auchenorrhyncha, Heteroptera), Orthoptera (Saltatoria: Ensifera, Caelifera), and Araneae sampled over 5 years in 150 grassland plots (total: 1,230 species). For traits the number of species with each coarse classification or mm-class (body size) is given.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sdata201513-f1"/></fig><fig id="f2"><label>Figure 2</label><caption><title>Number of species per trait category, classified according to their feeding ecology.</title><p>Overview on the number of species of the four orders Coleoptera, Hemiptera (Auchenorrhyncha, Heteroptera), Orthoptera (Saltatoria: Ensifera, Caelifera), and Araneae sampled over 5 years in 150 grassland plots (total: 1,230 species). A more detailed classification is provided for herbivorous species. The figures for feeding mode, feeding specialization, and endophagous lifestyle (note that adults of species with endophagously living larvae might also feed ectophagously) comprise all herbivores. The figure for feeding tissue comprises only sucking herbivores and the figure on feeding plant part comprises only chewing herbivores (note that species might be assigned to more than one category, e.g., many Curculionidae and Elateridae feed on roots as larvae and on leaves as adults).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sdata201513-f2"/></fig><table-wrap position="float" id="t1"><label>Table 1</label><caption><title>Detailed account about data-collecting methods and specific data files.</title></caption><table frame="hsides" rules="groups" border="1"><colgroup><col align="left"/><col align="center"/><col align="left"/><col align="left"/><col align="center"/><col align="center"/><col align="center"/></colgroup><thead valign="bottom"><tr><th align="left" valign="top" charoff="50">
+<bold>Sample Name</bold>
+</th><th align="center" valign="top" charoff="50">
+<bold>Field method</bold>
+</th><th align="left" valign="top" charoff="50">
+<bold>Species identification method</bold>
+</th><th align="left" valign="top" charoff="50">
+<bold>Trait assignment</bold>
+</th><th align="center" valign="top" charoff="50">
+<bold>Raw Data File</bold>
+</th><th align="center" valign="top" charoff="50">
+<bold>Data Repository</bold>
+</th><th align="center" valign="top" charoff="50">
+<bold>Data Record Accession (Dryad doi)</bold>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" charoff="50">Coleoptera</td><td align="center" valign="top" charoff="50">Sweep-netting</td><td align="left" valign="top" charoff="50">Identification to species level by taxonomic specialists</td><td align="left" valign="top" charoff="50">Trait assignment using existing databases, literature sources and author&#x02019;s experience</td><td align="center" valign="top" charoff="50">ArthropodSpeciesTraits.txt</td><td align="center" valign="top" charoff="50">Dryad</td><td align="center" valign="top" charoff="50">10.5061/dryad.53ds2</td></tr><tr><td align="left" valign="top" charoff="50">Hemiptera: Heteroptera</td><td align="center" valign="top" charoff="50">Sweep-netting</td><td align="left" valign="top" charoff="50">Identification to species level by taxonomic specialists</td><td align="left" valign="top" charoff="50">Trait assignment using existing databases, literature sources and author&#x02019;s experience</td><td align="center" valign="top" charoff="50">ArthropodSpeciesTraits.txt</td><td align="center" valign="top" charoff="50">Dryad</td><td align="center" valign="top" charoff="50">10.5061/dryad.53ds2</td></tr><tr><td align="left" valign="top" charoff="50">Hemiptera: Auchenorrhyncha</td><td align="center" valign="top" charoff="50">Sweep-netting</td><td align="left" valign="top" charoff="50">Identification to species level by taxonomic specialists</td><td align="left" valign="top" charoff="50">Trait assignment using existing databases, literature sources and author&#x02019;s experience</td><td align="center" valign="top" charoff="50">ArthropodSpeciesTraits.txt</td><td align="center" valign="top" charoff="50">Dryad</td><td align="center" valign="top" charoff="50">10.5061/dryad.53ds2</td></tr><tr><td align="left" valign="top" charoff="50">Orthoptera</td><td align="center" valign="top" charoff="50">Sweep-netting</td><td align="left" valign="top" charoff="50">Identification to species level by taxonomic specialists</td><td align="left" valign="top" charoff="50">Trait assignment using existing databases, literature sources and author&#x02019;s experience</td><td align="center" valign="top" charoff="50">ArthropodSpeciesTraits.txt</td><td align="center" valign="top" charoff="50">Dryad</td><td align="center" valign="top" charoff="50">10.5061/dryad.53ds2</td></tr><tr><td align="left" valign="top" charoff="50">Araneae</td><td align="center" valign="top" charoff="50">Sweep-netting</td><td align="left" valign="top" charoff="50">Identification to species level by taxonomic specialists</td><td align="left" valign="top" charoff="50">Trait assignment using existing databases, literature sources and author&#x02019;s experience</td><td align="center" valign="top" charoff="50">ArthropodSpeciesTraits.txt</td><td align="center" valign="top" charoff="50">Dryad</td><td align="center" valign="top" charoff="50">10.5061/dryad.53ds2</td></tr></tbody></table></table-wrap><table-wrap position="float" id="t2"><label>Table 2</label><caption><title>Overview of traits defined for all species of Coleoptera, Hemiptera (Auchenorrhyncha, Heteroptera), Orthoptera, and Araneae sampled over 5 years in 150 grassland plots (data set: &#x02018;ArthropodSpeciesTraits.csv&#x02019; (Data Citation 1)</title></caption><table frame="hsides" rules="groups" border="1"><colgroup><col align="left"/><col align="center"/><col align="center"/><col align="center"/><col align="center"/><col align="center"/></colgroup><thead valign="bottom"><tr><th align="left" valign="top" charoff="50">
+<bold>Variables</bold>
+</th><th align="center" valign="top" charoff="50">
+<bold>Type</bold>
+</th><th align="center" valign="top" charoff="50">
+<bold>Number</bold>
+</th><th align="center" valign="top" charoff="50">
+<bold>Levels</bold>
+</th><th align="center" valign="top" charoff="50">
+<bold>Abbreviation</bold>
+</th><th align="center" valign="top" charoff="50">
+<bold>Description</bold>
+</th></tr></thead><tfoot valign="top"><tr><th align="left" valign="top" charoff="50">In the categories feeding guild and stratum a finer classification including all trait levels is given in the columns &#x02018;Feeding_guild&#x02019; and &#x02018;Stratum&#x02019; of the data table &#x02018;ArthropodSpeciesTraits.csv&#x02019;. Less frequent assignments are given in brackets. The coarse classification is given in the columns &#x02018;Feeding_guild_short&#x02019; and &#x02018;Stratum_short&#x02019;. Species were assigned unspecific stratum in the coarse classification if they are found equally often in more than one stratum. Species were assigned as omnivores if they equally use more than one feeding source (plants, animals, detritus, fungi). &#x02018;Feeding_specialization&#x02019; refers to the host plant breadth of herbivores and includes the levels monophagous, oligophagous, and polyphagous. NA is assigned to all non-herbivores in the data table. &#x02018;Feeding_mode&#x02019; refers to the way of ingestion. &#x02018;Feeding_tissue&#x02019; refers to the tissue used by sucking herbivores, NA is assigned to non-herbivores and chewing herbivores. &#x02018;Feeding_plant_part&#x02019; refers to the part of the plant which chewing herbivores feed on, NA is assigned to non-herbivores and sucking herbivores. &#x02018;Endophagous_lifestyle&#x02019; indicates gall-inducing or mining larvae in herbivores, NA is assigned to non-herbivores and herbivores that have no endophagously feeding larvae. The data set also includes data on order, suborder and family as well as the author name and year of species description. For a description of trait assessment and definition see main text.</th><td>&#x000a0;</td><td>&#x000a0;</td><td>&#x000a0;</td><td>&#x000a0;</td><td>&#x000a0;</td></tr></tfoot><tbody valign="top"><tr><td align="left" valign="top" charoff="50">Body_size</td><td align="center" valign="top" charoff="50">numeric/metric</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Min: 0.31</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Mean body length [mm]</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Mean: 4.71</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Max: 35</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">Dispersal_ability</td><td align="center" valign="top" charoff="50">ordinal</td><td align="center" valign="top" charoff="50">5</td><td align="center" valign="top" charoff="50">very low</td><td align="center" valign="top" charoff="50">0</td><td align="center" valign="top" charoff="50">Based on wing dimorphism, flying ability, activity ranges, dispersal strategies, individual movement and colonization dynamics, depending on taxon</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">low</td><td align="center" valign="top" charoff="50">0.25</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">medium</td><td align="center" valign="top" charoff="50">0.5</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">high</td><td align="center" valign="top" charoff="50">0.75</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">very high</td><td align="center" valign="top" charoff="50">1</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">Feeding_guild</td><td align="center" valign="top" charoff="50">nominal/factor</td><td align="center" valign="top" charoff="50">13</td><td align="center" valign="top" charoff="50">carnivore</td><td align="center" valign="top" charoff="50">c</td><td align="center" valign="top" charoff="50">Fine classification of feeding guild across larval and adult stages; less frequent assignments in brackets</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">carni-detritivore</td><td align="center" valign="top" charoff="50">c-d</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">carni-detriti-herbivore</td><td align="center" valign="top" charoff="50">c-d-h</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">carni-fungivore</td><td align="center" valign="top" charoff="50">c-f</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">carni-herbivore</td><td align="center" valign="top" charoff="50">c-h</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">mainly carnivore, rarely herbivore</td><td align="center" valign="top" charoff="50">c-(h)</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">detritivor</td><td align="center" valign="top" charoff="50">d</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">detriti-fungivore</td><td align="center" valign="top" charoff="50">d-f</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">detriti-herbivore</td><td align="center" valign="top" charoff="50">d-h</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">fungivore</td><td align="center" valign="top" charoff="50">f</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">fungi-herbivore</td><td align="center" valign="top" charoff="50">f-h</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">herbivor</td><td align="center" valign="top" charoff="50">h</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">mainly herbivore, rarely carnivore</td><td align="center" valign="top" charoff="50">h-(c)</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">Feeding_guild_short</td><td align="center" valign="top" charoff="50">nominal/factor</td><td align="center" valign="top" charoff="50">5</td><td align="center" valign="top" charoff="50">carnivor</td><td align="center" valign="top" charoff="50">c</td><td align="center" valign="top" charoff="50">Coarse classification of feeding guild, indicating main feeding source across larval and adult stages</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">herbivor</td><td align="center" valign="top" charoff="50">h</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">detritivor</td><td align="center" valign="top" charoff="50">d</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">fungivor</td><td align="center" valign="top" charoff="50">f</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">omnivor</td><td align="center" valign="top" charoff="50">o</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">Feeding_mode</td><td align="center" valign="top" charoff="50">nominal/factor</td><td align="center" valign="top" charoff="50">3</td><td align="center" valign="top" charoff="50">extraintestinal</td><td align="center" valign="top" charoff="50">e</td><td align="center" valign="top" charoff="50">The way nutrients are ingested</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">chewing</td><td align="center" valign="top" charoff="50">c</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">sucking</td><td align="center" valign="top" charoff="50">s</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">Feeding_specialization</td><td align="center" valign="top" charoff="50">nominal/factor</td><td align="center" valign="top" charoff="50">3</td><td align="center" valign="top" charoff="50">monophagous</td><td align="center" valign="top" charoff="50">m</td><td align="center" valign="top" charoff="50">Host plant specialization in herbivores</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">oligophagous</td><td align="center" valign="top" charoff="50">o</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">polyphagous</td><td align="center" valign="top" charoff="50">p</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">Feeding_tissue</td><td align="center" valign="top" charoff="50">nominal/factor</td><td align="center" valign="top" charoff="50">13</td><td align="center" valign="top" charoff="50">Mesophyll-cells</td><td align="center" valign="top" charoff="50">m</td><td align="center" valign="top" charoff="50">Fine classification on the plant tissues sucking herbivores are feeding on</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Mesophyll-cells and phloem</td><td align="center" valign="top" charoff="50">m-p</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Mesophyll-cells, phloem, reproductive organs</td><td align="center" valign="top" charoff="50">m-p-r</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Mesophyll-cells, phloem, xylem</td><td align="center" valign="top" charoff="50">m-p-x</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Mesophyll-cells, reproductive organs</td><td align="center" valign="top" charoff="50">m-r</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Phloem</td><td align="center" valign="top" charoff="50">p</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Phloem, reproductive organs</td><td align="center" valign="top" charoff="50">p-r</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Phloem, ripe seeds</td><td align="center" valign="top" charoff="50">p-se</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">reproductive organs</td><td align="center" valign="top" charoff="50">r</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">mainly reproductive organs; rarely mesophyll-cells, phloem</td><td align="center" valign="top" charoff="50">r-(m-p)</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">reproductive organs, ripe seeds</td><td align="center" valign="top" charoff="50">r-se</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">ripe seeds</td><td align="center" valign="top" charoff="50">se</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Xylem</td><td align="center" valign="top" charoff="50">x</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">Feeding_plant_part</td><td align="center" valign="top" charoff="50">nominal/factor</td><td align="center" valign="top" charoff="50">17</td><td align="center" valign="top" charoff="50">Leaves</td><td align="center" valign="top" charoff="50">l</td><td align="center" valign="top" charoff="50">Fine classification on the plant parts chewing herbivores are feeding on</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Leaves, reproductive organs</td><td align="center" valign="top" charoff="50">l-r</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Leaves, roots</td><td align="center" valign="top" charoff="50">l-ro</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Leaves, roots, stems</td><td align="center" valign="top" charoff="50">l-ro-s</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Leaves, reproductive organs, roots</td><td align="center" valign="top" charoff="50">l-r-ro</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Leaves, reproductive organs, stems</td><td align="center" valign="top" charoff="50">l-r-s</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Leaves, reproductive organs, ripe seeds</td><td align="center" valign="top" charoff="50">l-r-se</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Leaves, stems</td><td align="center" valign="top" charoff="50">l-s</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">mainly leaves, stems; rarely roots</td><td align="center" valign="top" charoff="50">l-s-(ro)</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Leaves, ripe seeds</td><td align="center" valign="top" charoff="50">l-se</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">reproductive organs</td><td align="center" valign="top" charoff="50">r</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Roots</td><td align="center" valign="top" charoff="50">ro</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">reproductive organs, roots</td><td align="center" valign="top" charoff="50">r-ro</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">reproductive organs, stems</td><td align="center" valign="top" charoff="50">r-s</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Roots, stems</td><td align="center" valign="top" charoff="50">ro-s</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Stems</td><td align="center" valign="top" charoff="50">s</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">mainly stems, rarely roots</td><td align="center" valign="top" charoff="50">s-(ro)</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">Endophagous_lifestyle</td><td align="center" valign="top" charoff="50">nominal/factor</td><td align="center" valign="top" charoff="50">13</td><td align="center" valign="top" charoff="50">Gall-inducer on leaves</td><td align="center" valign="top" charoff="50">gl</td><td align="center" valign="top" charoff="50">Details on endophagously living larvae</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Gall-inducer on reproductive organs</td><td align="center" valign="top" charoff="50">gr</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Gall-inducer on stems</td><td align="center" valign="top" charoff="50">gs</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Leaf-miner</td><td align="center" valign="top" charoff="50">ml</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Miner in reproductive organs</td><td align="center" valign="top" charoff="50">mr</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Miner in reproductive organs, stems</td><td align="center" valign="top" charoff="50">mr-ms</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Miner in roots</td><td align="center" valign="top" charoff="50">mro</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Miner in roots, stems</td><td align="center" valign="top" charoff="50">mro-ms</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Miner in stems</td><td align="center" valign="top" charoff="50">ms</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Miner; mainly stems; rarely roots</td><td align="center" valign="top" charoff="50">ms-(mro)</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">mainly miner in stem; rarely gall-inducer on stems</td><td align="center" valign="top" charoff="50">ms-(gs)</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Leaf-miner; only during one particular larval stage</td><td align="center" valign="top" charoff="50">(ml)</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Miner in roots, stems; only during one particular larval stage</td><td align="center" valign="top" charoff="50">(mro-ms)</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">Stratum_use</td><td align="center" valign="top" charoff="50">nominal/factor</td><td align="center" valign="top" charoff="50">25</td><td align="center" valign="top" charoff="50">Soil layer</td><td align="center" valign="top" charoff="50">s</td><td align="center" valign="top" charoff="50">Vertical strata used across larval and adult stages; less frequent assignments in brackets</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Soil- and herb layer</td><td align="center" valign="top" charoff="50">s-h</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Soil- and shrub/tree layer</td><td align="center" valign="top" charoff="50">s-t</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Ground layer</td><td align="center" valign="top" charoff="50">g</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">mainly ground-, less frequent soil layer</td><td align="center" valign="top" charoff="50">(s)-g</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">mainly ground-, less frequent soil-, herb- and shrub/tree layer</td><td align="center" valign="top" charoff="50">(s)-g-(h)-(t)</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">mainly ground-, less frequent herb layer</td><td align="center" valign="top" charoff="50">g-(h)</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">mainly ground-, less frequent herb- and shrub/tree layer</td><td align="center" valign="top" charoff="50">g-(h)-(t)</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Ground- and herb layer</td><td align="center" valign="top" charoff="50">g-h</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">mainly ground- and herb-layer, less frequent shrub/tree layer</td><td align="center" valign="top" charoff="50">g-h-(t)</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Ground- and shrub/tree layer</td><td align="center" valign="top" charoff="50">g-t</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Herb layer</td><td align="center" valign="top" charoff="50">h</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">mainly herb-, less frequent soil- and ground layer</td><td align="center" valign="top" charoff="50">(s)-(g)-h</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">mainly herb-, less frequent soil-, ground- and shrub/tree layer</td><td align="center" valign="top" charoff="50">(s)-(g)-h-(t)</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">mainly herb-, less frequent ground layer</td><td align="center" valign="top" charoff="50">(g)-h</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">mainly herb-, less frequent ground- and shrub/tree layer</td><td align="center" valign="top" charoff="50">(g)-h-(t)</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">mainly herb-, less frequent shrub/tree layer</td><td align="center" valign="top" charoff="50">h-(t)</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Herb-, and shrub/tree layer</td><td align="center" valign="top" charoff="50">h-t</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Shrub/tree layer</td><td align="center" valign="top" charoff="50">t</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">mainly shrub/tree-, less frequent ground- and herb layer</td><td align="center" valign="top" charoff="50">(g)-(h)-t</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">mainly shrub/tree-, less frequent herb layer</td><td align="center" valign="top" charoff="50">(h)-t</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Water bodies</td><td align="center" valign="top" charoff="50">w</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Water bodies and herb layer</td><td align="center" valign="top" charoff="50">w-h</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">unspecific&#x02014;no main stratum</td><td align="center" valign="top" charoff="50">u</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">Stratum_use_short</td><td align="center" valign="top" charoff="50">nominal/factor</td><td align="center" valign="top" charoff="50">6</td><td align="center" valign="top" charoff="50">Soil-dweller</td><td align="center" valign="top" charoff="50">s</td><td align="center" valign="top" charoff="50">Main vertical stratum used across larval and adult stages</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Ground-dweller</td><td align="center" valign="top" charoff="50">g</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Herb layer</td><td align="center" valign="top" charoff="50">h</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">Shrub &#x00026; tree layer</td><td align="center" valign="top" charoff="50">t</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">water-bound</td><td align="center" valign="top" charoff="50">w</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">unspecific</td><td align="center" valign="top" charoff="50">u</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td align="left" valign="top" charoff="50">Remark</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">non-grassland species</td><td align="center" valign="top" charoff="50">*</td><td align="center" valign="top" charoff="50">Indicates species that do neither obligatory nor facultative occur in grasslands</td></tr></tbody></table></table-wrap></floats-group></article>

@@ -1,0 +1,449 @@
+{
+  "id": [
+    "23112820"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23112820"
+  ],
+  "pmcid": [
+    "PMC3480431"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0047589"
+  ],
+  "title": [
+    "Differential performance and parasitism of caterpillars on maize inbred lines with distinctly different herbivore-induced volatile emissions."
+  ],
+  "authorString": [
+    "Degen T, Bakalovic N, Bergvinson D, Turlings TC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Degen T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Degen"
+          ],
+          "initials": [
+            "T"
+          ]
+        },
+        {
+          "fullName": [
+            "Bakalovic N"
+          ],
+          "firstName": [
+            "Nenad"
+          ],
+          "lastName": [
+            "Bakalovic"
+          ],
+          "initials": [
+            "N"
+          ]
+        },
+        {
+          "fullName": [
+            "Bergvinson D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Bergvinson"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Turlings TC"
+          ],
+          "firstName": [
+            "Ted C J"
+          ],
+          "lastName": [
+            "Turlings"
+          ],
+          "initials": [
+            "TC"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "1973029"
+      ],
+      "dateOfPublication": [
+        "2012 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "e47589"
+  ],
+  "abstractText": [
+    "Plant volatiles induced by insect feeding are known to attract natural enemies of the herbivores. Six maize inbred lines that showed distinctly different patterns of volatile emission in laboratory assays were planted in randomized plots in the Central Mexican Highlands to test their ability to recruit parasitic wasps under field conditions. The plants were artificially infested with neonate larvae of the fall armyworm Spodoptera frugiperda, and two of its main endoparasitoids, Campoletis sonorensis and Cotesia marginiventris, were released in the plots. Volatiles were collected from equally treated reference plants in the neighbourhood of the experimental field. The cumulative amount of 36 quantified volatile compounds determined for each line was in good accordance with findings from the laboratory; there was an almost 15-fold difference in total emission between the two extreme lines. We found significant differences among the lines with respect to the numbers of armyworms recovered from the plants, their average weight gain and parasitism rates. Average weight of the caterpillars was negatively correlated with the average total amount of volatiles released by the six inbred lines. However, neither total volatile emission nor any specific single compound within the blend could explain the differential parasitism rates among the lines, with the possible exception of (E)-2-hexenal for Campoletis sonorensis and methyl salicylate for Cotesia marginiventris. Herbivore-induced plant volatiles and/or correlates thereof contribute to reducing insect damage of maize plants through direct plant defence and enhanced attraction of parasitoids, alleged indirect defence. The potential to exploit these volatiles for pest control deserves to be further evaluated."
+  ],
+  "affiliation": [
+    "Laboratory of Fundamental and Applied Research in Chemical Ecology, Institute of Biology, University of Neuchâtel, Neuchâtel, Switzerland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Spodoptera"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Zea mays"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Odors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Volatilization"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Host-Parasite Interactions"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Herbivory"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3480431?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3480431"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=23112820&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=23112820"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1371/journal.pone.0047589"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-04-23"
+  ],
+  "dateOfCreation": [
+    "2012-10-31"
+  ],
+  "dateOfRevision": [
+    "2013-07-11"
+  ],
+  "electronicPublicationDate": [
+    "2012-10-24"
+  ],
+  "firstPublicationDate": [
+    "2012-10-24"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

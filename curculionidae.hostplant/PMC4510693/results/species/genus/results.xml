@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="genus">
+ <result pre="prominent Pseudomonas species, subsist on caffeine as a sole source of carbon and nitrogen. " exact="Pseudomonas" xpath="/html[1]/body[1]/div[2]/div[3]/div[2]/p[1]" match="Pseudomonas" post=" caffeine demethylase genes are expressed in vivo in the gut of H. hampei, and re-ino" name="genus"/>
+ <result pre="Of 124 species in the genus " exact="Coffea" xpath="/html[1]/body[1]/div[2]/div[3]/div[2]/p[1]" match="Coffea" post=" 1 2, only two are commercially traded: Coffea arabica and C." name="genus"/>
+ <result pre="/i&gt; × C. canephora). H. obscurus, H. crudiae and S. maurus were obtained from " exact="Cecropia" match="Cecropia" post=" leaf stems in Chiapas, Mexico. For the biogeography study and comparison purposes, coffee berry bo" name="genus"/>
+</results>

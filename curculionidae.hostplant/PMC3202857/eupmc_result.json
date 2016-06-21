@@ -1,0 +1,582 @@
+{
+  "id": [
+    "22069748"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22069748"
+  ],
+  "pmcid": [
+    "PMC3202857"
+  ],
+  "doi": [
+    "10.3390/toxins3070920"
+  ],
+  "title": [
+    "Spatial patterns of aflatoxin levels in relation to ear-feeding insect damage in pre-harvest corn."
+  ],
+  "authorString": [
+    "Ni X, Wilson JP, Buntin GD, Guo B, Krakowsky MD, Lee RD, Cottrell TE, Scully BT, Huffaker A, Schmelz EA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ni X"
+          ],
+          "firstName": [
+            "Xinzhi"
+          ],
+          "lastName": [
+            "Ni"
+          ],
+          "initials": [
+            "X"
+          ]
+        },
+        {
+          "fullName": [
+            "Wilson JP"
+          ],
+          "firstName": [
+            "Jeffrey P"
+          ],
+          "lastName": [
+            "Wilson"
+          ],
+          "initials": [
+            "JP"
+          ]
+        },
+        {
+          "fullName": [
+            "Buntin GD"
+          ],
+          "firstName": [
+            "G David"
+          ],
+          "lastName": [
+            "Buntin"
+          ],
+          "initials": [
+            "GD"
+          ]
+        },
+        {
+          "fullName": [
+            "Guo B"
+          ],
+          "firstName": [
+            "Baozhu"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Krakowsky MD"
+          ],
+          "firstName": [
+            "Matthew D"
+          ],
+          "lastName": [
+            "Krakowsky"
+          ],
+          "initials": [
+            "MD"
+          ]
+        },
+        {
+          "fullName": [
+            "Lee RD"
+          ],
+          "firstName": [
+            "R Dewey"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "RD"
+          ]
+        },
+        {
+          "fullName": [
+            "Cottrell TE"
+          ],
+          "firstName": [
+            "Ted E"
+          ],
+          "lastName": [
+            "Cottrell"
+          ],
+          "initials": [
+            "TE"
+          ]
+        },
+        {
+          "fullName": [
+            "Scully BT"
+          ],
+          "firstName": [
+            "Brian T"
+          ],
+          "lastName": [
+            "Scully"
+          ],
+          "initials": [
+            "BT"
+          ]
+        },
+        {
+          "fullName": [
+            "Huffaker A"
+          ],
+          "firstName": [
+            "Alisa"
+          ],
+          "lastName": [
+            "Huffaker"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Schmelz EA"
+          ],
+          "firstName": [
+            "Eric A"
+          ],
+          "lastName": [
+            "Schmelz"
+          ],
+          "initials": [
+            "EA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2837-734X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2837-734X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "1879585"
+      ],
+      "dateOfPublication": [
+        "2011 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2011"
+      ],
+      "printPublicationDate": [
+        "2011-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Toxins"
+          ],
+          "ISOAbbreviation": [
+            "Toxins (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Toxins (Basel)"
+          ],
+          "NLMid": [
+            "101530765"
+          ],
+          "ESSN": [
+            "2072-6651"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "920-931"
+  ],
+  "abstractText": [
+    "Key impediments to increased corn yield and quality in the southeastern US coastal plain region are damage by ear-feeding insects and aflatoxin contamination caused by infection of Aspergillus flavus. Key ear-feeding insects are corn earworm, Helicoverpa zea, fall armyworm, Spodoptera frugiperda, maize weevil, Sitophilus zeamais, and brown stink bug, Euschistus servus. In 2006 and 2007, aflatoxin contamination and insect damage were sampled before harvest in three 0.4-hectare corn fields using a grid sampling method. The feeding damage by each of ear/kernel-feeding insects (i.e., corn earworm/fall armyworm damage on the silk/cob, and discoloration of corn kernels by stink bugs), and maize weevil population were assessed at each grid point with five ears. The spatial distribution pattern of aflatoxin contamination was also assessed using the corn samples collected at each sampling point. Aflatoxin level was correlated to the number of maize weevils and stink bug-discolored kernels, but not closely correlated to either husk coverage or corn earworm damage. Contour maps of the maize weevil populations, stink bug-damaged kernels, and aflatoxin levels exhibited an aggregated distribution pattern with a strong edge effect on all three parameters. The separation of silk- and cob-feeding insects from kernel-feeding insects, as well as chewing (i.e., the corn earworm and maize weevil) and piercing-sucking insects (i.e., the stink bugs) and their damage in relation to aflatoxin accumulation is economically important. Both theoretic and applied ramifications of this study were discussed by proposing a hypothesis on the underlying mechanisms of the aggregated distribution patterns and strong edge effect of insect damage and aflatoxin contamination, and by discussing possible management tactics for aflatoxin reduction by proper management of kernel-feeding insects. Future directions on basic and applied research related to aflatoxin contamination are also discussed."
+  ],
+  "affiliation": [
+    "USDA-ARS, Crop Genetics and Breeding Research Unit, Tifton, GA 31793, USA. xinzhi.ni@ars.usda.gov"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Insects"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aspergillus flavus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GD"
+                  ],
+                  "qualifierName": [
+                    "growth & development"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PY"
+                  ],
+                  "qualifierName": [
+                    "pathogenicity"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Zea mays"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aflatoxins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TO"
+                  ],
+                  "qualifierName": [
+                    "toxicity"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Southeastern United States"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Host-Pathogen Interactions"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Edge effect",
+        "Aflatoxin",
+        "Maize Weevil",
+        "Stink Bug",
+        "Corn Earworm",
+        "Insect Damage",
+        "Aflatoxin Correlation"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Aflatoxins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3202857?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3202857"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=22069748"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=22069748&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.3390/toxins3070920"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-05-24"
+  ],
+  "dateOfCreation": [
+    "2011-11-09"
+  ],
+  "dateOfRevision": [
+    "2013-06-27"
+  ],
+  "electronicPublicationDate": [
+    "2011-07-21"
+  ],
+  "firstPublicationDate": [
+    "2011-07-21"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

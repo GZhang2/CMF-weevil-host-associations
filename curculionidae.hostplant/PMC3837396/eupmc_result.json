@@ -1,0 +1,284 @@
+{
+  "id": [
+    "24294090"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24294090"
+  ],
+  "pmcid": [
+    "PMC3837396"
+  ],
+  "doi": [
+    "10.3897/zookeys.352.6212"
+  ],
+  "title": [
+    "Deep phylogenetic divergence between Scolytoplatypus and Remansus, a new genus of Scolytoplatypodini from Madagascar (Coleoptera, Curculionidae, Scolytinae)."
+  ],
+  "authorString": [
+    "Jordal BH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jordal BH"
+          ],
+          "firstName": [
+            "Bjarte H"
+          ],
+          "lastName": [
+            "Jordal"
+          ],
+          "initials": [
+            "BH"
+          ],
+          "affiliation": [
+            "Natural History Museum, University Museum of Bergen, PB 7800, NO-5020 Bergen, Norway."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "352"
+      ],
+      "journalIssueId": [
+        "2099175"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ZooKeys"
+          ],
+          "ISOAbbreviation": [
+            "Zookeys"
+          ],
+          "medlineAbbreviation": [
+            "Zookeys"
+          ],
+          "NLMid": [
+            "101497933"
+          ],
+          "ISSN": [
+            "1313-2989"
+          ],
+          "ESSN": [
+            "1313-2970"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "9-33"
+  ],
+  "abstractText": [
+    "Scolytoplatypodini Blandford is a monotypic tribe of ambrosia beetles found in Asia, Madagascar and Africa. Only three species are currently known from Madagascar and four additional species are here described as new to science. Phylogenetic analyses of morphological and molecular data revealed that four of the seven endemic species are deeply separated from all other species by genetic and distinct morphological characters and therefore placed in a new genus Remansus Jordal. The split between this ancient lineage and Scolytoplatypus Schaufuss was estimated to approximate Palaeocene age (63 Ma), extending the minimum age of ambrosia feeding for this tribe to the beginning of the Palaeocene‒Eocene thermal maximum (PETM). In addition to the ancient origin of Remansus in Madagascar during the Palaeocene, a second origin occurred in Scolytoplatypus no more than 13 Ma. A geographical origin of the latter in South-Eastern Africa was unequivocally inferred from the phylogenies. "
+  ],
+  "affiliation": [
+    "Natural History Museum, University Museum of Bergen, PB 7800, NO-5020 Bergen, Norway."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Curculionidae",
+        "Biogeography",
+        "Molecular phylogeny",
+        "Madagascar",
+        "Scolytinae",
+        "Petm",
+        "Scolytoplatypodini"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3837396?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3837396"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=24294090&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=24294090"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.3897/zookeys.352.6212"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL",
+        "UNIPROT"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-12-02"
+  ],
+  "dateOfCreation": [
+    "2013-12-02"
+  ],
+  "dateOfRevision": [
+    "2014-01-24"
+  ],
+  "electronicPublicationDate": [
+    "2013-11-19"
+  ],
+  "firstPublicationDate": [
+    "2013-11-19"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

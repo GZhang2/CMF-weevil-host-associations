@@ -1,0 +1,234 @@
+{
+  "id": [
+    "PMC3088318"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC3088318"
+  ],
+  "title": [
+    "Stephen Lane Wood."
+  ],
+  "authorString": [
+    "E. Bright D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "E. Bright D"
+          ],
+          "firstName": [
+            "Donald"
+          ],
+          "lastName": [
+            "E. Bright"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Bioagricultural Sciences and Pest Management, C. P. Gillette, Museum of Arthropod Diversity, Colorado State University, Fort Collins, Colorado, 80527"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "56"
+      ],
+      "journalIssueId": [
+        "1833484"
+      ],
+      "dateOfPublication": [
+        "2010 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2010"
+      ],
+      "printPublicationDate": [
+        "2010-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ZooKeys"
+          ],
+          "ISOAbbreviation": [
+            "Zookeys"
+          ],
+          "medlineAbbreviation": [
+            "Zookeys"
+          ],
+          "NLMid": [
+            "101497933"
+          ],
+          "ISSN": [
+            "1313-2989"
+          ],
+          "ESSN": [
+            "1313-2970"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "7-16"
+  ],
+  "affiliation": [
+    "Department of Bioagricultural Sciences and Pest Management, C. P. Gillette, Museum of Arthropod Diversity, Colorado State University, Fort Collins, Colorado, 80527"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Obituary"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3088318?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3088318"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.org/articles/PMC3088318/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.org/articles/PMC3088318/?tool=EBI"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2011-05-27"
+  ],
+  "dateOfRevision": [
+    "2014-09-16"
+  ],
+  "electronicPublicationDate": [
+    "2010-09-17"
+  ],
+  "firstPublicationDate": [
+    "2010-09-17"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

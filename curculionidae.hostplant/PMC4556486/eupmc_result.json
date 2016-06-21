@@ -1,0 +1,384 @@
+{
+  "id": [
+    "26325383"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26325383"
+  ],
+  "pmcid": [
+    "PMC4556486"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0135939"
+  ],
+  "title": [
+    "Herbivory Differentially Affects Plant Fitness in Three Populations of the Perennial Herb Lythrum salicaria along a Latitudinal Gradient."
+  ],
+  "authorString": [
+    "Lehndal L, Ågren J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lehndal L"
+          ],
+          "firstName": [
+            "Lina"
+          ],
+          "lastName": [
+            "Lehndal"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Plant Ecology and Evolution, Department of Ecology and Genetics, Evolutionary Biology Centre, Uppsala University, Uppsala, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Ågren J"
+          ],
+          "firstName": [
+            "Jon"
+          ],
+          "lastName": [
+            "Ågren"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Plant Ecology and Evolution, Department of Ecology and Genetics, Evolutionary Biology Centre, Uppsala University, Uppsala, Sweden."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2318586"
+      ],
+      "dateOfPublication": [
+        "2015"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "e0135939"
+  ],
+  "abstractText": [
+    "Herbivory can negatively and selectively affect plant fitness by reducing growth, survival and reproductive output, thereby influencing plant population dynamics and evolution. Latitudinal variation in intensity of herbivory is common, but the extent to which it translates into corresponding variation in effects on plant performance is still poorly known. We tested the hypothesis that variation in the fitness-consequences of herbivory mirror differences in intensity of herbivory among three natural populations of the perennial herb Lythrum salicaria along a latitudinal gradient from southern to northernmost Sweden. We documented intensity of herbivory and examined its effect on survival, growth and reproductive output over two years by experimentally removing herbivores with insecticide. The intensity of herbivory and the effects of herbivory on plant fitness were strongest in the southern population, intermediate in the central population and weakest in the northern population. The mean proportion of the leaf area removed ranged from 11% in the southern to 3% in the northern population. Herbivore removal increased plant height 1.5-fold in the southern and 1.2-fold in the central population, the proportion plants flowering 4-fold in the southern and 2-fold in the central population, and seed production per flower 1.6-fold in the southern and 1.2-fold in the central population, but did not affect plant fitness in the northern population. Herbivore removal thus affected the relative fecundity of plants in the three populations: In the control, seed output per plant was 8.6 times higher in the northern population compared to the southern population, whereas after herbivore removal it was 2.5 times higher in the southern population. The results demonstrate that native herbivores may strongly affect the demographic structure of L. salicaria populations and thereby shape geographic patterns of seed production. They further suggest that the strength of herbivore-mediated selection varies among populations and decreases towards the north."
+  ],
+  "affiliation": [
+    "Plant Ecology and Evolution, Department of Ecology and Genetics, Evolutionary Biology Centre, Uppsala University, Uppsala, Sweden."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Weevils"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lythrum"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GD"
+                  ],
+                  "qualifierName": [
+                    "growth & development"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Leaves"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Demography"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Reproduction"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Geography"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sweden"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Herbivory"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4556486?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4556486"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1371/journal.pone.0135939"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-05-20"
+  ],
+  "dateOfCreation": [
+    "2015-09-02"
+  ],
+  "dateOfRevision": [
+    "2015-09-11"
+  ],
+  "electronicPublicationDate": [
+    "2015-09-01"
+  ],
+  "firstPublicationDate": [
+    "2015-09-01"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

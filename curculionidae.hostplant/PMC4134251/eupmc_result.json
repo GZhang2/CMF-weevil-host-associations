@@ -1,0 +1,681 @@
+{
+  "id": [
+    "25127450"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25127450"
+  ],
+  "pmcid": [
+    "PMC4134251"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0104946"
+  ],
+  "title": [
+    "Production of destruxins from Metarhizium spp. fungi in artificial medium and in endophytically colonized cowpea plants."
+  ],
+  "authorString": [
+    "Golo PS, Gardner DR, Grilley MM, Takemoto JY, Krasnoff SB, Pires MS, Fernandes ÉK, Bittencourt VR, Roberts DW."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Golo PS"
+          ],
+          "firstName": [
+            "Patrícia S"
+          ],
+          "lastName": [
+            "Golo"
+          ],
+          "initials": [
+            "PS"
+          ],
+          "affiliation": [
+            "Departamento de Parasitologia Animal, Instituto de Veterinária, Universidade Federal Rural do Rio de Janeiro, Seropédica, RJ, Brazil; Department of Biology, Utah State University, Logan, Utah, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Gardner DR"
+          ],
+          "firstName": [
+            "Dale R"
+          ],
+          "lastName": [
+            "Gardner"
+          ],
+          "initials": [
+            "DR"
+          ],
+          "affiliation": [
+            "USDA, ARS, Poisonous Plants Research Laboratory, Logan, Utah, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Grilley MM"
+          ],
+          "firstName": [
+            "Michelle M"
+          ],
+          "lastName": [
+            "Grilley"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "affiliation": [
+            "Department of Biology, Utah State University, Logan, Utah, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Takemoto JY"
+          ],
+          "firstName": [
+            "Jon Y"
+          ],
+          "lastName": [
+            "Takemoto"
+          ],
+          "initials": [
+            "JY"
+          ],
+          "affiliation": [
+            "Department of Biology, Utah State University, Logan, Utah, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Krasnoff SB"
+          ],
+          "firstName": [
+            "Stuart B"
+          ],
+          "lastName": [
+            "Krasnoff"
+          ],
+          "initials": [
+            "SB"
+          ],
+          "affiliation": [
+            "Biological Integrated Pest Management Research Unit, Robert W. Holley Center for Agriculture and Health, USDA-ARS, Ithaca, New York, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Pires MS"
+          ],
+          "firstName": [
+            "Marcus S"
+          ],
+          "lastName": [
+            "Pires"
+          ],
+          "initials": [
+            "MS"
+          ],
+          "affiliation": [
+            "Departamento de Parasitologia Animal, Instituto de Veterinária, Universidade Federal Rural do Rio de Janeiro, Seropédica, RJ, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Fernandes ÉK"
+          ],
+          "firstName": [
+            "Éverton K K"
+          ],
+          "lastName": [
+            "Fernandes"
+          ],
+          "initials": [
+            "ÉK"
+          ],
+          "affiliation": [
+            "Instituto de Patologia Tropical e Saúde Pública, Universidade Federal de Goiás, Goiânia, GO, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Bittencourt VR"
+          ],
+          "firstName": [
+            "Vânia R E P"
+          ],
+          "lastName": [
+            "Bittencourt"
+          ],
+          "initials": [
+            "VR"
+          ],
+          "affiliation": [
+            "Departamento de Parasitologia Animal, Instituto de Veterinária, Universidade Federal Rural do Rio de Janeiro, Seropédica, RJ, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Roberts DW"
+          ],
+          "firstName": [
+            "Donald W"
+          ],
+          "lastName": [
+            "Roberts"
+          ],
+          "initials": [
+            "DW"
+          ],
+          "affiliation": [
+            "Department of Biology, Utah State University, Logan, Utah, United States of America."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2185563"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "e104946"
+  ],
+  "abstractText": [
+    "Destruxins (DTXs) are cyclic depsipeptides produced by many Metarhizium isolates that have long been assumed to contribute to virulence of these entomopathogenic fungi. We evaluated the virulence of 20 Metarhizium isolates against insect larvae and measured the concentration of DTXs A, B, and E produced by these same isolates in submerged (shaken) cultures. Eight of the isolates (ARSEF 324, 724, 760, 1448, 1882, 1883, 3479, and 3918) did not produce DTXs A, B, or E during the five days of submerged culture. DTXs were first detected in culture medium at 2-3 days in submerged culture. Galleria mellonella and Tenebrio molitor showed considerable variation in their susceptibility to the Metarhizium isolates. The concentration of DTXs produced in vitro did not correlate with percent or speed of insect kill. We established endophytic associations of M. robertsii and M. acridum isolates in Vigna unguiculata (cowpeas) and Cucumis sativus (cucumber) plants. DTXs were detected in cowpeas colonized by M. robertsii ARSEF 2575 12 days after fungal inoculation, but DTXs were not detected in cucumber. This is the first instance of DTXs detected in plants endophytically colonized by M. robertsii. This finding has implications for new approaches to fungus-based biological control of pest arthropods."
+  ],
+  "affiliation": [
+    "Departamento de Parasitologia Animal, Instituto de Veterinária, Universidade Federal Rural do Rio de Janeiro, Seropédica, RJ, Brazil; Department of Biology, Utah State University, Logan, Utah, United States of America."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Insects"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fabaceae"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Depsipeptides"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fungal Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mycotoxins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Metarhizium"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "destruxin A"
+          ],
+          "registryNumber": [
+            "6686-70-0"
+          ]
+        },
+        {
+          "name": [
+            "destruxin B"
+          ],
+          "registryNumber": [
+            "2503-26-6"
+          ]
+        },
+        {
+          "name": [
+            "destruxin E"
+          ],
+          "registryNumber": [
+            "76689-14-0"
+          ]
+        },
+        {
+          "name": [
+            "Fungal Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Mycotoxins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Depsipeptides"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4134251?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4134251"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=25127450&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=25127450"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1371/journal.pone.0104946"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-12-15"
+  ],
+  "dateOfCreation": [
+    "2014-08-16"
+  ],
+  "electronicPublicationDate": [
+    "2014-08-15"
+  ],
+  "firstPublicationDate": [
+    "2014-08-15"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

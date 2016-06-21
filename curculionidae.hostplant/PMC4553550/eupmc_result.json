@@ -1,0 +1,251 @@
+{
+  "id": [
+    "26467734"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26467734"
+  ],
+  "pmcid": [
+    "PMC4553550"
+  ],
+  "doi": [
+    "10.3390/insects2030369"
+  ],
+  "title": [
+    "Exploring Phylogeographic Congruence in a Continental Island System."
+  ],
+  "authorString": [
+    "Goldberg J, Trewick SA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Goldberg J"
+          ],
+          "firstName": [
+            "Julia"
+          ],
+          "lastName": [
+            "Goldberg"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Phoenix Lab, Ecology Group, Institute of Natural Resources, Massey University, Private Bag 11-222, Palmerston North, New Zealand. jule.goldberg@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Trewick SA"
+          ],
+          "firstName": [
+            "Steven A"
+          ],
+          "lastName": [
+            "Trewick"
+          ],
+          "initials": [
+            "SA"
+          ],
+          "affiliation": [
+            "Phoenix Lab, Ecology Group, Institute of Natural Resources, Massey University, Private Bag 11-222, Palmerston North, New Zealand. s.trewick@massey.ac.nz."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "2333751"
+      ],
+      "dateOfPublication": [
+        "2011 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2011"
+      ],
+      "printPublicationDate": [
+        "2011-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Insects"
+          ],
+          "ISOAbbreviation": [
+            "Insects"
+          ],
+          "medlineAbbreviation": [
+            "Insects"
+          ],
+          "NLMid": [
+            "101574235"
+          ],
+          "ESSN": [
+            "2075-4450"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "369-399"
+  ],
+  "abstractText": [
+    "A prediction in phylogeographic studies is that patterns of lineage diversity and timing will be similar within the same landscape under the assumption that these lineages have responded to past environmental changes in comparable ways. Eight invertebrate taxa from four different orders were included in this study of mainland New Zealand and Chatham Islands lineages to explore outcomes of island colonization. These comprised two orthopteran genera, one an endemic forest-dwelling genus of cave weta (Rhaphidophoridae, Talitropsis) and the other a grasshopper (Acrididae, Phaulacridum) that inhabits open grassland; four genera of Coleoptera including carabid beetles (Mecodema), stag beetles (Geodorcus), weevils (Hadramphus) and clickbeetles (Amychus); the widespread earwig genus Anisolabis (Dermaptera) that is common on beaches in New Zealand and the Chatham Islands, and an endemic and widespread cockroach genus Celatoblatta (Blattodea). Mitochondrial DNA data were used to reconstruct phylogeographic hypotheses to compare among these taxa. Strikingly, despite a maximum age of the Chathams of ~4 million years there is no concordance among these taxa, in the extent of genetic divergence and partitioning between Chatham and Mainland populations. Some Chatham lineages are represented by insular endemics and others by haplotypes shared with mainland populations. These diverse patterns suggest that combinations of intrinsic (taxon ecology) and extrinsic (extinction and dispersal) factors can result in apparently very different biogeographic outcomes."
+  ],
+  "affiliation": [
+    "Phoenix Lab, Ecology Group, Institute of Natural Resources, Massey University, Private Bag 11-222, Palmerston North, New Zealand. jule.goldberg@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Insects",
+        "Orthoptera",
+        "Coleoptera",
+        "Mitochondrial DNA",
+        "New Zealand",
+        "Dermaptera",
+        "Blattodea",
+        "Chatham Islands",
+        "Phylogeographic Patterns"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4553550"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.3390/insects2030369"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2015-10-15"
+  ],
+  "dateOfCreation": [
+    "2015-10-15"
+  ],
+  "dateOfRevision": [
+    "2015-10-22"
+  ],
+  "electronicPublicationDate": [
+    "2011-08-03"
+  ],
+  "firstPublicationDate": [
+    "2011-08-03"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

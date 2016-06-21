@@ -1,0 +1,427 @@
+{
+  "id": [
+    "25681033"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25681033"
+  ],
+  "pmcid": [
+    "PMC4494152"
+  ],
+  "doi": [
+    "10.1007/s00248-015-0570-2"
+  ],
+  "title": [
+    "Relations of Wolbachia Infection with Phylogeography of Philaenus spumarius (Hemiptera: Aphrophoridae) Populations Within and Beyond the Carpathian Contact Zone."
+  ],
+  "authorString": [
+    "Lis A, Maryańska-Nadachowska A, Kajtoch Ł."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lis A"
+          ],
+          "firstName": [
+            "Agata"
+          ],
+          "lastName": [
+            "Lis"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institute of Systematics and Evolution of Animals, Polish Academy of Sciences, Slawkowska St. 17, 31-016, Cracow, Poland, lis@isez.pan.krakow.pl."
+          ]
+        },
+        {
+          "fullName": [
+            "Maryańska-Nadachowska A"
+          ],
+          "firstName": [
+            "Anna"
+          ],
+          "lastName": [
+            "Maryańska-Nadachowska"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Kajtoch Ł"
+          ],
+          "firstName": [
+            "Łukasz"
+          ],
+          "lastName": [
+            "Kajtoch"
+          ],
+          "initials": [
+            "Ł"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "70"
+      ],
+      "journalIssueId": [
+        "2301334"
+      ],
+      "dateOfPublication": [
+        "2015 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Microbial ecology"
+          ],
+          "ISOAbbreviation": [
+            "Microb. Ecol."
+          ],
+          "medlineAbbreviation": [
+            "Microb Ecol"
+          ],
+          "NLMid": [
+            "7500663"
+          ],
+          "ISSN": [
+            "0095-3628"
+          ],
+          "ESSN": [
+            "1432-184X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "509-521"
+  ],
+  "abstractText": [
+    "Wolbachia is the most widespread intracellular α-proteobacteria maternally inherited endosymbiont of insects and nematodes. These bacteria are associated with a number of different reproductive phenotypes of their hosts. Relatively few studies have dealt with distribution of infections across populations and with the influence of these bacteria on host genetic diversification and speciation. The aims of this study are to determine the distribution and rate of infection and to characterize the Wolbachia strains associated with Philaenus spumarius spittlebug (Hemiptera) by using multilocus sequencing typing (MLST) analysis and host phylogeography. The results showed that infection rate was significantly different between members of both main mitochondrial phylogenetic lineages of P. spumarius. We detected much higher infection rates of Wolbachia in P. spumarius populations from the north-east clade than the south-west clade. Moreover, the frequency of these infections varied within and outside the contact zone known from the Carpathians. Given the reproductive alterations which are often associated with this endosymbiont, Wolbachia probably maintain genetic differentiation of its hosts in its contact zone in the Carpathians. This is one of the first studies demonstrating the presence of Wolbachia across a large part of the range of insect species, including the contact zone. The spread of Wolbachia in P. spumarius populations can potentially cause speciation by compromising the potential reproductive barrier between infected and uninfected populations. We discuss possible implications of Wolbachia infection inducing cytoplasmic incompatibility in the population dynamics of this spittlebug but confirm that more studies are also required."
+  ],
+  "affiliation": [
+    "Institute of Systematics and Evolution of Animals, Polish Academy of Sciences, Slawkowska St. 17, 31-016, Cracow, Poland, lis@isez.pan.krakow.pl."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hemiptera"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Wolbachia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA, Mitochondrial"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phylogeny"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Multilocus Sequence Typing"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "DNA, Mitochondrial"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4494152?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4494152"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1007/s00248-015-0570-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL",
+        "UNIPROT"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2016-05-02"
+  ],
+  "dateOfCreation": [
+    "2015-07-08"
+  ],
+  "dateOfRevision": [
+    "2015-07-09"
+  ],
+  "electronicPublicationDate": [
+    "2015-02-14"
+  ],
+  "firstPublicationDate": [
+    "2015-02-14"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

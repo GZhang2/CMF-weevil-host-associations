@@ -1,0 +1,306 @@
+{
+  "id": [
+    "26042134"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26042134"
+  ],
+  "pmcid": [
+    "PMC4436562"
+  ],
+  "doi": [
+    "10.3389/fpls.2015.00342"
+  ],
+  "title": [
+    "Variations in foliar monoterpenes across the range of jack pine reveal three widespread chemotypes: implications to host expansion of invasive mountain pine beetle."
+  ],
+  "authorString": [
+    "Taft S, Najar A, Godbout J, Bousquet J, Erbilgin N."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Taft S"
+          ],
+          "firstName": [
+            "Spencer"
+          ],
+          "lastName": [
+            "Taft"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Renewable Resources, University of Alberta Edmonton, AB, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Najar A"
+          ],
+          "firstName": [
+            "Ahmed"
+          ],
+          "lastName": [
+            "Najar"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Renewable Resources, University of Alberta Edmonton, AB, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Godbout J"
+          ],
+          "firstName": [
+            "Julie"
+          ],
+          "lastName": [
+            "Godbout"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Natural Resources Canada, Canadian Forest Service, Laurentian Forestry Centre Québec, QC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Bousquet J"
+          ],
+          "firstName": [
+            "Jean"
+          ],
+          "lastName": [
+            "Bousquet"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Canada Research Chair in Forest and Environmental Genomics, Forest Research Centre, Université Laval Québec, QC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Erbilgin N"
+          ],
+          "firstName": [
+            "Nadir"
+          ],
+          "lastName": [
+            "Erbilgin"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Renewable Resources, University of Alberta Edmonton, AB, Canada."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2260598"
+      ],
+      "dateOfPublication": [
+        "2015"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in plant science"
+          ],
+          "ISOAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "medlineAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "NLMid": [
+            "101568200"
+          ],
+          "ESSN": [
+            "1664-462X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "342"
+  ],
+  "abstractText": [
+    "The secondary compounds of pines (Pinus) can strongly affect the physiology, ecology and behaviors of the bark beetles (Coleoptera: Curculionidae, Scolytinae) that feed on sub-cortical tissues of hosts. Jack pine (Pinus banksiana) has a wide natural distribution range in North America (Canada and USA) and thus variations in its secondary compounds, particularly monoterpenes, could affect the host expansion of invasive mountain pine beetle (Dendroctonus ponderosae), which has recently expanded its range into the novel jack pine boreal forest. We investigated monoterpene composition of 601 jack pine trees from natural and provenance forest stands representing 63 populations from Alberta to the Atlantic coast. Throughout its range, jack pine exhibited three chemotypes characterized by high proportions of α-pinene, β-pinene, or limonene. The frequency with which the α-pinene and β-pinene chemotypes occurred at individual sites was correlated to climatic variables, such as continentality and mean annual precipitation, as were the individual α-pinene and β-pinene concentrations. However, other monoterpenes were generally not correlated to climatic variables or geographic distribution. Finally, while the enantiomeric ratios of β-pinene and limonene remained constant across jack pine's distribution, (-):(+)-α-pinene exhibited two separate trends, thereby delineating two α-pinene phenotypes, both of which occurred across jack pine's range. These significant variations in jack pine monoterpene composition may have cascading effects on the continued eastward spread and success of D. ponderosae in the Canadian boreal forest."
+  ],
+  "affiliation": [
+    "Department of Renewable Resources, University of Alberta Edmonton, AB, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pinaceae",
+        "Monoterpenes",
+        "Pinus banksiana",
+        "Dendroctonus Ponderosae",
+        "Mountain Pine Beetle",
+        "Jack Pine"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4436562?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4436562"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.3389/fpls.2015.00342"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-06-04"
+  ],
+  "dateOfCreation": [
+    "2015-06-04"
+  ],
+  "dateOfRevision": [
+    "2015-06-06"
+  ],
+  "electronicPublicationDate": [
+    "2015-05-19"
+  ],
+  "firstPublicationDate": [
+    "2015-05-19"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

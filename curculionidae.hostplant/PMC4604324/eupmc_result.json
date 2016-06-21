@@ -1,0 +1,343 @@
+{
+  "id": [
+    "26528297"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26528297"
+  ],
+  "pmcid": [
+    "PMC4604324"
+  ],
+  "doi": [
+    "10.3389/fpls.2015.00817"
+  ],
+  "title": [
+    "Transcriptome analysis of Phoenix canariensis Chabaud in response to Rhynchophorus ferrugineus Olivier attacks."
+  ],
+  "authorString": [
+    "Giovino A, Bertolini E, Fileccia V, Al Hassan M, Labra M, Martinelli F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Giovino A"
+          ],
+          "firstName": [
+            "Antonio"
+          ],
+          "lastName": [
+            "Giovino"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Unità di Ricerca per il Recupero e la Valorizzazione delle Specie Floricole Mediterranee, Consiglio per la Ricerca in Agricoltura e l'Analisi dell'Economia Agraria Palermo, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Bertolini E"
+          ],
+          "firstName": [
+            "Edoardo"
+          ],
+          "lastName": [
+            "Bertolini"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Istituto di Scienze della Vita, Scuola Superiore Sant'Anna Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Fileccia V"
+          ],
+          "firstName": [
+            "Veronica"
+          ],
+          "lastName": [
+            "Fileccia"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Dipartimento di Scienze Agrarie e Forestali, Università degli Studi di Palermo Palermo, Italy ; Istituto Euromediterraneo di Scienza e Tecnologia Palermo, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Al Hassan M"
+          ],
+          "firstName": [
+            "Mohamad"
+          ],
+          "lastName": [
+            "Al Hassan"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2297-3394",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Universitat Politècnica de València, Instituto de Biología Molecular y Celular de Plantas, Consejo Superior de Investigaciones Científicas (CSIC), Ciudad Politécnica de la Investigación (CPI) Valencia, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Labra M"
+          ],
+          "firstName": [
+            "Massimo"
+          ],
+          "lastName": [
+            "Labra"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Dipartimento di Biotecnologie e Bioscienze, Università degli Studi di Milano Bicocca Milano, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Martinelli F"
+          ],
+          "firstName": [
+            "Federico"
+          ],
+          "lastName": [
+            "Martinelli"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Dipartimento di Scienze Agrarie e Forestali, Università degli Studi di Palermo Palermo, Italy ; Istituto Euromediterraneo di Scienza e Tecnologia Palermo, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2297-3394",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2260598"
+      ],
+      "dateOfPublication": [
+        "2015"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in plant science"
+          ],
+          "ISOAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "medlineAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "NLMid": [
+            "101568200"
+          ],
+          "ESSN": [
+            "1664-462X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "817"
+  ],
+  "abstractText": [
+    "Red Palm Weevil (RPW, Rhynchophorus ferrugineus Olivier) threatens most palm species worldwide. Until now, no studies have analyzed the gene regulatory networks of Phoenix canariensis (Chabaud) in response to RPW attacks. The aim of this study was to fill this knowledge gap. Providing this basic knowledge is very important to improve its management.A deep transcriptome analysis was performed on fully expanded leaves of healthy non-infested trees and attacked trees at two symptom stages (middle and late infestation). A total of 54 genes were significantly regulated during middle stage. Pathway enrichment analysis showed that phenylpropanoid-related pathways were induced at this stage. More than 3300 genes were affected during late stage of attacks. Higher transcript abundances were observed for lipid fatty acid metabolism (fatty acid and glycerolipids), tryptophan metabolism, phenylpropanoid metabolism. Key RPW-modulated genes involved in innate response mediated by hormone crosstalk were observed belonging to auxin, jasmonate and salicylic acid (SA) pathways. Among transcription factors, some WRKYs were clearly induced. qRT-PCR validation confirmed the upregulation of key genes chosen as validation of transcriptomic analysis.A subset of these genes may be further analyzed in future studies to confirm their specificity to be induced by RPW infestations."
+  ],
+  "affiliation": [
+    "Unità di Ricerca per il Recupero e la Valorizzazione delle Specie Floricole Mediterranee, Consiglio per la Ricerca in Agricoltura e l'Analisi dell'Economia Agraria Palermo, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Genes",
+        "Phoenix canariensis",
+        "palm",
+        "Red palm weevil",
+        "Rna-seq",
+        "Rhynchophorus Ferrugineus"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4604324?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4604324"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.3389/fpls.2015.00817"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-11-03"
+  ],
+  "dateOfCreation": [
+    "2015-11-03"
+  ],
+  "dateOfRevision": [
+    "2015-11-05"
+  ],
+  "electronicPublicationDate": [
+    "2015-10-14"
+  ],
+  "firstPublicationDate": [
+    "2015-10-14"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

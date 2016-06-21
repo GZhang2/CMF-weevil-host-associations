@@ -1,0 +1,341 @@
+{
+  "id": [
+    "24688833"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24688833"
+  ],
+  "pmcid": [
+    "PMC3932820"
+  ],
+  "doi": [
+    "10.7717/peerj.240"
+  ],
+  "title": [
+    "Comparison of lodgepole and jack pine resin chemistry: implications for range expansion by the mountain pine beetle, Dendroctonus ponderosae (Coleoptera: Curculionidae)."
+  ],
+  "authorString": [
+    "Clark EL, Pitt C, Carroll AL, Lindgren BS, Huber DP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Clark EL"
+          ],
+          "firstName": [
+            "Erin L"
+          ],
+          "lastName": [
+            "Clark"
+          ],
+          "initials": [
+            "EL"
+          ],
+          "affiliation": [
+            "Ecosystem Science and Management Program, University of Northern British Columbia , Prince George , British Columbia , Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Pitt C"
+          ],
+          "firstName": [
+            "Caitlin"
+          ],
+          "lastName": [
+            "Pitt"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Ecosystem Science and Management Program, University of Northern British Columbia , Prince George , British Columbia , Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Carroll AL"
+          ],
+          "firstName": [
+            "Allan L"
+          ],
+          "lastName": [
+            "Carroll"
+          ],
+          "initials": [
+            "AL"
+          ],
+          "affiliation": [
+            "Department of Forest & Conservation Sciences, University of British Columbia , Vancouver , British Columbia , Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Lindgren BS"
+          ],
+          "firstName": [
+            "B Staffan"
+          ],
+          "lastName": [
+            "Lindgren"
+          ],
+          "initials": [
+            "BS"
+          ],
+          "affiliation": [
+            "Ecosystem Science and Management Program, University of Northern British Columbia , Prince George , British Columbia , Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Huber DP"
+          ],
+          "firstName": [
+            "Dezene P W"
+          ],
+          "lastName": [
+            "Huber"
+          ],
+          "initials": [
+            "DP"
+          ],
+          "affiliation": [
+            "Ecosystem Science and Management Program, University of Northern British Columbia , Prince George , British Columbia , Canada."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "2121020"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PeerJ"
+          ],
+          "ISOAbbreviation": [
+            "PeerJ"
+          ],
+          "medlineAbbreviation": [
+            "PeerJ"
+          ],
+          "NLMid": [
+            "101603425"
+          ],
+          "ESSN": [
+            "2167-8359"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "e240"
+  ],
+  "abstractText": [
+    "The mountain pine beetle, Dendroctonus ponderosae, is a significant pest of lodgepole pine in British Columbia (BC), where it has recently reached an unprecedented outbreak level. Although it is native to western North America, the beetle can now be viewed as a native invasive because for the first time in recorded history it has begun to reproduce in native jack pine stands within the North American boreal forest. The ability of jack pine trees to defend themselves against mass attack and their suitability for brood success will play a major role in the success of this insect in a putatively new geographic range and host. Lodgepole and jack pine were sampled along a transect extending from the beetle's historic range (central BC) to the newly invaded area east of the Rocky Mountains in north-central Alberta (AB) in Canada for constitutive phloem resin terpene levels. In addition, two populations of lodgepole pine (BC) and one population of jack pine (AB) were sampled for levels of induced phloem terpenes. Phloem resin terpenes were identified and quantified using gas chromatography. Significant differences were found in constitutive levels of terpenes between the two species of pine. Constitutive α-pinene levels - a precursor in the biosynthesis of components of the aggregation and antiaggregation pheromones of mountain pine beetle - were significantly higher in jack pine. However, lower constitutive levels of compounds known to be toxic to bark beetles, e.g., 3-carene, in jack pine suggests that this species could be poorly defended. Differences in wounding-induced responses for phloem accumulation of five major terpenes were found between the two populations of lodgepole pine and between lodgepole and jack pine. The mountain pine beetle will face a different constitutive and induced phloem resin terpene environment when locating and colonizing jack pine in its new geographic range, and this may play a significant role in the ability of the insect to persist in this new host."
+  ],
+  "affiliation": [
+    "Ecosystem Science and Management Program, University of Northern British Columbia , Prince George , British Columbia , Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Coleoptera",
+        "Curculionidae",
+        "Secondary metabolites",
+        "Bark beetles",
+        "plant defense",
+        "terpenes",
+        "Scolytinae"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3932820?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3932820"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=24688833"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=24688833&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.7717/peerj.240"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-04-01"
+  ],
+  "dateOfCreation": [
+    "2014-04-01"
+  ],
+  "dateOfRevision": [
+    "2014-04-03"
+  ],
+  "electronicPublicationDate": [
+    "2014-02-11"
+  ],
+  "firstPublicationDate": [
+    "2014-02-11"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

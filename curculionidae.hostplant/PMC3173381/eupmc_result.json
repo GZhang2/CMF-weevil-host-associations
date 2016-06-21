@@ -1,0 +1,471 @@
+{
+  "id": [
+    "21935419"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "21935419"
+  ],
+  "pmcid": [
+    "PMC3173381"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0024528"
+  ],
+  "title": [
+    "Some like it hot: the influence and implications of climate change on coffee berry borer (Hypothenemus hampei) and coffee production in East Africa."
+  ],
+  "authorString": [
+    "Jaramillo J, Muchugu E, Vega FE, Davis A, Borgemeister C, Chabi-Olaye A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jaramillo J"
+          ],
+          "firstName": [
+            "Juliana"
+          ],
+          "lastName": [
+            "Jaramillo"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Muchugu E"
+          ],
+          "firstName": [
+            "Eric"
+          ],
+          "lastName": [
+            "Muchugu"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Vega FE"
+          ],
+          "firstName": [
+            "Fernando E"
+          ],
+          "lastName": [
+            "Vega"
+          ],
+          "initials": [
+            "FE"
+          ]
+        },
+        {
+          "fullName": [
+            "Davis A"
+          ],
+          "firstName": [
+            "Aaron"
+          ],
+          "lastName": [
+            "Davis"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Borgemeister C"
+          ],
+          "firstName": [
+            "Christian"
+          ],
+          "lastName": [
+            "Borgemeister"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Chabi-Olaye A"
+          ],
+          "firstName": [
+            "Adenirin"
+          ],
+          "lastName": [
+            "Chabi-Olaye"
+          ],
+          "initials": [
+            "A"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "1863683"
+      ],
+      "dateOfPublication": [
+        "2011 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2011"
+      ],
+      "printPublicationDate": [
+        "2011-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "e24528"
+  ],
+  "abstractText": [
+    "The negative effects of climate change are already evident for many of the 25 million coffee farmers across the tropics and the 90 billion dollar (US) coffee industry. The coffee berry borer (Hypothenemus hampei), the most important pest of coffee worldwide, has already benefited from the temperature rise in East Africa: increased damage to coffee crops and expansion in its distribution range have been reported. In order to anticipate threats and prioritize management actions for H. hampei we present here, maps on future distributions of H. hampei in coffee producing areas of East Africa. Using the CLIMEX model we relate present-day insect distributions to current climate and then project the fitted climatic envelopes under future scenarios A2A and B2B (for HADCM3 model). In both scenarios, the situation with H. hampei is forecasted to worsen in the current Coffea arabica producing areas of Ethiopia, the Ugandan part of the Lake Victoria and Mt. Elgon regions, Mt. Kenya and the Kenyan side of Mt. Elgon, and most of Rwanda and Burundi. The calculated hypothetical number of generations per year of H. hampei is predicted to increase in all C. arabica-producing areas from five to ten. These outcomes will have serious implications for C. arabica production and livelihoods in East Africa. We suggest that the best way to adapt to a rise of temperatures in coffee plantations could be via the introduction of shade trees in sun grown plantations. The aims of this study are to fill knowledge gaps existing in the coffee industry, and to draft an outline for the development of an adaptation strategy package for climate change on coffee production. An abstract in Spanish is provided as Abstract S1."
+  ],
+  "affiliation": [
+    "Institute of Plant Diseases and Plant Protection, University of Hannover, Hannover, Germany. jjaramillo@icipe.org"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Beetles"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GD"
+                  ],
+                  "qualifierName": [
+                    "growth & development"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PY"
+                  ],
+                  "qualifierName": [
+                    "pathogenicity"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Coffea"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Insect Control"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Coffee"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Africa"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ethiopia"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Climate Change"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Coffee"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3173381?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3173381"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=21935419&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=21935419"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1371/journal.pone.0024528"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "20"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-02-28"
+  ],
+  "dateOfCreation": [
+    "2011-09-21"
+  ],
+  "dateOfRevision": [
+    "2013-06-27"
+  ],
+  "electronicPublicationDate": [
+    "2011-09-14"
+  ],
+  "firstPublicationDate": [
+    "2011-09-14"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

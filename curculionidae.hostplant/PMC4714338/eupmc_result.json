@@ -1,0 +1,310 @@
+{
+  "id": [
+    "26798319"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26798319"
+  ],
+  "pmcid": [
+    "PMC4714338"
+  ],
+  "doi": [
+    "10.3897/zookeys.547.6098"
+  ],
+  "title": [
+    "Leaf beetles are ant-nest beetles: the curious life of the juvenile stages of case-bearers (Coleoptera, Chrysomelidae, Cryptocephalinae)."
+  ],
+  "authorString": [
+    "Agrain FA, Buffington ML, Chaboo CS, Chamorro ML, Schöller M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Agrain FA"
+          ],
+          "firstName": [
+            "Federico A"
+          ],
+          "lastName": [
+            "Agrain"
+          ],
+          "initials": [
+            "FA"
+          ],
+          "affiliation": [
+            "Laboratorio de Entomología, IADIZA, CCT-CONICET, CC507, 5500, Av. A. Ruiz Leal s/n, Pque. Gral. San Martin, Mendoza, Argentina."
+          ]
+        },
+        {
+          "fullName": [
+            "Buffington ML"
+          ],
+          "firstName": [
+            "Matthew L"
+          ],
+          "lastName": [
+            "Buffington"
+          ],
+          "initials": [
+            "ML"
+          ],
+          "affiliation": [
+            "Systematic Entomology Laboratory, ARS-USDA, MRC 168, National Museum of Natural History, Smithsonian Institution P.O. Box 37012, Washington, DC, 20013-7012, U.S.A."
+          ]
+        },
+        {
+          "fullName": [
+            "Chaboo CS"
+          ],
+          "firstName": [
+            "Caroline S"
+          ],
+          "lastName": [
+            "Chaboo"
+          ],
+          "initials": [
+            "CS"
+          ],
+          "affiliation": [
+            "Division of Entomology, 1501 Crestline Drive, Suite 140, University of Kansas, Lawrence, KS, 66045, U.S.A."
+          ]
+        },
+        {
+          "fullName": [
+            "Chamorro ML"
+          ],
+          "firstName": [
+            "Maria L"
+          ],
+          "lastName": [
+            "Chamorro"
+          ],
+          "initials": [
+            "ML"
+          ],
+          "affiliation": [
+            "Systematic Entomology Laboratory, ARS-USDA, MRC 168, National Museum of Natural History, Smithsonian Institution P.O. Box 37012, Washington, DC, 20013-7012, U.S.A."
+          ]
+        },
+        {
+          "fullName": [
+            "Schöller M"
+          ],
+          "firstName": [
+            "Matthias"
+          ],
+          "lastName": [
+            "Schöller"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Humboldt-Universität zu Berlin, Faculty of Life Sciences, Lentzeallee 55/57, 14195 Berlin, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "547"
+      ],
+      "journalIssueId": [
+        "2366621"
+      ],
+      "dateOfPublication": [
+        "2015 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ZooKeys"
+          ],
+          "ISOAbbreviation": [
+            "Zookeys"
+          ],
+          "medlineAbbreviation": [
+            "Zookeys"
+          ],
+          "NLMid": [
+            "101497933"
+          ],
+          "ISSN": [
+            "1313-2989"
+          ],
+          "ESSN": [
+            "1313-2970"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "133-164"
+  ],
+  "abstractText": [
+    "Although some species of Cryptocephalinae (Coleoptera: Chrysomelidae) have been documented with ants (Hymenoptera: Formicidae) for almost 200 years, information on this association is fragmentary. This contribution synthesizes extant literature and analysizes the data for biological patterns. Myrmecophily is more common in the tribe Clytrini than in Cryptocephalini, but not documented for Fulcidacini or the closely-related Lamprosomatinae. Myrmecophilous cryptocephalines (34 species in 14 genera) primarily live among formicine and myrmecines ants as hosts. These two ant lineages are putative sister-groups, with their root-node dated to between 77-90 mya. In the New World tropics, the relatively recent radiation of ants from moist forests to more xeric ecosystems might have propelled the association of cryptocephalines and ant nests. Literature records suggest that the defensive behavioral profile or chemical profile (or both) of these ants has been exploited by cryptocephalines. Another pattern appears to be that specialized natural enemies, especially parasitoid Hymenoptera, exploit cryptocephaline beetles inside the ant nests. With the extant data at hand, based on the minimum age of a fossil larva dated to 45 mya, we can infer that the origin of cryptocephaline myrmecophily could have arisen within the Upper Cretaceous or later. It remains unknown how many times myrmecophily has appeared, or how old is the behavior. This uncertainty is compounded by incongruent hypotheses about the origins of Chrysomelidae and angiosperm-associated lineages of cryptocephalines. Living with ants offers multiple advantages that might have aided the colonization of xeric environments by some cryptocephaline species."
+  ],
+  "affiliation": [
+    "Laboratorio de Entomología, IADIZA, CCT-CONICET, CC507, 5500, Av. A. Ruiz Leal s/n, Pque. Gral. San Martin, Mendoza, Argentina."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Biology",
+        "Larvae",
+        "Myrmecophily",
+        "Clytrini",
+        "Camptosomata",
+        "Cryptocephalini"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4714338?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4714338"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.3897/zookeys.547.6098"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-01-22"
+  ],
+  "dateOfCreation": [
+    "2016-01-22"
+  ],
+  "dateOfRevision": [
+    "2016-01-24"
+  ],
+  "electronicPublicationDate": [
+    "2015-12-17"
+  ],
+  "firstPublicationDate": [
+    "2015-12-17"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "id": [
+    "23112835"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23112835"
+  ],
+  "pmcid": [
+    "PMC3480426"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0047689"
+  ],
+  "title": [
+    "Gaps in border controls are related to quarantine alien insect invasions in Europe."
+  ],
+  "authorString": [
+    "Bacon SJ, Bacher S, Aebi A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bacon SJ"
+          ],
+          "firstName": [
+            "Steven James"
+          ],
+          "lastName": [
+            "Bacon"
+          ],
+          "initials": [
+            "SJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Bacher S"
+          ],
+          "firstName": [
+            "Sven"
+          ],
+          "lastName": [
+            "Bacher"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5147-7165",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Aebi A"
+          ],
+          "firstName": [
+            "Alexandre"
+          ],
+          "lastName": [
+            "Aebi"
+          ],
+          "initials": [
+            "A"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5147-7165",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "1973029"
+      ],
+      "dateOfPublication": [
+        "2012 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "e47689"
+  ],
+  "abstractText": [
+    "Alien insects are increasingly being dispersed around the world through international trade, causing a multitude of negative environmental impacts and billions of dollars in economic losses annually. Border controls form the last line of defense against invasions, whereby inspectors aim to intercept and stop consignments that are contaminated with harmful alien insects. In Europe, member states depend on one another to prevent insect introductions by operating a first point of entry rule--controlling goods only when they initially enter the continent. However, ensuring consistency between border control points is difficult because there exists no optimal inspection strategy. For the first time, we developed a method to quantify the volume of agricultural trade that should be inspected for quarantine insects at border control points in Europe, based on global agricultural trade of over 100 million distinct origin-commodity-species-destination pathways. This metric was then used to evaluate the performance of existing border controls, as measured by border interception results in Europe between 2003 and 2007. Alarmingly, we found significant gaps between the trade pathways that should be inspected and actual number of interceptions. Moreover, many of the most likely introduction pathways yielded none or very few insect interceptions, because regular interceptions are only made on only a narrow range of pathways. European countries with gaps in border controls have been invaded by higher numbers of quarantine alien insect species, indicating the importance of proper inspections to prevent insect invasions. Equipped with an optimal inspection strategy based on the underlying risks of trade, authorities globally will be able to implement more effective and consistent border controls."
+  ],
+  "affiliation": [
+    "Biodiversity and Environmental Management, Agroscope Reckenholz-Tänikon ART, Zürich, Switzerland. sj_bacon@hotmail.com"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Insects"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Environment"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Quarantine"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Internationality"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Agriculture"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Europe"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Introduced Species"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3480426?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3480426"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=23112835&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=23112835"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1371/journal.pone.0047689"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-04-23"
+  ],
+  "dateOfCreation": [
+    "2012-10-31"
+  ],
+  "dateOfRevision": [
+    "2013-07-11"
+  ],
+  "electronicPublicationDate": [
+    "2012-10-24"
+  ],
+  "firstPublicationDate": [
+    "2012-10-24"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

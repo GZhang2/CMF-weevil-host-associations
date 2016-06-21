@@ -1,0 +1,340 @@
+{
+  "id": [
+    "26679518"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26679518"
+  ],
+  "pmcid": [
+    "PMC4683511"
+  ],
+  "doi": [
+    "10.1038/srep18527"
+  ],
+  "title": [
+    "A toxic endophyte-infected grass helps reverse degradation and loss of biodiversity of over-grazed grasslands in northwest China."
+  ],
+  "authorString": [
+    "Yao X, Christensen MJ, Bao G, Zhang C, Li X, Li C, Nan Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yao X"
+          ],
+          "firstName": [
+            "Xiang"
+          ],
+          "lastName": [
+            "Yao"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "The State Key Laboratory of Grassland Agro-ecosystems; College of Pastoral Agriculture Science and Technology, Lanzhou University, P. O. Box 61, Lanzhou 730020, Gansu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Christensen MJ"
+          ],
+          "firstName": [
+            "Michael J"
+          ],
+          "lastName": [
+            "Christensen"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "affiliation": [
+            "The State Key Laboratory of Grassland Agro-ecosystems; College of Pastoral Agriculture Science and Technology, Lanzhou University, P. O. Box 61, Lanzhou 730020, Gansu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Bao G"
+          ],
+          "firstName": [
+            "Gensheng"
+          ],
+          "lastName": [
+            "Bao"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "The State Key Laboratory of Grassland Agro-ecosystems; College of Pastoral Agriculture Science and Technology, Lanzhou University, P. O. Box 61, Lanzhou 730020, Gansu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang C"
+          ],
+          "firstName": [
+            "Chunping"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "The State Key Laboratory of Grassland Agro-ecosystems; College of Pastoral Agriculture Science and Technology, Lanzhou University, P. O. Box 61, Lanzhou 730020, Gansu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li X"
+          ],
+          "firstName": [
+            "Xiuzhang"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "The State Key Laboratory of Grassland Agro-ecosystems; College of Pastoral Agriculture Science and Technology, Lanzhou University, P. O. Box 61, Lanzhou 730020, Gansu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li C"
+          ],
+          "firstName": [
+            "Chunjie"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "The State Key Laboratory of Grassland Agro-ecosystems; College of Pastoral Agriculture Science and Technology, Lanzhou University, P. O. Box 61, Lanzhou 730020, Gansu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Nan Z"
+          ],
+          "firstName": [
+            "Zhibiao"
+          ],
+          "lastName": [
+            "Nan"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "The State Key Laboratory of Grassland Agro-ecosystems; College of Pastoral Agriculture Science and Technology, Lanzhou University, P. O. Box 61, Lanzhou 730020, Gansu, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2243512"
+      ],
+      "dateOfPublication": [
+        "2015"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "18527"
+  ],
+  "abstractText": [
+    "Overgrazing of China's grasslands is increasingly causing biodiversity to decline. In degenerated grasslands of northwest China endophyte (Epichloё gansuensis) infected Achnatherum inebrians (drunken horse grass) is becoming widely distributed because of its toxicity to livestock. In this study, we investigated the ecological consequences of endophyte toxicity in this native grass, at three sites in northwest China, by comparing seed production of plant species and arthropod abundance in overgrazed grasslands with and without the presence of A. inebrians. Our findings demonstrate that the presence of endophyte infected A. inebrians reduces the loss of plant and arthropod biodiversity by providing a protected nursery free of animal grazing. Therefore, A. inebrians, typically regarded as an unwanted toxic invader by pastoralists, should be viewed as beneficial for grasslands as its presence maintains plant and arthropod biodiversity, and provides a foundation stone in the reconstruction and restoration of these grassland ecosystems."
+  ],
+  "affiliation": [
+    "The State Key Laboratory of Grassland Agro-ecosystems; College of Pastoral Agriculture Science and Technology, Lanzhou University, P. O. Box 61, Lanzhou 730020, Gansu, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4683511?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4683511"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1038/srep18527"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2015-12-18"
+  ],
+  "dateOfRevision": [
+    "2015-12-22"
+  ],
+  "electronicPublicationDate": [
+    "2015-12-18"
+  ],
+  "firstPublicationDate": [
+    "2015-12-18"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

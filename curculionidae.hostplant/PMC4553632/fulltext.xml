@@ -1,0 +1,1293 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1d3 20150301//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing.dtd?><?SourceDTD.Version 2.3?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">Insects</journal-id><journal-id journal-id-type="iso-abbrev">Insects</journal-id><journal-id journal-id-type="publisher-id">insects</journal-id><journal-title-group><journal-title>Insects</journal-title></journal-title-group><issn pub-type="epub">2075-4450</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">4553632</article-id><article-id pub-id-type="doi">10.3390/insects3010339</article-id><article-id pub-id-type="publisher-id">insects-03-00339</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Ecological and Evolutionary Determinants of Bark Beetle &#x02014;Fungus Symbioses</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Six</surname><given-names>Diana L.</given-names></name></contrib></contrib-group><aff id="af1-insects-03-00339">Department of Ecosystem and Conservation Sciences, College of Forestry and Conservation, University of Montana, Missoula, MT 59812, USA; E-Mail: <email>diana.six@cfc.umt.edu</email></aff><pub-date pub-type="epub"><day>22</day><month>3</month><year>2012</year></pub-date><pub-date pub-type="collection"><month>3</month><year>2012</year></pub-date><volume>3</volume><issue>1</issue><fpage>339</fpage><lpage>366</lpage><history><date date-type="received"><day>16</day><month>2</month><year>2012</year></date><date date-type="rev-recd"><day>01</day><month>3</month><year>2012</year></date><date date-type="accepted"><day>15</day><month>3</month><year>2012</year></date></history><permissions><copyright-statement>&#x000a9; 2012 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement><copyright-year>2012</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/"><license-p><!--CREATIVE COMMONS-->This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">http://creativecommons.org/licenses/by/3.0/</ext-link>).</license-p></license></permissions><abstract><p>Ectosymbioses among bark beetles (Curculionidae, Scolytinae) and fungi (primarily ophiostomatoid Ascomycetes) are widespread and diverse. Associations range from mutualistic to commensal, and from facultative to obligate. Some fungi are highly specific and associated only with a single beetle species, while others can be associated with many. In addition, most of these symbioses are multipartite, with the host beetle associated with two or more consistent partners. Mycangia, structures of the beetle integument that function in fungal transport, have evolved numerous times in the Scolytinae. The evolution of such complex, specialized structures indicates a high degree of mutual dependence among the beetles and their fungal partners. Unfortunately, the processes that shaped current day beetle-fungus symbioses remain poorly understood. Phylogeny, the degree and type of dependence on partners, mode of transmission of symbionts (vertical <italic>vs.</italic> horizontal), effects of the abiotic environment, and interactions among symbionts themselves or with other members of the biotic community, all play important roles in determining the composition, fidelity, and longevity of associations between beetles and their fungal associates. In this review, I provide an overview of these associations and discuss how evolution and ecological processes acted in concert to shape these fascinating, complex symbioses.</p></abstract><kwd-group><kwd><italic>Ophiostoma</italic></kwd><kwd><italic>Grosmannia</italic></kwd><kwd><italic>Leptographium</italic></kwd><kwd><italic>Ceratocystiopsis</italic></kwd><kwd><italic>Ceratocystis</italic></kwd><kwd><italic>Raffaelea</italic></kwd><kwd><italic>Ambrosiella</italic></kwd><kwd>cospeciation</kwd><kwd>host-switching</kwd><kwd>symbiosis</kwd><kwd>symbiont redundancy</kwd><kwd>ambrosia beetle</kwd></kwd-group></article-meta></front><body><sec><title>1. Scolytinae-Fungus Symbioses</title><p>The term symbiosis was coined by Albert Frank in 1877 to describe nonparasitic interactions involving microbes [<xref rid="B1-insects-03-00339" ref-type="bibr">1</xref>]. The meaning was further refined by de Bary in 1879 to mean &#x0201c;the living together of two differently named organisms&#x0201d; [<xref rid="B1-insects-03-00339" ref-type="bibr">1</xref>], a definition that remains in widespread use today. Symbioses encompass a wide range of interaction types. Among the least studied are mutualisms, once relegated to the status of curiosities of nature, but now considered important determinants of biological organization, and community structure and process [<xref rid="B2-insects-03-00339" ref-type="bibr">2</xref>,<xref rid="B3-insects-03-00339" ref-type="bibr">3</xref>,<xref rid="B4-insects-03-00339" ref-type="bibr">4</xref>,<xref rid="B5-insects-03-00339" ref-type="bibr">5</xref>]. In this review, I consider several factors that may have shaped a diverse array of ectosymbioses, including mutualisms, among bark beetles and fungi. For more general treatments of these symbioses, I refer the reader to several recent reviews [<xref rid="B6-insects-03-00339" ref-type="bibr">6</xref>,<xref rid="B7-insects-03-00339" ref-type="bibr">7</xref>,<xref rid="B8-insects-03-00339" ref-type="bibr">8</xref>,<xref rid="B9-insects-03-00339" ref-type="bibr">9</xref>,<xref rid="B10-insects-03-00339" ref-type="bibr">10</xref>,<xref rid="B11-insects-03-00339" ref-type="bibr">11</xref>,<xref rid="B12-insects-03-00339" ref-type="bibr">12</xref>]. In the context of scolytine beetle-fungus interactions, both the beetle and the tree they infest are often referred to as hosts. To avoid confusion, I will confine my use of the term &#x0201c;host&#x0201d; in this chapter to denote strictly the beetle.</p><p>Bark beetles make up approximately 3700 of the 7500 species in the weevil (Curculionidae) subfamily Scolytinae [<xref rid="B13-insects-03-00339" ref-type="bibr">13</xref>,<xref rid="B14-insects-03-00339" ref-type="bibr">14</xref>,<xref rid="B15-insects-03-00339" ref-type="bibr">15</xref>]. The remainder consists of ambrosia beetles (3400 species) and various seed and pith-feeding beetles (~400 species). A striking characteristic of the Scolytinae is the widespread association of its members with fungi. All ambrosia beetles, and many bark beetles, are associated with fungi [<xref rid="B7-insects-03-00339" ref-type="bibr">7</xref>,<xref rid="B9-insects-03-00339" ref-type="bibr">9</xref>,<xref rid="B16-insects-03-00339" ref-type="bibr">16</xref>]. Of the seed and pith feeders, little is known. However, fungi are associated with members of this group as diverse as conifer cone beetles (<italic>Conophthorus</italic> spp.) (Six, pers. obs.) and the coffee berry borer (<italic>Hypothenemus hampei</italic>) [<xref rid="B17-insects-03-00339" ref-type="bibr">17</xref>].</p><p>Bark beetles are commonly associated with Ascomycetes in four teleomorph genera, <italic>Ophiostoma</italic>, <italic>Ceratocystiopsis</italic>, <italic>Grosmannia</italic>, and <italic>Ceratocystis </italic>[<xref rid="B7-insects-03-00339" ref-type="bibr">7</xref>,<xref rid="B9-insects-03-00339" ref-type="bibr">9</xref>,<xref rid="B10-insects-03-00339" ref-type="bibr">10</xref>,<xref rid="B18-insects-03-00339" ref-type="bibr">18</xref>]. While these fungi produce morphologically similar teleomorphs, <italic>Ophiostoma</italic>, <italic>Grosmannia</italic>, and <italic>Ceratocystiopsis</italic> form a monophyletic group in the Ophiostomatales, separate from <italic>Ceratocystis</italic>, which is inthe Microascales [<xref rid="B19-insects-03-00339" ref-type="bibr">19</xref>,<xref rid="B20-insects-03-00339" ref-type="bibr">20</xref>]. The two fungal groups also have different host plant affiliations. The fungi in the Ophiostomatales are most often associated with conifers, while <italic>Ceratocystis</italic> species are usually associated with angiosperms [<xref rid="B21-insects-03-00339" ref-type="bibr">21</xref>]. Anamorphs associated with <italic>Ophiostoma</italic> and <italic>Ceratocystiopsis</italic> include <italic>Hyalorhinocladiella</italic> and <italic>Sporothrix</italic>, while some <italic>Ophiostoma</italic> species also produce <italic>Pesotum</italic>. <italic>Grosmannia</italic> species produce <italic>Leptographium</italic> anamorphs [<xref rid="B18-insects-03-00339" ref-type="bibr">18</xref>], whereas <italic>Ceratocystis</italic> produce <italic>Thielaviopsis</italic> anamorphs [<xref rid="B22-insects-03-00339" ref-type="bibr">22</xref>]. A relatively small number of bark beetles are consistently associated with Basidiomycetes in the genera <italic>Entomocorticium </italic>and <italic>Phlebiopsis</italic> [<xref rid="B23-insects-03-00339" ref-type="bibr">23</xref>,<xref rid="B24-insects-03-00339" ref-type="bibr">24</xref>].</p><p>Ambrosia beetles are often associated with anamorphic species in the genera <italic>Ambrosiella </italic>and <italic>Raffaelea</italic> but some are also associated with <italic>Ophiostoma</italic>, <italic>Leptographium</italic>, and <italic>Fusarium </italic>[<xref rid="B9-insects-03-00339" ref-type="bibr">9</xref>,<xref rid="B16-insects-03-00339" ref-type="bibr">16</xref>,<xref rid="B25-insects-03-00339" ref-type="bibr">25</xref>,<xref rid="B26-insects-03-00339" ref-type="bibr">26</xref>,<xref rid="B27-insects-03-00339" ref-type="bibr">27</xref>,<xref rid="B28-insects-03-00339" ref-type="bibr">28</xref>]. Interestingly, early molecular phylogenies revealed that <italic>Ambrosiella</italic> and <italic>Raffaelea</italic> were each paraphyletic and multiply derived out of <italic>Ophiostoma</italic> and <italic>Ceratocystis </italic>[<xref rid="B29-insects-03-00339" ref-type="bibr">29</xref>,<xref rid="B30-insects-03-00339" ref-type="bibr">30</xref>]. Furthermore, one monospecific genus <italic>Dryadomyces</italic> was found to nest within a clade containing both <italic>Ambrosiella</italic> and <italic>Raffaelea</italic> species allied with <italic>Ophiostoma</italic> [<xref rid="B31-insects-03-00339" ref-type="bibr">31</xref>]. These inconsistencies were addressed by Harrington <italic>et al. </italic>[<xref rid="B32-insects-03-00339" ref-type="bibr">32</xref>] who retained all <italic>Ambrosiella</italic> with <italic>Ceratocystis</italic> affinities within <italic>Ambrosiella</italic> but transferred those associated with the Ophiostomatales to <italic>Hyalorhinocladiella</italic>. New combinations were made in <italic>Raffaelea</italic> for <italic>Ambrosiella</italic> species allied with the Ophiostomatales as well as a transfer of <italic>Dryadomyces</italic> to <italic>Raffaelea</italic>. </p><fig id="insects-03-00339-f001" position="float"><label>Figure 1</label><caption><p>Examples of ambrosia beetles and their galleries. From left to right, top to bottom: <italic>Diuncus</italic> gallery; <italic>Trypodendron</italic> gallery; Xyleborina ambrosia beetles; <italic>Xylosandrus crassiusculus</italic> gallery. All photos courtesy of Jiri Hulcr.</p></caption><graphic xlink:href="insects-03-00339-g001"/></fig><p>Bark and ambrosia beetles are categorized by their use of host plant substrate, but there is no absolute distinction between the two groups and most are associated with fungi to some extent. Most ambrosia beetles construct galleries in the sapwood of trees (<xref ref-type="fig" rid="insects-03-00339-f001">Figure 1</xref>). The term &#x02018;ambrosia&#x02019; refers to the fungal gardens the beetles cultivate on their gallery walls and use as an exclusive food source [<xref rid="B16-insects-03-00339" ref-type="bibr">16</xref>,<xref rid="B33-insects-03-00339" ref-type="bibr">33</xref>]. The beetles are obligately dependent upon the fungi, from which they acquire amino acids, vitamins and sterols [<xref rid="B16-insects-03-00339" ref-type="bibr">16</xref>,<xref rid="B33-insects-03-00339" ref-type="bibr">33</xref>]. The activities of female beetles have been hypothesized to control the growth and composition of ambrosial gardens. If the female dies, the garden is quickly overgrown by contaminating fungi and bacteria, which ultimately results in the death of the brood [<xref rid="B26-insects-03-00339" ref-type="bibr">26</xref>,<xref rid="B34-insects-03-00339" ref-type="bibr">34</xref>]. The activities of the larvae may also control non-mutualistic fungi, although the mechanism for this is unknown (X). Dispersing adult beetles transport the fungi to new host trees in highly specialized structures of the exoskeleton called mycangia (<xref ref-type="fig" rid="insects-03-00339-f002">Figure 2</xref>), thus maintaining the association from generation to generation [<xref rid="B7-insects-03-00339" ref-type="bibr">7</xref>,<xref rid="B35-insects-03-00339" ref-type="bibr">35</xref>]. The interaction is clearly mutualistic. The symbiosis allows the beetles to exploit a nutritionally poor resource (wood) and reduce interspecific competition, while providing the fungi consistent transport to a relatively rare and ephemeral resource (a new host tree of the appropriate condition and successional stage) [<xref rid="B11-insects-03-00339" ref-type="bibr">11</xref>,<xref rid="B16-insects-03-00339" ref-type="bibr">16</xref>].</p><fig id="insects-03-00339-f002" position="float"><label>Figure 2</label><caption><p>Examples of mycangia. From left to right, top to bottom: maxillary cardine of <italic>Dendroctonus ponderosae</italic> showing opening of sac mycangium (arrow) courtesy of Katherine Bleiker; Close up of mycangium of <italic>D. ponderosae</italic> showing fungal mass extruding from opening courtesy of Katherine Bleiker; Oval brush mycangium on female <italic>Pityoborus rubentris</italic> Mal Furniss; close up of brush mycangium of <italic>P. rubentris</italic> containing spores Mal Furniss; Ascospores in pit mycangium (puncture) of <italic>Ips pini</italic> Mal Furniss; mesonotal paired sac mycangia of <italic>Xylosandrus mutilates</italic> (dissected from beetle) courtesy of W. Doug Stone.</p></caption><graphic xlink:href="insects-03-00339-g002"/></fig><fig id="insects-03-00339-f003" position="float"><label>Figure 3</label><caption><p>Examples of bark beetles and their galleries. Left to right, top to bottom: Pupal chambers containing <italic>Dendroctonus.ponderosae</italic> pupae and spore layers of fungi, courtesy of the author; <italic>D. ponderosae</italic> adult, courtesy of the author; Bark section showing extensive beetle development in light portions colonized by mutualistic fungal symbionts and lack of development in highly stained portion of bark colonized by the antagonistic fungus, <italic>O. minus</italic> (arrow) courtesy of Fred Stephen; <italic>I. pini</italic> courtesy of Jesse Logan.</p></caption><graphic xlink:href="insects-03-00339-g003"/></fig><p>In contrast, bark beetles construct their galleries in the phloem layer of trees just under the outer bark (<xref ref-type="fig" rid="insects-03-00339-f003">Figure 3</xref>). Unlike ambrosia beetles, bark beetles feed on tree tissues (phloem), and gain some of their nutrients directly from the host. Phloem contains more nutrients than sapwood, but nonetheless has a low nutritional value relative to the dietary requirements of insects [<xref rid="B36-insects-03-00339" ref-type="bibr">36</xref>,<xref rid="B37-insects-03-00339" ref-type="bibr">37</xref>,<xref rid="B38-insects-03-00339" ref-type="bibr">38</xref>]. Nitrogen is the limiting factor in the diets of most herbivorous insects [<xref rid="B39-insects-03-00339" ref-type="bibr">39</xref>]. This is true even for insects that feed on foliage, which is relatively high in nitrogen compared with other tree tissues, including phloem. For instance, the nitrogen content of loblolly pine phloem (a host to several bark beetles) is approximately 0.38% [<xref rid="B40-insects-03-00339" ref-type="bibr">40</xref>] compared with 1&#x02013;5% in the foliage [<xref rid="B39-insects-03-00339" ref-type="bibr">39</xref>]. Insects contain approximately 6&#x02013;10% nitrogen, indicating that to complete development they must either consume large amounts of plant material relative to their final body size [<xref rid="B41-insects-03-00339" ref-type="bibr">41</xref>,<xref rid="B42-insects-03-00339" ref-type="bibr">42</xref>] or modify their diet in such a way as to increase the nitrogen content [<xref rid="B38-insects-03-00339" ref-type="bibr">38</xref>]. In the case of bark beetles, diet modification may include the use of fungal associates to supplement the nutritional limitations of their phloem diet [<xref rid="B38-insects-03-00339" ref-type="bibr">38</xref>,<xref rid="B43-insects-03-00339" ref-type="bibr">43</xref>].</p><p>Evidence supports the existence of both high consumption and diet modification strategies in bark beetles. Ayres <italic>et al.</italic> [<xref rid="B38-insects-03-00339" ref-type="bibr">38</xref>] compared nitrogen budgets of two co-occurring bark beetles, <italic>Ips grandicollis</italic> and <italic>D. frontalis</italic>, which have different feeding strategies. <italic>Ips grandicollis</italic> is a non-mycangial beetle that constructs long feeding galleries in phloem. In contrast, <italic>Dendroctonus frontalis</italic>, a mycangial beetle, produces short galleries terminating in &#x02018;feeding chambers&#x02019; where it spends most of its development feeding on ambrosial growth of its mycangial fungi [44, S.J. Barras, pers. comm.]. Ayres <italic>et al.</italic> [<xref rid="B38-insects-03-00339" ref-type="bibr">38</xref>] found that the nitrogen concentration around successfully developing larvae of <italic>D. frontalis</italic> is more than twice that of phloem of uninfested trees; the phloem with the highest nitrogen concentration was located where feeding chambers were colonized by the mycangial fungi. Similarly, Hodges <italic>et al.</italic> [<xref rid="B43-insects-03-00339" ref-type="bibr">43</xref>] also found that phloem nitrogen in <italic>Pinus taeda</italic> increased 131% when <italic>D. frontalis</italic> and its associated fungi were introduced.</p><p>Ayres <italic>et al.</italic> [<xref rid="B38-insects-03-00339" ref-type="bibr">38</xref>] also found nitrogen concentrations significantly impacted <italic>D. frontalis</italic> fitness. Regions in trees where larvae survived to pupate contained the highest nitrogen concentration, and trees and regions with the highest nitrogen concentrations produced the biggest beetles. Beetle size is strongly correlated with beetle survival, fecundity, pheromone production and dispersal [<xref rid="B45-insects-03-00339" ref-type="bibr">45</xref>,<xref rid="B46-insects-03-00339" ref-type="bibr">46</xref>,<xref rid="B47-insects-03-00339" ref-type="bibr">47</xref>,<xref rid="B48-insects-03-00339" ref-type="bibr">48</xref>,<xref rid="B49-insects-03-00339" ref-type="bibr">49</xref>,<xref rid="B50-insects-03-00339" ref-type="bibr">50</xref>,<xref rid="B51-insects-03-00339" ref-type="bibr">51</xref>,<xref rid="B52-insects-03-00339" ref-type="bibr">52</xref>,<xref rid="B53-insects-03-00339" ref-type="bibr">53</xref>], and thus, is a good indicator of beetle fitness. Interestingly, one mycangial fungus, <italic>Entomocorticium </italic>sp., was superior to another, <italic>Ceratocystiopsis ranaculosus</italic>, at concentrating nitrogen [<xref rid="B38-insects-03-00339" ref-type="bibr">38</xref>]. This difference may explain why <italic>D. frontalis</italic> individuals that develop with <italic>Entomocorticium</italic> are larger and have higher lipid contents than those that develop with <italic>C. ranaculosus</italic> [<xref rid="B54-insects-03-00339" ref-type="bibr">54</xref>], and why beetle populations with a higher prevalence of <italic>Entomocortium</italic> sp. exhibit more rapid population growth [<xref rid="B54-insects-03-00339" ref-type="bibr">54</xref>,<xref rid="B55-insects-03-00339" ref-type="bibr">55</xref>,<xref rid="B56-insects-03-00339" ref-type="bibr">56</xref>].</p><p>In contrast to <italic>D. frontalis</italic>, <italic>Ips grandicollis</italic> appears to employ the high consumption rather than the diet modification strategy [<xref rid="B38-insects-03-00339" ref-type="bibr">38</xref>]. These beetles feed extensively in phloem, do not produce feeding chambers, and do not appear to depend on fungi for nutrition, although they do vector ophiostomatoid fungi [<xref rid="B57-insects-03-00339" ref-type="bibr">57</xref>,<xref rid="B58-insects-03-00339" ref-type="bibr">58</xref>]. Although <italic>I. grandicollis</italic> adults are only slightly larger than <italic>D. frontalis</italic> adults, their larvae consumed 79% more phloem than <italic>D. frontalis</italic> larvae [<xref rid="B38-insects-03-00339" ref-type="bibr">38</xref>], supporting the hypothesis that without diet supplementation with fungi, larvae must consume more phloem to meet their nitrogen requirements. Given that <italic>I. grandicollis</italic> is likely to feed at least incidentally on the various fungi it vectors, these results indicate that not all fungi areequally effective as supplements to beetle diets.</p><p>Other dietary requirements of the insect macrosymbiont may also influence feeding strategy. For example, insects require sterols for normal growth, metamorphosis, and reproduction. However, insects, unlike most other animals, are unable to synthesize these compounds, and thus, are dependent upon a dietary source [<xref rid="B59-insects-03-00339" ref-type="bibr">59</xref>,<xref rid="B60-insects-03-00339" ref-type="bibr">60</xref>,<xref rid="B61-insects-03-00339" ref-type="bibr">61</xref>]. Sterols are present in plant tissues, but typically only in low concentrations [<xref rid="B62-insects-03-00339" ref-type="bibr">62</xref>], or in forms not usable by insects [<xref rid="B59-insects-03-00339" ref-type="bibr">59</xref>]. For phloem-feeding bark beetles, whose food may contain inadequate concentrations of usable types of sterols, fungal symbionts may provide an alternate source. Fungi typically produce ergosterol, a sterol which is highly usable by many insects [<xref rid="B59-insects-03-00339" ref-type="bibr">59</xref>]. In several insect-fungus symbioses, the insect associate depends on ergosterol production by the fungal associate to meet its sterol requirements [<xref rid="B63-insects-03-00339" ref-type="bibr">63</xref>,<xref rid="B64-insects-03-00339" ref-type="bibr">64</xref>]. This is the case for xyleborine ambrosia beetles [<xref rid="B33-insects-03-00339" ref-type="bibr">33</xref>,<xref rid="B65-insects-03-00339" ref-type="bibr">65</xref>,<xref rid="B66-insects-03-00339" ref-type="bibr">66</xref>] and possibly the coffee berry borer, <italic>H. hampei</italic> [<xref rid="B17-insects-03-00339" ref-type="bibr">17</xref>, but see <xref rid="B67-insects-03-00339" ref-type="bibr">67</xref>], and may also be true for some bark beetles [<xref rid="B68-insects-03-00339" ref-type="bibr">68</xref>].</p><p>The ergosterol contents of ophiostomatoid fungi associated with ambrosia and bark beetles have been investigated for only a few species. For fungi associated with <italic>Xyleborus</italic> ambrosia beetles, ergosterol content ranged from 0.12&#x02013;0.24% [<xref rid="B69-insects-03-00339" ref-type="bibr">69</xref>]. However, for three species of fungi associated with two <italic>Dendroctonus</italic> bark beetle species, the ergosterol content was much higher at 0.88&#x02013;1.06% [<xref rid="B68-insects-03-00339" ref-type="bibr">68</xref>], indicating that these fungi may also provide good sources of sterols for their hosts.</p><p>For phloeomycophagous bark beetles, the importance and role of fungi in host nutrition may vary by life stage. An experimental study on <italic>D. ponderosae</italic> reported that larvae feed primarily in sterile phloem, and thus do not depend on fungi to complete development [<xref rid="B70-insects-03-00339" ref-type="bibr">70</xref>]. In that study, single pairs of <italic>D. ponderosae</italic> were introduced into logs with ends waxed to retard drying, then held at constant temperatures. Some first instar larvae and all teneral adults were associated with fungi, but intermediate stages of development occurred in sterile phloem. However, in a recent study [<xref rid="B71-insects-03-00339" ref-type="bibr">71</xref>] conducted under field conditions, in naturally infested trees with natural attack densities of beetles (and fungi), approximately two-thirds of 1<sup>st</sup> instars and 100% of all later instars were located in phloem colonized by fungi. Gut dissections revealed that the symbiotic fungi were ingested by larvae along with their phloem diet. In addition, larvae often migrated back into older portions of the gallery, presumably to feed where the fungi were best established. Such turning behavior by larvae in axenic phloem was also observed by [<xref rid="B72-insects-03-00339" ref-type="bibr">72</xref>], who speculated that such behavior may be linked to the need for larvae to feed in areas containing fungal growth.</p><p>Development and feeding on fungus-colonized phloem is common for many bark beetles and has also been observed in other experimental studies [<xref rid="B73-insects-03-00339" ref-type="bibr">73</xref>]. However, not all fungi are equally desirable as food and each association must be considered independently when assessing potential benefits from fungal feeding. For example, <italic>D. frontalis</italic> encountering areas stained by the antagonistic fungus, <italic>O. minus</italic>, turn to avoid feeding in these areas. However, the tunneling behavior of <italic>D. ponderosae</italic> and <italic>I. pini </italic>is unaffected by the presence of staining caused by <italic>G. clavigera</italic> and <italic>O. ips</italic> [<xref rid="B73-insects-03-00339" ref-type="bibr">73</xref>]. Furthermore, in choice tests, <italic>D. ponderosae</italic> larvae chose stained phloem (containing <italic>G.</italic><italic>clavigera </italic>and <italic>O. montium</italic>) for feeding significantly more often than unstained phloem [<xref rid="B74-insects-03-00339" ref-type="bibr">74</xref>].</p><p>Although Adams &#x00026; Six [<xref rid="B71-insects-03-00339" ref-type="bibr">71</xref>] found that larvae of <italic>D. ponderosae</italic> are phloeomycophagous, the mere ingestion of fungi does not, by itself, indicate that fungal feeding is beneficial to a developing brood. Unfortunately, the relative intractability of these systems to manipulative experimentation has limited our knowledge of how mycophagy affects host development and fitness. However, studies conducted on two mycangial <italic>Dendroctonus</italic> species in naturally infested material indicate that fungal associates can have a considerable impact on host beetle fitness by affecting larvae. <italic>Dendroctonus frontalis</italic> individuals that develop with mycangial fungi are larger than those that develop without mycangial fungi [<xref rid="B38-insects-03-00339" ref-type="bibr">38</xref>,<xref rid="B54-insects-03-00339" ref-type="bibr">54</xref>,<xref rid="B75-insects-03-00339" ref-type="bibr">75</xref>]. Because adult beetle size is determined by larval nutrition, larger adult size in the fungus-associated beetles cannot be a result of maturation feeding on spore layers by teneral adults [<xref rid="B76-insects-03-00339" ref-type="bibr">76</xref>]. Furthermore, larval survival is higher, and feeding galleries of <italic>Dendroctonus</italic> are shorter, in the presence of mutualistic fungi than in their absence, indicating that fungus-colonized tissues have higher nutritional contents [<xref rid="B38-insects-03-00339" ref-type="bibr">38</xref>,<xref rid="B75-insects-03-00339" ref-type="bibr">75</xref>,<xref rid="B77-insects-03-00339" ref-type="bibr">77</xref>]. Not surprisingly, the multiple fungal partners associated with a host tend to vary in their effects on beetle broods. For <italic>D. frontalis</italic>, <italic>Entomocorticium</italic> sp. supports higher host survival and larger body size than does <italic>C. ranaculosus</italic>. For <italic>D. ponderosae</italic>, <italic>G. clavigera</italic> supports faster brood development and higher brood production than does <italic>O. montium</italic> [<xref rid="B77-insects-03-00339" ref-type="bibr">77</xref>]. Similar results were found in an experiment conducted with a non-mycangial beetle, <italic>I. paraconfusus</italic>. Axenically reared beetles, and those reared with the antagonistic fungus <italic>O. minus</italic>, were smaller than beetles reared with symbiotic fungi associated with the beetle, and larval tunnels were significantly longer when larvae were associated with <italic>O. minus</italic> than when not associated with fungi [<xref rid="B72-insects-03-00339" ref-type="bibr">72</xref>].</p><p>The role of mycophagy in adult nutrition is poorly understood. Teneral adults of mycangial bark beetles feed on dense layers of spores that grow on the pupal chamber walls, before emerging to disperse to new host trees (<xref ref-type="fig" rid="insects-03-00339-f003">Figure 3</xref>) [<xref rid="B70-insects-03-00339" ref-type="bibr">70</xref>,<xref rid="B77-insects-03-00339" ref-type="bibr">77</xref>]. This also may be true for several non-mycangial beetles that are consistently associated with fungi that produce spore layers in their pupal chambers. This period of feeding on spores as new adults may be important for beetles to acquire fungi in their mycangia and/or on their exoskeletons for dispersal to the next host tree and the next generation of beetles. However, feeding on spores at this time also appears to be important in adult reproduction. New adults of <italic>D. ponderosae</italic> that did not feed on the conidia of mutualistic fungi (<italic>G. clavigera</italic>, <italic>O. montium</italic>), tunneled and fed extensively in phloem. In contrast, insects that fed on spores did not tunnel and feed in phloem and emerged very close to the pupal chamber [<xref rid="B74-insects-03-00339" ref-type="bibr">74</xref>]. New <italic>D. ponderosae</italic> adults that did not feed on spores had very high rates of rejection of logs, produced few galleries, and did not produce broods. In contrast, new adults that fed on spores of either of the beetle&#x02019;s symbiotic fungi tended not to reject logs, usually produced galleries, and many also produced broods [<xref rid="B77-insects-03-00339" ref-type="bibr">77</xref>]. Axenic <italic>I. paraconfusus </italic>adults also did not oviposit, while those associated with fungi did [<xref rid="B72-insects-03-00339" ref-type="bibr">72</xref>]. These results indicate that feeding on fungal spores by new adults may be critical for adult nutrition and reproduction for at least some bark beetle species.</p><p>Obligate symbiosis is typically defined as the inability of one or both interacting partners to live without the other. At its simplest, this can mean that if, in a single reproductive cycle of a partner pair, one partner is removed, the other partner dies or cannot reproduce. However, the term can also denote partnerships where the separation of host and symbiont results in fitness costs that, over only a few generations, eventually result in the loss of one or both partners. Determining whether a particular symbiosis is obligate can be an immensely difficult task. It is challenging, and sometimes impossible, to produce aposymbiotic hosts. Furthermore, the processes used to remove symbionts can be extremely stressful to hosts, bringing into question the validity of experiments conducted with such hosts. A challenge in testing for dependence is that hosts must be reared at least through the F2 generation to control for maternal effects [<xref rid="B66-insects-03-00339" ref-type="bibr">66</xref>,<xref rid="B78-insects-03-00339" ref-type="bibr">78</xref>]. For insects such as bark beetles that can be difficult to rear through the F1 generation, this is a serious obstacle. To date, obligacy has been shown (and looked for) in only a few bark beetle-fungus symbioses [<xref rid="B56-insects-03-00339" ref-type="bibr">56</xref>,<xref rid="B77-insects-03-00339" ref-type="bibr">77</xref>]. No studies that claimed to successfully rear beetles without symbiotic fungi meet stringent requirements for testing for dependence on symbiotic fungi for nutritional supplementation, either because they were conducted only through the F1 generation [<xref rid="B72-insects-03-00339" ref-type="bibr">72</xref>,<xref rid="B79-insects-03-00339" ref-type="bibr">79</xref>], or because the beetle&#x02019;s diet was supplemented or contaminated with fungi or fungal products [<xref rid="B80-insects-03-00339" ref-type="bibr">80</xref>,<xref rid="B81-insects-03-00339" ref-type="bibr">81</xref>,<xref rid="B82-insects-03-00339" ref-type="bibr">82</xref>].</p><p>For bark beetles, detecting obligacy can be further complicated by multipartite associations involving hosts with two, less often three, consistent fungal associates. In some associations, these symbionts may provide a similar benefit to the host (symbiont redundancy) [<xref rid="B56-insects-03-00339" ref-type="bibr">56</xref>,<xref rid="B77-insects-03-00339" ref-type="bibr">77</xref>]. In such cases, the host may be dependent on the presence of a symbiont, but not any one symbiont, in particular. The concept of ecological (or functional) redundancy has been particularly well-developed in the field of biodiversity conservation, but much less so in symbiology, where most efforts have focused on pollinator assemblages [<xref rid="B83-insects-03-00339" ref-type="bibr">83</xref>]. The concept of symbiont redundancy is further developed for bark beetle-fungus symbioses in a later section.</p><p>To this point, I have focused primarily on fungi as mutualists of bark beetles. However, many ophiostomatoid fungi are inconsistently associated with particular beetle species and often are associated with several beetle species across a wide geographic area (ex. <italic>O. piceae</italic>, <italic>O. penicilliatum</italic>). Such broadly distributed fungi are probably opportunistic commensals, benefiting from transport, but without significant reciprocal effects on the host [<xref rid="B7-insects-03-00339" ref-type="bibr">7</xref>,<xref rid="B10-insects-03-00339" ref-type="bibr">10</xref>]. Other fungi in this group are antagonists and their presence results in lowered host fitness. For example, <italic>D. frontalis</italic> developing in areas colonized by <italic>O. minus </italic>seldom survive (<xref ref-type="fig" rid="insects-03-00339-f003">Figure 3</xref>) [<xref rid="B84-insects-03-00339" ref-type="bibr">84</xref>,<xref rid="B85-insects-03-00339" ref-type="bibr">85</xref>]. Why some ophiostomatoid fungi are beneficial while others are antagonistic, or have no apparent effect on their host, is unknown, but may reflect their ability to concentrate nitrogen [<xref rid="B38-insects-03-00339" ref-type="bibr">38</xref>], to produce adequate amounts of sterols [<xref rid="B68-insects-03-00339" ref-type="bibr">68</xref>], or to produce toxic metabolites [<xref rid="B86-insects-03-00339" ref-type="bibr">86</xref>].</p><p>Our ability to make generalizations about bark beetle-fungus symbioses is constrained by a lack of knowledge on all but a very few systems. Only a few studies have been conducted and the majority of these have focused on the tree-killing, economically important beetles. This focus on aggressive beetles has yielded a highly biased view of bark beetle-fungus interactions, including a near exclusive focus for many years on the potential, and still unsubstantiated, role of the symbiotic fungi in tree-killing [<xref rid="B12-insects-03-00339" ref-type="bibr">12</xref>]. However, in the Scolytinae, tree-killing is actually a relatively rare event of life history. Instead, most scolytines are restricted to weak, dying, or more often, recently killed trees. For example, of the hundreds of scolytine species in North America, only 7&#x02013;10 commonly kill trees [<xref rid="B14-insects-03-00339" ref-type="bibr">14</xref>]. The majority of the remaining non-tree-killing species are associated with fungi in one way or another, but remain mostly unstudied.</p></sec><sec><title>2. Evolution of Scolytinae-Fungus Symbioses</title><p>The Scolytinae are thought to have arisen in the Late Jurassic or Early Cretaceous periods, with the most recent estimates dating to about 100 million years ago [<xref rid="B87-insects-03-00339" ref-type="bibr">87</xref>,<xref rid="B88-insects-03-00339" ref-type="bibr">88</xref>,<xref rid="B89-insects-03-00339" ref-type="bibr">89</xref>]. Conifers are probably the ancestral hosts of the Scolytinae and its most closely related subfamilies in the Curculionidae [<xref rid="B90-insects-03-00339" ref-type="bibr">90</xref>,<xref rid="B91-insects-03-00339" ref-type="bibr">91</xref>]. The putative sister group to these subfamilies, the Derolominae, is associated with monocots, implying that a common ancestor shifted from angiosperms to conifers [<xref rid="B91-insects-03-00339" ref-type="bibr">91</xref>]. In the Scolytinae, this switch was followed by several returns to angiosperms, then several subsequent reversals to conifers. Each shift to angiosperms was accompanied by increased species diversity, whereas reversals to conifers resulted in low diversity [<xref rid="B91-insects-03-00339" ref-type="bibr">91</xref>].</p><p>Ophiostomatoid fungi apparently arose 200 million years ago [<xref rid="B92-insects-03-00339" ref-type="bibr">92</xref>], with the groups containing <italic>Ophiostoma</italic> (and allied genera) and <italic>Ceratocystis</italic> probably diverging around 170 million years ago [<xref rid="B91-insects-03-00339" ref-type="bibr">91</xref>]. Therefore, these fungi predate the Scolytinae and may have evolved adaptations for insect dispersal prior to their association with scolytine beetles. They were probably originally vectored by other arthropods, possibly including weevil ancestors of the Scolytinae [<xref rid="B91-insects-03-00339" ref-type="bibr">91</xref>].</p><p>The ambrosia and bark beetles do not form exclusive monophyletic groups within the Scolytinae; rather, the two fungal feeding strategies evolved several times independently. The origins of ambrosia feeding all followed shifts to angiosperms, although there apparently were reversals to conifer feeding by some temperate ambrosia beetles [<xref rid="B88-insects-03-00339" ref-type="bibr">88</xref>]. The ambrosial feeding habit has evolved at least eight times (possibly more) from different beetle tribes containing phloem-feeding beetles associated with <italic>Ophiostoma</italic>, <italic>Grosmannia</italic>, and/or <italic>Ceratocystiopsis</italic> species [<xref rid="B91-insects-03-00339" ref-type="bibr">91</xref>,<xref rid="B93-insects-03-00339" ref-type="bibr">93</xref>]. These ambrosial feeding strategies have been estimated to have evolved 21&#x02013;60 million years ago, depending on beetle lineage. Likewise, within the Scolytinae, phloeomycophagous bark beetles occur in several dispersed tribes, ranging from the Tomicini to the Ipini [<xref rid="B91-insects-03-00339" ref-type="bibr">91</xref>].</p><p>The paraphyletic nature of the ambrosia beetle-associated genera, <italic>Ambrosiella</italic> and <italic>Raffaelea</italic>, with derivations from both <italic>Ophiostoma</italic> and <italic>Ceratocystis</italic>, may reflect these multiple origins and host shifts. When some beetles switched to angiosperms, some apparently maintained associations with <italic>Ophiostoma</italic>. Others may have switched to <italic>Ceratocystis</italic>, which they may have encountered for the first time in their new hosts. <italic>Ceratocystis</italic> species have morphological adaptations for insect dissemination similar to those of <italic>Ophiostoma</italic>, and may have been pre-adapted for vector relationships with these beetles. If some <italic>Ceratocystis</italic> species also provided nutritional benefits, then once associations formed, similar lifestyles may have led to a convergence of form in the fungi, and to the multiply derived genera that are evident today. The modern association of <italic>Ceratocystis</italic> species with a very few conifer-using bark beetles may indicate that some fungi &#x02018;followed&#x02019; beetles back to conifers. Interestingly, at least one lineage of <italic>Ambrosiella </italic>(now transferred to <italic>Hyalorhinocladiella</italic>) is not associated with ambrosia beetles, but rather with species of <italic>Ips</italic>, <italic>Polygraphus</italic>, and <italic>Hylurgops</italic> [<xref rid="B30-insects-03-00339" ref-type="bibr">30</xref>], indicating an independent origin of this morphological form with bark beetles in conifers. Past reliance of fungal taxonomy on morphology has led to the current unnatural classification used for many fungi associated with Scolytinae. In many cases, convergent evolution for an insect-adapted lifestyle has led to similar forms resulting in unrelated fungi being placed within the same genus. Rigorous revisions of these genera to better reflect actual relationships will vastly improve our understanding of these fungi and how interactions with scolytine hosts ultimately influence their form, function, and distribution.</p><p>Floristic composition and diversity may be important drivers of diversity in herbivorous insects [<xref rid="B94-insects-03-00339" ref-type="bibr">94</xref>,<xref rid="B95-insects-03-00339" ref-type="bibr">95</xref>]. Indeed, enhanced rates of diversification in angiosperm-feeding beetle lineages resulted in nearly half of the species in the order Coleoptera, which contains much of the insect biodiversity on Earth [<xref rid="B95-insects-03-00339" ref-type="bibr">95</xref>]. However, for many insects, including the Scolytinae, host plant diversity may be only one of several factors influencing diversification. For ambrosia beetles, the adoption of a strictly mycophagous habit may have led to extensive species radiations in the Xyleborini and the Platypodini [<xref rid="B96-insects-03-00339" ref-type="bibr">96</xref>]. However, these radiations occurred mainly in tropical rainforests, where both warm temperatures and high humidity favor fungal growth [<xref rid="B97-insects-03-00339" ref-type="bibr">97</xref>] and the diversity of trees is very high, confounding our ability to detect drivers of diversity in these systems. In addition, the massive radiation of the Xyleborini occurred simultaneously with the development of inbreeding. Because, in several lineages of ambrosia beetles, the development of a strictly fungus-feeding lifestyle did not result in extensive radiations and they remain relatively species poor, we cannot conclude that the development of strict fungal feeding in and of itself supports radiation. However, while conifer-using lineages within the Scolytinae are species-poor, relative to some angiosperm-using lineages, three tribes [Tomicini (including the Hylastini), Ipini, and Corthylini] are among the most species-rich conifer associations known [<xref rid="B91-insects-03-00339" ref-type="bibr">91</xref>] indicating that fungus feeding may, at least at times, support greater species diversity.</p><p>The development of mutualisms with fungi also may have supported the diversification of scolytine lineages inhabiting conifers. Two of the three most diverse conifer-using tribes in the Scolytinae, the Tomicini and the Ipini, contain most known examples of mycophagous bark beetles. The third tribe, the Corthylini (which also contains an ambrosia beetle lineage), contains the species-rich Pityophthorina, many of which use conifers, and which are also associated with fungi [<xref rid="B98-insects-03-00339" ref-type="bibr">98</xref>,<xref rid="B99-insects-03-00339" ref-type="bibr">99</xref>,<xref rid="B100-insects-03-00339" ref-type="bibr">100</xref>], but remain uninvestigated for mycophagy.</p><p>Mutualism allows organisms to excel in marginal habitats, exploit new niches, avoid competition, and buffer environmental variability [<xref rid="B11-insects-03-00339" ref-type="bibr">11</xref>,<xref rid="B101-insects-03-00339" ref-type="bibr">101</xref>]. In the cases of both ambrosia beetles and mycophloeophagous (combined fungus-phloem feeders) bark beetles, the use of fungi for food has expanded the capacity of these insects to use nutrient-poor plant resources [<xref rid="B15-insects-03-00339" ref-type="bibr">15</xref>]. Nutrition/transport-based mutualisms evolved many times in the Scolytinae and transitions from a strictly plant-based diet to a combined or strictly fungus-feeding strategy perhaps evolved relatively rapidly. The evolution of mycangia may be a particularly useful metric of both the advantage, and the rapidity, of the evolution of fungus-beetle mutualisms. Mycangia evolved independently many times in the Scolytinae. They are present in almost all ambrosia beetle species and in many bark beetles. Furthermore, mycangia within the same genus occur in different body regions, or differ in their distribution between the sexes, indicating independent, rapid origins over a very short evolutionary time frame [<xref rid="B91-insects-03-00339" ref-type="bibr">91</xref>,<xref rid="B102-insects-03-00339" ref-type="bibr">102</xref>]. Mycangia occur across many beetle tribes, including some basal groups, suggesting that fungus feeding has been advantageous to the Scolytinae from its origin.</p><p>The propensity of Scolytinae to form nutrition/transport-based mutualisms with fungi is probably linked to two characteristics that have exemplified the subfamily since its beginnings: the exploitation of inner plant tissues and the formation of associations with fungi that grow there. However, the exact path leading to the formation of these mutualisms is unknown. Two models for evolutionary transitions from a plant-based diet to &#x02018;fungiculture&#x02019; in insects have been proposed [<xref rid="B103-insects-03-00339" ref-type="bibr">103</xref>]. In the &#x02018;transmission first&#x02019; model, the insect is first associated with a fungus as a vector, then begins to obtain nutrition from the fungus, and finally relies on the fungus as a food source [<xref rid="B11-insects-03-00339" ref-type="bibr">11</xref>,<xref rid="B103-insects-03-00339" ref-type="bibr">103</xref>]. In the &#x02018;consumption first&#x02019; model, an insect lineage begins to incorporate fungi into a generalized diet and then becomes a specialized fungivore. Implicit in the second model is that both insect and fungus must also develop adaptations for vectoring to ensure transmission from generation to generation. Both models are tenable for the Scolytinae, and it is likely that various forms of both models have occurred to produce the associations that we see today.</p><p>If current day associations with fungi reflect phylogenetic history, then scolytine beetles were associated with <italic>Ophiostoma</italic> (and allied genera) from their origin. Many, if not all, of the most primitive members of this subfamily (ex. <italic>Hylurgops</italic>, <italic>Hylastes</italic>, <italic>Pseudohylesinus</italic>) vector <italic>Grosmannia</italic> and <italic>Ophiostoma </italic>species, but with no evident benefit to the host. Such apparently strictly vector associations occur throughout the Scolytinae (ex. <italic>Scolytus</italic>, <italic>Orthotomicus</italic>), interspersed between the phloeomycophagous bark beetle and ambrosia beetle lineages. Such vector associations are unsurprising, given that ophiostomatoid fungi are very well adapted to insect dispersal [<xref rid="B104-insects-03-00339" ref-type="bibr">104</xref>] and that these adaptations appear to have arisen prior to the origins of the Scolytinae [<xref rid="B91-insects-03-00339" ref-type="bibr">91</xref>]. In addition, both beetles and their associated fungi colonize early in succession, colonizing living (at least in the initial stages of attack) or freshly killed plant material. As a consequence, both must arrive very early in the colonization sequence. Among the many loose associations that formed, some eventually developed into nutrition/transport-based mutualisms of the ambrosial type with beetles exploiting angiosperms, and of the phloeomycophagous type for beetles exploiting conifers. Of note is that while some ambrosia beetles attack conifers, there are no known phloeomycophagous species among the bark beetles that colonize angiosperms.</p><p>Regardless of how these associations originated, it appears that once established, reversals from the fungus-feeding state are rare or nonexistent. No reversals to a non-ambrosia feeding state are known in ambrosia beetles [<xref rid="B91-insects-03-00339" ref-type="bibr">91</xref>] or for other insect-fungus nutrition/transport-based mutualisms, including the fungus-gardening ants and termites [<xref rid="B11-insects-03-00339" ref-type="bibr">11</xref>]. This indicates that the transition to obligate mycophagy is a major and potentially irreversible change that constrains subsequent evolution [<xref rid="B11-insects-03-00339" ref-type="bibr">11</xref>]. Even where beetles have lost the capacity to vector the fungi, they continue to exploit fungi through mycocleptism [<xref rid="B105-insects-03-00339" ref-type="bibr">105</xref>].</p><p>The independent evolution of fungus feeding many times in the Scolytinae suggests that an overall tight concordance of phylogenies of the beetles and their fungal associates should not be expected. However, for particular lineages of beetles, especially those with shared mycangial types and common obligate associations with fungi, we might expect evidence of tightly linked evolutionary histories and cospeciation. This has not been explicitly investigated, except in one study where it was found that some <italic>Ceratocystiopsis</italic> and <italic>Dendroctonus</italic> possessing pronotal mycangia, and some <italic>Grosmannia</italic> and <italic>Dendroctonus</italic> possessing maxillary mycangia, show evidence of cospeciation [<xref rid="B102-insects-03-00339" ref-type="bibr">102</xref>]. However, the same study revealed that host switching and/or colonization events also occurred in these same associations. While no other studies looking explicitly for cospeciation have been conducted in the Scolytinae, the distribution of fungal species among various host beetles indicates that host switching has been common, even among ambrosia beetle lineages and their fungal associates [<xref rid="B7-insects-03-00339" ref-type="bibr">7</xref>,<xref rid="B28-insects-03-00339" ref-type="bibr">28</xref>,<xref rid="B91-insects-03-00339" ref-type="bibr">91</xref>].</p><p>There are several reasons why strict cospeciation of beetle hosts and fungal symbionts may be rare, or at least difficult to detect, in the Scolytinae. Two factors appear to greatly facilitate cospeciation: strict vertical transmission of symbionts, and restricted options to acquire hosts or symbionts from outside the relationship [<xref rid="B106-insects-03-00339" ref-type="bibr">106</xref>,<xref rid="B107-insects-03-00339" ref-type="bibr">107</xref>]. Neither criterion appears to be strictly met by scolytine-fungus associations. The presence of highly specific organs to transmit symbionts (mycangia) at first may seem to indicate strict vertical transmission. However, unlike endosymbioses with symbionts transmitted directly from mother to offspring via the egg, in scolytine-fungus ectosymbioses, the fungi are inoculated by the beetles into plant tissues where they grow for a period of time independent of the host before being reacquired by offspring as teneral adults. This period of growth in wood presents a weak link in the transmission process and provides an opportunity for horizontal transmission of symbionts.</p><p>Vertical transmission may be more reliable in some ambrosial systems than in others, and more reliable in ambrosial systems than in phloeomycophagous systems. For example, in ambrosial species of the Xyleborini, only females possess mycangia, and mating occurs between siblings in the natal substrate [<xref rid="B108-insects-03-00339" ref-type="bibr">108</xref>,<xref rid="B109-insects-03-00339" ref-type="bibr">109</xref>,<xref rid="B110-insects-03-00339" ref-type="bibr">110</xref>]. For these beetles, males do not disperse and only females contribute inoculum to the brood. However, for some ambrosia and most bark beetles, both sexes disperse to, and mate in, new substrates prior to initiating a brood [<xref rid="B108-insects-03-00339" ref-type="bibr">108</xref>]. For these insects, both sexes carry fungi to the breeding substrate, greatly decreasing the likelihood of strict vertical transmission. This is true regardless of whether one or both sexes, or neither sex, possess mycangia. For mycangial beetles, one or both parents may transmit mycangial fungi not only in mycangia but also on their exoskeletons (although mycangial fungi are often transmitted at much lower rates on the exoskeleton than in mycangia, [<xref rid="B111-insects-03-00339" ref-type="bibr">111</xref>]). For non-mycangial beetles, fungi are transported on the exoskeleton, although efficacy of vectoring can vary by sex [<xref rid="B112-insects-03-00339" ref-type="bibr">112</xref>]. Very importantly, parents often originate from different broods and often from different trees. This means that the fungi that each contributes to its offspring may be different species or different genotypes of the same species.</p><p>For both ambrosia and bark beetles, this is further complicated because commensal ophiostomatoid fungi are often also transported by parents. Multiple scolytine beetle species (and their fungal associates) often cohabit one tree, further increasing the potential pool of fungi that a brood might contact. Therefore, even if a beetle begins development with one fungus faithfully transmitted by only one parent, it is liable to be exposed to, and potentially acquire, several other fungi by adulthood. Such exposure, over time, may result in host switching or colonization events. It may also account for the multipartite nature of many of these associations. The ability of hosts to occasionally acquire new partners might have led, not only to the replacement of old associates with new, but also to the addition of new associates to old. In some cases, new associates may be acquired because of their superior qualities. In contrast, some symbionts may be &#x02018;cheaters&#x02019; that have infiltrated established associations between the host and superior, established symbionts.</p><p>However, despite evidence that host switching and colonization events were common over evolutionary time, many mutualistic beetle-fungus symbioses are highly specific. This indicates that host switching is constrained, and that mechanisms exist to ensure fidelity of partners. In contrast, associations of fungi with beetles that merely act as vectors are less constrained. This may explain why some beetles easily acquire novel ophiostomatoid species when introduced into new habitats or when new fungi are introduced into their native range by exotic beetles or in wood [<xref rid="B100-insects-03-00339" ref-type="bibr">100</xref>,<xref rid="B113-insects-03-00339" ref-type="bibr">113</xref>,<xref rid="B114-insects-03-00339" ref-type="bibr">114</xref>].</p><p>Abiotic factors may also greatly affect acquisition of fungal associates by beetles, and thus may also act to disrupt vertical transmission. As a season progresses, variation in environmental conditions can cause variability in the relative growth rates of fungal symbionts. This influences which fungi sporulate in the pupal chamber at the time of teneral adult maturation feeding, and thus determines which fungi are acquired by the beetles and dispersed to the next host plant and the next generation of beetles [<xref rid="B115-insects-03-00339" ref-type="bibr">115</xref>] (discussed further in a later section). Therefore, as environmental conditions vary over a season, over years, and by location, fungal assemblages associated with a beetle species may vary and shift merely by the influence of abiotic factors. Indeed, the abiotic environment has played, and continues to play, an important role in determining the distribution of the fungi with beetle hosts on both local and regional scales.</p><p>Absence of evidence of strict cospeciation does not imply that these are wholly unconstrained associations. Cospeciation and host switching/colonization events represent phylogenetically- and ecologically-mediated evolutionary processes [<xref rid="B116-insects-03-00339" ref-type="bibr">116</xref>]. These processes, while seemingly independent, can be coupled, with phylogenetic relationships strongly influencing the nature of a host shift that is otherwise ecologically mediated [<xref rid="B116-insects-03-00339" ref-type="bibr">116</xref>]. In the case of scolytines and ophiostomatoid fungi, host shifts occur, but usually to phylogenetic relatives (within Ophiostomatales or Microascales), although often not to a sister species. Therefore, while we see little evidence of cospeciation, host transfers appear to be mostly constrained to members within the Scolytinae and the ophiostomatoid fungi.</p><p>Phylogenetic conservatism, however, has not been absolute between ophiostomatoid fungi and scolytines. For example, <italic>D. frontalis</italic> possesses two mycangial fungi. One, <italic>Entomocorticium</italic> sp. A, is a Basidiomycete. This fungus appears to be a superior symbiont compared with the more coevolved ophiostomatoid associate, <italic>C. ranaculosus</italic>, indicating that this Basidiomycete was acquired opportunistically because of its benefit to the host. Furthermore, ophiostomatoid fungi can also be consistently found in <italic>Protea</italic> infructescences, in soil, and even in the mounds of fungus-gardening termites [<xref rid="B117-insects-03-00339" ref-type="bibr">117</xref>,<xref rid="B118-insects-03-00339" ref-type="bibr">118</xref>]. These ophiostomatoid fungi in Proteas and termite mounds lie in a highly-derived clade within <italic>Ophiostoma</italic> and thus these associations probably formed after those between <italic>Ophiostoma</italic> and bark beetles [<xref rid="B18-insects-03-00339" ref-type="bibr">18</xref>]. Therefore, while phylogenetic conservatism clearly has imposed constraints, new opportunities have been exploited, resulting in the formation of associations between beetles and non-ophiostomatoid fungi and ophiostomatoid fungi and non-scolytine hosts.</p></sec><sec><title>3. The Role of Biotic and Abiotic Factors in Shaping Scolytinae-Fungus Symbioses</title><p>The structure of biological communities is seldom determined by a single major factor or process, but by many independent and interacting processes. This is also true for subsets of interactions within the broader community including symbioses. Below, I discuss the major biotic and abiotic factors and processes that influence the structure of symbiotic fungal assemblages associated with bark beetles.</p><sec><title>3.1. The Host Plant</title><p>The host plant provides the substrate and nutritional resources that support the growth and reproduction of both beetles and fungi. The majority of scolytines and their associated fungi colonize freshly killed plant material (whether the beetles themselves kill the plant or arrive after the fact), which means that, at least initially, the plant is a relatively inhospitable environment. Host tree defenses present at the time of colonization [<xref rid="B119-insects-03-00339" ref-type="bibr">119</xref>] can repel or even kill host beetles and are often fungitoxic or fungistatic. Aggressive beetles reduce host tree effects by a pheromone-mediated mass attack that kills the tree and quickly reduces tree defenses [<xref rid="B120-insects-03-00339" ref-type="bibr">120</xref>]. Fungal associates are often pathogenic to the host plant, facilitating their survival in still living or newly-killed plant tissues until defenses subside. Interestingly, most fungi associated with tree-killing beetles (primary and secondary, e.g., <italic>D. frontalis</italic>, <italic>I. pini</italic>) possess relatively low levels of virulence [<xref rid="B6-insects-03-00339" ref-type="bibr">6</xref>,<xref rid="B10-insects-03-00339" ref-type="bibr">10</xref>]. In contrast, fungi associated with beetles that develop in living trees, where the tree does not die (e.g., <italic>Hylurgops</italic>, <italic>Hylastes</italic>, <italic>D. valens</italic>, <italic>D. terebrans</italic>), possess relatively high levels of virulence [<xref rid="B121-insects-03-00339" ref-type="bibr">121</xref>,<xref rid="B122-insects-03-00339" ref-type="bibr">122</xref>,<xref rid="B123-insects-03-00339" ref-type="bibr">123</xref>]. These differences in virulence may reflect differences in fungal life histories. For fungi associated with tree-killing beetles, high levels of virulence are unnecessary because plant defenses are active only briefly. On the other hand, fungi associated with beetles developing in living hosts may require greater virulence to avoid containment and to be able to persist in a continuously defensive tree until new brood adults disperse up to a year after initial introduction.</p><p>The challenge of using trees as substrate does not end once defenses have abated. The quality and condition of a host tree changes, often radically, over the development period of the beetles. Tree tissues are highest in nutrients and moisture at the time of colonization, but by the time of brood adult emergence and dispersal, much of the phloem resource has either been consumed or has become badly degraded and depleted of nutrients [<xref rid="B8-insects-03-00339" ref-type="bibr">8</xref>]. Furthermore, moisture loss over this period can be considerable, often contributing to the mortality of substantial numbers of the beetle brood and contributing to decreasing areas in the tree colonized by symbiotic fungi [<xref rid="B124-insects-03-00339" ref-type="bibr">124</xref>,<xref rid="B125-insects-03-00339" ref-type="bibr">125</xref>].</p><p>Changes in chemistry, moisture and nutritional content of the host plant can affect the distribution and relative prevalence of fungal associates within a tree. Adams and Six [<xref rid="B71-insects-03-00339" ref-type="bibr">71</xref>] observed that the relative prevalence of <italic>G. clavigera</italic> and <italic>O. montium</italic> (the former a moderately virulent pathogen, the latter a weak pathogen/saprobe) associated with <italic>D. ponderosae </italic>shifted dramatically over beetle development. These shifts were probably driven by changes in tree defenses and moisture conditions (and temperature, discussed below). Variation in virulence among fungal associates affects the rate and timing of their capture of resources within the tree. Initially, fungi with greater virulence (and typically greater tolerance to high levels of moisture and low levels of oxygen) grow more rapidly and capture more resource [<xref rid="B126-insects-03-00339" ref-type="bibr">126</xref>]. However, as defenses decline and tree tissues begin to dry, the less virulent, more saprophytic fungi, begin to dominate. Furthermore, while some fungi are highly competitive in one set of conditions, they may be poor competitors under others [<xref rid="B125-insects-03-00339" ref-type="bibr">125</xref>]. Thus, changes over time within the tree influence not only relative rates of growth and primary resource capture, but also the outcome of direct competition among the various fungi [<xref rid="B125-insects-03-00339" ref-type="bibr">125</xref>,<xref rid="B127-insects-03-00339" ref-type="bibr">127</xref>].</p></sec><sec><title>3.2. Microbes</title><p>Bark beetles and their symbiotic fungi coexist with a multitude of microbes. These include yeasts and bacteria that colonize beetle galleries and that are likely vectored into the tree by the beetles, and endophytic bacteria and fungi that grow within host tree tissues irrespective of the presence of the beetles. While most studies conducted on microbes associated with beetle galleries are surveys [<xref rid="B128-insects-03-00339" ref-type="bibr">128</xref> and others], only a few have focused on the potential ecological roles of these microbes in these microhabitats [<xref rid="B129-insects-03-00339" ref-type="bibr">129</xref>,<xref rid="B130-insects-03-00339" ref-type="bibr">130</xref>,<xref rid="B131-insects-03-00339" ref-type="bibr">131</xref>,<xref rid="B132-insects-03-00339" ref-type="bibr">132</xref>,<xref rid="B133-insects-03-00339" ref-type="bibr">133</xref>]. Nair <italic>et al.</italic> [<xref rid="B134-insects-03-00339" ref-type="bibr">134</xref>] isolated a bacterium, <italic>Bacillus mojavensis</italic>, from galleries of the ambrosia beetle, <italic>Xylosandrus compactus</italic>,that inhibited several fungi, including the ambrosial fungus of the beetle. Adams <italic>et al.</italic> [<xref rid="B135-insects-03-00339" ref-type="bibr">135</xref>] found that both yeasts and bacteria have substantial effects on the growth of the two mycangial fungi of <italic>D. ponderosae</italic>. The yield of <italic>O. montium</italic> grown <italic>in vitro </italic>individually with two yeasts and a bacterium isolated from larval galleries was much greater than the yield of <italic>O. montium</italic> grown alone. However, the relative yield of <italic>G. clavigera</italic> grown with these same microbes was less than when it was grown alone. These results suggest that at least some microbes found in larval galleries facilitate the growth of <italic>O. montium </italic>and are antagonistic to <italic>G. clavigera</italic>. A bacterium isolated from uncolonized phloem (a putative endophyte) strongly inhibited relative yield of both <italic>G. clavigera</italic> and <italic>O. montium</italic> and appears to be an antagonist to both. Subsequent work has characterized various effects of bacteria associated with bark beetles on symbiotic fungi indicating they may, at least in part, mediate interactions between the symbiotic fungi and the host beetle [<xref rid="B136-insects-03-00339" ref-type="bibr">136</xref>].</p><p>Cardoza <italic>et al.</italic> [<xref rid="B132-insects-03-00339" ref-type="bibr">132</xref>] observed <italic>D. rufipennis</italic> producing oral secretions that inhibited the growth of fungi associated with the host beetle. These oral secretions contained bacteria that inhibited one or more of the fungi, including the ophiostomatoid symbiont, <italic>L. abietinum</italic>. Further, actinomycetes in mycangia may provide some protection to beneficial fungi from antagonistic ones [<xref rid="B137-insects-03-00339" ref-type="bibr">137</xref>].</p><p>Work on bark beetle gut communities indicates a high diversity of microbes associated with this niche; however, the roles of these microbes and their potential interactions with bark beetle symbiotic fungi remain poorly understood [<xref rid="B138-insects-03-00339" ref-type="bibr">138</xref>,<xref rid="B139-insects-03-00339" ref-type="bibr">139</xref>]. Overall, it appears that at least some co-occurring microbes impact the distribution of symbiotic fungi through antagonistic or facilitative interactions, with potentially important indirect effects on the fitness of host beetles.</p></sec><sec><title>3.3. Arthropods</title><p>Bark beetles and their symbiotic fungi also share trees with many arthropods. These arthropods include natural enemies (predators and parasitoids), phloem and wood borers, and fungivores, as well as other bark beetle species. Some of these arthropods significantly affect beetle-fungus symbioses. Bark beetle species that cohabit the same tree can compete for resources. Their fungi may also compete for space and resources while also disrupting contact between a beetle and its normal fungal assemblage.</p><p>Some mites, phoretic on bark beetles, have close symbioses with ophiostomatoid fungi [<xref rid="B140-insects-03-00339" ref-type="bibr">140</xref>,<xref rid="B141-insects-03-00339" ref-type="bibr">141</xref>]. These mites feed on their associated fungi and vector them in sporothecae, the structures of their exoskeletons being analogous to bark beetle mycangia. Mites and their associates can have profound effects on the fitness and population dynamics of bark beetles and their associated fungi [<xref rid="B141-insects-03-00339" ref-type="bibr">141</xref>]. Interestingly, a mite-scarab beetle-ophiostomatoid fungus interaction recently reported from <italic>Protea </italic>infructescences [<xref rid="B116-insects-03-00339" ref-type="bibr">116</xref>] indicates that such complex associations involving mites are not limited to bark beetle systems.</p><p>Some natural enemies of bark beetles also interact, at least indirectly, with bark beetle-associated fungi. In the <italic>Ips pini&#x02014;O. ips</italic> and the <italic>D. ponderosae-O. montium-G. clavigera </italic>systems, parasitoids are attracted to fungus-colonized tree tissues and apparently use fungus-produced volatiles for locating beetle larvae and pupae [<xref rid="B142-insects-03-00339" ref-type="bibr">142</xref>,<xref rid="B143-insects-03-00339" ref-type="bibr">143</xref>]. In contrast, in the <italic>D. frontalis</italic>-fungus symbiosis, fungi were not required for attraction to occur [<xref rid="B144-insects-03-00339" ref-type="bibr">144</xref>]. Whether such exploitation of fungal symbionts by parasitoids to locate hosts affects beetle or fungal fitness or population dynamics is unknown.</p></sec><sec><title>3.4. Temperature</title><p>Fungi are extremely sensitive to temperature and most species grow only within a relatively narrow range of temperatures. Optimal growth temperatures and ranges of temperatures supporting growth vary substantially among species. Such differences can greatly affect the distribution of fungi, their relative prevalence, and the outcome of competitive interactions when fungi occur together in a substrate.</p><p>For example, Six and Bentz [<xref rid="B115-insects-03-00339" ref-type="bibr">115</xref>] found that temperature plays a key role in determining the relative abundance of the two symbiotic fungi associated with dispersing <italic>D. ponderosae</italic>. The two fungi possess different optimal growth temperatures. When temperatures are relatively warm, <italic>O. montium</italic> is dispersed by new adult beetles, but when temperatures are cool, <italic>G. clavigera</italic> is dispersed. Shifts in the prevalence of the two fungi probably reflect the effects of temperature on sporulation in pupal chambers when brood adults eclose, begin to feed, and pack their mycangia with spores. The two fungi are not highly antagonistic to one another when grown in culture [<xref rid="B145-insects-03-00339" ref-type="bibr">145</xref>] and are often observed or isolated together from phloem or from the same pupal chamber [<xref rid="B71-insects-03-00339" ref-type="bibr">71</xref>,<xref rid="B146-insects-03-00339" ref-type="bibr">146</xref>,<xref rid="B147-insects-03-00339" ref-type="bibr">147</xref>]. The ability of these species to intermingle in tree substrates, and the rarity of fungus-free dispersing beetles, indicates that both fungi are probably present in many pupal chambers, but that depending upon temperature, typically only one will sporulate and be acquired in mycangia at a particular point in time. This determines which fungus is dispersed to the next tree and the next generation of beetles, with substantial implications for the fitness of both beetles and fungi.</p><p>Significant effects of temperature on interactions between <italic>D. frontalis</italic> and its two mycangial fungi, and an antagonistic phoretic fungus (associated with mites phoretic on <italic>D. frontalis</italic>) were also observed. The relative abundance of the two mycangial fungi of <italic>D. frontalis</italic> changes seasonally, with <italic>Entomocorticium</italic> sp. A prevailing in winter and <italic>C. ranaculosus</italic> in summer [<xref rid="B84-insects-03-00339" ref-type="bibr">84</xref>]. Their relative frequency was significantly affected by temperature. Increased temperatures probably decreases beetle reproduction directly through effects on the physiology of progeny and indirectly through effects on mycangial fungi. <italic>Entomocorticium</italic> performs poorly at higher temperatures while <italic>C. ranaculosus </italic>is unaffected.</p></sec></sec><sec><title>4. Stability and Redundancy in Multipartite Systems</title><p>Symbioses, particularly mutualisms, are predicted to be inherently unstable and prone to erosion because of cheating by established symbionts or invasion by exploiters [<xref rid="B148-insects-03-00339" ref-type="bibr">148</xref>]. This may be especially true for multipartite symbioses, such as most bark beetle-fungus symbioses, where interactions among symbionts may also affect stability. Many fungal associates of bark beetles are phylogenetically related and have similar life histories. They are introduced into trees by the host beetle, are thought to use the same resources within the tree, and potentially compete for the same space, and ultimately, for the same host beetles when it comes time for dispersal. Thus, the multiple fungal associates of beetle species appear to occupy essentially the same niche. This should result in strong direct competition among symbionts, leading to replacement of weaker competitors by stronger competitors. Moreover, for mutualisms, different symbionts, being different organisms, are not expected to provide exactly the same degree of benefit to the host. Therefore, symbionts that provide inferior benefits should be selected against, and superior symbionts should move toward fixation with the host. Despite these predictions, many multiple-partner associations have apparently been relatively stable for long periods of evolutionary time [<xref rid="B102-insects-03-00339" ref-type="bibr">102</xref>], indicating the existence of factors or mechanisms that contribute to their stability.</p><p>Questions of how and why a host maintains two or more mutualistic symbionts are particularly interesting. At first glance, inferior symbionts appear to be inherently detrimental to the host because they displace the more beneficial symbiont(s) from a proportion of the host population. This should lower the fitness of individual hosts relative to those with superior symbionts. This may be especially important for aggressive beetle species that mass attack trees, and whose success ultimately is linked to host population size.</p><p>When considering which symbionts are superior, it is important to remember that roles and intensities of effects vary with environmental conditions. Environmental heterogeneity is a fundamental attribute of biological communities [<xref rid="B149-insects-03-00339" ref-type="bibr">149</xref>], and the function of any given species can vary considerably across natural gradients, both within a community and among different communities [<xref rid="B150-insects-03-00339" ref-type="bibr">150</xref>]. This variability in function as conditions change has been called &#x02018;context dependency&#x02019; [<xref rid="B151-insects-03-00339" ref-type="bibr">151</xref>]. Gradients of temperature, moisture, and other environmental variables comprise the essential axes of species&#x02019; ecological niches and these factors exert major influences on the ecological performance of organisms in nature [<xref rid="B152-insects-03-00339" ref-type="bibr">152</xref>]. Within the geographic range of an organism, some conditions will be more suitable for survival growth and reproduction. This means that some symbionts that are ecologically extraneous (or inferior) at one point on a multifactoral environmental gradient may be essential (or superior) at another.</p><p>Symbionts associated with a beetle can appear to occupy a common niche when in actuality the niches may differ greatly. Each partner in these symbioses responds differently to the same set of environmental gradients. This may translate to relatively large differences in the effectiveness of different symbiont genotypes (different species or strains of one species) under different environmental conditions. Furthermore, if shifts in the environment are unpredictable or rapid relative to the generation time of the host, then host specialization on one symbiont may not be favored. Under such circumstances, multiple symbionts may be advantageous, because they increase the chance that at least one symbiont partner is effective under any prevailing set of environmental conditions.</p><p>For example, as reviewed above, the two fungi associated with <italic>D. ponderosae</italic> possess different temperature tolerances [<xref rid="B115-insects-03-00339" ref-type="bibr">115</xref>,<xref rid="B153-insects-03-00339" ref-type="bibr">153</xref>,<xref rid="B154-insects-03-00339" ref-type="bibr">154</xref>]. These differences determine which fungus is vectored by dispersing host beetles as temperatures fluctuate over a season. This temperature-driven symbiont shifting may provide a mechanism that has allowed both fungi to persist in a long-term symbiosis with their host. By growing at different temperatures, and thus at different times, the fungi minimize competition with one another except at a narrow range of temperatures where the growth of both fungi is equally supported. In turn, the beetle may benefit by reducing its risk of being &#x02018;left alone&#x02019; by exploiting not one, but two symbionts, whose combined growth optima span a wide range of environmental conditions. For bark beetles, such as <italic>D. ponderosae</italic>, which inhabit a broad geographic range and highly variable habitats, possessing multiple symbionts may be especially important.</p><p>It may be useful to view multipartite symbioses from the perspective of functional redundancy. The idea that many species in ecosystems perform the same or very similar functions (members of a functional group) has been used extensively in conservation theory [<xref rid="B155-insects-03-00339" ref-type="bibr">155</xref>]. The concept of functional redundancy suggests that the presence of a diversity of functionally equivalent species enhances the resilience of an ecosystem and its ability to function after perturbation [<xref rid="B155-insects-03-00339" ref-type="bibr">155</xref>]. This concept may also be applicable to symbioses, especially ectosymbioses, where hosts often have multiple symbionts that fulfill similar roles (symbiont redundancy) and where both partners are exposed to vagaries of the environment. Symbiont redundancy may contribute to resilience and help maintain functions in symbioses that occur in variable habitats where one symbiont alone may not suffice. Symbionts in the same &#x02018;functional group&#x02019; may be redundant in the resources provided to a host, but possess different responses along environmental gradients, allowing the symbiont community as a whole to respond to changes in the environment that occur both seasonally and from year to year.</p></sec><sec><title>5. Conclusions and Future Directions</title><p>Symbioses between Scolytinae and fungi are complex, varied and still poorly understood. While our understanding of these systems remains rudimentary, the recent revival of interest in them has led to a rapid accumulation of information. Molecular taxonomic tools have enabled researchers to accurately identify fungal partners and to resolve phylogenetic relationships of beetles and fungi alike. This renaissance emerged because of the willingness of investigators to test new paradigms and to apply ecological and evolutionary theory to these interactions. Because of this, the near future should be a very exciting period, moving us rapidly toward an integrated understanding of how these organisms interact with each other and the environment, revealing how their interactions have developed and been maintained over time.</p></sec></body><back><ack><title>Acknowledgements</title><p>Many thanks to Aaron Adams, Stan Barras, Roger Beaver, and Kier Klepzig for their thoughtful comments on an earlier draft of this chapter. Special thanks to Mike Wingfield for many lively discussions on this topic.</p></ack><ref-list><title>References</title><ref id="B1-insects-03-00339"><label>1.</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Sapp</surname><given-names>J.</given-names></name></person-group>
+<source>Evolution by Association: A History of Symbiosis</source>
+<publisher-name>Oxford University Press</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>1994</year>
+</element-citation></ref><ref id="B2-insects-03-00339"><label>2.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Margulis</surname><given-names>L.</given-names></name><name><surname>Fester</surname><given-names>R.</given-names></name></person-group>
+<source>Symbiosis as a Source of Evolutionary Innovation</source>
+<publisher-name>MIT Press</publisher-name>
+<publisher-loc>Cambrage, MA, USA</publisher-loc>
+<year>1991</year>
+</element-citation></ref><ref id="B3-insects-03-00339"><label>3.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Douglas</surname><given-names>A.E.</given-names></name></person-group>
+<source>Symbiotic Interactions</source>
+<publisher-name>Oxford Science Publications</publisher-name>
+<publisher-loc>Oxford, UK</publisher-loc>
+<year>1994</year>
+</element-citation></ref><ref id="B4-insects-03-00339"><label>4.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Maynard Smith</surname><given-names>J.</given-names></name><name><surname>Szathmary</surname><given-names>E.</given-names></name></person-group>
+<source>The Major Transitions in Evolution</source>
+<publisher-name>Oxford University Press</publisher-name>
+<publisher-loc>Cary, NC, USA</publisher-loc>
+<year>1995</year>
+</element-citation></ref><ref id="B5-insects-03-00339"><label>5.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Bronstein</surname><given-names>J.</given-names></name></person-group>
+<article-title>Mutualisms</article-title>
+<source>Evolutionary Ecology, Perspectives and Synthesis</source>
+<person-group person-group-type="editor"><name><surname>FOX</surname><given-names>C.</given-names></name><name><surname>Fairbairn</surname><given-names>D.</given-names></name><name><surname>Roff</surname><given-names>D.</given-names></name></person-group>
+<publisher-name>Oxford University Press</publisher-name>
+<publisher-loc>Oxford, UK</publisher-loc>
+<year>2001</year>
+<fpage>315</fpage>
+<lpage>330</lpage>
+</element-citation></ref><ref id="B6-insects-03-00339"><label>6.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Paine</surname><given-names>T.D.</given-names></name><name><surname>Raffa</surname><given-names>K.F.</given-names></name><name><surname>Harrington</surname><given-names>T.C.</given-names></name></person-group>
+<article-title>Interactions among scolytid bark beetles, their associated fungi, and live host conifers</article-title>
+<source>Annu. Rev. Entomol.</source>
+<year>1997</year>
+<volume>42</volume>
+<fpage>179</fpage>
+<lpage>206</lpage>
+<pub-id pub-id-type="doi">10.1146/annurev.ento.42.1.179</pub-id>
+<pub-id pub-id-type="pmid">15012312</pub-id></element-citation></ref><ref id="B7-insects-03-00339"><label>7.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Six</surname><given-names>D.L.</given-names></name></person-group>
+<article-title>Bark Beetle-Fungus Symbioses</article-title>
+<source>Insect Symbiosis</source>
+<person-group person-group-type="editor"><name><surname>Bourtzis</surname><given-names>K.</given-names></name><name><surname>Miller</surname><given-names>T.</given-names></name></person-group>
+<publisher-name>CRC Press</publisher-name>
+<publisher-loc>Boca Raton, FL, USA</publisher-loc>
+<year>2003</year>
+<fpage>97</fpage>
+<lpage>114</lpage>
+</element-citation></ref><ref id="B8-insects-03-00339"><label>8.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Six</surname><given-names>D.L.</given-names></name><name><surname>Klepzig</surname><given-names>K.D.</given-names></name></person-group>
+<article-title><italic>Dendroctonus</italic> bark beetles as model systems for the study of symbiosis</article-title>
+<source>Symbiosis</source>
+<year>2004</year>
+<volume>37</volume>
+<fpage>207</fpage>
+<lpage>232</lpage>
+</element-citation></ref><ref id="B9-insects-03-00339"><label>9.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Kirisits</surname><given-names>T.</given-names></name></person-group>
+<article-title>Fungal Associates of European Bark Beetles with Special Emphasis on the Ophiostomatoid Fungi</article-title>
+<source>Bark and Wood Boring Insects in Living Trees in Europe, a Synthesis</source>
+<person-group person-group-type="editor"><name><surname>Lieutier</surname><given-names>F.</given-names></name><name><surname>Day</surname><given-names>K.R.</given-names></name><name><surname>Battisti</surname><given-names>A.</given-names></name><name><surname>Gregoire</surname><given-names>J.-C.</given-names></name><name><surname>Evans</surname><given-names>H.F.</given-names></name></person-group>
+<publisher-name>Kluwer Academic Publishers</publisher-name>
+<publisher-loc>Dordrecht, The Netherlands</publisher-loc>
+<year>2004</year>
+<fpage>181</fpage>
+<lpage>236</lpage>
+</element-citation></ref><ref id="B10-insects-03-00339"><label>10.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Harrington</surname><given-names>T.C.</given-names></name></person-group>
+<article-title>Ecology and Evolution of Mycophagous Bark Beetles and Their Fungal Partners</article-title>
+<source>Insect-Fungal Associations: Ecology and Evolution</source>
+<person-group person-group-type="editor"><name><surname>Vega</surname><given-names>F.E.</given-names></name><name><surname>Blackwell</surname><given-names>M.</given-names></name></person-group>
+<publisher-name>Oxford University Press</publisher-name>
+<publisher-loc>Oxford, UK</publisher-loc>
+<year>2005</year>
+<fpage>257</fpage>
+<lpage>291</lpage>
+</element-citation></ref><ref id="B11-insects-03-00339"><label>11.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mueller</surname><given-names>U.</given-names></name><name><surname>Gerardo</surname><given-names>N.</given-names></name><name><surname>Aanen</surname><given-names>D.</given-names></name><name><surname>Six</surname><given-names>D.</given-names></name><name><surname>Schultz</surname><given-names>T.</given-names></name></person-group>
+<article-title>The evolution of agriculture in insects</article-title>
+<source>Annu. Rev. Ecol. Evol. Syst.</source>
+<year>2005</year>
+<volume>36</volume>
+<fpage>563</fpage>
+<lpage>595</lpage>
+</element-citation></ref><ref id="B12-insects-03-00339"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Six</surname><given-names>D.L.</given-names></name><name><surname>Wingfield</surname><given-names>M.J.</given-names></name></person-group>
+<article-title>The role of phytopathogenicity in bark beetle-fungus symbioses: A challenge to the classic paradigm</article-title>
+<source>Annu. Rev. Entomol.</source>
+<year>2011</year>
+<volume>56</volume>
+<fpage>255</fpage>
+<lpage>272</lpage>
+<pub-id pub-id-type="pmid">20822444</pub-id></element-citation></ref><ref id="B13-insects-03-00339"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wood</surname><given-names>S.L.</given-names></name></person-group>
+<article-title>The bark and ambrosia beetles of North and Central America (Coleoptera: Scolytidae), a taxonomic monograph</article-title>
+<source>Great Basin Nat. Mem.</source>
+<year>1982</year>
+<volume>6</volume>
+<fpage>1</fpage>
+<lpage>1359</lpage>
+</element-citation></ref><ref id="B14-insects-03-00339"><label>14.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Bright</surname><given-names>D.E.</given-names></name></person-group>
+<article-title>Systematics of Bark Beetles</article-title>
+<source>Beetle-Pathogen Interactions in Conifer Forests</source>
+<publisher-name>Schowalter, T.D., Philip, G.M., Academic Press</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>1993</year>
+<fpage>23</fpage>
+<lpage>33</lpage>
+</element-citation></ref><ref id="B15-insects-03-00339"><label>15.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Marvaldi</surname><given-names>A.E.</given-names></name><name><surname>Sequiera</surname><given-names>A.S.</given-names></name><name><surname>O&#x02019;brien</surname><given-names>C.W.</given-names></name><name><surname>Farrell</surname><given-names>B.W.</given-names></name></person-group>
+<article-title>Molecular and morphological phylogenetics of weevils (Coleoptera, Curculionoidea): Do niche shifts accompany diversification?</article-title>
+<source>Syst. Biol.</source>
+<year>2002</year>
+<volume>51</volume>
+<fpage>761</fpage>
+<lpage>785</lpage>
+<pub-id pub-id-type="doi">10.1080/10635150290102465</pub-id>
+<pub-id pub-id-type="pmid">12396590</pub-id></element-citation></ref><ref id="B16-insects-03-00339"><label>16.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Beaver</surname><given-names>R.A.</given-names></name></person-group>
+<article-title>Insect-Fungus Relationships in the Bark and Ambrosia Beetles</article-title>
+<source>Insect-Fungus Interactions</source>
+<person-group person-group-type="editor"><name><surname>Wilding</surname><given-names>N.</given-names></name><name><surname>Collins</surname><given-names>N.M.</given-names></name><name><surname>Hammond</surname><given-names>P.M.</given-names></name><name><surname>Webber</surname><given-names>J.F.</given-names></name></person-group>
+<publisher-name>Academic Press</publisher-name>
+<publisher-loc>London, UK</publisher-loc>
+<year>1989</year>
+<fpage>121</fpage>
+<lpage>143</lpage>
+</element-citation></ref><ref id="B17-insects-03-00339"><label>17.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Morales-Ramos</surname><given-names>J.A.</given-names></name><name><surname>Rojas</surname><given-names>M.G.</given-names></name><name><surname>Sittertz-Bhatkar</surname><given-names>H.</given-names></name><name><surname>Saldana</surname><given-names>G.</given-names></name></person-group>
+<article-title>Symbiotic relationship between <italic>Hypothenemus hampei</italic> (Coleoptera: Scolytidae) and <italic>Fusarium solani</italic> (Moniliales: Tuberculariaceae)</article-title>
+<source>Ann. Entomol. Soc. Am.</source>
+<year>2000</year>
+<volume>93</volume>
+<fpage>541</fpage>
+<lpage>547</lpage>
+<pub-id pub-id-type="doi">10.1603/0013-8746(2000)093[0541:SRBHHC]2.0.CO;2</pub-id>
+</element-citation></ref><ref id="B18-insects-03-00339"><label>18.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zipfel</surname><given-names>R.D.</given-names></name><name><surname>Debeer</surname><given-names>Z.W.</given-names></name><name><surname>Jacobs</surname><given-names>K.</given-names></name><name><surname>Wingfield</surname><given-names>B.D.</given-names></name><name><surname>Wingfield</surname><given-names>M.J.</given-names></name></person-group>
+<article-title>Multigene phylogenies define <italic>Ceratocystiopsis</italic> and <italic>Grosmannia</italic> distinct from <italic>Ophiostoma</italic></article-title>
+<source>Stud. Mycol.</source>
+<year>2006</year>
+<volume>55</volume>
+<fpage>75</fpage>
+<lpage>97</lpage>
+<pub-id pub-id-type="doi">10.3114/sim.55.1.75</pub-id>
+<pub-id pub-id-type="pmid">18490973</pub-id></element-citation></ref><ref id="B19-insects-03-00339"><label>19.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hausner</surname><given-names>G.</given-names></name><name><surname>Reid</surname><given-names>J.</given-names></name><name><surname>Klassen</surname><given-names>G.R.</given-names></name></person-group>
+<article-title><italic>Ceratocystiopsis</italic>&#x02014;A reappraisal based on molecular criteria</article-title>
+<source>Mycol. Res.</source>
+<year>1993</year>
+<volume>97</volume>
+<fpage>625</fpage>
+<lpage>633</lpage>
+<pub-id pub-id-type="doi">10.1016/S0953-7562(09)81188-X</pub-id>
+</element-citation></ref><ref id="B20-insects-03-00339"><label>20.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Spatafora</surname><given-names>J.W.</given-names></name><name><surname>Blackwell</surname><given-names>M.</given-names></name></person-group>
+<article-title>The polyphyletic origins of ophiostomatoid fungi</article-title>
+<source>Mycol. Res.</source>
+<year>1994</year>
+<volume>98</volume>
+<fpage>1</fpage>
+<lpage>9</lpage>
+</element-citation></ref><ref id="B21-insects-03-00339"><label>21.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Harrington</surname><given-names>T.C.</given-names></name></person-group>
+<article-title>Diseases of Conifers Caused by Species of <italic>Ophiostoma</italic> and <italic>Leptographium</italic></article-title>
+<source>Ceratocystis and Ophiostoma: Taxonomy, Ecology and Pathogenicity</source>
+<person-group person-group-type="editor"><name><surname>Wingfield</surname><given-names>M.J.</given-names></name><name><surname>Seifert</surname><given-names>K.A.</given-names></name><name><surname>Webber</surname><given-names>J.F.</given-names></name></person-group>
+<publisher-name>American Phytopathological Society</publisher-name>
+<publisher-loc>St. Paul, MN, USA</publisher-loc>
+<year>1993</year>
+<fpage>161</fpage>
+<lpage>172</lpage>
+</element-citation></ref><ref id="B22-insects-03-00339"><label>22.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Paulin-Mahady</surname><given-names>A.E.</given-names></name><name><surname>Harrington</surname><given-names>T.C.</given-names></name><name><surname>Mcnew</surname><given-names>D.</given-names></name></person-group>
+<article-title>Phylogenetic and taxonomic evaluation of <italic>Chalara</italic>, <italic>Chalaropsis</italic>, and <italic>Thielaviopsis </italic>anamorphs associated with <italic>Ceratocystis</italic></article-title>
+<source>Mycologia</source>
+<year>2002</year>
+<volume>94</volume>
+<fpage>62</fpage>
+<lpage>72</lpage>
+<pub-id pub-id-type="doi">10.2307/3761846</pub-id>
+<pub-id pub-id-type="pmid">21156478</pub-id></element-citation></ref><ref id="B23-insects-03-00339"><label>23.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Whitney</surname><given-names>H.S.</given-names><suffix>Bandoni</suffix></name><name><surname>Oberwinkler</surname><given-names>F.</given-names></name></person-group>
+<article-title><italic>Entomocorticum dendroctoni</italic> gen. et sp. nov. (Basidomycotina), a possible nutritional symbiote of the mountain pine beetle in British Columbia</article-title>
+<source>Can. J. Bot.</source>
+<year>1987</year>
+<volume>65,</volume>
+<fpage>95</fpage>
+<lpage>102</lpage>
+<pub-id pub-id-type="doi">10.1139/b87-013</pub-id>
+</element-citation></ref><ref id="B24-insects-03-00339"><label>24.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hsiau</surname><given-names>P.-T.W.</given-names></name><name><surname>Harrington</surname><given-names>T.C.</given-names></name></person-group>
+<article-title>Phylogenetics and adaptations of basidiomycetous fungi fed upon by bark beetles (Coleoptera: Scolytidae)</article-title>
+<source>Symbiosis</source>
+<year>2003</year>
+<volume>34</volume>
+<fpage>111</fpage>
+<lpage>131</lpage>
+</element-citation></ref><ref id="B25-insects-03-00339"><label>25.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Kok</surname><given-names>L.T.</given-names></name></person-group>
+<article-title>Lipids of Ambrosia Fungi and the Life of Mutualistic Beetles</article-title>
+<source>Insect-Fungus Symbiosis: Nutrition, Mutualism, and Commensalism</source>
+<person-group person-group-type="editor"><name><surname>Batra</surname><given-names>L.</given-names></name></person-group>
+<publisher-name>John Wiley and Sons</publisher-name>
+<publisher-loc>Hoboken, NJ, USA</publisher-loc>
+<year>1979</year>
+<fpage>33</fpage>
+<lpage>52</lpage>
+</element-citation></ref><ref id="B26-insects-03-00339"><label>26.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Norris</surname><given-names>D.M.</given-names></name></person-group>
+<article-title>The Mutualistic Fungi of the Xyleborini Beetles</article-title>
+<source>Insect-Fungus Symbiosis: Nutrition, Mutualism, and Commensalism</source>
+<person-group person-group-type="editor"><name><surname>Batra</surname><given-names>L.</given-names></name></person-group>
+<publisher-name>John Wiley and Sons</publisher-name>
+<publisher-loc>Hoboken, NJ, USA</publisher-loc>
+<year>1979</year>
+<fpage>53</fpage>
+<lpage>64</lpage>
+</element-citation></ref><ref id="B27-insects-03-00339"><label>27.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cassar</surname><given-names>S.</given-names></name><name><surname>Blackwell</surname><given-names>M.</given-names></name></person-group>
+<article-title>Convergent origins of ambrosia fungi</article-title>
+<source>Mycologia</source>
+<year>1996</year>
+<volume>88</volume>
+<fpage>596</fpage>
+<lpage>601</lpage>
+</element-citation></ref><ref id="B28-insects-03-00339"><label>28.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gebhardt</surname><given-names>H.</given-names></name><name><surname>Bergerow</surname><given-names>D.</given-names></name><name><surname>Oberwinkler</surname><given-names>F.</given-names></name></person-group>
+<article-title>Identification of the ambrosia fungus of <italic>Xyleborus monographus</italic> and <italic>X. dryographus </italic>(Coleoptera: Curculionidae, Scolytinae)</article-title>
+<source>Mycol. Prog.</source>
+<year>2004</year>
+<volume>3</volume>
+<fpage>95</fpage>
+<lpage>102</lpage>
+<pub-id pub-id-type="doi">10.1007/s11557-006-0080-1</pub-id>
+</element-citation></ref><ref id="B29-insects-03-00339"><label>29.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jones</surname><given-names>K.G.</given-names></name><name><surname>Blackwell</surname><given-names>M.</given-names></name></person-group>
+<article-title>Phylogenetic analysis of ambrosial species in the genus <italic>Raffaelea</italic> based on 18S rDNA sequences</article-title>
+<source>Mycol. Res.</source>
+<year>1998</year>
+<volume>102</volume>
+<fpage>661</fpage>
+<lpage>665</lpage>
+<pub-id pub-id-type="doi">10.1017/S0953756296003437</pub-id>
+</element-citation></ref><ref id="B30-insects-03-00339"><label>30.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rollins</surname><given-names>F.</given-names></name><name><surname>Jones</surname><given-names>K.G.</given-names></name><name><surname>Krokene</surname><given-names>P.</given-names></name><name><surname>Solheim</surname><given-names>H.</given-names></name><name><surname>Blackwell</surname><given-names>M.</given-names></name></person-group>
+<article-title>Phylogeny of asexual fungi associated with bark and ambrosia beetles</article-title>
+<source>Mycologia</source>
+<year>2001</year>
+<volume>93</volume>
+<fpage>991</fpage>
+<lpage>996</lpage>
+</element-citation></ref><ref id="B31-insects-03-00339"><label>31.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gebhardt</surname><given-names>H.</given-names></name><name><surname>Weiss</surname><given-names>M.</given-names></name><name><surname>Oberwinkler</surname><given-names>F.</given-names></name></person-group>
+<article-title><italic>Dryadomyces</italic>
+<italic>amasae</italic>: A nutritional fungus associated with ambrosia beetles of the genus <italic>Amasa</italic> (Coleoptera: Curculionidae, Scolytinae)</article-title>
+<source>Mycol. Res.</source>
+<year>2005</year>
+<volume>109</volume>
+<fpage>687</fpage>
+<lpage>696</lpage>
+<pub-id pub-id-type="doi">10.1017/S0953756205002777</pub-id>
+<pub-id pub-id-type="pmid">16080391</pub-id></element-citation></ref><ref id="B32-insects-03-00339"><label>32.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Harrington</surname><given-names>T.C.</given-names></name><name><surname>Aghayeva</surname><given-names>D.N.</given-names></name><name><surname>Fraedrich</surname><given-names>S.W.</given-names></name></person-group>
+<article-title>New combinations in <italic>Raffaelea</italic>, <italic>Ambrosiella</italic>, and <italic>Hyalorhinocladiella</italic>, and four new species from the red bay ambrosia beetle, <italic>Xyleborus glabratus</italic></article-title>
+<source>Mycotaxon</source>
+<year>2010</year>
+<volume>111</volume>
+<fpage>337</fpage>
+<lpage>361</lpage>
+<pub-id pub-id-type="doi">10.5248/111.337</pub-id>
+</element-citation></ref><ref id="B33-insects-03-00339"><label>33.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kok</surname><given-names>L.T.</given-names></name><name><surname>Norris</surname><given-names>D.M.</given-names></name><name><surname>Chu</surname><given-names>H.M.</given-names></name></person-group>
+<article-title>Sterol metabolism as a basis for a mutualistic symbiosis</article-title>
+<source>Nature</source>
+<year>1970</year>
+<volume>225</volume>
+<fpage>661</fpage>
+<lpage>662</lpage>
+<pub-id pub-id-type="pmid">16056665</pub-id></element-citation></ref><ref id="B34-insects-03-00339"><label>34.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Biedermann</surname><given-names>P.H.W.</given-names></name><name><surname>Taborsky</surname><given-names>M.</given-names></name></person-group>
+<article-title>Larval helpers and age polyethism in ambrosia beetles</article-title>
+<source>Proc. Natl. Acad. Sci.USA</source>
+<year>2011</year>
+<volume>108</volume>
+<fpage>17064</fpage>
+<lpage>17069</lpage>
+<pub-id pub-id-type="pmid">21969580</pub-id></element-citation></ref><ref id="B35-insects-03-00339"><label>35.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Francke-Grosmann</surname><given-names>H.</given-names></name></person-group>
+<article-title>Ectosymbiosis in Wood-Inhabiting Insects</article-title>
+<source>Symbiosis</source>
+<person-group person-group-type="editor"><name><surname>Henrym</surname><given-names>S.M.</given-names></name></person-group>
+<publisher-name>Academic Press</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>1967</year>
+<volume>volume II</volume>
+<fpage>17064</fpage>
+<lpage>17069</lpage>
+</element-citation></ref><ref id="B36-insects-03-00339"><label>36.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Scriber</surname><given-names>J.M.</given-names></name><name><surname>Slansky</surname><given-names>F.</given-names><suffix>Jr.</suffix></name></person-group>
+<article-title>The nutritional ecology of immature insects</article-title>
+<source>Annu. Rev.Entomol.</source>
+<year>1981</year>
+<volume>26</volume>
+<fpage>183</fpage>
+<lpage>211</lpage>
+</element-citation></ref><ref id="B37-insects-03-00339"><label>37.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Slansky</surname><given-names>F.</given-names></name><name><surname>Scriber</surname><given-names>J.M.</given-names></name></person-group>
+<article-title>Food Consumption and Utilization</article-title>
+<source>Comprehensive Insect Physiology, Biochemistry, and Pharmacology</source>
+<person-group person-group-type="editor"><name><surname>Kerkut</surname><given-names>G.A.</given-names></name><name><surname>Gilbert</surname><given-names>L.I.</given-names></name></person-group>
+<publisher-name>Pergamon Pr</publisher-name>
+<publisher-loc>London, UK</publisher-loc>
+<year>1985</year>
+<fpage>87</fpage>
+<lpage>163</lpage>
+</element-citation></ref><ref id="B38-insects-03-00339"><label>38.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ayres</surname><given-names>M.P.</given-names></name><name><surname>Wilkens</surname><given-names>R.T.</given-names></name><name><surname>Ruel</surname><given-names>J.J.</given-names></name></person-group>
+<article-title>Nitrogen budgets of phloem-feeding bark beetles with and without symbiotic fungi</article-title>
+<source>Ecology</source>
+<year>2000</year>
+<volume>81</volume>
+<fpage>2198</fpage>
+<lpage>2210</lpage>
+</element-citation></ref><ref id="B39-insects-03-00339"><label>39.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mattson</surname><given-names>W.J.</given-names></name></person-group>
+<article-title>Herbivory in relation to plant nitrogen content</article-title>
+<source>Annu. Rev. Ecol.Syst.</source>
+<year>1980</year>
+<volume>11</volume>
+<fpage>119</fpage>
+<lpage>161</lpage>
+</element-citation></ref><ref id="B40-insects-03-00339"><label>40.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hodges</surname><given-names>J.E.</given-names></name><name><surname>Lorio</surname><given-names>P.L.</given-names><suffix>Jr.</suffix></name></person-group>
+<article-title>Carbohydrate and nitrogen fractions of the inner bark of loblolly pine s under moisture stress</article-title>
+<source>Can. J. Bot.</source>
+<year>1969</year>
+<volume>47</volume>
+<fpage>1651</fpage>
+<lpage>1657</lpage>
+</element-citation></ref><ref id="B41-insects-03-00339"><label>41.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fajer</surname><given-names>E.D.</given-names></name></person-group>
+<article-title>The effects of enriched CO<sub>2</sub> atmospheres on plant insect herbivore interactions: Growth responses of larvae of the specialist butterfly, <italic>Junonia coenia</italic> (Lepidoptera: Nymphalidae)</article-title>
+<source>Oecologia</source>
+<year>1989</year>
+<volume>81</volume>
+<fpage>514</fpage>
+<lpage>520</lpage>
+<pub-id pub-id-type="doi">10.1007/BF00378962</pub-id>
+</element-citation></ref><ref id="B42-insects-03-00339"><label>42.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Slansky</surname><given-names>F.</given-names></name><name><surname>Feeny</surname><given-names>P.</given-names></name></person-group>
+<article-title>Stabilization of the rate of nitrogen accumulation by larvae of the cabbage butterfly on wild and cultivated plants</article-title>
+<source>Ecol. Monogr.</source>
+<year>1997</year>
+<volume>47</volume>
+<fpage>209</fpage>
+<lpage>228</lpage>
+</element-citation></ref><ref id="B43-insects-03-00339"><label>43.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hodges</surname><given-names>J.E.</given-names></name><name><surname>Barras</surname><given-names>S.J.</given-names></name><name><surname>Maudlin</surname><given-names>J.</given-names></name></person-group>
+<article-title>Amino acids in the inner bark of loblolly pine as affected by the southern pine beetle and associated organisms</article-title>
+<source>Can. J. Bot.</source>
+<year>1968</year>
+<volume>46</volume>
+<fpage>1467</fpage>
+<lpage>1472</lpage>
+</element-citation></ref><ref id="B45-insects-03-00339"><label>45.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Safranyik</surname><given-names>L.</given-names></name></person-group>
+<article-title>Size- and sex-related emergence, and survival in cold storage, of mountain pine beetle adults</article-title>
+<source>Can. Entomol.</source>
+<year>1976</year>
+<volume>108</volume>
+<fpage>209</fpage>
+<lpage>212</lpage>
+<pub-id pub-id-type="doi">10.4039/Ent108209-2</pub-id>
+</element-citation></ref><ref id="B46-insects-03-00339"><label>46.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Botterweg</surname><given-names>P.F.</given-names></name></person-group>
+<article-title>Dispersal and flight behavior of the spruce beetle <italic>Ips typographus</italic> in relation to sex, size and fat content</article-title>
+<source>Z. Angew. Entomol.</source>
+<year>1982</year>
+<volume>94</volume>
+<fpage>466</fpage>
+<lpage>489</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1439-0418.1982.tb02594.x</pub-id>
+</element-citation></ref><ref id="B47-insects-03-00339"><label>47.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Botterweg</surname><given-names>P.F.</given-names></name></person-group>
+<article-title>The effect of attack density on size, fat content and emergence of the spruce beetle, <italic>Ips typographus</italic></article-title>
+<source>Z. Angew. Entomol.</source>
+<year>1983</year>
+<volume>96</volume>
+<fpage>7</fpage>
+<lpage>55</lpage>
+</element-citation></ref><ref id="B48-insects-03-00339"><label>48.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Anderbrandt</surname><given-names>O.</given-names></name></person-group>
+<article-title>Survival of parent and brood bark beetles, <italic>Ips typographus</italic>, in relation to size, lipid content and reemergence or emergence day</article-title>
+<source>Physiol. Entomol.</source>
+<year>1988</year>
+<volume>13</volume>
+<fpage>121</fpage>
+<lpage>129</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-3032.1988.tb00915.x</pub-id>
+</element-citation></ref><ref id="B49-insects-03-00339"><label>49.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Atkins</surname><given-names>M.D.</given-names></name></person-group>
+<article-title>Lipid loss with flight in the Douglas-fir beetle</article-title>
+<source>Can. Entomol.</source>
+<year>1969</year>
+<volume>101</volume>
+<fpage>164</fpage>
+<lpage>165</lpage>
+</element-citation></ref><ref id="B50-insects-03-00339"><label>50.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thompson</surname><given-names>S.N.</given-names></name><name><surname>Bennett</surname><given-names>R.B.</given-names></name></person-group>
+<article-title>Oxidation of fat during flight of male Douglas-fir beetles, <italic>Dendroctonus pseudotsugae</italic></article-title>
+<source>J. Insect Physiol.</source>
+<year>1971</year>
+<volume>17</volume>
+<fpage>1555</fpage>
+<lpage>1563</lpage>
+<pub-id pub-id-type="doi">10.1016/0022-1910(71)90162-4</pub-id>
+</element-citation></ref><ref id="B51-insects-03-00339"><label>51.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Reid</surname><given-names>R.W.</given-names></name></person-group>
+<article-title>Biology of the mountain pine beetle, <italic>Dendroctonus monticolae</italic> Hopkins, in the east Kootenay region of British Columbia. II. Behavior in the host, fecundity, and the internal changes in the female</article-title>
+<source>Can. Entomol.</source>
+<year>1962</year>
+<volume>94</volume>
+<fpage>605</fpage>
+<lpage>613</lpage>
+<pub-id pub-id-type="doi">10.4039/Ent94605-6</pub-id>
+</element-citation></ref><ref id="B52-insects-03-00339"><label>52.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Amman</surname><given-names>G.D.</given-names></name></person-group>
+<article-title>Some factors affecting oviposition behavior of the mountain pine beetle</article-title>
+<source>Environ. Entomol.</source>
+<year>1972</year>
+<volume>1</volume>
+<fpage>691</fpage>
+<lpage>695</lpage>
+</element-citation></ref><ref id="B53-insects-03-00339"><label>53.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Clarke</surname><given-names>A.L.</given-names></name><name><surname>Webb</surname><given-names>J.W.</given-names></name><name><surname>Franklin</surname><given-names>F.T.</given-names></name></person-group>
+<article-title>Fecundity of the southern pine beetle in laboratory pine bolt</article-title>
+<source>Ann. Entomol. Soc. Am.</source>
+<year>1979</year>
+<volume>72</volume>
+<fpage>229</fpage>
+<lpage>231</lpage>
+</element-citation></ref><ref id="B54-insects-03-00339"><label>54.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Coppedge</surname><given-names>B.R.</given-names></name><name><surname>Stephen</surname><given-names>F.M.</given-names></name><name><surname>Felton</surname><given-names>G.W.</given-names></name></person-group>
+<article-title>Variation in female southern pine beetle size and lipid content in relation to fungal associates</article-title>
+<source>Can. Entomol.</source>
+<year>1995</year>
+<volume>127</volume>
+<fpage>145</fpage>
+<lpage>154</lpage>
+</element-citation></ref><ref id="B55-insects-03-00339"><label>55.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bridges</surname><given-names>R.</given-names></name></person-group>
+<article-title>Mycangial fungi of <italic>Dendroctonus frontalis </italic>(Coleoptera: Scolytidae) and their relationship to beetle population trends</article-title>
+<source>Environ. Entomol.</source>
+<year>1983</year>
+<volume>12</volume>
+<fpage>858</fpage>
+<lpage>861</lpage>
+</element-citation></ref><ref id="B56-insects-03-00339"><label>56.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Goldhammer</surname><given-names>D.S.</given-names></name><name><surname>Stephen</surname><given-names>F.M.</given-names></name><name><surname>Paine</surname><given-names>T.D.</given-names></name></person-group>
+<article-title>The effect of the fungi <italic>Ceratocystis minor</italic> (Hedgecock) Hunt var. <italic>barrasii</italic> Taylor, and SJB 122 on the reproduction of the southern pine beetle, <italic>Dendroctonus frontalis</italic> Zimmermann (Coleoptera: Scolytidae)</article-title>
+<source>Can. Entomol.</source>
+<year>1991</year>
+<volume>122</volume>
+<fpage>407</fpage>
+<lpage>418</lpage>
+</element-citation></ref><ref id="B57-insects-03-00339"><label>57.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rumbold</surname><given-names>C.T.</given-names></name></person-group>
+<article-title>Two blue-staining fungi associated with bark beetle infestation of pines</article-title>
+<source>J. Agric. Res.</source>
+<year>1931</year>
+<volume>43</volume>
+<fpage>847</fpage>
+<lpage>873</lpage>
+</element-citation></ref><ref id="B58-insects-03-00339"><label>58.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stone</surname><given-names>C.</given-names></name><name><surname>Simpson</surname><given-names>J.A.</given-names></name></person-group>
+<article-title>Species associations in <italic>Ips grandicollis</italic> galleries in <italic>Pinustaeda</italic></article-title>
+<source>N. Z. J. For. Sci.</source>
+<year>1990</year>
+<volume>20</volume>
+<fpage>75</fpage>
+<lpage>96</lpage>
+</element-citation></ref><ref id="B59-insects-03-00339"><label>59.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Clayton</surname><given-names>R.B.</given-names></name></person-group>
+<article-title>The utilization of sterols by insects</article-title>
+<source>J. Lipid Res.</source>
+<year>1964</year>
+<volume>5</volume>
+<fpage>3</fpage>
+<lpage>19</lpage>
+<pub-id pub-id-type="pmid">14173327</pub-id></element-citation></ref><ref id="B60-insects-03-00339"><label>60.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Richmond</surname><given-names>J.A.</given-names></name><name><surname>Thomas</surname><given-names>H.A.</given-names></name></person-group>
+<article-title><italic>Hylobius pales</italic>: Effect of dietary sterols on development and on sterol content of somatic tissue</article-title>
+<source>Ann. Entomol. Soc. Am.</source>
+<year>1975</year>
+<volume>68</volume>
+<fpage>329</fpage>
+<lpage>332</lpage>
+</element-citation></ref><ref id="B61-insects-03-00339"><label>61.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Svoboda</surname><given-names>J.A.</given-names></name><name><surname>Thompson</surname><given-names>M.J.</given-names></name><name><surname>Robbins</surname><given-names>W.R.</given-names></name><name><surname>Kaplanis</surname><given-names>J.N.</given-names></name></person-group>
+<article-title>Insect sterol metabolism</article-title>
+<source>Lipids</source>
+<year>1978</year>
+<volume>13</volume>
+<fpage>742</fpage>
+<lpage>753</lpage>
+</element-citation></ref><ref id="B62-insects-03-00339"><label>62.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Kramer</surname><given-names>P.J.</given-names></name><name><surname>Kozlowski</surname><given-names>T.T.</given-names></name></person-group>
+<source>Physiology of Trees</source>
+<publisher-name>McGraw Hill</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>1960</year>
+</element-citation></ref><ref id="B63-insects-03-00339"><label>63.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Maurer</surname><given-names>P.</given-names></name><name><surname>Debieu</surname><given-names>D.</given-names></name><name><surname>Malosse</surname><given-names>C.</given-names></name><name><surname>Leroux</surname><given-names>P.</given-names></name><name><surname>Riba</surname><given-names>G.</given-names></name></person-group>
+<article-title>Sterols and symbiosis in the leaf-cutter and <italic>Acromyrmex octospinosus</italic> (Reich) (Hymenoptera, Formicidea: Attini)</article-title>
+<source>Arch. Insect Biochem. Physiol.</source>
+<year>1992</year>
+<volume>20</volume>
+<fpage>13</fpage>
+<lpage>21</lpage>
+<pub-id pub-id-type="doi">10.1002/arch.940200103</pub-id>
+</element-citation></ref><ref id="B64-insects-03-00339"><label>64.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nasir</surname><given-names>H.</given-names></name><name><surname>Noda</surname><given-names>H.</given-names></name></person-group>
+<article-title>Yeast-like symbiotes as a sterol source in anobiid beetles (Coleoptera: Anobiidae): Possible metabolic pathways from fungal sterols of 7-dehydrocholesterol</article-title>
+<source>Arch. Insect Biochem. Physiol.</source>
+<year>2003</year>
+<volume>52</volume>
+<fpage>175</fpage>
+<lpage>182</lpage>
+<pub-id pub-id-type="pmid">12655605</pub-id></element-citation></ref><ref id="B65-insects-03-00339"><label>65.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Norris</surname><given-names>D.M.</given-names></name><name><surname>Baker</surname><given-names>J.K.</given-names></name><name><surname>Chu</surname><given-names>H.M.</given-names></name></person-group>
+<article-title>Symbiotic interrelationships between microbes and ambrosia beetles III. Ergosterol as the source of sterol to the insect</article-title>
+<source>Ann. Entomol. Soc. Am.</source>
+<year>1969</year>
+<volume>62</volume>
+<fpage>413</fpage>
+<lpage>414</lpage>
+</element-citation></ref><ref id="B66-insects-03-00339"><label>66.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Norris</surname><given-names>D.M.</given-names></name></person-group>
+<article-title>Dependence of Fertility and Progeny Development of <italic>Xyleborus ferrugineus</italic> upon Chemicals from Its Symbiotes</article-title>
+<source>Insect and Mite Nutrition</source>
+<person-group person-group-type="editor"><name><surname>Rodriguez</surname><given-names>J.C.</given-names></name></person-group>
+<publisher-name>North-Holland Pub. Co.</publisher-name>
+<publisher-loc>North-Holland, The Netherlands</publisher-loc>
+<year>1972</year>
+<fpage>299</fpage>
+<lpage>310</lpage>
+</element-citation></ref><ref id="B67-insects-03-00339"><label>67.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Perez</surname><given-names>J.</given-names></name><name><surname>Infante</surname><given-names>F.</given-names></name><name><surname>Vega</surname><given-names>F.E.</given-names></name></person-group>
+<article-title>Does the coffee berry borer (Coleoptera: Scolytidae) have mutualistic fungi?</article-title>
+<source>Ann. Entomol. Soc. Am.</source>
+<year>2005</year>
+<volume>98</volume>
+<fpage>483</fpage>
+<lpage>490</lpage>
+<pub-id pub-id-type="doi">10.1603/0013-8746(2005)098[0483:DTCBBC]2.0.CO;2</pub-id>
+</element-citation></ref><ref id="B68-insects-03-00339"><label>68.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bentz</surname><given-names>B.J.</given-names></name><name><surname>Six</surname><given-names>D.L.</given-names></name></person-group>
+<article-title>Ergosterol content of four fungal symbionts associated with <italic>Dendroctonus ponderosae</italic> and <italic>D. rufipennis</italic> (Coleoptera: Curculionidae, Scolytinae)</article-title>
+<source>Ann. Entomol. Soc. Am.</source>
+<year>2006</year>
+<volume>99</volume>
+<fpage>189</fpage>
+<lpage>194</lpage>
+<pub-id pub-id-type="doi">10.1603/0013-8746(2006)099[0189:ECOFAW]2.0.CO;2</pub-id>
+</element-citation></ref><ref id="B69-insects-03-00339"><label>69.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kok</surname><given-names>L.T.</given-names></name><name><surname>Norris</surname><given-names>D.M.</given-names></name></person-group>
+<article-title>Comparative sterol compositions of adult female <italic>Xyleborus ferrugineus</italic> and its mutualistic fungal ectosysmbionts</article-title>
+<source>Compr. Biochem. Physiol.</source>
+<year>1973</year>
+<volume>44</volume>
+<fpage>499</fpage>
+<lpage>505</lpage>
+</element-citation></ref><ref id="B70-insects-03-00339"><label>70.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Whitney</surname><given-names>H.S.</given-names></name></person-group>
+<article-title>Association of <italic>Dendroctonus ponderosae</italic> (Coleoptera: Scolytidae) with blue-stain fungi and yeasts during brood development in lodgepole pine</article-title>
+<source>Can. Entomol.</source>
+<year>1971</year>
+<volume>103</volume>
+<fpage>1495</fpage>
+<lpage>1503</lpage>
+<pub-id pub-id-type="doi">10.4039/Ent1031495-11</pub-id>
+</element-citation></ref><ref id="B71-insects-03-00339"><label>71.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Adams</surname><given-names>A.S.</given-names></name><name><surname>Six</surname><given-names>D.L.</given-names></name></person-group>
+<article-title>Temporal variation in mycophagy and prevalence of fungi associated with developmental stages of the mountain pine beetle, <italic>Dendroctonus ponderosae</italic> (Coleoptera: Scolytinae, Curculionidae)</article-title>
+<source>Environ. Entomol.</source>
+<year>2006</year>
+<volume>36</volume>
+<fpage>64</fpage>
+<lpage>72</lpage>
+<pub-id pub-id-type="doi">10.1603/0046-225X(2007)36[64:TVIMAP]2.0.CO;2</pub-id>
+<pub-id pub-id-type="pmid">17349118</pub-id></element-citation></ref><ref id="B72-insects-03-00339"><label>72.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fox</surname><given-names>J.W.</given-names></name><name><surname>Wood</surname><given-names>D.L.</given-names></name><name><surname>Akers</surname><given-names>P.P.</given-names></name><name><surname>Parmeter</surname><given-names>J.R.</given-names><suffix>Jr.</suffix></name></person-group>
+<article-title>Survival and development of <italic>Ips paraconfusus</italic> Lanier (Coleoptera: Scolytidae) reared axenically and with tree pathogeneic fungi vectored by cohabiting <italic>Dendroctonus</italic> species</article-title>
+<source>Can. Entomol.</source>
+<year>1992</year>
+<volume>124</volume>
+<fpage>1157</fpage>
+<lpage>1167</lpage>
+<pub-id pub-id-type="doi">10.4039/Ent1241157-6</pub-id>
+</element-citation></ref><ref id="B73-insects-03-00339"><label>73.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nevill</surname><given-names>R.J.</given-names></name><name><surname>Safranyik</surname><given-names>L.</given-names></name></person-group>
+<article-title>Interaction between the bluestain fungal associates of mountain pine and pine engraver beetles, (<italic>Dendroctonus ponderosae</italic> and <italic>Ips pini</italic>, Coleoptera: Scolytidae) and their effects on the beetles</article-title>
+<source>J. Entomol. Soc. Br. Columbia</source>
+<year>1996</year>
+<volume>93</volume>
+<fpage>39</fpage>
+<lpage>48</lpage>
+</element-citation></ref><ref id="B74-insects-03-00339"><label>74.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bleiker</surname><given-names>K.</given-names></name><name><surname>Six</surname><given-names>D.L.</given-names></name></person-group>
+<article-title>Dietary benefits of fungal associates to an eruptive herbivore: Potential implications of multiple associates on host population dynamics</article-title>
+<source>Environ. Entomol.</source>
+<year>2007</year>
+<volume>36</volume>
+<fpage>1384</fpage>
+<lpage>1396</lpage>
+<pub-id pub-id-type="pmid">18284766</pub-id></element-citation></ref><ref id="B75-insects-03-00339"><label>75.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barras</surname><given-names>S.J.</given-names></name></person-group>
+<article-title>Antagonism between <italic>Dendroctonus frontalis</italic> and the fungus <italic>Ceratocystis minor</italic></article-title>
+<source>Ann. Entomol. Soc. Am.</source>
+<year>1970</year>
+<volume>63</volume>
+<fpage>1187</fpage>
+<lpage>1190</lpage>
+</element-citation></ref><ref id="B76-insects-03-00339"><label>76.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Chapman</surname><given-names>R.F.</given-names></name></person-group>
+<source>The Insects: Structure and Function</source>
+<publisher-name>Cambridge University Press</publisher-name>
+<publisher-loc>Cambridge, UK</publisher-loc>
+<year>1998</year>
+</element-citation></ref><ref id="B77-insects-03-00339"><label>77.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Six</surname><given-names>D.L.</given-names></name><name><surname>Paine</surname><given-names>T.D.</given-names></name></person-group>
+<article-title>Effects of mycangial fungi and host tree species on progeny survival and emergence of <italic>Dendroctonus ponderosae</italic> (Coleoptera: Scolytidae)</article-title>
+<source>Environ. Entomol.</source>
+<year>1998</year>
+<volume>27</volume>
+<fpage>1393</fpage>
+<lpage>1401</lpage>
+</element-citation></ref><ref id="B78-insects-03-00339"><label>78.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mousseau</surname><given-names>T.A.</given-names></name><name><surname>Dingle</surname><given-names>H.</given-names></name></person-group>
+<article-title>Maternal effects in insect life histories</article-title>
+<source>Annu. Rev.Entomol.</source>
+<year>1991</year>
+<volume>36</volume>
+<fpage>511</fpage>
+<lpage>534</lpage>
+</element-citation></ref><ref id="B79-insects-03-00339"><label>79.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Strongman</surname><given-names>D.B.</given-names></name></person-group>
+<article-title>A method for rearing <italic>Dendroctonus ponderosae</italic> Hopk. (Coleoptera: Scolytidae) from eggs to pupae on host tissue with or without a fungal complement</article-title>
+<source>Can. Entomol.</source>
+<year>1987</year>
+<volume>119</volume>
+<fpage>207</fpage>
+<lpage>208</lpage>
+<pub-id pub-id-type="doi">10.4039/Ent119207-2</pub-id>
+</element-citation></ref><ref id="B80-insects-03-00339"><label>80.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yearian</surname><given-names>W.C.</given-names></name><name><surname>Gouger</surname><given-names>R.J.</given-names></name><name><surname>Wilkinson</surname><given-names>R.C.</given-names></name></person-group>
+<article-title>Effects of the bluestain fungus, <italic>Ceratocystis ips</italic>, on the development of <italic>Ips</italic> bark beetles in pine bolts</article-title>
+<source>Ann. Entomol. Soc. Am.</source>
+<year>1972</year>
+<volume>65</volume>
+<fpage>481</fpage>
+<lpage>487</lpage>
+</element-citation></ref><ref id="B81-insects-03-00339"><label>81.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Whitney</surname><given-names>H.S.</given-names></name><name><surname>Spanier</surname><given-names>O.J.</given-names></name></person-group>
+<article-title>An improved method for rearing axenic mountain pine beetles, <italic>Dendroctonus ponderosae</italic> (Coleoptera: Scolytidae)</article-title>
+<source>Can. Entomol.</source>
+<year>1982</year>
+<volume>114</volume>
+<fpage>1095</fpage>
+<lpage>1101</lpage>
+<pub-id pub-id-type="doi">10.4039/Ent1141095-11</pub-id>
+</element-citation></ref><ref id="B82-insects-03-00339"><label>82.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Conn</surname><given-names>J.E.</given-names></name><name><surname>Borden</surname><given-names>J.H.</given-names></name><name><surname>Hunt</surname><given-names>D.W.A.</given-names></name><name><surname>holman</surname><given-names>J.</given-names></name><name><surname>Whitney</surname><given-names>H.S.</given-names></name><name><surname>Spanier</surname><given-names>O.J.</given-names></name><name><surname>Pierce</surname><given-names>H.D.</given-names><suffix>Jr.</suffix></name><name><surname>Oehlschlager</surname><given-names>A.C.</given-names></name></person-group>
+<article-title>Pheromone production by axenically reared <italic>Dendroctonus ponderosae</italic> and <italic>Ips paraconfusus</italic> (Coleoptera: Scolytidae)</article-title>
+<source>J. Chem. Ecol.</source>
+<year>1984</year>
+<volume>10</volume>
+<fpage>281</fpage>
+<lpage>289</lpage>
+<pub-id pub-id-type="doi">10.1007/BF00987856</pub-id>
+<pub-id pub-id-type="pmid">24318497</pub-id></element-citation></ref><ref id="B83-insects-03-00339"><label>83.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fleming</surname><given-names>T.H.</given-names></name><name><surname>Sahley</surname><given-names>C.T.</given-names></name><name><surname>Holland</surname><given-names>J.N.</given-names></name><name><surname>Nason</surname><given-names>J.D.</given-names></name><name><surname>Hamrick</surname><given-names>J.L.</given-names></name></person-group>
+<article-title>Sonoran desert columnar cacti and the evolution of generalized pollination systems</article-title>
+<source>Ecol. Monogr.</source>
+<year>2001</year>
+<volume>71</volume>
+<fpage>511</fpage>
+<lpage>530</lpage>
+</element-citation></ref><ref id="B84-insects-03-00339"><label>84.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lombardero</surname><given-names>M.J.</given-names></name><name><surname>Ayres</surname><given-names>M.P.</given-names></name><name><surname>Hofstetter</surname><given-names>R.W.</given-names></name><name><surname>Moser</surname><given-names>J.C.</given-names></name><name><surname>Klepzig</surname><given-names>K.D.</given-names></name></person-group>
+<article-title>Strong indirect interactions of <italic>Tarsonemus</italic> mites (Acarina: Tarsonemidae) and <italic>Dendroctonus frontalis</italic> (Coleoptera: Scolytidae)</article-title>
+<source>Oikos</source>
+<year>2003</year>
+<volume>102</volume>
+<fpage>243</fpage>
+<lpage>252</lpage>
+<pub-id pub-id-type="doi">10.1034/j.1600-0706.2003.12599.x</pub-id>
+</element-citation></ref><ref id="B85-insects-03-00339"><label>85.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hofstetter</surname><given-names>R.W.</given-names></name><name><surname>Cronin</surname><given-names>J.</given-names></name><name><surname>Klepzig</surname><given-names>K.D.</given-names></name><name><surname>Moser</surname><given-names>J.C.</given-names></name><name><surname>Ayres</surname><given-names>M.P.</given-names></name></person-group>
+<article-title>Antagonisms, mutualisms and commensalisms affect outbreak dynamics of the southern pine beetle</article-title>
+<source>Oecologia</source>
+<year>2006</year>
+<volume>147</volume>
+<fpage>679</fpage>
+<lpage>691</lpage>
+<pub-id pub-id-type="pmid">16323015</pub-id></element-citation></ref><ref id="B86-insects-03-00339"><label>86.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hemingway</surname><given-names>R.W.</given-names></name><name><surname>Mcgraw</surname><given-names>G.W.</given-names></name><name><surname>Barras</surname><given-names>S.J.</given-names></name></person-group>
+<article-title>Polyphenols in <italic>Ceratocystisminor</italic>-infected <italic>Pinus taeda</italic>: Fungal metabolites, phloem and xylem phenols</article-title>
+<source>Agric. Food Chem.</source>
+<year>1977</year>
+<volume>25</volume>
+<fpage>717</fpage>
+<lpage>722</lpage>
+<pub-id pub-id-type="doi">10.1021/jf60212a036</pub-id>
+</element-citation></ref><ref id="B87-insects-03-00339"><label>87.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kirejtshuk</surname><given-names>A.G.</given-names></name><name><surname>Azar</surname><given-names>D.</given-names></name><name><surname>Beaver</surname><given-names>R.A..</given-names></name><name><surname>Mandelshtam</surname><given-names>M.Y.</given-names></name><name><surname>Nel</surname><given-names>A.</given-names></name></person-group>
+<article-title>The most ancient bark beetle known; A new tribe, genus and species from Lebanese amber (Coleoptera, Curculionidae, Scolytinae)</article-title>
+<source>Syst. Entomol.</source>
+<year>2009</year>
+<volume>34</volume>
+<fpage>101</fpage>
+<lpage>112</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-3113.2008.00442.x</pub-id>
+</element-citation></ref><ref id="B88-insects-03-00339"><label>88.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cognato</surname><given-names>A.I.</given-names></name><name><surname>Grimaldi</surname><given-names>D.</given-names></name></person-group>
+<article-title>100 Million years of morphological conservation in bark beetles (Coleoptera: Curculionidae: Scolytinae)</article-title>
+<source>Syst. Entomol.</source>
+<year>2009</year>
+<volume>34</volume>
+<fpage>93</fpage>
+<lpage>100</lpage>
+</element-citation></ref><ref id="B89-insects-03-00339"><label>89.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jordal</surname><given-names>B.H.</given-names></name><name><surname>Sequeira</surname><given-names>A.</given-names></name><name><surname>Cognato</surname><given-names>A.</given-names></name></person-group>
+<article-title>The age and phylogeny of wood boring weevils and the origin of subsociality</article-title>
+<source>Mol. Phylogenetics Evol.</source>
+<year>2011</year>
+<volume>59</volume>
+<fpage>708</fpage>
+<lpage>724</lpage>
+</element-citation></ref><ref id="B90-insects-03-00339"><label>90.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sequiera</surname><given-names>A.S.</given-names></name><name><surname>Normark</surname><given-names>B.B.</given-names></name><name><surname>Farrell</surname><given-names>B.D.</given-names></name></person-group>
+<article-title>Evolutionary assemblage of the conifer fauna: Distinguishing ancient from recent associations in bark beetles</article-title>
+<source>Proc. R. Soc. Lond. B</source>
+<year>2000</year>
+<volume>267</volume>
+<fpage>2359</fpage>
+<lpage>2366</lpage>
+</element-citation></ref><ref id="B91-insects-03-00339"><label>91.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Farrell</surname><given-names>B.D.</given-names></name><name><surname>Sequiera</surname><given-names>A.S.</given-names></name><name><surname>O&#x02019;meara</surname><given-names>B.C.</given-names></name><name><surname>Normark</surname><given-names>B.B.</given-names></name><name><surname>Chung</surname><given-names>J.H.</given-names></name><name><surname>Jordahl</surname><given-names>B.H.</given-names></name></person-group>
+<article-title>The evolution of agriculture in beetles (Curculionidae: Scolytinae and Platypodinae)</article-title>
+<source>Evolution</source>
+<year>2001</year>
+<volume>55</volume>
+<fpage>2011</fpage>
+<lpage>2027</lpage>
+<pub-id pub-id-type="pmid">11761062</pub-id></element-citation></ref><ref id="B92-insects-03-00339"><label>92.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Berbee</surname><given-names>M.L.</given-names></name><name><surname>Taylor</surname><given-names>J.W.</given-names></name></person-group>
+<article-title>Fungal Molecular Evolution: Gene Trees and Geologic Time</article-title>
+<source>The Mycota. Vol. VIIB</source>
+<person-group person-group-type="editor"><name><surname>Mclaughlin</surname><given-names>D.J.</given-names></name><name><surname>Mclaughlin</surname><given-names>E.</given-names></name><name><surname>Lemke</surname><given-names>P.A.</given-names></name></person-group>
+<publisher-name>Springer Verlag</publisher-name>
+<publisher-loc>Heidelberg, Germany</publisher-loc>
+<year>2001</year>
+<fpage>229</fpage>
+<lpage>246</lpage>
+</element-citation></ref><ref id="B93-insects-03-00339"><label>93.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hulcr</surname><given-names>J.</given-names></name><name><surname>Kolarick</surname><given-names>M.</given-names></name><name><surname>Kirkendall</surname><given-names>L.</given-names></name></person-group>
+<article-title>A new record of a fungus-beetle symbiosis in <italic>Scolytodes</italic> bark beetles (Scolytine, Curculionidae, Coleoptera)</article-title>
+<source>Symbiosis</source>
+<year>2007</year>
+<volume>43</volume>
+<fpage>151</fpage>
+<lpage>159</lpage>
+</element-citation></ref><ref id="B94-insects-03-00339"><label>94.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fagan</surname><given-names>W.F.</given-names></name><name><surname>Siemann</surname><given-names>E.</given-names></name><name><surname>Mitter</surname><given-names>C.</given-names></name><name><surname>Denno</surname><given-names>R.F.</given-names></name><name><surname>Huberty</surname><given-names>A.F.</given-names></name><name><surname>Woods</surname><given-names>H.A.</given-names></name><name><surname>Elser</surname><given-names>J.J.</given-names></name></person-group>
+<article-title>Nitrogen in insects: Implications for trophic complexity and species diversity</article-title>
+<source>Am. Nat.</source>
+<year>2002</year>
+<volume>160</volume>
+<fpage>784</fpage>
+<lpage>802</lpage>
+<pub-id pub-id-type="pmid">18707465</pub-id></element-citation></ref><ref id="B95-insects-03-00339"><label>95.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Farrell</surname><given-names>B.D.</given-names></name></person-group>
+<article-title>&#x0201c;Inordinate fondness&#x0201d; explained: Why are there so many beetles?</article-title>
+<source>Science</source>
+<year>1998</year>
+<volume>281</volume>
+<fpage>553</fpage>
+<lpage>557</lpage>
+</element-citation></ref><ref id="B96-insects-03-00339"><label>96.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jordal</surname><given-names>B.H.</given-names></name><name><surname>Normark</surname><given-names>B.B.</given-names></name><name><surname>Farrell</surname><given-names>B.D.</given-names></name></person-group>
+<article-title>Evolutionary radiation of an inbreeding haplodiploid beetle lineage</article-title>
+<source>Biol. J. Linnaean Soc.</source>
+<year>2000</year>
+<volume>71</volume>
+<fpage>483</fpage>
+<lpage>499</lpage>
+</element-citation></ref><ref id="B97-insects-03-00339"><label>97.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Atkinson</surname><given-names>T.H.</given-names></name><name><surname>Equihua-Martinez</surname><given-names>A.</given-names></name></person-group>
+<article-title>Biology of bark and ambrosia beetles (Coleoptera: Scolytidae and Platypodidae) of a tropical rainforest in southeastern Mexico with an annotated checklist of species</article-title>
+<source>Ann. Entomol. Soc. Am.</source>
+<year>1986</year>
+<volume>79</volume>
+<fpage>414</fpage>
+<lpage>423</lpage>
+</element-citation></ref><ref id="B98-insects-03-00339"><label>98.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lackner</surname><given-names>A.L.</given-names></name><name><surname>Alexander</surname><given-names>S.A.</given-names></name></person-group>
+<article-title>Occurrence and pathogeneicity of <italic>Verticicladiella procera</italic> in Christmas tree plantations in Virginia</article-title>
+<source>Plant Dis.</source>
+<year>1982</year>
+<volume>66</volume>
+<fpage>211</fpage>
+<lpage>212</lpage>
+<pub-id pub-id-type="doi">10.1094/PD-66-211</pub-id>
+</element-citation></ref><ref id="B99-insects-03-00339"><label>99.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Alexander</surname><given-names>S.A.</given-names></name><name><surname>Horner</surname><given-names>W.E.</given-names></name><name><surname>Lewis</surname><given-names>K.J.</given-names></name></person-group>
+<article-title><italic>Leptographium procerum</italic> as a Pathogen of Pines</article-title>
+<source>Leptographium Root Diseases in Conifers</source>
+<person-group person-group-type="editor"><name><surname>Harrington</surname><given-names>T.C.</given-names></name><name><surname>Cobb</surname><given-names>F.W.</given-names><suffix>Jr.</suffix></name></person-group>
+<publisher-name>American Phytopathological Society</publisher-name>
+<publisher-loc>St. Paul, MN, USA</publisher-loc>
+<year>1988</year>
+<fpage>97</fpage>
+<lpage>112</lpage>
+</element-citation></ref><ref id="B100-insects-03-00339"><label>100.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hoover</surname><given-names>K.</given-names></name><name><surname>Wood</surname><given-names>D.L.</given-names></name><name><surname>Storer</surname><given-names>A.J.</given-names></name><name><surname>Fox</surname><given-names>J.W.</given-names></name><name><surname>Bros</surname><given-names>W.E.</given-names></name></person-group>
+<article-title>Transmission of the pitch canker fungus, <italic>Fusarium subglutinans</italic> f.sp. <italic>pini</italic>, to Monterey pine, <italic>Pinus radiata</italic>, by cone- and twig-infesting beetles</article-title>
+<source>Can. Entomol.</source>
+<year>1996</year>
+<volume>128</volume>
+<fpage>981</fpage>
+<lpage>994</lpage>
+</element-citation></ref><ref id="B101-insects-03-00339"><label>101.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bruno</surname><given-names>J.F.</given-names></name><name><surname>Satchowicz</surname><given-names>J.J.</given-names></name><name><surname>Bertness</surname><given-names>M.D.</given-names></name></person-group>
+<article-title>Inclusion of facilitation into ecological theory</article-title>
+<source>Trends Ecol. Evol.</source>
+<year>2003</year>
+<volume>18</volume>
+<fpage>119</fpage>
+<lpage>125</lpage>
+</element-citation></ref><ref id="B102-insects-03-00339"><label>102.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Six</surname><given-names>D.L.</given-names></name><name><surname>Paine</surname><given-names>T.D.</given-names></name></person-group>
+<article-title>A phylogenetic comparison of ascomycete mycangial fungi and <italic>Dendroctonus</italic> bark beetles (Coleoptera: Scolytidae)</article-title>
+<source>Ann. Entomol. Soc. Am.</source>
+<year>1999</year>
+<volume>92</volume>
+<fpage>159</fpage>
+<lpage>166</lpage>
+</element-citation></ref><ref id="B103-insects-03-00339"><label>103.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mueller</surname><given-names>U.G.</given-names></name><name><surname>Schultz</surname><given-names>T.R.</given-names></name><name><surname>Currie</surname><given-names>C.R.</given-names></name><name><surname>Adams</surname><given-names>R.M.M.</given-names></name><name><surname>Mallock</surname><given-names>D.</given-names></name></person-group>
+<article-title>The origin of attine ant-fungus mutualism</article-title>
+<source>Q. Rev. Biol.</source>
+<year>2001</year>
+<volume>76</volume>
+<fpage>169</fpage>
+<lpage>197</lpage>
+<pub-id pub-id-type="pmid">11409051</pub-id></element-citation></ref><ref id="B104-insects-03-00339"><label>104.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Malloch</surname><given-names>D.</given-names></name><name><surname>Blackwell</surname><given-names>M.</given-names></name></person-group>
+<article-title>Dispersal Biology of the Ophiostomatoid Fungi</article-title>
+<source>Ceratocystis and Ophiostoma: Taxonomy, Ecology and Pathogenicity</source>
+<person-group person-group-type="editor"><name><surname>Wingfield</surname><given-names>M.J.</given-names></name><name><surname>Seifert</surname><given-names>K.A.</given-names></name><name><surname>Webber</surname><given-names>J.F.</given-names></name></person-group>
+<publisher-name>American Phytopathological Society</publisher-name>
+<publisher-loc>St. Paul, MN, USA</publisher-loc>
+<year>1993</year>
+<fpage>195</fpage>
+<lpage>206</lpage>
+</element-citation></ref><ref id="B105-insects-03-00339"><label>105.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hulcr</surname><given-names>J.</given-names></name><name><surname>Cognato</surname><given-names>A.I.</given-names></name></person-group>
+<article-title>Repeated evolution of crop theft in fungus-farming ambrosia beetles</article-title>
+<source>Evolution</source>
+<year>2010</year>
+<volume>64</volume>
+<fpage>3205</fpage>
+<lpage>3212</lpage>
+<pub-id pub-id-type="pmid">20633043</pub-id></element-citation></ref><ref id="B106-insects-03-00339"><label>106.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Reed</surname><given-names>D.L.</given-names></name><name><surname>Hafner</surname><given-names>M.S.</given-names></name></person-group>
+<article-title>Host specificity of chewing lice on pocket gophers: A potential mechanism for cospeciation</article-title>
+<source>J. Mammol.</source>
+<year>1997</year>
+<volume>78</volume>
+<fpage>655</fpage>
+<lpage>660</lpage>
+</element-citation></ref><ref id="B107-insects-03-00339"><label>107.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Page</surname><given-names>R.D.M.</given-names></name><name><surname>Paterson</surname><given-names>A.M.</given-names></name><name><surname>Clayton</surname><given-names>D.M.</given-names></name></person-group>
+<article-title>Lice and cospeciation: A response to Barker</article-title>
+<source>Int. J. Parasitol.</source>
+<year>1996</year>
+<volume>26</volume>
+<fpage>213</fpage>
+<lpage>218</lpage>
+<pub-id pub-id-type="pmid">8690546</pub-id></element-citation></ref><ref id="B108-insects-03-00339"><label>108.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kirkendall</surname><given-names>L.R.</given-names></name></person-group>
+<article-title>The evolution of mating systems in bark and ambrosia beetles (Coleoptera: Scolytidae and Platypodidae)</article-title>
+<source>Zool. J. Linnaean Soc.</source>
+<year>1983</year>
+<volume>77</volume>
+<fpage>293</fpage>
+<lpage>352</lpage>
+</element-citation></ref><ref id="B109-insects-03-00339"><label>109.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Biedermann</surname><given-names>P.H.W.</given-names></name></person-group>
+<article-title>Observations on sex ratio and behavior of males in <italic>Xyleborinus saxesnii</italic> Ratzeburg (Scolytinae, Coleoptera)</article-title>
+<source>Zookeys</source>
+<year>2010</year>
+<volume>56</volume>
+<fpage>253</fpage>
+<lpage>267</lpage>
+<pub-id pub-id-type="pmid">21594184</pub-id></element-citation></ref><ref id="B110-insects-03-00339"><label>110.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Keller</surname><given-names>L.</given-names></name><name><surname>Peer</surname><given-names>K.</given-names></name><name><surname>Bernasconi</surname><given-names>C.</given-names></name><name><surname>Taborsky</surname><given-names>M.</given-names></name><name><surname>Shuker</surname><given-names>D.M.</given-names></name></person-group>
+<article-title>Inbreeding and selection on sex ratio in the bark beetle, <italic>Xylosandrus gemanus</italic></article-title>
+<source>BMC Evol. Biol.</source>
+<year>2011</year>
+<volume>11</volume>
+<fpage>359</fpage>
+<pub-id pub-id-type="pmid">22166098</pub-id></element-citation></ref><ref id="B111-insects-03-00339"><label>111.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Six</surname><given-names>D.L.</given-names></name></person-group>
+<article-title>A comparison of mycangial and phoretic fungi of individual mountain pine beetles</article-title>
+<source>Can. J. For. Res.</source>
+<year>2003</year>
+<volume>33</volume>
+<fpage>1331</fpage>
+<lpage>1334</lpage>
+</element-citation></ref><ref id="B112-insects-03-00339"><label>112.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lewinsohn</surname><given-names>D.</given-names></name><name><surname>Lewinsohn</surname><given-names>E.</given-names></name><name><surname>Bertagnolli</surname><given-names>C.T.</given-names></name><name><surname>Partridge</surname><given-names>A.D.</given-names></name></person-group>
+<article-title>Blue-stain fungi and their transport structures on the Douglas-fir beetle</article-title>
+<source>Can. J. For. Res.</source>
+<year>1994</year>
+<volume>24</volume>
+<fpage>2275</fpage>
+<lpage>2283</lpage>
+</element-citation></ref><ref id="B113-insects-03-00339"><label>113.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Storer</surname><given-names>A.J.</given-names></name><name><surname>Wood</surname><given-names>D.L.</given-names></name><name><surname>Gordon</surname><given-names>T.R.</given-names></name></person-group>
+<article-title>Modification of coevolved insecplant interactions by an exotic plant pathogen</article-title>
+<source>Ecol. Entomol.</source>
+<year>1999</year>
+<volume>24</volume>
+<fpage>238</fpage>
+<lpage>243</lpage>
+</element-citation></ref><ref id="B114-insects-03-00339"><label>114.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jacobs</surname><given-names>K.</given-names></name><name><surname>Bergdahl</surname><given-names>D.R.</given-names></name><name><surname>Wingfield</surname><given-names>M.J.</given-names></name><name><surname>Halik</surname><given-names>S.</given-names></name><name><surname>Seifert</surname><given-names>K.A.</given-names></name><name><surname>Bright</surname><given-names>D.E.</given-names></name><name><surname>Wingfield</surname><given-names>B.D.</given-names></name></person-group>
+<article-title><italic>Leptographium wingfieldii</italic> introduced into North America and found associated with exotic <italic>Tomicus piniperda</italic> and native bark beetles</article-title>
+<source>Mycol. Res.</source>
+<year>2004</year>
+<volume>108</volume>
+<fpage>411</fpage>
+<lpage>418</lpage>
+<pub-id pub-id-type="pmid">15209281</pub-id></element-citation></ref><ref id="B115-insects-03-00339"><label>115.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Six</surname><given-names>D.L.</given-names></name><name><surname>Bentz</surname><given-names>B.J.</given-names></name></person-group>
+<article-title>Temperature determines the relative abundance of symbionts in a multipartite bark beetle-fungus symbiosis</article-title>
+<source>Microb. Ecol.</source>
+<year>2007</year>
+<volume>54</volume>
+<fpage>112</fpage>
+<lpage>118</lpage>
+<pub-id pub-id-type="pmid">17264992</pub-id></element-citation></ref><ref id="B116-insects-03-00339"><label>116.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Anderson</surname><given-names>R.S.</given-names></name></person-group>
+<article-title>Weevils and plants: Phylogenetic versus ecological mediation of evolution of host plant associations in Curculioninae (Coleoptera: Curculionidae)</article-title>
+<source>Mem. Entomol. Soc. Can.</source>
+<year>1993</year>
+<volume>165</volume>
+<fpage>197</fpage>
+<lpage>232</lpage>
+</element-citation></ref><ref id="B117-insects-03-00339"><label>117.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Debeer</surname><given-names>Z.W.</given-names></name><name><surname>Harrington</surname><given-names>T.C.</given-names></name><name><surname>Vissmer</surname><given-names>H.F.</given-names></name><name><surname>Wingfield</surname><given-names>B.D.</given-names></name></person-group>
+<article-title>Phylogeny of the <italic>Ophiostoma stenocerus&#x02014;Sporothrix schenckii</italic> complex</article-title>
+<source>Mycologia</source>
+<year>2003</year>
+<volume>95</volume>
+<fpage>434</fpage>
+<lpage>441</lpage>
+<pub-id pub-id-type="pmid">21156632</pub-id></element-citation></ref><ref id="B118-insects-03-00339"><label>118.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Roets</surname><given-names>F.</given-names></name><name><surname>Debeer</surname><given-names>Z.W.</given-names></name><name><surname>Dreyer</surname><given-names>L.L.</given-names></name><name><surname>Zipfel</surname><given-names>R.</given-names></name><name><surname>Crous</surname><given-names>P.W.</given-names></name><name><surname>Wingfield</surname><given-names>M.J.</given-names></name></person-group>
+<article-title>Multi-gene phylogeny for <italic>Ophiostoma</italic> reveals two new species from <italic>Protea</italic> infructescences</article-title>
+<source>Stud. Mycol.</source>
+<year>2006</year>
+<volume>55</volume>
+<fpage>199</fpage>
+<lpage>212</lpage>
+<pub-id pub-id-type="doi">10.3114/sim.55.1.199</pub-id>
+<pub-id pub-id-type="pmid">18490980</pub-id></element-citation></ref><ref id="B119-insects-03-00339"><label>119.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Lieutier</surname><given-names>F.</given-names></name></person-group>
+<article-title>Host Resistance to Bark Beetles and Its Variations</article-title>
+<source>Bark and Wood Boring Insects in Living Trees in Europe, a Synthesis</source>
+<person-group person-group-type="editor"><name><surname>Lieutier</surname><given-names>F.</given-names></name><name><surname>Day</surname><given-names>K.R.</given-names></name><name><surname>Battisti</surname><given-names>A.</given-names></name><name><surname>Gregoire</surname><given-names>J.-C.</given-names></name><name><surname>Evans</surname><given-names>H.F.</given-names></name></person-group>
+<publisher-name>Kluwer Academic Publishers</publisher-name>
+<publisher-loc>Dordrecht, The Netherlands</publisher-loc>
+<year>2004</year>
+<fpage>135</fpage>
+<lpage>180</lpage>
+</element-citation></ref><ref id="B120-insects-03-00339"><label>120.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Coulson</surname><given-names>R.N.</given-names></name></person-group>
+<article-title>Population dynamics of bark beetles</article-title>
+<source>Annu. Rev. Entomol.</source>
+<year>1979</year>
+<volume>24</volume>
+<fpage>417</fpage>
+<lpage>447</lpage>
+</element-citation></ref><ref id="B121-insects-03-00339"><label>121.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Harrington</surname><given-names>T.C.</given-names></name><name><surname>Cobb</surname><given-names>F.W.</given-names><suffix>Jr.</suffix></name></person-group>
+<article-title>Pathogenicity of <italic>Leptographium</italic> and <italic>Verticicladiella</italic> species isolated from roots of North American conifers</article-title>
+<source>Phytopathology</source>
+<year>1983</year>
+<volume>73</volume>
+<fpage>596</fpage>
+<lpage>599</lpage>
+<pub-id pub-id-type="doi">10.1094/Phyto-73-596</pub-id>
+</element-citation></ref><ref id="B122-insects-03-00339"><label>122.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Klepzig</surname><given-names>K.D.</given-names></name><name><surname>Raffa</surname><given-names>K.F.</given-names></name><name><surname>Smalley</surname><given-names>E.B.</given-names></name></person-group>
+<article-title>Association of an insect-fungal complex with red pine decline in Wisconsin</article-title>
+<source>For. Sci.</source>
+<year>1991</year>
+<volume>37</volume>
+<fpage>1119</fpage>
+<lpage>1139</lpage>
+</element-citation></ref><ref id="B123-insects-03-00339"><label>123.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Eckhardt</surname><given-names>L.G.</given-names></name><name><surname>Goyer</surname><given-names>R.A.</given-names></name><name><surname>Klepzig</surname><given-names>K.D.</given-names></name><name><surname>Jones</surname><given-names>J.P.</given-names></name></person-group>
+<article-title>Interactions of <italic>Hylastes</italic> species (Coleoptera: Scolytidae) with <italic>Leptographium</italic> species associated with Loblolly pine decline</article-title>
+<source>J. Econ. Entomol.</source>
+<year>2004</year>
+<volume>97</volume>
+<fpage>468</fpage>
+<lpage>474</lpage>
+<pub-id pub-id-type="doi">10.1603/0022-0493-97.2.468</pub-id>
+<pub-id pub-id-type="pmid">15154469</pub-id></element-citation></ref><ref id="B124-insects-03-00339"><label>124.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Amman</surname><given-names>G.D.</given-names></name><name><surname>Cole</surname><given-names>W.D.</given-names></name></person-group>
+<article-title>Mountain Pine Beetle Dynamics in Lodgepole Pine Forests Part II: Population Dynamics. USDA FS Intermountain Forest Range and Experiment Station General Technical Report INT-145</article-title>
+<publisher-loc>Ogden, UT, USA</publisher-loc>
+<year>1983</year>
+</element-citation></ref><ref id="B125-insects-03-00339"><label>125.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bleiker</surname><given-names>K.</given-names></name><name><surname>Six</surname><given-names>D.L.</given-names></name></person-group>
+<article-title>Competition and coexistence in a multi-partner mutualism: Interactions between two fungal symbionts of the mountain pine beetle in beetle-attacked trees</article-title>
+<source>Microb. Ecol.</source>
+<year>2008</year>
+<volume>57</volume>
+<fpage>191</fpage>
+<lpage>202</lpage>
+<pub-id pub-id-type="pmid">18545867</pub-id></element-citation></ref><ref id="B126-insects-03-00339"><label>126.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Solheim</surname><given-names>H.</given-names></name><name><surname>Krokene</surname><given-names>P.</given-names></name></person-group>
+<article-title>Growth and virulence of mountain pine beetle associated blue-stain fungi, <italic>Ophiostoma clavigerum</italic> and <italic>Ophiostoma montium</italic></article-title>
+<source>Can. J. Bot.</source>
+<year>1998</year>
+<volume>76</volume>
+<fpage>561</fpage>
+<lpage>566</lpage>
+</element-citation></ref><ref id="B127-insects-03-00339"><label>127.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Klepzig</surname><given-names>K.D.</given-names></name><name><surname>Flores-Otero</surname><given-names>J.</given-names></name><name><surname>Hofstetter</surname><given-names>R.W.</given-names></name><name><surname>Aryes</surname><given-names>M.P.</given-names></name></person-group>
+<article-title>Effects of available water on growth and competition of southern pine beetle associated fungi</article-title>
+<source>Mycol. Res.</source>
+<year>2004</year>
+<volume>108</volume>
+<fpage>183</fpage>
+<lpage>188</lpage>
+<pub-id pub-id-type="pmid">15119355</pub-id></element-citation></ref><ref id="B128-insects-03-00339"><label>128.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bridges</surname><given-names>R.</given-names></name><name><surname>Marler</surname><given-names>J.E.</given-names></name><name><surname>Mcsparrin</surname><given-names>B.H.</given-names></name></person-group>
+<article-title>A quantitative study of the yeasts and bacteria associated with laboratory-reared <italic>Dendroctonus frontalis</italic> Zimm. (Coleoptera: Scolytidae)</article-title>
+<source>Z. Angew. Entomol.</source>
+<year>1984</year>
+<volume>97</volume>
+<fpage>261</fpage>
+<lpage>267</lpage>
+</element-citation></ref><ref id="B129-insects-03-00339"><label>129.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bridges</surname><given-names>R.</given-names></name></person-group>
+<article-title>Nitrogen-fixing bacteria associated with bark beetles</article-title>
+<source>Microb. Ecol.</source>
+<year>1981</year>
+<volume>7</volume>
+<fpage>131</fpage>
+<lpage>137</lpage>
+<pub-id pub-id-type="pmid">24227423</pub-id></element-citation></ref><ref id="B130-insects-03-00339"><label>130.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hunt</surname><given-names>D.W.A.</given-names></name><name><surname>Borden</surname><given-names>J.H.</given-names></name></person-group>
+<article-title>Conversion of verbenols to verbenone by yeasts isolated from <italic>Dendroctonus ponderosae</italic> (Coleoptera: Scolytidae)</article-title>
+<source>J. Chem. Ecol.</source>
+<year>1990</year>
+<volume>16</volume>
+<fpage>1385</fpage>
+<lpage>1397</lpage>
+<pub-id pub-id-type="doi">10.1007/BF01021034</pub-id>
+<pub-id pub-id-type="pmid">24263735</pub-id></element-citation></ref><ref id="B131-insects-03-00339"><label>131.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>French</surname><given-names>J.R.J.</given-names></name><name><surname>Robinson</surname><given-names>P.J.</given-names></name><name><surname>Minko</surname><given-names>G.</given-names></name><name><surname>Pahl</surname><given-names>P.J.</given-names></name></person-group>
+<article-title>Response of the European elm bark beetle, <italic>Scolytus multistriatus</italic>, to host bacterial isolates</article-title>
+<source>J. Chem. Ecol.</source>
+<year>1984</year>
+<volume>10</volume>
+<fpage>1133</fpage>
+<lpage>1149</lpage>
+<pub-id pub-id-type="doi">10.1007/BF00987519</pub-id>
+<pub-id pub-id-type="pmid">24318855</pub-id></element-citation></ref><ref id="B132-insects-03-00339"><label>132.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cardoza</surname><given-names>Y.J.</given-names></name><name><surname>Klepzig</surname><given-names>K.D.</given-names></name><name><surname>Raffa</surname><given-names>K.F.</given-names></name></person-group>
+<article-title>Bacteria in oral secretions of an endophytic insect inhibit antagonistic fungi</article-title>
+<source>Ecol. Entomol.</source>
+<year>2006</year>
+<volume>31</volume>
+<fpage>636</fpage>
+<lpage>645</lpage>
+</element-citation></ref><ref id="B133-insects-03-00339"><label>133.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Davis</surname><given-names>S.T.</given-names></name><name><surname>Hofstetter</surname><given-names>R.W.</given-names></name></person-group>
+<article-title>Interactions between the yeast Orgataea pini and filamentous fungi associated with the western pine beetle</article-title>
+<source>Microb. Ecol.</source>
+<year>2011</year>
+<volume>61</volume>
+<fpage>626</fpage>
+<lpage>634</lpage>
+<pub-id pub-id-type="pmid">21085946</pub-id></element-citation></ref><ref id="B134-insects-03-00339"><label>134.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nair</surname><given-names>J.R.</given-names></name><name><surname>Singh</surname><given-names>G.</given-names></name><name><surname>Sekar</surname><given-names>V.</given-names></name></person-group>
+<article-title>Isolation and characterization of a novel bacillus strain from coffee phyllosphere showing anti-fungal activity</article-title>
+<source>J. Appl. Microbiol.</source>
+<year>2002</year>
+<volume>93</volume>
+<fpage>772</fpage>
+<lpage>780</lpage>
+<pub-id pub-id-type="pmid">12392522</pub-id></element-citation></ref><ref id="B135-insects-03-00339"><label>135.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Adams</surname><given-names>A.S.</given-names></name><name><surname>Six</surname><given-names>D.L.</given-names></name><name><surname>Adams</surname><given-names>S</given-names></name><name><surname>Holben</surname><given-names>W.</given-names></name></person-group>
+<article-title><italic>In vitro</italic> interactions among yeasts, bacteria and the fungal symbionts of the mountain pine beetle, <italic>Dendroctonus ponderosae</italic></article-title>
+<source>Microb. Ecol.</source>
+<year>2008</year>
+<volume>56</volume>
+<fpage>460</fpage>
+<lpage>466</lpage>
+<pub-id pub-id-type="doi">10.1007/s00248-008-9364-0</pub-id>
+<pub-id pub-id-type="pmid">18322728</pub-id></element-citation></ref><ref id="B136-insects-03-00339"><label>136.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Adams</surname><given-names>A.S.</given-names></name><name><surname>Currie</surname><given-names>C.R..</given-names></name><name><surname>Cardoza</surname><given-names>Y.</given-names></name><name><surname>Klepzig</surname><given-names>K.</given-names></name><name><surname>Raffa</surname><given-names>K.F.</given-names></name></person-group>
+<article-title>Effects of symbiotic bacteria and tree chemistry on the growth and reproduction of bark beetle fungal symbionts</article-title>
+<source>Can. J. For. Res.</source>
+<year>2009</year>
+<volume>39</volume>
+<fpage>1133</fpage>
+<lpage>1147</lpage>
+<pub-id pub-id-type="doi">10.1139/X09-034</pub-id>
+</element-citation></ref><ref id="B137-insects-03-00339"><label>137.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Scott</surname><given-names>J.J.</given-names></name><name><surname>Dong-Chan</surname><given-names>O.</given-names></name><name><surname>Yuceer</surname><given-names>M.C.</given-names></name><name><surname>Klepzig</surname><given-names>K.D.</given-names></name><name><surname>Clardy</surname><given-names>J.</given-names></name><name><surname>Currie</surname><given-names>C.R. </given-names></name></person-group>
+<article-title>Bacterial protection of beetle-fungus mutualism</article-title>
+<source>Science</source>
+<year>2008</year>
+<volume>322</volume>
+<pub-id pub-id-type="doi">10.1126/science.1160423</pub-id>
+</element-citation></ref><ref id="B138-insects-03-00339"><label>138.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vasanthkumar</surname><given-names>A.</given-names></name><name><surname>Delalibera</surname><given-names>I.</given-names></name><name><surname>Handelsman</surname><given-names>J.</given-names></name><name><surname>Klepzig</surname><given-names>K.</given-names></name><name><surname>Schloss</surname><given-names>P.</given-names></name><name><surname>Raffa</surname><given-names>K.</given-names></name></person-group>
+<article-title>Characterization of gut-associated bacteria in larvae and adults of the southern pine beetle, <italic>Dendroctonus frontalis</italic> Zimmermann</article-title>
+<source>Environ. Entomol.</source>
+<year>2006</year>
+<volume>35</volume>
+<fpage>1710</fpage>
+<lpage>1717</lpage>
+<pub-id pub-id-type="doi">10.1603/0046-225X(2006)35[1710:COGBIL]2.0.CO;2</pub-id>
+</element-citation></ref><ref id="B139-insects-03-00339"><label>139.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Adams</surname><given-names>A.S.</given-names></name><name><surname>Adams</surname><given-names>S.M.</given-names></name><name><surname>Currie</surname><given-names>C.R.</given-names></name><name><surname>Gillette</surname><given-names>N.E.</given-names></name><name><surname>Raffa</surname><given-names>K.F.</given-names></name></person-group>
+<article-title>Geographic variation in bacteria commonly associated with the red turpentine beetle (Coleoptera: Curculionidae)</article-title>
+<source>Environ. Entomol.</source>
+<year>2010</year>
+<volume>39</volume>
+<fpage>406</fpage>
+<lpage>414</lpage>
+<pub-id pub-id-type="pmid">20388269</pub-id></element-citation></ref><ref id="B140-insects-03-00339"><label>140.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lombardero</surname><given-names>M.J.</given-names></name><name><surname>Klepzig</surname><given-names>K.D.</given-names></name><name><surname>Moser</surname><given-names>J.C.</given-names></name><name><surname>Ayres</surname><given-names>M.P.</given-names></name></person-group>
+<article-title>Biology, demography and community interactions of <italic>Tarsonmeus</italic> (Acarina: Tarsonemidae) mites phoretic on <italic>Dendroctonus frontalis</italic> (Coleoptera: Scolytidae)</article-title>
+<source>Agric. For. Entomol.</source>
+<year>2000</year>
+<volume>2</volume>
+<fpage>193</fpage>
+<lpage>202</lpage>
+<pub-id pub-id-type="doi">10.1046/j.1461-9563.2000.00070.x</pub-id>
+</element-citation></ref><ref id="B141-insects-03-00339"><label>141.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hoffstetter</surname><given-names>R.W.</given-names></name><name><surname>Klepzig</surname><given-names>K.D.</given-names></name><name><surname>Moser</surname><given-names>J.C.</given-names></name><name><surname>Ayres</surname><given-names>M.P.</given-names></name></person-group>
+<article-title>Seasonal dynamics of mites and fungi and their effects on the southern pine beetle</article-title>
+<source>Environ. Entomol.</source>
+<year>2006</year>
+<volume>147</volume>
+<fpage>679</fpage>
+<lpage>691</lpage>
+</element-citation></ref><ref id="B142-insects-03-00339"><label>142.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Boone</surname><given-names>C.K.</given-names></name><name><surname>Six</surname><given-names>D.L.</given-names></name><name><surname>Zheng</surname><given-names>Y.</given-names></name><name><surname>Raffa</surname><given-names>K.F.</given-names></name></person-group>
+<article-title>Parasitoids and dipteran predators exploit volatiles from microbial symbionts to locate bark beetles</article-title>
+<source>Environ. Entomol.</source>
+<year>2008</year>
+<volume>37</volume>
+<fpage>150</fpage>
+<lpage>161</lpage>
+<pub-id pub-id-type="pmid">18348806</pub-id></element-citation></ref><ref id="B143-insects-03-00339"><label>143.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Adams</surname><given-names>A.S.</given-names></name><name><surname>Six</surname><given-names>D.L.</given-names></name></person-group>
+<article-title>Detection of host habitat by parasitoids using cues associated with mycangial fungi of the mountain pine beetle, <italic>Dendroctonus ponderosae</italic></article-title>
+<source>Can. Entomol.</source>
+<year>2008</year>
+<volume>140</volume>
+<fpage>124</fpage>
+<lpage>127</lpage>
+<pub-id pub-id-type="doi">10.4039/n07-018</pub-id>
+</element-citation></ref><ref id="B144-insects-03-00339"><label>144.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sullivan</surname><given-names>B.T.</given-names></name><name><surname>Berisford</surname><given-names>C.W.</given-names></name></person-group>
+<article-title>Semiochemicals from fungal associates if bark beetles may mediate host location behavior of parasitoids</article-title>
+<source>J. Chem. Ecol.</source>
+<year>2004</year>
+<volume>30</volume>
+<fpage>703</fpage>
+<lpage>717</lpage>
+<pub-id pub-id-type="pmid">15260218</pub-id></element-citation></ref><ref id="B145-insects-03-00339"><label>145.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bleiker</surname><given-names>K.</given-names></name><name><surname>Six</surname><given-names>D.L.</given-names></name></person-group>
+<article-title>Effects of water potential and solute on the growth and interactions of the two fungal symbionts of the mountain pine beetle</article-title>
+<source>Mycol. Res.</source>
+<year>2008</year>
+<volume>113</volume>
+<fpage>3</fpage>
+<lpage>15</lpage>
+<pub-id pub-id-type="pmid">18640273</pub-id></element-citation></ref><ref id="B146-insects-03-00339"><label>146.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Robinson</surname><given-names>R.C.</given-names></name></person-group>
+<article-title>Blue stain fungi in lodgepole pine (<italic>Pinus contorta</italic> Dougl. var. <italic>latifolia</italic> Engelm.) infested by the mountain pine beetle (<italic>Dendroctonus monticolae</italic> Hopk.)</article-title>
+<source>Can. J. Bot.</source>
+<year>1962</year>
+<volume>40</volume>
+<fpage>609</fpage>
+<lpage>614</lpage>
+<pub-id pub-id-type="doi">10.1139/b62-056</pub-id>
+</element-citation></ref><ref id="B147-insects-03-00339"><label>147.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Whitney</surname><given-names>H.S.</given-names></name><name><surname>Farris</surname><given-names>S.H.</given-names></name></person-group>
+<article-title>Maxillary mycangium in the mountain pine beetle</article-title>
+<source>Science</source>
+<year>1970</year>
+<volume>167</volume>
+<fpage>54</fpage>
+<lpage>55</lpage>
+<pub-id pub-id-type="pmid">17759499</pub-id></element-citation></ref><ref id="B148-insects-03-00339"><label>148.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Doebeli</surname><given-names>M.</given-names></name><name><surname>Knowlton</surname><given-names>N.</given-names></name></person-group>
+<article-title>The evolution of interspecific mutualisms</article-title>
+<source>Proc. Natl. Acad. Sci. USA</source>
+<year>1988</year>
+<volume>95</volume>
+<fpage>8676</fpage>
+<lpage>8680</lpage>
+<pub-id pub-id-type="pmid">9671737</pub-id></element-citation></ref><ref id="B149-insects-03-00339"><label>149.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Keddy</surname><given-names>P.A.</given-names></name></person-group>
+<article-title>Working with Heterogeneity: An Operator&#x02019;s Guide to Environmental Gradients</article-title>
+<source>Ecological Heterogeneity</source>
+<person-group person-group-type="editor"><name><surname>Kolassa</surname><given-names>J.</given-names></name><name><surname>Pickett</surname><given-names>S.T.A.</given-names></name></person-group>
+<publisher-name>Springer Verlag</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>1991</year>
+<fpage>191</fpage>
+<lpage>201</lpage>
+</element-citation></ref><ref id="B150-insects-03-00339"><label>150.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wellnitz</surname><given-names>T.</given-names></name><name><surname>Poff</surname><given-names>N.L.</given-names></name></person-group>
+<article-title>Functional redundancy in heterogeneous environments: Implications for conservation</article-title>
+<source>Ecol. Lett.</source>
+<year>2001</year>
+<volume>4</volume>
+<fpage>177</fpage>
+<lpage>179</lpage>
+</element-citation></ref><ref id="B151-insects-03-00339"><label>151.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Power</surname><given-names>M.E.</given-names></name><name><surname>Tilman</surname><given-names>D.</given-names></name><name><surname>Estes</surname><given-names>J.A.</given-names></name><name><surname>Menge</surname><given-names>B.A.</given-names></name><name><surname>Bond</surname><given-names>W.J.</given-names></name><name><surname>Mills</surname><given-names>L.S.</given-names></name><name><surname>Daily</surname><given-names>G.</given-names></name><name><surname>Castilla</surname><given-names>J.C.</given-names></name><name><surname>Lubchenco</surname><given-names>J.</given-names></name><name><surname>Paine</surname><given-names>R.T.</given-names></name></person-group>
+<article-title>Challenges in the quest for keystones</article-title>
+<source>BioScience</source>
+<year>1996</year>
+<volume>46</volume>
+<fpage>609</fpage>
+<lpage>620</lpage>
+</element-citation></ref><ref id="B152-insects-03-00339"><label>152.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dunson</surname><given-names>W.A.</given-names></name><name><surname>Travis</surname><given-names>J.</given-names></name></person-group>
+<article-title>The role of abiotic factors in community organization</article-title>
+<source>Am. Nat.</source>
+<year>1991</year>
+<volume>138</volume>
+<fpage>1067</fpage>
+<lpage>1091</lpage>
+</element-citation></ref><ref id="B153-insects-03-00339"><label>153.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Six</surname><given-names>D.L.</given-names></name><name><surname>Paine</surname><given-names>T.D.</given-names></name></person-group>
+<article-title><italic>Ophiostoma clavigerum</italic> is the mycangial fungus of the Jeffrey pine beetle, <italic>Dendroctonus jeffreyi</italic></article-title>
+<source>Mycologia</source>
+<year>1997</year>
+<volume>89</volume>
+<fpage>858</fpage>
+<lpage>866</lpage>
+<pub-id pub-id-type="doi">10.2307/3761106</pub-id>
+</element-citation></ref><ref id="B154-insects-03-00339"><label>154.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Roe</surname><given-names>A.D.</given-names></name><name><surname>James</surname><given-names>P.M.A.</given-names></name><name><surname>Rice</surname><given-names>A.V.</given-names></name><name><surname>Cooke</surname><given-names>J.E.K.</given-names></name><name><surname>Sperling</surname><given-names>F.A.H.</given-names></name></person-group>
+<article-title>Spatial community structure of mountain pine beetle fungal symbionts across a latitudinal gradient</article-title>
+<source>Microb. Ecol.</source>
+<year>2011</year>
+<volume>62</volume>
+<fpage>347</fpage>
+<lpage>360</lpage>
+<pub-id pub-id-type="pmid">21468661</pub-id></element-citation></ref><ref id="B155-insects-03-00339"><label>155.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Walker</surname><given-names>B.</given-names></name></person-group>
+<article-title>Conserving biological diversity through ecosystem resilience</article-title>
+<source>Conserv. Biol.</source>
+<year>1995</year>
+<volume>9</volume>
+<fpage>747</fpage>
+<lpage>752</lpage>
+</element-citation></ref></ref-list></back></article>

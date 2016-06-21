@@ -1,0 +1,314 @@
+{
+  "id": [
+    "23653504"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23653504"
+  ],
+  "pmcid": [
+    "PMC3591775"
+  ],
+  "doi": [
+    "10.3897/zookeys.260.4450"
+  ],
+  "title": [
+    "A description of preimaginal stages of Pseudaspidapion botanicum Alonso-Zarazaga & Wang, 2011 (Apionidae, Curculionoidea)."
+  ],
+  "authorString": [
+    "Wang Z, Alonso-Zarazaga MA, Zhou D, Zhang R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang Z"
+          ],
+          "firstName": [
+            "Zhiliang"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Z"
+          ]
+        },
+        {
+          "fullName": [
+            "Alonso-Zarazaga MA"
+          ],
+          "firstName": [
+            "M A"
+          ],
+          "lastName": [
+            "Alonso-Zarazaga"
+          ],
+          "initials": [
+            "MA"
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou D"
+          ],
+          "firstName": [
+            "Dakang"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang R"
+          ],
+          "firstName": [
+            "Runzhi"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "R"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "260"
+      ],
+      "journalIssueId": [
+        "2037230"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ZooKeys"
+          ],
+          "ISOAbbreviation": [
+            "Zookeys"
+          ],
+          "medlineAbbreviation": [
+            "Zookeys"
+          ],
+          "NLMid": [
+            "101497933"
+          ],
+          "ISSN": [
+            "1313-2989"
+          ],
+          "ESSN": [
+            "1313-2970"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "49-59"
+  ],
+  "abstractText": [
+    "The preimaginal stages including egg, mature larva and pupa of Pseudaspidapion botanicum Alonso-Zarazaga & Wang, 2011 were described and figured, diagnostic characters of larva and pupa were discussed, and corresponding biological information was supplied. The nomenclature of frontal setae in the larva compared with curculionid weevils, the absence of the hypopharyngeal bracon in the larva, and the metafemoral setae in the pupa were discussed. Common and different characters among the larvae of Pseudaspidapion botanicum, Aspidapion radiolus (Marsham, 1802) and Aspidapion aeneum (Fabricius, 1775) were also provided."
+  ],
+  "affiliation": [
+    "Key Laboratory of Zoological Systematics and Evolution, Institute of Zoology, Chinese Academy of Sciences (IZCAS), Beijing, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Morphology",
+        "Biology",
+        "Larva",
+        "Pupa",
+        "Pseudaspidapion Botanicum",
+        "Apionidae"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3591775?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3591775"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=23653504&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=23653504"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.3897/zookeys.260.4450"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-05-09"
+  ],
+  "dateOfCreation": [
+    "2013-05-08"
+  ],
+  "dateOfRevision": [
+    "2013-05-10"
+  ],
+  "electronicPublicationDate": [
+    "2013-01-21"
+  ],
+  "firstPublicationDate": [
+    "2013-01-21"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

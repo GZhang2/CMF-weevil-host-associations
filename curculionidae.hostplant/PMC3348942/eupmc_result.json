@@ -1,0 +1,450 @@
+{
+  "id": [
+    "22590524"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22590524"
+  ],
+  "pmcid": [
+    "PMC3348942"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0036179"
+  ],
+  "title": [
+    "A carnivorous plant fed by its ant symbiont: a unique multi-faceted nutritional mutualism."
+  ],
+  "authorString": [
+    "Bazile V, Moran JA, Le Moguédec G, Marshall DJ, Gaume L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bazile V"
+          ],
+          "firstName": [
+            "Vincent"
+          ],
+          "lastName": [
+            "Bazile"
+          ],
+          "initials": [
+            "V"
+          ]
+        },
+        {
+          "fullName": [
+            "Moran JA"
+          ],
+          "firstName": [
+            "Jonathan A"
+          ],
+          "lastName": [
+            "Moran"
+          ],
+          "initials": [
+            "JA"
+          ]
+        },
+        {
+          "fullName": [
+            "Le Moguédec G"
+          ],
+          "firstName": [
+            "Gilles"
+          ],
+          "lastName": [
+            "Le Moguédec"
+          ],
+          "initials": [
+            "G"
+          ]
+        },
+        {
+          "fullName": [
+            "Marshall DJ"
+          ],
+          "firstName": [
+            "David J"
+          ],
+          "lastName": [
+            "Marshall"
+          ],
+          "initials": [
+            "DJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Gaume L"
+          ],
+          "firstName": [
+            "Laurence"
+          ],
+          "lastName": [
+            "Gaume"
+          ],
+          "initials": [
+            "L"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "1929547"
+      ],
+      "dateOfPublication": [
+        "2012 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "e36179"
+  ],
+  "abstractText": [
+    "Scarcity of essential nutrients has led plants to evolve alternative nutritional strategies, such as myrmecotrophy (ant-waste-derived nutrition) and carnivory (invertebrate predation). The carnivorous plant Nepenthes bicalcarata grows in the Bornean peatswamp forests and is believed to have a mutualistic relationship with its symbiotic ant Camponotus schmitzi. However, the benefits provided by the ant have not been quantified. We tested the hypothesis of a nutritional mutualism, using foliar isotopic and reflectance analyses and by comparing fitness-related traits between ant-inhabited and uninhabited plants. Plants inhabited by C. schmitzi produced more leaves of greater area and nitrogen content than unoccupied plants. The ants were estimated to provide a 200% increase in foliar nitrogen to adult plants. Inhabited plants also produced more and larger pitchers containing higher prey biomass. C. schmitzi-occupied pitchers differed qualitatively in containing C. schmitzi wastes and captured large ants and flying insects. Pitcher abortion rates were lower in inhabited plants partly because of herbivore deterrence as herbivory-aborted buds decreased with ant occupation rate. Lower abortion was also attributed to ant nutritional service. The ants had higher δ(15)N values than any tested prey, and foliar δ(15)N increased with ant occupation rate, confirming their predatory behaviour and demonstrating their direct contribution to the plant-recycled N. We estimated that N. bicalcarata derives on average 42% of its foliar N from C. schmitzi wastes, (76% in highly-occupied plants). According to the Structure Independent Pigment Index, plants without C. schmitzi were nutrient stressed compared to both occupied plants, and pitcher-lacking plants. This attests to the physiological cost of pitcher production and poor nutrient assimilation in the absence of the symbiont. Hence C. schmitzi contributes crucially to the nutrition of N. bicalcarata, via protection of assimilatory organs, enhancement of prey capture, and myrmecotrophy. This combination of carnivory and myrmecotrophy represents an outstanding strategy of nutrient sequestration."
+  ],
+  "affiliation": [
+    "Université Montpellier II, UMR AMAP, Botanique et Bioinformatique de l'Architecture des Plantes, Montpellier, France. Vincent.Bazile@cirad.fr"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ants"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Angiosperms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Feeding Behavior"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Symbiosis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Borneo"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3348942?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3348942"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=22590524"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=22590524&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1371/journal.pone.0036179"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "8"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-09-19"
+  ],
+  "dateOfCreation": [
+    "2012-05-16"
+  ],
+  "dateOfRevision": [
+    "2013-06-25"
+  ],
+  "electronicPublicationDate": [
+    "2012-05-09"
+  ],
+  "firstPublicationDate": [
+    "2012-05-09"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

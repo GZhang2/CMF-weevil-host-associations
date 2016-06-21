@@ -1,0 +1,508 @@
+{
+  "id": [
+    "25338084"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25338084"
+  ],
+  "pmcid": [
+    "PMC4206285"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0109965"
+  ],
+  "title": [
+    "Effects of endophyte colonization of Vicia faba (Fabaceae) plants on the life-history of leafminer parasitoids Phaedrotoma scabriventris (hymenoptera: braconidae) and Diglyphus isaea (hymenoptera: eulophidae)."
+  ],
+  "authorString": [
+    "Akutse KS, Fiaboe KK, Van den Berg J, Ekesi S, Maniania NK."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Akutse KS"
+          ],
+          "firstName": [
+            "Komivi S"
+          ],
+          "lastName": [
+            "Akutse"
+          ],
+          "initials": [
+            "KS"
+          ],
+          "affiliation": [
+            "Plant Health Division, International Centre of Insect Physiology and Ecology (icipe), Nairobi, Kenya; Unit of Environmental Sciences and Management, North-West University, Potchefstroom, South Africa."
+          ]
+        },
+        {
+          "fullName": [
+            "Fiaboe KK"
+          ],
+          "firstName": [
+            "Komi K M"
+          ],
+          "lastName": [
+            "Fiaboe"
+          ],
+          "initials": [
+            "KK"
+          ],
+          "affiliation": [
+            "Plant Health Division, International Centre of Insect Physiology and Ecology (icipe), Nairobi, Kenya."
+          ]
+        },
+        {
+          "fullName": [
+            "Van den Berg J"
+          ],
+          "firstName": [
+            "Johnnie"
+          ],
+          "lastName": [
+            "Van den Berg"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Unit of Environmental Sciences and Management, North-West University, Potchefstroom, South Africa."
+          ]
+        },
+        {
+          "fullName": [
+            "Ekesi S"
+          ],
+          "firstName": [
+            "Sunday"
+          ],
+          "lastName": [
+            "Ekesi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Plant Health Division, International Centre of Insect Physiology and Ecology (icipe), Nairobi, Kenya."
+          ]
+        },
+        {
+          "fullName": [
+            "Maniania NK"
+          ],
+          "firstName": [
+            "Nguya K"
+          ],
+          "lastName": [
+            "Maniania"
+          ],
+          "initials": [
+            "NK"
+          ],
+          "affiliation": [
+            "Plant Health Division, International Centre of Insect Physiology and Ecology (icipe), Nairobi, Kenya."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2206285"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "e109965"
+  ],
+  "abstractText": [
+    "Effects of the fungal endophytes Beauveria bassiana (isolates ICIPE 279, G1LU3, S4SU1) and Hypocrea lixii (isolate F3ST1) on the life-history of Phaedrotoma scabriventris and Diglyphus isaea, parasitoids of the pea leafminer Liriomyza huidobrensis, were studied in the laboratory. Parasitoids were allowed to parasitize 2(nd) and 3(rd) instar L. huidobrensis larvae reared on endophytically-inoculated faba bean, Vicia faba. In the control, parasitoids were reared on non-inoculated host plants. Parasitism, pupation, adult emergence and survival were recorded. No significant difference was observed between the control and the endophyte-inoculated plants in terms of parasitism rates of P. scabriventris (p = 0.68) and D. isaea (p = 0.45) and adult' survival times (p = 0.06). The survival period of the F1 progeny of P. scabriventris was reduced (p<0.0001) in B. bassiana S4SU1 to 28 days as compared to more than 40 days for B. bassiana G1LU3, ICIPE 279 and H. lixii F3ST1. However, no significant difference (p = 0.54) was observed in the survival times of the F1 progeny of D. isaea. This study has demonstrated that together, endophytes and parasitoids have beneficial effects in L. huidobrensis population suppression."
+  ],
+  "affiliation": [
+    "Plant Health Division, International Centre of Insect Physiology and Ecology (icipe), Nairobi, Kenya; Unit of Environmental Sciences and Management, North-West University, Potchefstroom, South Africa."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hymenoptera"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PY"
+                  ],
+                  "qualifierName": [
+                    "pathogenicity"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hypocrea"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PY"
+                  ],
+                  "qualifierName": [
+                    "pathogenicity"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vicia faba"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GD"
+                  ],
+                  "qualifierName": [
+                    "growth & development"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Pest Control, Biological"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Life Cycle Stages"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Beauveria"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PY"
+                  ],
+                  "qualifierName": [
+                    "pathogenicity"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Endophytes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4206285?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4206285"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1371/journal.pone.0109965"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-06-29"
+  ],
+  "dateOfCreation": [
+    "2014-10-23"
+  ],
+  "electronicPublicationDate": [
+    "2014-10-22"
+  ],
+  "firstPublicationDate": [
+    "2014-10-22"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

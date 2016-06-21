@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="genus">
+ <result pre="gth, unique and total gene reads, annotation and RPKM expression values were obtained. The closest " exact="Arabidopsis" xpath="/html[1]/body[1]/div[2]/div[4]/p[6]" match="Arabidopsis" post=" putative orthologs were determined for each gene to allow the use of functional genomics tools. Th" name="genus"/>
+ <result pre="The functions of the differentially expressed genes (as " exact="Arabidopsis" xpath="/html[1]/body[1]/div[2]/div[4]/p[6]" match="Arabidopsis" post=" putative orthologs) were visualized using the MapMan web-tool (Thimm et al., 2004; " name="genus"/>
+ <result pre="ment analysis was performed using PathExpress (Goffard and Weiller, 2007) using the " exact="Arabidopsis" xpath="/html[1]/body[1]/div[2]/div[4]/p[6]" match="Arabidopsis" post=" putative orthologs of the differentially expressed palm transcripts. " name="genus"/>
+ <result pre=" list of palm genes correspondent to the assembled sequences. Then we identified the correspondent " exact="Arabidopsis" xpath="/html[1]/body[1]/div[2]/div[4]/p[6]" match="Arabidopsis" post=" ortholog to each of these genes. We obtained a total of 21.3–29.8 million raw reads for the six pa" name="genus"/>
+ <result pre="gineered to produce a cyanogenic glycoside, obtaining enhanced resistance to Phyllotretanemorum in " exact="Arabidopsis" xpath="/html[1]/body[1]/div[2]/div[4]/p[6]" match="Arabidopsis" post=" (Tattersall et al., 2001). These genes were not induced at S1 implying that palm re" name="genus"/>
+ <result pre=" of transcription factors involved in biotic stress responses and comprise more than 70 members in " exact="Arabidopsis" match="Arabidopsis" post=" (Rushton et al., 2010). Induction of WRKY members have been observed in longitudina" name="genus"/>
+</results>

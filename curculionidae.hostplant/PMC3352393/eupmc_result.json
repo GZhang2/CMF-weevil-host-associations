@@ -1,0 +1,424 @@
+{
+  "id": [
+    "25567495"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25567495"
+  ],
+  "pmcid": [
+    "PMC3352393"
+  ],
+  "doi": [
+    "10.1111/j.1752-4571.2007.00010.x"
+  ],
+  "title": [
+    "Genetic, ecological, behavioral and geographic differentiation of populations in a thistle weevil: implications for speciation and biocontrol."
+  ],
+  "authorString": [
+    "Olivieri I, Singer MC, Magalhães S, Courtiol A, Dubois Y, Carbonell D, Justy F, Beldade P, Parmesan C, Michalakis Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Olivieri I"
+          ],
+          "firstName": [
+            "Isabelle"
+          ],
+          "lastName": [
+            "Olivieri"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Institut des Sciences de l'Evolution, Université Montpellier Montpellier, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Singer MC"
+          ],
+          "firstName": [
+            "Michael C"
+          ],
+          "lastName": [
+            "Singer"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "affiliation": [
+            "Integrative Biology, University of Texas Austin, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Magalhães S"
+          ],
+          "firstName": [
+            "Sara"
+          ],
+          "lastName": [
+            "Magalhães"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Institut des Sciences de l'Evolution, Université Montpellier Montpellier, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Courtiol A"
+          ],
+          "firstName": [
+            "Alexandre"
+          ],
+          "lastName": [
+            "Courtiol"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0637-2959",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institut des Sciences de l'Evolution, Université Montpellier Montpellier, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Dubois Y"
+          ],
+          "firstName": [
+            "Yvain"
+          ],
+          "lastName": [
+            "Dubois"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Institut des Sciences de l'Evolution, Université Montpellier Montpellier, France ; CSIRO Biological Control Unit, Campus International de Baillarguet Montferrier, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Carbonell D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Carbonell"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Institut des Sciences de l'Evolution, Université Montpellier Montpellier, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Justy F"
+          ],
+          "firstName": [
+            "Fabienne"
+          ],
+          "lastName": [
+            "Justy"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Institut des Sciences de l'Evolution, Université Montpellier Montpellier, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Beldade P"
+          ],
+          "firstName": [
+            "Patrícia"
+          ],
+          "lastName": [
+            "Beldade"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7831-979X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institut des Sciences de l'Evolution, Université Montpellier Montpellier, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Parmesan C"
+          ],
+          "firstName": [
+            "Camille"
+          ],
+          "lastName": [
+            "Parmesan"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Integrative Biology, University of Texas Austin, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Michalakis Y"
+          ],
+          "firstName": [
+            "Yannis"
+          ],
+          "lastName": [
+            "Michalakis"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "GEMI UMR CNRS - IRD 2724 IRD, Montpellier, France."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0637-2959",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7831-979X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "1"
+      ],
+      "journalIssueId": [
+        "2240567"
+      ],
+      "dateOfPublication": [
+        "2008 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2008"
+      ],
+      "printPublicationDate": [
+        "2008-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evolutionary applications"
+          ],
+          "ISOAbbreviation": [
+            "Evol Appl"
+          ],
+          "medlineAbbreviation": [
+            "Evol Appl"
+          ],
+          "NLMid": [
+            "101461828"
+          ],
+          "ESSN": [
+            "1752-4571"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "112-128"
+  ],
+  "abstractText": [
+    "Because weevils are used as biocontrol agents against thistles, it is important to document and understand host shifts and the evolution of host-specificity in these insects. Furthermore, such host shifts are of fundamental interest to mechanisms of speciation. The mediterranean weevil Larinus cynarae normally parasitizes either one of two thistle genera, Onopordum and Cynara, being locally monophagous. In Sardinia, however, both host genera are used. We used three types of data to help understand this complex host use: (i) weevil attack rates on the two host genera among 53 different populations in Sardinia and nearby Corsica, (ii) host preference in a lab setting, and (iii) genetic (allozyme) differentiation among weevil populations exploiting the same or different hosts. Using a subset of populations from northern Sardinia, we attempted to relate interpopulation differences in host preference to gene flow among populations by comparing pairwise differences in oviposition preference (Qst) and in allozyme frequencies (Fst). Overall, Qst and Fst were positively correlated. Fst was positively correlated with geographic distance among pairs of populations using the same host, but not among different-host population pairs. As mating occurs on the hosts, this result suggests reinforcement. Genetic evidence indicates Cynara as the ancestral host of the weevils from both islands and our current studies suggest repeated attempts to colonize Onopordum, with a successful shift in Corsica and a partial shift in Sardinia. This scenario would explain why in Sardinia the level of attack was higher on Cynara than on Onopordum and why, when given a choice in the laboratory, Sardinian weevils preferred Cynara even when sampled from Onopordum. The lability of host shifts in L. cynarae supports caution in using these or related weevils as biocontrol agents of exotic thistles."
+  ],
+  "affiliation": [
+    "Institut des Sciences de l'Evolution, Université Montpellier Montpellier, France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Genetic differentiation",
+        "Biocontrol",
+        "Specialization",
+        "Host preference",
+        "Isolation By Distance",
+        "Local Adaptation",
+        "Larinus",
+        "Thistles"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3352393?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3352393"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1111/j.1752-4571.2007.00010.x"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-01-08"
+  ],
+  "dateOfCreation": [
+    "2015-01-08"
+  ],
+  "dateOfRevision": [
+    "2015-01-15"
+  ],
+  "firstPublicationDate": [
+    "2008-02-01"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

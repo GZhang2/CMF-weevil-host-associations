@@ -1,0 +1,276 @@
+{
+  "id": [
+    "19325767"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "19325767"
+  ],
+  "pmcid": [
+    "PMC2635683"
+  ],
+  "doi": [
+    "10.3390/ijms9040526"
+  ],
+  "title": [
+    "Insect species damage on ornamental plants and saplings of Bartin Province and its vicinity in the Western Black Sea region of Turkey."
+  ],
+  "authorString": [
+    "Kaygin AT, Sönmezyildiz H, Ulgentürk S, Ozdemir I."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kaygin AT"
+          ],
+          "firstName": [
+            "Azize Toper"
+          ],
+          "lastName": [
+            "Kaygin"
+          ],
+          "initials": [
+            "AT"
+          ]
+        },
+        {
+          "fullName": [
+            "Sönmezyildiz H"
+          ],
+          "firstName": [
+            "Hilmi"
+          ],
+          "lastName": [
+            "Sönmezyildiz"
+          ],
+          "initials": [
+            "H"
+          ]
+        },
+        {
+          "fullName": [
+            "Ulgentürk S"
+          ],
+          "firstName": [
+            "Selma"
+          ],
+          "lastName": [
+            "Ulgentürk"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Ozdemir I"
+          ],
+          "firstName": [
+            "Işil"
+          ],
+          "lastName": [
+            "Ozdemir"
+          ],
+          "initials": [
+            "I"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "1611706"
+      ],
+      "dateOfPublication": [
+        "2008 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2008"
+      ],
+      "printPublicationDate": [
+        "2008-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of molecular sciences"
+          ],
+          "ISOAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "medlineAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "NLMid": [
+            "101092791"
+          ],
+          "ESSN": [
+            "1422-0067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "526-541"
+  ],
+  "abstractText": [
+    "The objectives of this study were to identify harmful insect species, understand their biology, assess their damage potential and target plants and define distribution areas. There are a lot of native or cultured ornamental plants in Bartin and its surrounding (Caycuma, Zonguldak, Karabük, Mengen, Devrek). These plants are herbaceous and woody species. Specimens were collected from various cultured and non-cultured plants. A total of 34 species belonging to 20 families of 5 orders were identified. The order Hemiptera was represented by the highest number of species (19 species), followed by Coleoptera (8), Lepidoptera (4), Orthoptera (2), and Dermaptera (1). Insect samples were collected from plants by net traps, special insect aspirators, and various insect traps. The identified species have been stored in the collection room of the Forest Entomology and Protection Unit, Bartin Forestry Faculty, Zonguldak Karaelmas University (Z.K.U.), Turkey. This is the first detailed study about insect species causing damage on ornamental plants and saplings of Bartin province and its vicinity, although similar studies of different regions exist. This research makes a very important contribution to the insect fauna of Bartin, its environs and Turkey. Twenty four of the identified species were new for Bartin and its vicinity, while the remainder had been previously recorded in different parts of Bartin."
+  ],
+  "affiliation": [
+    "Z.K.U. Bartin Forestry Faculty, Forest Entomology and Protection, Bartin, Turkey. azize_toper@yahoo.com <azize_toper@yahoo.com>"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Biology",
+        "Ornamental plants",
+        "Young trees",
+        "Bartın",
+        "Harmful Insects"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2635683?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2635683"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "www.mdpi.com"
+          ],
+          "url": [
+            "http://dx.doi.org/10.3390/ijms9040526"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2010-06-09"
+  ],
+  "dateOfCreation": [
+    "2009-03-27"
+  ],
+  "dateOfRevision": [
+    "2013-05-23"
+  ],
+  "electronicPublicationDate": [
+    "2008-04-04"
+  ],
+  "firstPublicationDate": [
+    "2008-04-04"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

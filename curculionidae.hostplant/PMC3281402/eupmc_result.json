@@ -1,0 +1,337 @@
+{
+  "id": [
+    "22236084"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22236084"
+  ],
+  "pmcid": [
+    "PMC3281402"
+  ],
+  "doi": [
+    "10.1673/031.011.14701"
+  ],
+  "title": [
+    "Coleopterans associated with plants that form phytotelmata in subtropical and temperate Argentina, South America."
+  ],
+  "authorString": [
+    "Campos RE, Fernández LA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Campos RE"
+          ],
+          "firstName": [
+            "Raúl E"
+          ],
+          "lastName": [
+            "Campos"
+          ],
+          "initials": [
+            "RE"
+          ]
+        },
+        {
+          "fullName": [
+            "Fernández LA"
+          ],
+          "firstName": [
+            "Liliana A"
+          ],
+          "lastName": [
+            "Fernández"
+          ],
+          "initials": [
+            "LA"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "1827556"
+      ],
+      "dateOfPublication": [
+        "2011 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2011"
+      ],
+      "printPublicationDate": [
+        "2011-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of insect science (Online)"
+          ],
+          "ISOAbbreviation": [
+            "J. Insect Sci."
+          ],
+          "medlineAbbreviation": [
+            "J Insect Sci"
+          ],
+          "NLMid": [
+            "101096396"
+          ],
+          "ESSN": [
+            "1536-2442"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "147"
+  ],
+  "abstractText": [
+    "A list of the most common plants that form phytotelmata and their associated coleopterans (aquatic, semi-aquatic and terrestrial) from the northeastern subtropical and temperate area of Argentina, South America with biological and behavioral observations is presented in this study. Species of Poaceae (n = 3), Bromeliaceae (5), Apiaceae (6), Araceae (2), Urticaceae (1), Marantaceae (1), Arecaceae (1), Dipsacaceae (1) and Cyperaceae (1) were identified as phytotelmata. Aquatic species of Scirtidae (2), Dytiscidae (2), and Hydrophilidae (4), semi-aquatic Chelonariidae (2), and terrestrial species of Carabidae (3), Staphylinidae (5), Histeridae (1), Elateridae (1), Cantharidae (1), Cleridae (1), Tenebrionidae (1), Meloidae (1), Anthicidae (1), Chrysomelidae (3), Curculionidae (7) and Apionidae (1) were identified from six species of Eryngium L. (Apiales: Apiaceae), two species of Guadua Kunth (Poales: Poaceae), Aechmea distichantha Lemaire (Poales: Bromeliaceae), and from fallen leaves of Euterpe edulis Martius (Arecales: Arecaceae) from the temperate and subtropical area. The highest species richness was recorded in Eryngium phytotelmata. Fifteen species of beetles inhabit Eryngium cabrerae Pontiroli, 11 in E. horridum Malme, 7 in E. stenophyllum Urban, 4 in E. aff. serra Chamisso and Schlechtendal., 3 in E. elegans Chamisso and Schlechtendal, 2 in E. eburneum Decne and E. pandanifolium Chamisso and Schlechtendal. From bamboo, 6 species of coleopterans were collected from Guadua trinii (Nees) Nees ex Ruprecht and 4 from G. chacoensis (Rojas) Londoño and Peterson. Three species of aquatic coleopterans were recorded from A. distichantha and only one from E. edulis."
+  ],
+  "affiliation": [
+    "Instituto, de Limnología Dr Raúl A Ringuelet, Universidad Nacional de La Plata - CONICET, CC 712, 1900 La Plata, Buenos Aires, Argentina. rcampos@ilpla.edu.ar"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Beetles"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Angiosperms"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Ecosystem"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Argentina"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aquatic Organisms"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3281402?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3281402"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=22236084&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=22236084"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1673/031.011.14701"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-03-30"
+  ],
+  "dateOfCreation": [
+    "2012-01-12"
+  ],
+  "dateOfRevision": [
+    "2013-06-26"
+  ],
+  "firstPublicationDate": [
+    "2011-01-01"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

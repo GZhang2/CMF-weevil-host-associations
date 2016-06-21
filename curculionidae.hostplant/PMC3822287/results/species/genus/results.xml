@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="genus">
+ <result pre="es ( Haag et al., 2013). Root nodulation is important for the larval development of " exact="Sitona" xpath="/html[1]/body[1]/div[2]/div[2]/div[2]/p[2]" match="Sitona" post=" weevil species (Coleoptera: Curculionidae), including S. discoideus, which feeds on lucerne" name="genus"/>
+ <result pre=" aim to characterize this in a model legume system that incorporates multiple organisms, including " exact="Rhizobium" xpath="/html[1]/body[1]/div[2]/div[2]/div[2]/p[2]" match="Rhizobium" post=" bacteria, the nodule-feeding lucerne weevil ( S. discoideus) and the sap-sucking pea aphid " name="genus"/>
+ <result pre="Lucerne seeds (sourced from Seedmark, Adelaide, South Australia) were inoculated with " exact="Rhizobium" match="Rhizobium" post=" bacteria one hour prior to planting by submerging in a solution containing 250 g Nodule N lucerne " name="genus"/>
+</results>

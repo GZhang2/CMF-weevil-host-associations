@@ -1,0 +1,660 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN" "archivearticle3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//Atypon//DTD Atypon Systems Archival NLM DTD Suite v2.2.0 20090301//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName atypon-archivearticle.dtd?><?SourceDTD.Version 2.2?><?ConverterInfo.XSLTName atypon2nlmx.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Insect Sci</journal-id><journal-id journal-id-type="publisher-id">insc</journal-id><journal-title-group><journal-title>Journal of Insect Science</journal-title></journal-title-group><issn pub-type="epub">1536-2442</issn><publisher><publisher-name>University of Wisconsin Library</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">3061595</article-id><article-id pub-id-type="doi">10.1673/031.008.2301</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Onion Thrips, <italic>Thrips tabaci</italic>, Have Gut Bacteria That are Closely Related to the Symbionts of the Western Flower Thrips, <italic>Frankliniella occidentalis</italic></article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>de Vries</surname><given-names>Egbert J.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="corresp" rid="corr1"/></contrib><contrib contrib-type="author"><name><surname>van der Wurff</surname><given-names>Andr&#x000e9; W. G.</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib><contrib contrib-type="author"><name><surname>Jacobs</surname><given-names>Gerrit</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Breeuwer</surname><given-names>Johannes A. J.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><aff id="aff1"><label><sup>1</sup></label>Institute for Biodiversity and Ecosystem Dynamics, University of Amsterdam, Kruislaan 318, 1098 SM Amsterdam, the Netherlands.</aff><aff id="aff2"><label><sup>2</sup></label>Laboratory of Nematology, Wageningen University, Binnenhaven 5, 6709 PD, Wageningen, the Netherlands</aff></contrib-group><author-notes><corresp id="corr1"><email>vries@science.uva.nl</email></corresp></author-notes><pub-date pub-type="collection"><year>2008</year></pub-date><pub-date pub-type="epub"><day>19</day><month>3</month><year>2008</year></pub-date><volume>8</volume><elocation-id>23</elocation-id><history><date date-type="received"><day>1</day><month>12</month><year>2007</year></date><date date-type="accepted"><day>11</day><month>4</month><year>2007</year></date></history><permissions><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.5/"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><abstract><p>It has been shown that many insects have Enterobacteriaceae bacteria in their gut system. The western flower thrips, <italic>Frankliniella occidentalis</italic> Pergande [Thysanoptera: Thripidae], has a symbiotic relation with <italic>Erwinia</italic> species gut bacteria. To determine if other Thripidae species have similar bacterial symbionts, the onion thrips, <italic>Thrips tabaci</italic>, was studied because, like <italic>F. occidentalis</italic>, it is phytophagous. Contrary to <italic>F. occidentalis, T. tabaci</italic> is endemic in Europe and biotypes have been described. Bacteria were isolated from the majority of populations and biotypes of <italic>T. tabaci</italic> examined. Bacteria were present in high numbers in most individuals of the populations studied. Like <italic>F. occidentalis, T. tabaci</italic> contained one type of bacterium that clearly outnumbered all other types present in the gut. This bacterium was identified as an <italic>Erwinia</italic> species, as was also the case for <italic>F. occidentalis</italic>. However, its biochemical characteristics and 16S rDNA sequence differed from the bacteria present in <italic>F. occidentalis</italic>.</p></abstract><kwd-group><title>Keywords</title><kwd>symbiosis</kwd><kwd>16S rDNA</kwd><kwd>bacterial taxonomy</kwd><kwd><italic>Erwinia</italic></kwd><kwd><italic>Pantoea agglomerans</italic></kwd><kwd>API 20E</kwd><kwd>insect gut</kwd></kwd-group><counts><page-count count="11"/></counts></article-meta></front><body><sec sec-type="" id="sec1"><title>Introduction</title><p>Bacteria are associated with a number of different insect species across all major orders of the Insecta (<xref ref-type="bibr" rid="bibr10">Buchner 1965</xref>; <xref ref-type="bibr" rid="bibr11">Campbell 1990</xref>; <xref ref-type="bibr" rid="bibr20">Dillon and Dillon 2004</xref>). Permanent associations between bacteria and higher organisms are called symbiotic and the type of symbiosis will depend on the particular host, the symbiont, and environmental conditions (<xref ref-type="bibr" rid="bibr03">Boucher et al. 1982</xref>; <xref ref-type="bibr" rid="bibr23">Douglas 1991</xref>; <xref ref-type="bibr" rid="bibr09">Bronstein 1994</xref>). For example, several Homoptera have a mutualistic symbiosis with <italic>Buchnera</italic> bacteria located in specific tissue near the gut, the so-called mycetomes. These mycetome bacteria provide the host with essential nutrients (<xref ref-type="bibr" rid="bibr27">Houk and Griffths 1980</xref>; <xref ref-type="bibr" rid="bibr22">Douglas 1989</xref>; <xref ref-type="bibr" rid="bibr01">Baumann et al. 1995</xref>). An example of parasitic symbiosis is the presence of <italic>Wolbachia</italic> bacteria in the reproductive tissue of many different arthropods. These bacteria interfere with host reproduction, which may lead to cytoplasmic incompatibility, parthenogenesis, or sex ratio distortion (<xref ref-type="bibr" rid="bibr05">Breeuwer 1997</xref>; <xref ref-type="bibr" rid="bibr36">Stouthamer et al. 1999</xref>; <xref ref-type="bibr" rid="bibr42">Vala 2003</xref>).</p><p>The insect gut provides a suitable habitat for bacteria (Bignell 1983). In many insect species the gut possesses different types of bacteria, which are transient and do not remain in the gut during all life stages. However, in some cases, a variety of permanent microorganisms is present that supply essential nutrients to their host (Blattidae, Cruden and Markovetz 1984; Termitidae, <xref ref-type="bibr" rid="bibr06">Breznak 1982</xref>; and Curculionidae, <xref ref-type="bibr" rid="bibr07">Bridges 1981</xref>). <xref ref-type="bibr" rid="bibr41">Ullman et al. 1989</xref> were the first to detect gut bacteria in Thysanoptera in the hindgut of the western flower thrips, <italic>Frankliniella occidentalis</italic> Pergande [Thysanoptera: Thripidae]. These gut bacteria were isolated and characterised (<xref ref-type="bibr" rid="bibr15">De Vries et al. 1995</xref> and <xref ref-type="bibr" rid="bibr16">2001a</xref>). <italic>F. occidentalis</italic> were found to contain a single species of gut bacteria of the genus <italic>Erwinia</italic> (Enterobacteriaceae), possibly <italic>Pantoea agglomerans</italic>, which can also grow outside the insect host. Although several different growth media were tried to grow gut bacteria of these thrips, only one species of bacteria was consistently found. Based on 16S rDNA sequences derived from randomly selected bacterial colonies of <italic>F. occidentalis</italic>, only this type of bacteria was found, which adds further evidence to the conclusion that only one type of bacteria is consistently present in <italic>F. occidentalis</italic>. With the cloned16S rDNA fragments, universal primers were used to identify bacterial types present in the thrips regardless of whether they could be grown on bacterial medium (<xref ref-type="bibr" rid="bibr16">De Vries et al. 2001a</xref>). The <italic>Erwinia</italic> bacteria present in the thrips' gut are transmitted to progeny via the leaves that both adults and larvae eat (<xref ref-type="bibr" rid="bibr17">De Vries et al., 2001b</xref>). In second instar larvae, all thrips are infected with <italic>Erwinia</italic>, and up to 10<sup>5</sup> bacteria are present per thrips. The presence of bacteria in <italic>F. occidentalis</italic> was found to cause a faster larval development and higher oviposition compared to thrips without bacteria, but this effect is dependent on the thrips diet (<xref ref-type="bibr" rid="bibr18">De Vries et al. 2004</xref>).</p><p>The microbiology of Thysanoptera is not widely studied. Apart from the <italic>Erwinia</italic> bacterial symbionts in <italic>F. occidentalis</italic>, the presence of <italic>Pantoea ananatis</italic> in the guts of the tobacco thrips, <italic>F. fusca</italic> (<xref ref-type="bibr" rid="bibr26">Gitaitis et al. 2003</xref>; <xref ref-type="bibr" rid="bibr47">Wells et al. 2002</xref>), and of bacteria in mycetomes of <italic>Caudothrips buffai</italic> (<xref ref-type="bibr" rid="bibr04">Bournier 1961</xref>) was reported. <italic>Caudothrips buffai</italic> is a mycophagous insect outside the large thrips family of Thripidae. Bournier did not find mycetomes in any of the species of Thripidae that he studied.</p><p><italic>Thrips tabaci</italic>, was selected for the present study for the following reasons. It is, like <italic>F. occidentalis</italic>, a polyphagous pest insect. Contrary to <italic>F. occidentalis</italic>, it is endemic to Western Europe (<xref ref-type="bibr" rid="bibr24">Franssen and Mantel 1962</xref>). <italic>T. tabaci</italic> has a similar morphology and life cycle as <italic>F. occidentalis</italic> (<xref ref-type="bibr" rid="bibr44">Van Rijn et al. 1995</xref>). It is haplodiploid and arrhenotokous like most Thripidae, which implies that haploid, unfertilised eggs become males and diploid, fertilised eggs females. However, thelytoky (unfertilised diploid eggs, becoming females) was found in some <italic>T. tabaci</italic> populations (<xref ref-type="bibr" rid="bibr34">Murai 1990</xref>; <xref ref-type="bibr" rid="bibr30">Nault et al. 2006</xref>; <xref ref-type="bibr" rid="bibr50">Zawirska 1976</xref>).</p><p>Several populations of <italic>T. tabaci</italic> were examined for the presence of gut bacteria by looking for bacteria that would grow on enriched agar medium, and belonged to the family Enterobacteriaceae. The populations of <italic>T. tabaci</italic> that were studied originated from different geographical locations and host plants. They also differed in sex ratio and reproduction. Earlier, the same populations were found to be highly variable in their ability to transmit phytopathogenic tospoviruses (<xref ref-type="bibr" rid="bibr48">Wijkamp et al. 1995</xref>). Based on host plant, reproduction, and virus transmission ability, it may be argued that the <italic>T. tabaci</italic> populations studied in fact belonged to different biotypes as defined by Diehl and Bush (<xref ref-type="bibr" rid="bibr19">1984</xref>); populations belonging to the same species but differ in essential biological features.</p><table-wrap id="t01" position="float"><label>Table 1. </label><caption><p>Populations of <italic>Frankliniella occidentalis</italic>, and <italic>Thrips tabaci</italic> used in this study.</p></caption><graphic xlink:href="t01_01"/></table-wrap></sec><sec sec-type="materials|methods" id="sec2"><title>Material and Methods</title><sec id="sec2a"><title>Thrips populations</title><p><italic>Thrips tabaci</italic> populations used in this study were maintained at the Department of Virology of the Wageningen Agricultural University. These populations were originally obtained from various laboratory cultures (<xref ref-type="table" rid="t01">Table 1</xref>) and included thelytokous and arrhenotokous populations from different host plants. <italic>T. tabaci</italic> populations were given names with the abbreviation TT followed by country code and serial number, and <italic>F. occidentalis</italic> populations were abbreviated with FO (<xref ref-type="table" rid="t01">Table 1</xref>). One <italic>F. occidentalis</italic> population (FO-NL3) was reared on bean pods at the Department of Virology of the Wageningen Agricultural University. The other population of <italic>F. occidentalis</italic> (FO-AMC) was reared at the Institute for Biodiversity and Ecosystem Dynamics at the University of Amsterdam on chrysanthemum plants. Both <italic>F. occidentalis</italic> populations were originally collected in the Netherlands. Species identity was regularly checked, and we never encountered an infestation of other thrips species in these cultures (B. Vierbergen, personal communication).</p></sec><sec id="sec2b"><title>Thrips rearings</title><p>Thrips were reared in small closed jars, 85 mm wide and 70 mm high, in climate rooms of 25&#x000b0; C, 60% RH, and 16:8 L:D. Pods of the bean, <italic>Phaseolus vulgare</italic>, were used as food for some populations (TT-JArr, TT-NL2 and the Greek populations). Leaf pieces of the leek, <italic>Allium porrum</italic>, were used for the other three populations (TT-JThe, TT-NL1, and TT-Egy). Bean pods and leek leaves were obtained from local groceries, washed, and incubated for four days at 25 &#x000b0;C. After being thoroughly washed again, these were used in the cultures. This procedure minimises the risk of contamination with other thrips. The <italic>F. occidentalis</italic> population FO-NL3 was reared in the same way. The FO-AMC population was reared on chrysanthemum plants in a climate box (25 &#x000b0;C, 60% RH, 16:8 L:D). Chrysanthemum plants were obtained from local garden shops and not washed.</p></sec><sec id="sec2c"><title>Isolation of bacteria</title><p>Samples of 20 to 30 thrips were selected and subjected to isolation of bacteria, following the protocol described earlier (<xref ref-type="bibr" rid="bibr16">De Vries et al. 2001a</xref>). Briefly, the thrips were placed individually in small vials (0.5 ml) and surface sterilised to avoid picking up external bacteria. Surface sterilisation is done by soaking individual thrips in 70% ethanol for 60 seconds, soaking it in a 5% sodium chlorite solution, and subsequently rinsing three times with sterilised water. Thrips were then homogenised in 100 &#x000b5;l Tris/EDTA buffer (10 mM Tris and 1 mM EDTA, pH = 7.6). Thrips homogenate was spread out on Luria-Bertoni (LB) agar medium and incubated for 48 h at 25 &#x000b0; C. LB medium is the media on which gut bacteria of <italic>F. occidentalis</italic> were found to grow best (<xref ref-type="bibr" rid="bibr16">De Vries et al. 2001a</xref>). Earlier, ten different rich growth media were used for isolation of bacteria from thrips. This range of growth media fully covered of nearly all media that have been used for isolation of insect gut bacteria according to an extensive literature search (see <xref ref-type="bibr" rid="bibr16">De Vries et al. 2001a</xref> for a complete description). All steps of the bacterial isolation procedure took place in a laminar flow hood to reduce the chance of contamination. In 1995, isolations were done in Amsterdam at the Institute for Biodiversity and Ecosystem Dynamics, and in 1998 they were done at the Department of Virology in the Wageningen Agricultural University.</p></sec><sec id="sec2d"><title>Identification of bacteria</title><p>Only thrips homogenate that yielded more than 30 colonies were used, because less than 30 colonies could easily have resulted from accidental contamination during the bacterial isolation procedure. The prevalence was determined as the frequency of thrips with gut bacteria out of all thrips included in the experiment. Three methods were used to describe the gut bacteria. First, the morphology of the most frequent type of colonies in each thrips homogenate was recorded. The size was determined as small (&#x0003c; 3mm after 48 h of incubation at 25&#x000b0;C) or large. The colour was determined, as well as the shape (round or fuzzy) and the clarity (clear or opaque). Nearly all colonies obtained in our study were small, round and opaque. Second, pure strains were obtained of this type of bacteria by transferring a single colony to fresh LB agar medium twice. These pure strains were biochemically identified using the API 20E method (Biom&#x000e9;rieux; <ext-link ext-link-type="uri" xlink:href="http://www.biomerieux.com">http://www.biomerieux.com</ext-link>). This method is a standardised test for the following twenty biochemical characteristics; beta-galactosidase, acetoin production, cytochrome oxidase, arginine dehydrolase, lysine dehydrolase, ornithine dehydrolase, H2S production, urease, tryptophan deaminase, indole production, gelatinase, and the utilisation of glucose, mannitol, rhamnose, sucrose, amygdalin, arabinose, inositol, sorbitol, and citrate. The biochemical characteristics according to the API 20E system were compared with characteristics of two type strains of <italic>F. occidentalis</italic> gut bacteria, TAC XII.93.8 and TAC III.94.1 (described in <xref ref-type="bibr" rid="bibr16">De Vries et al. 2001a</xref>, and determined again in this study). The third identification method involved determining the 16S rDNA sequence of a few pure strains of <italic>T. tabaci</italic> gut bacteria and comparing them with sequences of gut bacteria from <italic>F. occidentalis</italic>, and with other Enterobacteriaceae.</p></sec><sec id="sec2e"><title>16S rDNA sequence comparison</title><p>DNA was isolated from bacteria using a method based on Chelex 100 (<xref ref-type="bibr" rid="bibr45">Walsh et al. 1991</xref>). A colony of a pure strain of bacteria was suspended in an emulsion of 1ml 5% (w/v) Chelex 100 (Sigma-Aldrich, <ext-link ext-link-type="uri" xlink:href="www.sigmaaldrich.com">www.sigmaaldrich.com</ext-link>) in sterile tissue water and 20 &#x000b5;l proteinase K (20 mg/ml) was added per DNA sample. Samples were incubated for 2 h at 37 &#x000b0;C and after this, proteinase K was denatured during 15 min at 95 &#x000b0; C. The obtained DNA isolate was used for 16S rDNA amplification. Part of the 16S rDNA gene was amplified using universal bacterial primers (<xref ref-type="bibr" rid="bibr29">Lane 1991</xref>), based on the <italic>Escherichia coli</italic> genome (27F and 1492R) by PCR with cycle conditions as described elsewhere (<xref ref-type="bibr" rid="bibr16">De Vries et al. 2001a</xref>). The PCR product was run on a 1.0% (w/v) agarose gel, and the 16S rDNA gene, of approximately 1500 bp, was excised from the gel, purified and sequenced on a LiCor automated DNA-sequencer using dye-primer chemistry following the manufacturers protocol (BaseClear Ltd., <ext-link ext-link-type="uri" xlink:href="www.baseclear.com">www.baseclear.com</ext-link>).</p><p>The resulting 16S rDNA sequences were manually aligned and compiled in one database. Several 16S rDNA sequences of other Enterobacteriaceae were taken from the GenBank and included in the database: <italic>Erwinia herbicola, E. coli, Citrobacter freundii, Erwinia carotovera, Serratia marcescens</italic>, and <italic>Proteus vulgaris</italic>. Sequences were also determined of <italic>Erwinia</italic> sp. gut bacteria from <italic>F. occidentalis</italic> that had been isolated in 1994 and kept in the -70&#x000b0;C freezer (see <xref ref-type="bibr" rid="bibr16">De Vries et al. 2001a</xref>, for a description of the bacteria isolation). These sequences were also included in the database. The aphid mycetome symbiont, <italic>Buchnera aphidicola,</italic> a non-Enterobacteriaceae species belonging to the gamma-Proteobacteriae, was used as the outgroup. The database was subjected to parsimony analysis using Paup 3.1.1 (<xref ref-type="bibr" rid="bibr38">Swofford 1990</xref>). Gaps were treated as missing data. A phylogram was created using the heuristic search option with 1000 fold bootstrapping. The 16S rDNA sequences from <italic>T. tabaci</italic> and <italic>F. occidentalis</italic> gut bacteria determined in this study were deposited in the GenBank database at accession numbers AY616165 to AY616181.</p></sec></sec><sec sec-type="" id="sec3"><title>Results</title><sec id="sec3a"><title>Morphological characteristics of gut bacteria from onion thrips</title><p>In 1995, adult thrips were collected from four <italic>T. tabaci</italic> populations and one <italic>F. occidentalis</italic> population (FO-AMC) and gut bacteria were isolated from them (<xref ref-type="table" rid="t02">Table 2</xref>). The populations had then been maintained in the laboratory for more than one year. The <italic>T. tabaci</italic> populations showed large individual variation in the presence of gut bacteria, ranging from no gut bacteria to many. <italic>F. occidentalis</italic> always had large numbers of bacteria per individual thrips in all populations that were tested (<xref ref-type="bibr" rid="bibr16">De Vries et al. 2001a</xref>). In the TT-JArr population, more than 50% of <italic>T. tabaci</italic> carried gut bacteria, whereas <italic>T. tabaci</italic> of the TT-NL1 and TT-Egy populations were usually without gut bacteria. One <italic>T. tabaci</italic> population, TT-JThe, could not be tested because the population was too small. The presence of gut bacteria in <italic>T. tabaci</italic> was independent of host plant and mode of reproduction, although the number of populations sampled was low.</p><table-wrap id="t02" position="float"><label>Table 2. </label><caption><p>Presence of gut bacteria in <italic>Thrips tabaci</italic> populations, measured in 1995 and 1998.</p></caption><graphic xlink:href="t02_01"/></table-wrap><p>Several different colony phenotypes were found in thrips from the TT-JArr <italic>T. tabaci</italic> population, but one type of colony was present in every positive thrips and its prevalence ranged from 48 to 59% of all the colonies (<xref ref-type="table" rid="t02">Table 2</xref>). A pure strain of bacteria with this particular colony phenotype was obtained and used as type strain for the gut bacteria in the TT-JArr <italic>T. tabaci</italic> population (TJA 95.VI.49). The <italic>F. occidentalis</italic> population showed the same pattern as had been consistently found previously in this thrips species: one dominant type of bacteria present in the majority of the adult insects (54%). The colonies, found in the <italic>F. occidentalis</italic> population, were phenotypically similar to the type strain of <italic>Erwinia</italic> species gut bacteria from this thrips species, TAC 93.XII.8 (<xref ref-type="bibr" rid="bibr16">De Vries et al. 2001a</xref>). One pure strain of the dominant bacterial type was obtained from gut bacteria isolated from <italic>F. occidentalis</italic> in this experiment, labelled as TAC 95.V.5, for comparison with TAC 93.XII.8. Interestingly, the dominant type of bacteria in <italic>T. tabaci</italic> population, TT-Jarr, also had the same morphological features as the <italic>Erwinia</italic> species gut bacterium TAC 93.XII.8 from <italic>F. occidentalis</italic>.</p><p>Three years later, bacteria were isolated again, but this time from second instar larvae, because they were expected to have the highest prevalence of bacteria (<xref ref-type="bibr" rid="bibr17">De Vries et al. 2001b</xref>). Indeed, five out of six populations of <italic>T. tabaci</italic> had a much higher prevalence of gut bacteria, ranging from 80% to 100% (<xref ref-type="table" rid="t02">Table 2</xref>). Only TT-GR3 had a low prevalence of 25%. The <italic>F. occidentalis</italic> population (FO-NL3) showed a high prevalence (86%) of gut bacteria, and the colonies were phenotypically similar to type strain TAC 93.XII.8. Again one dominant bacterial colony type was found in all or most individuals in each population of <italic>T. tabaci</italic>. In addition, various other phenotypes of colonies were found, but they were present in small numbers and not in all individuals. Again, the dominant phenotype had similar morphological characters, independent of the <italic>T. tabaci</italic> population, and resembled the <italic>F. occidentalis</italic> type strain TAC 93.XII.8 closely. To study the gut bacteria of <italic>T. tabaci</italic> in detail, pure bacterial strains were obtained from the dominant colony phenotype of each population. These strains were given names that reflected the name of the thrips population, the isolation date, and the thrips individual from which they had been isolated (<xref ref-type="table" rid="t02">Table 2</xref>). Additionally, a pure strain of bacteria was obtained from the gut bacteria of one of the larvae of the FO-NL3 <italic>F. occidentalis</italic> (strain TWV 98.VII.2).</p></sec><sec id="sec3b"><title>Biochemical identification</title><p>The biochemical identification of bacterial type strains was done using the API 20E system. This method was used earlier to typify the bacterial strains TAC 93.XII.8 and TAC 94.III.1 from the <italic>F. occidentalis</italic> population AMC as <italic>Erwinia</italic> species, possibly <italic>Pantoea agglomerans</italic>. The biochemical characteristics of both strains of <italic>F. occidentalis</italic> gut bacteria obtained in this experiment, TAC 95.V.5 and TWV 98.VII.2, were identical, and similar to the bacteria isolated before from this thrips species (<xref ref-type="table" rid="t03">Table 3</xref>). <italic>F. occidentalis</italic> gut bacteria were positive in beta-galactosidase, acetoin production, and the utilization of glucose, mannitol t, rhamnose, sucrose, amygdalin, and arabinose. They were negative for arginine dehydrolase, lysine dehydrolase, ornithine dehydrolase, citrate utilization, H2S production, urease, tryptophan deaminase, indole production, gelatinase, inositol utilization, sorbitol utilization, and cytochrome oxidase (code 1005373 in <xref ref-type="table" rid="t03">Table 3</xref>). The complete similarity between this and previous results (<xref ref-type="bibr" rid="bibr16">De Vries et al. 2001a</xref>) confirms that this bacterial strain is a persistent and dominant inhabitant of the gut of the <italic>F. occidentalis</italic>.</p><table-wrap id="t03" position="float"><label>Table 3. </label><caption><p>Biochemical pattern of type strains of gut bacteria from populations of <italic>T. tabaci</italic> and <italic>F. occidentalis.</italic>
+</p></caption><graphic xlink:href="t03_01"/></table-wrap><p>The bacterial type strains from four out of five <italic>T. tabaci</italic> populations were similar to each other and also belonged to the genus <italic>Erwinia</italic> (TT-JArr, TT-GR1, TT-NL1, and TT-NL2). They were tentatively named <italic>Pantoea agglomerans</italic>: their biochemical characteristics were the same as those of the <italic>F. occidentalis</italic> gut bacteria, except that <italic>T. tabaci</italic> bacteria were positive in citrate utilization and indole production, and negative in inositol utilisation (<xref ref-type="table" rid="t03">Table 3</xref>). The type strains of <italic>T. tabaci</italic> gut bacteria, TN1 98.VII.1, TN1 98.VII.3, TN2 98.VII.9, TJA 98.VII.6, TJA 95.VI.2, and TG1 98.VII.3 were all completely similar except that some were able to utilise sorbitol and others were not (the difference between code 1245573 and 1245173 in Table 4, respectively). The gut bacteria type strains obtained from <italic>T. tabaci</italic> of the TT-GR2 population were completely different. One type strain, TG2 98.VII.3, was identified as a <italic>Serratia marcescens</italic>, and the other strain, TG2 98.YII.9, was a <italic>Pseudomonas</italic> species (<xref ref-type="table" rid="t03">Table 3</xref>).</p></sec><sec id="sec3c"><title>DNA relatedness between thrips gut bacteria</title><p>The final 16s rDNA dataset consisted of 26 entries of at least 1430 bp positions. All thrips gut bacterial strains showed at least 93 per cent sequence similarity to <italic>E. coli</italic>, indicating that they were Enterobacteriaceae. The only exception was strain TG2 98.VII.9, that was more related to <italic>Pseudomonas</italic> species, which was already indicated by the above API 20E tests. This strain was left out of the database.</p><p>After parsimony analysis and bootstrapping, the shortest tree was selected (<xref ref-type="fig" rid="f01">Figure 1</xref>). The phylogenetic positioning of thrips gut bacteria within the Enterobacteriaceae and their close relationship to <italic>Erwinia herbicola,</italic> confirms the above biochemical API identification. Two clades were observed and both were supported by high bootstrap values. One clade, labelled FO, comprised all <italic>F. occidentalis</italic> bacterial type strains. Gut bacteria from <italic>F. occidentalis</italic> isolated in the present study were highly similar to gut bacteria isolated from this insect species in earlier studies and activated again from frozen stock cultures (<xref ref-type="bibr" rid="bibr16">De Vries et al. 2001a</xref>). The other clade, the TT clade, comprised only <italic>T. tabaci</italic> bacterial type strains. The sequence difference between these two clades ranged from 94 to 96% similarity. Sequence similarity within clade FO and clade TT was 97% or higher. Two exceptions were found in the phylogeny of <italic>T. tabaci</italic> gut bacteria: one type strain (TN2 98.VII.3 of the TT-NL2 population) was placed within the monophyletic FO clade (indicated with an asterisk in <xref ref-type="fig" rid="f01">Figure 1</xref>), and one type strain (TG2 98.VII.3 from population TT-GR2) clusters with a strain of <italic>Serratia marcescens</italic>, confirming the API 20E identification.</p><fig id="f01" fig-type="figure" position="float"><label>Figure 1. </label><caption><p>The consensus phylogenetic tree of the 16S rDNA gene of gut bacteria from populations of <italic>Frankliniella occidentalis, Thrips tabaci</italic>, and of several other species of Enterobacteriacea. The tree is based on at least 1430 bp per sequence and created using parsimony analysis. <italic>Buchnera aphidicola</italic> was used as outgroup. Bootstrap values over 1000 replicates are mentioned in front of the branches. The names of the type strains of gut bacteria are explained in <xref ref-type="table" rid="t02">Table 2</xref>. FO indicates the group of DNA sequences belonging to bacteria isolated from <italic>Frankliniella occidentalis</italic>, TT indicates the DNA samples isolated from bacteria found in <italic>Thrips tabaci</italic>. The DNA sequence labelled with an asterisk is the only sequence from a <italic>Thrips tabaci</italic> bacterium which was found in the FO group.</p></caption><graphic xlink:href="f01_01"/></fig></sec></sec><sec sec-type="" id="sec4"><title>Discussion</title><p>Associations of Thripidae insects with one particular strain of bacteria in their gut is a not a unique phenomenon. It was found earlier in <italic>F. occidentalis</italic> populations (<xref ref-type="bibr" rid="bibr16">De Vries et al. 2001a</xref>) and <italic>F. fusca</italic> (<xref ref-type="bibr" rid="bibr47">Wells et al. 2002</xref>). In this study the association of <italic>T. tabaci</italic> from different populations with gut bacteria is described. The thrips of these populations contain large amounts of bacteria in their gut, and one particular type of bacteria is dominant. Like <italic>F. occidentalis</italic> larvae, individual <italic>T. tabaci</italic> have up to 105 bacteria in second instar larvae and adults. Although experiments to isolate bacteria directly from the dissected gut have been done on <italic>F. occidentalis</italic>, but not on <italic>T. tabaci</italic>, the results obtained here strongly suggest that <italic>T. tabaci</italic> bacteria are also located in the thrips hindgut. Bacteria are probably taken up by young <italic>T. tabaci</italic>, settle in the hindgut and grow to high numbers while the insect host is feeding (see <xref ref-type="bibr" rid="bibr17">De Vries et al. 2001b</xref>). These results, combined with the study on <italic>F. fasca</italic> (<xref ref-type="bibr" rid="bibr47">Wells et al. 2002</xref>), suggest that gut bacteria may be widespread among <italic>Thrips</italic> and <italic>Frankliniella</italic> species.</p><p>Contrary to our previous study on <italic>F. occidentalis</italic>, different media were not used for bacterial growth from <italic>T. tabaci</italic>, nor has bacterial DNA, such as 16S rDNA, been directly obtained from a crude extract of <italic>T. tabaci</italic>. It is likely, therefore, that we do not have a full picture of <italic>T. tabaci</italic> microflora. It is possible that other opportunistic and facultative heterotrophic bacteria are present in <italic>T. tabaci</italic> that do not grow on the selected rich growth medium for bacteria (in this case LB medium). It is possible that unculturable, obligate symbiotic bacteria are present that are not able to grow outside the thrips gut. The previous study with <italic>F. occidentalis</italic>, confirmed that the type of bacterium dominantly present on bacterial growth medium after bacterial isolation from thrips was similar to the type of bacterium obtained with direct sequencing on crude DNA extract from thrips (<xref ref-type="bibr" rid="bibr17">De Vries et al. 2001b</xref>). Nault et al. (<xref ref-type="bibr" rid="bibr30">2006</xref>) tried to isolate <italic>Wolbachia</italic> bacteria from <italic>T. tabaci</italic> but did not find these endosymionts in this thrips species.</p><sec id="sec4a"><title>Prevalence of gut bacteria in <italic>T. tabaci</italic>
+</title><p>The number of <italic>T. tabaci</italic> infected with bacteria within one population (the prevalence of bacteria) was similar to <italic>F. occidentalis</italic>. About 50% of the adults are infected with bacteria, but among larvae the prevalence was higher, a pattern that was also observed in <italic>F. occidentalis</italic> (<xref ref-type="bibr" rid="bibr17">De Vries et al. 2001b</xref>). In contrast to <italic>F. occidentalis</italic>, prevalence in <italic>T. tabaci</italic> larvae never reached one hundred per cent. This could be due to life stage-dependent infection prevalence. In <italic>F. occidentalis</italic> the highest prevalence of bacteria was always found in second instar larvae of a certain age. In this study, random samples of <italic>T. tabaci</italic> and <italic>F. occidentalis</italic> second instar larvae from the mass culture were used. Possibly, the reduced prevalence in both the FO and TT populations is due to the inclusion of younger thrips larvae.</p></sec><sec id="sec4b"><title>Variation in gut bacteria within a single thrips</title><p>Another difference between <italic>T. tabaci</italic> and <italic>F. occidentalis</italic> was the variation of gut bacteria in individual <italic>T. tabaci</italic>. There appeared to be variation in bacterial strains even in later stages of the <italic>T. tabaci</italic> life cycle, namely second instar larvae and adults. In <italic>F. occidentalis</italic> it was found that a variable gut microflora only occurs in first instar larvae. After this life stage the <italic>Erwinia</italic> species gut bacteria became dominant and also the only type of bacteria present in <italic>F. occidentalis</italic> (<xref ref-type="bibr" rid="bibr17">De Vries et al., 2001b</xref>). This was only found in the <italic>T. tabaci</italic> population TT-NL1. Unfortunately, it was not possible to repeat bacteria isolation experiments for all <italic>T. tabaci</italic> populations, because some of them were not maintained for three years in the laboratory, so it is not possible to compare data from different generations of thrips. Comparison was possible for some populations of <italic>T. tabaci</italic> such as TT-JArr, and it was found that the presence of bacteria is stable over many generations, as it was in <italic>F. occidentalis</italic>. In general it is important to study insects for a several generations before one can be certain about the exact nature of their symbiotic association with gut bacteria (<xref ref-type="bibr" rid="bibr16">De Vries et al. 2001a</xref>).</p></sec><sec id="sec4c"><title>
+<italic>Erwinia</italic> species gut bacteria</title><p>All <italic>F. occidentalis</italic> populations, and most <italic>T. tabaci</italic> populations studied, possess gut bacteria belonging to the genus <italic>Erwinia</italic>. The tentative species name of all bacterial type strains is <italic>P. agglomerans</italic>, which is based on biochemical identification (API 20E). The close relatedness of strains of bacteria from various <italic>F. occidentalis</italic> populations is confirmed by the 16S rDNA study (<xref ref-type="fig" rid="f01">Figure 1</xref>). Despite the limited amount of 16S rDNA sequence differences between <italic>F. occidentalis</italic> and <italic>T. tabaci</italic> gut bacteria, a pattern seems to emerge that shows separation of FO and TT bacteria in two different clades. The <italic>P. agglomerans</italic> strains from nearly all <italic>T. tabaci</italic> populations cluster together in the TT clade, and all <italic>P. agglomerans</italic> strains from <italic>F. occidentalis</italic> cluster together in the FO clade.</p><p>In the past, the species names <italic>Erwinia herbicola</italic> and <italic>P. agglomerans</italic> have been used interchangeably (<xref ref-type="bibr" rid="bibr33">Mergaert et al. 1984</xref>). Our 16S rDNA study suggests that the types of <italic>P. agglomerans</italic> in the FO clade and in the TT clade are genetically more different (at most 96% similarity), but less different among each other (at least 97 % similarity). Only one clade (the TT clade) of <italic>P. agglomerans</italic> is related to the type strain of <italic>E. herbicola</italic> from the GenBank. <italic>E. herbicola</italic> bacteria have been found in other insect species. In their studies, <xref ref-type="bibr" rid="bibr39">Takahashi et al. 1995</xref> and Watanabe <italic>et al</italic>. 1996 showed that this bacterial species is present in brown planthoppers, mulberry pyralids, and silkworms, and originate from their host plants. Other researchers have described associations of insect species and <italic>Enterobacter agglomerans</italic> (in <italic>Psila</italic>, <xref ref-type="bibr" rid="bibr13">Cole et al., 1990</xref>; locusts, <xref ref-type="bibr" rid="bibr21">Dillon et al. 2000</xref>; and <xref ref-type="bibr" rid="bibr32">Mead et al., 1988</xref>; fruit flies, <xref ref-type="bibr" rid="bibr31">MacCollem <italic>et al</italic>. 1992</xref>; bark beetles, <xref ref-type="bibr" rid="bibr07">Bridges 1981</xref>; termites, <xref ref-type="bibr" rid="bibr35">Potrikus and Breznak 1977</xref>; mosquitoes, <xref ref-type="bibr" rid="bibr37">Straif et al., 1998</xref>). <italic>Enterobacter agglomerans</italic> was renamed to <italic>P. agglomerans</italic> (<xref ref-type="bibr" rid="bibr25">Gavini et al. 1989</xref>). DNA sequence comparison is necessary to make any statement on the relatedness between gut bacteria from any of these insect species and from thrips.</p></sec><sec id="sec4d"><title>Bacteria not present in all onion thrips populations</title><p>Three out of eight <italic>T. tabaci</italic> populations had no internal bacteria or too few individuals with enough bacteria to yield a type strain of gut bacteria. One population had gut bacteria but they were quite diverse and unrelated. This result is in contrast to the observation that all <italic>F. occidentalis</italic> populations have gut bacteria. We have studied many populations of <italic>F. occidentalis</italic> (De Vries, unpublished results). Perhaps it is possible to classify <italic>T. tabaci</italic> populations as different biotypes depending on the presence or absence of gut bacteria. Diehl and Bush (<xref ref-type="bibr" rid="bibr19">1984</xref>) defined insect biotypes as populations of a polyphagous insect species that are related to different host plants. But the biotype concept is in principle applicable to all sorts of important insect attributions. For example, in other studies <italic>F. occidentalis</italic> biotypes were described regarding insecticide resistance (<xref ref-type="bibr" rid="bibr43">Br&#x000f8;dsgaard 1994</xref>; <xref ref-type="bibr" rid="bibr28">Immaraju et al. 1992</xref>). <italic>F. occidentalis</italic> biotypes based on host plant utilisation were never found. <italic>F. occidentalis</italic> was only recently introduced to Europe, Asia and Africa (<xref ref-type="bibr" rid="bibr43">Br&#x000f8;dsgaard 1994</xref>), and the thrips has a very broad host range (<xref ref-type="bibr" rid="bibr49">Yudin et al. 1986</xref>). In contrast, <italic>T. tabaci</italic> are endemic in most European countries. This would have given <italic>T. tabaci</italic> more time to develop host plant biotypes. Interestingly, the populations of <italic>T. tabaci</italic> cultured on leek were all without a type strain of gut bacteria, whereas the <italic>T. tabaci</italic> in which gut bacteria were found were cultured on bean pods. The possibility of a host plant effect in the transmission of gut bacteria should be taken into account. We have never found any host plant effect in bacteria transmission by <italic>F. occidentalis</italic>, but leek or any other member of the family Liliaceae was not included in these studies (<xref ref-type="bibr" rid="bibr17">De Vries et al. 2001b</xref>).</p></sec><sec id="sec4e"><title>Thrips-gut bacteria interaction</title><p>The presence of gut bacteria inside <italic>T. tabaci</italic> leads to the question what kind of interaction may take place between symbiont and host. The interaction between gut bacteria and <italic>F. occidentalis</italic> can be mutualistic depending on the thrips diet (<xref ref-type="bibr" rid="bibr18">De Vries et al., 2004</xref>). It was found that thrips with gut bacteria have a shorter larval development time and higher daily egg production when living on leaf discs, but on a diet of leaf discs and pollen this mutualistic effect of the presence of bacteria was not found. However, this cannot be directly extended to the <italic>T. tabaci</italic> &#x02014; gut bacteria interaction, because <italic>T. tabaci</italic> have other diets, and other types of bacteria. For example, <italic>T. tabaci</italic> does not have a preference for pollen as is found in <italic>F. occidentalis</italic> (<xref ref-type="bibr" rid="bibr44">Van Rijn et al. 1995</xref>). In addition, much more variation in number and type of gut bacteria was found in <italic>T. tabaci</italic> compared to the <italic>F. occidentalis</italic>. Perhaps the presence of bacteria in <italic>T. tabaci</italic> is more commensalistic, where bacteria require the insects to spread to new host plants. This type of interaction was assumed for the planthoppers (Watanabe <italic>et al.</italic> 1996), and for <italic>F. fusca</italic> (<xref ref-type="bibr" rid="bibr26">Gitaitis et al. 2003</xref>).</p><p>Interestingly, <xref ref-type="bibr" rid="bibr48">Wijkamp et al. 1995</xref> studied various populations of <italic>F. occidentalis</italic> and <italic>T. tabaci</italic> and found that there is also a large variation in the <italic>T. tabaci</italic> ability to transmit plant viruses. All <italic>F. occidentalis</italic> populations reliably transmit virus, although variation exists in transmission efficiency. Only one <italic>T. tabaci</italic> population, TT-JArr, successfully transmitted tomato spotted wilt virus, and other populations, TT-JThe, TT-Egy, and TT-NL1 did not. Of these populations, TT-JArr and TT-NL1 contain gut bacteria and TT-Egy does not. It is presently too speculative to hypothesize on the influence of gut bacteria on virus transmission by <italic>T. tabaci.</italic>
+</p></sec></sec></body><back><ack><title>Acknowledgements</title><p>The authors wish to thank Ineke Wijkamp, Fennet van de Wetering, and Marieke van der Hoek for rearing cultures of <italic>T. tabaci</italic>. The Department of Virology of the Wageningen Agricultural University provided laboratory facilities for bacteria isolation experiments. The authors wish to thank Bert Vierbergen from the Dutch Plant Protection Service for species identification of thrips. Maurice Sabelis and Steph Menken gave valuable comments on earlier versions of the manuscript. GJ and EJdeV were supported by a grant from the Technology foundation of the Netherlands Organisation for Scientific research, grant STW 22.2704 and JAJB was supported by the Royal Academy for Arts and Sciences.</p></ack><ref-list content-type="parsed"><title>References</title><ref id="bibr01"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Baumann</surname><given-names>P</given-names></name><name><surname>Baumann</surname><given-names>L</given-names></name><name><surname>Lai</surname><given-names>C-Y</given-names></name><name><surname>Rouhbakhsh</surname><given-names>D</given-names></name><name><surname>Moran</surname><given-names>NA</given-names></name><name><surname>Clark</surname><given-names>MA</given-names></name></person-group>
+<year>1995</year>
+
+<article-title>Genetics, physiology, and evolutionary relationships of the genus <italic>Buchnera</italic>: intracellular symbionts of aphids.
+</article-title>
+
+<source><italic>Annual Review of Microbiology</italic></source>
+
+<volume>49</volume>
+
+<fpage>55</fpage>
+
+<lpage>94</lpage>
+
+</element-citation></ref><ref id="bibr02"><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Bignell</surname><given-names>DE</given-names></name><name><surname>Anderson</surname><given-names>JM</given-names></name><name><surname>Rayner</surname><given-names>ADM</given-names></name><name><surname>Walton</surname><given-names>DWH</given-names></name></person-group>
+<year>1984</year>
+<source>The arthropod gut as an environment for microorganisms.</source>
+<publisher-name><italic>Invertebrate-Microbial Interactions</italic>205&#x02013;227<italic>.</italic> Cambridge University PressUK</publisher-name>
+</element-citation></ref><ref id="bibr03"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Boucher</surname><given-names>DH</given-names></name><name><surname>James</surname><given-names>S</given-names></name><name><surname>Keeler</surname><given-names>KH</given-names></name></person-group>
+<year>1982</year>
+
+<article-title>The ecology of mutualism.</article-title>
+
+<source><italic>Annual Review of Ecology and Systematics</italic></source>
+
+<volume>13</volume>
+
+<fpage>315</fpage>
+
+<lpage>347</lpage>
+
+</element-citation></ref><ref id="bibr04"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bournier</surname><given-names>A</given-names></name></person-group>
+<year>1961</year>
+
+<article-title>Sur l'existence et l'&#x000e9;volution d'un myc&#x000e9;tome au cours de l'embryogen&#x000e8;se de <italic>Caudothrips buffai</italic> Karny.</article-title>
+
+<source><italic>Verhaltnissen des XI Internationalen Kongress uberEntomologie</italic></source>
+
+<volume>1</volume>
+
+<fpage>352</fpage>
+
+<lpage>354</lpage>
+
+</element-citation></ref><ref id="bibr05"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Breeuwer</surname><given-names>JAJ</given-names></name></person-group>
+<year>1997</year>
+
+<article-title>
+<italic>Wolbachia</italic> and cytoplasmic incompatibility in the spider mites <italic>Tetranychus urticae</italic> and <italic>
+T. turkestani</italic>.</article-title>
+
+<source><italic>Heredity</italic></source>
+
+<volume>79</volume>
+
+<fpage>41</fpage>
+
+<lpage>47</lpage>
+
+</element-citation></ref><ref id="bibr06"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Breznak</surname><given-names>JA</given-names></name></person-group>
+<year>1982</year>
+
+<article-title>Intestinal microbiota of termites and other xylophagous insects.</article-title>
+
+<source><italic>Annual Review of Microbiology</italic></source>
+
+<volume>36</volume>
+
+<fpage>323</fpage>
+
+<lpage>343</lpage>
+
+</element-citation></ref><ref id="bibr07"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bridges</surname><given-names>JR</given-names></name></person-group>
+<year>1981</year>
+
+<article-title>Nitrogen-fixing bacteria associated with bark beetles.</article-title>
+
+<source><italic>Microbial Ecology</italic></source>
+
+<volume>7</volume>
+
+<fpage>131</fpage>
+
+<lpage>137</lpage>
+
+</element-citation></ref><ref id="bibr08"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Br&#x000f8;dsgaard</surname><given-names>HF</given-names></name></person-group>
+<year>1994</year>
+
+<article-title>
+Insecticide resistance in European and African strains of <italic>F. occidentalis</italic> (Thysanoptera: Thripidae) tested in a new residue-on-glass test.
+</article-title>
+
+<source><italic>Journal for Economic Entomology</italic></source>
+
+<volume>87</volume>
+
+<fpage>1141</fpage>
+
+<lpage>1146</lpage>
+
+</element-citation></ref><ref id="bibr09"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bronstein</surname><given-names>JL</given-names></name></person-group>
+<year>1994</year>
+
+<article-title>Conditional outcomes of mutualistic interactions.</article-title>
+
+<source><italic>Trends in Ecology and Evolution</italic></source>
+
+<volume>9</volume>
+
+<fpage>214</fpage>
+
+<lpage>217</lpage>
+
+<pub-id pub-id-type="pmid">21236825</pub-id></element-citation></ref><ref id="bibr10"><element-citation publication-type="other">
+<person-group person-group-type="author"><name><surname>Buchner</surname><given-names>P</given-names></name></person-group>
+<year>1965</year>
+<source><italic>Endosymbiosis of Animals with Plant Microorganisms</italic>907 John Wiley and sons</source>
+</element-citation></ref><ref id="bibr11"><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Campbell</surname><given-names>BC</given-names></name><name><surname>Bernays</surname><given-names>EA</given-names></name></person-group>
+<year>1990</year>
+<article-title>On the role of microbial symbiotes in herbivorous Insects.</article-title>
+<source><italic>Insect-Plant Interactions</italic></source>
+<fpage>1</fpage>
+<lpage>45</lpage>
+<publisher-name>Boca RatonCRC press</publisher-name>
+</element-citation></ref><ref id="bibr12"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chatzivassiliou</surname><given-names>EK</given-names></name><name><surname>Nagata</surname><given-names>T</given-names></name><name><surname>Katis</surname><given-names>NJ</given-names></name><name><surname>Peters</surname><given-names>D</given-names></name></person-group>
+<year>1999</year>
+
+<article-title>Transmission of tomato spotted wilt virus by <italic>Thrips tabaci</italic> populations originating from leek.</article-title>
+
+<source><italic>Plant Pathology</italic></source>
+
+<volume>48</volume>
+
+<fpage>700</fpage>
+
+<lpage>706</lpage>
+
+</element-citation></ref><ref id="bibr13"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cole</surname><given-names>RA</given-names></name><name><surname>Rollason</surname><given-names>SA</given-names></name><name><surname>Hardman</surname><given-names>JA</given-names></name><name><surname>Ellis</surname><given-names>PR</given-names></name></person-group>
+<year>1990</year>
+<article-title>The incidence of seed-borne bacteria in carrots and their association with the damage caused by the larvae of the carrot fly (<italic>Psila rosa</italic>).</article-title>
+<source><italic>Brighton crop protection conference - pest and diseases</italic></source>
+<fpage>343</fpage>
+<lpage>347</lpage>
+</element-citation></ref><ref id="bibr14"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cruden</surname><given-names>DL</given-names></name><name><surname>Markovetz</surname><given-names>AJ</given-names></name></person-group>
+<year>1987</year>
+
+<article-title>Microbial ecology of the cockroach gut.</article-title>
+
+<source><italic>Annual Review of Microbiology</italic></source>
+
+<volume>41</volume>
+
+<fpage>617</fpage>
+
+<lpage>643</lpage>
+
+</element-citation></ref><ref id="bibr15"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>De Vries</surname><given-names>EJ</given-names></name><name><surname>Jacobs</surname><given-names>G</given-names></name><name><surname>Breeuwer</surname><given-names>JAJ</given-names></name></person-group>
+<year>1995</year>
+
+<article-title>Symbiotic bacteria of the <italic>F. occidentalis, Frankliniella occidentalis</italic>.</article-title>
+
+<source><italic>Proceedings of Experimental and Applied Entomology NEV
+</italic></source>
+
+<volume>6</volume>
+
+<fpage>87</fpage>
+
+<lpage>92</lpage>
+
+</element-citation></ref><ref id="bibr16"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>De Vries</surname><given-names>EJ</given-names></name><name><surname>Jacobs</surname><given-names>G</given-names></name><name><surname>Breeuwer</surname><given-names>JAJ</given-names></name><name><surname>Mollema</surname><given-names>C</given-names></name></person-group>
+<year>2001a</year>
+
+<article-title>The association of <italic>F. occidentalis, Frankliniella occidentalis</italic>, with <italic>Erwinia</italic> species gut bacteria: transient or permanent?.</article-title>
+
+<source><italic>Journal of Invertebrate Pathology</italic></source>
+
+<volume>77</volume>
+
+<fpage>120</fpage>
+
+<lpage>128</lpage>
+
+<pub-id pub-id-type="pmid">11273692</pub-id></element-citation></ref><ref id="bibr17"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>De Vries</surname><given-names>EJ</given-names></name><name><surname>Jacobs</surname><given-names>G</given-names></name><name><surname>Breeuwer</surname><given-names>JAJ</given-names></name></person-group>
+<year>2000b</year>
+
+<article-title>Transmission and growth of gut bacteria in the <italic>F. occidentalis, Frankliniella occidentalis</italic>.</article-title>
+
+<source><italic>Journal of Invertebrate Pathology
+</italic></source>
+
+<volume>77</volume>
+
+<fpage>129</fpage>
+
+<lpage>136</lpage>
+
+<pub-id pub-id-type="pmid">11273693</pub-id></element-citation></ref><ref id="bibr18"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>De Vries</surname><given-names>EJ</given-names></name><name><surname>Jacobs</surname><given-names>G</given-names></name><name><surname>Breeuwer</surname><given-names>JAJ</given-names></name></person-group>
+<year>2004</year>
+
+<article-title>Diet dependent fitness effects of gut bacteria on their host: the symbiosis of <italic>Erwinia</italic> spec and <italic>F. occidentalis</italic>.</article-title>
+
+<source><italic>Proceedings of the Royal Society London series B</italic></source>
+
+<volume>271</volume>
+
+<fpage>2171</fpage>
+
+<lpage>2178</lpage>
+
+</element-citation></ref><ref id="bibr19"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Diehl</surname><given-names>SR</given-names></name><name><surname>Bush</surname><given-names>GL</given-names></name></person-group>
+<year>1984</year>
+
+<article-title>An evolutionary and applied perspective of insect biotypes.</article-title>
+
+<source><italic>Annual Review of Entomology</italic></source>
+
+<volume>29</volume>
+
+<fpage>471</fpage>
+
+<lpage>504</lpage>
+
+</element-citation></ref><ref id="bibr20"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dillon</surname><given-names>RJ</given-names></name><name><surname>Dillon</surname><given-names>VM</given-names></name></person-group>
+<year>2004</year>
+
+<article-title>The gut bacteria of insects: nonpathogenic interactions.</article-title>
+
+<source><italic>Annual Review of Entomology</italic></source>
+
+<volume>49</volume>
+
+<fpage>71</fpage>
+
+<lpage>92</lpage>
+
+</element-citation></ref><ref id="bibr21"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dillon</surname><given-names>RJ</given-names></name><name><surname>Vennart</surname><given-names>CJ</given-names></name><name><surname>Charnley</surname><given-names>AK</given-names></name></person-group>
+<year>2000</year>
+
+<article-title>Exploitation of gut bacteria in the locust.</article-title>
+
+<source><italic>Nature</italic></source>
+
+<volume>403</volume>
+
+<fpage>851</fpage>
+<pub-id pub-id-type="pmid">10706273</pub-id></element-citation></ref><ref id="bibr22"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Douglas</surname><given-names>AE</given-names></name></person-group>
+<year>1989</year>
+
+<article-title>Mycetocyte symbiosis in insects.</article-title>
+
+<source><italic>Biological Review</italic></source>
+
+<volume>64</volume>
+
+<fpage>409</fpage>
+
+<lpage>434</lpage>
+
+</element-citation></ref><ref id="bibr23"><element-citation publication-type="other">
+<person-group person-group-type="author"><name><surname>Douglas</surname><given-names>AE</given-names></name></person-group>
+<year>1991</year>
+<article-title>
+<italic>Symbiotic Interactions</italic>121 CambridgeBlackwell Science</article-title>
+</element-citation></ref><ref id="bibr24"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Franssen</surname><given-names>CJH</given-names></name><name><surname>Mantel</surname><given-names>WP</given-names></name></person-group>
+<year>1962</year>
+
+<article-title>Lijst van in Nederland aangetroffen Thysanoptera met beknopte aantekeningen over hun levenswijze en hun betekenis voor onze cultuurgewassen.</article-title>
+
+<source><italic>Tijdschrift voor Entomologie</italic></source>
+
+<volume>105</volume>
+
+<fpage>97</fpage>
+
+<lpage>133</lpage>
+
+</element-citation></ref><ref id="bibr25"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gavini</surname><given-names>Fr</given-names></name><name><surname>Mergaert</surname><given-names>J</given-names></name><name><surname>Beji</surname><given-names>A</given-names></name><name><surname>Mielcarek</surname><given-names>Chr</given-names></name><name><surname>Izard</surname><given-names>D</given-names></name><name><surname>Kersters</surname><given-names>K</given-names></name><name><surname>De Ley</surname><given-names>J</given-names></name></person-group>
+<year>1989</year>
+
+<article-title>Transfer of <italic>Enterobacter agglomerans</italic> (Beijerinck 1888) Ewing and Fife 1972 to <italic>Pantoea</italic> gen. nov. as <italic>Pantoea agglomerans</italic> comb. nov. and description of <italic>Pantoea dispersa</italic> sp. nov.</article-title>
+
+<source><italic>International Journal for Systematic Bacteriology</italic></source>
+
+<volume>39</volume>
+
+<fpage>337</fpage>
+
+<lpage>345</lpage>
+
+</element-citation></ref><ref id="bibr26"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gitaitis</surname><given-names>RD</given-names></name><name><surname>Walcott</surname><given-names>RR</given-names></name><name><surname>Wells</surname><given-names>ML</given-names></name><name><surname>Perez</surname><given-names>JCD</given-names></name><name><surname>Sanders</surname><given-names>FH</given-names></name></person-group>
+<year>2003</year>
+
+<article-title>Transmission of <italic>Pantoea ananatis</italic>, the causal agent of center rot of onion, by tobacco thrips, <italic>Frankliniella fusca</italic>.</article-title>
+
+<source><italic>Plant Disease</italic></source>
+
+<volume>87</volume>
+
+<fpage>6675</fpage>
+
+<lpage>678</lpage>
+
+</element-citation></ref><ref id="bibr27"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Houk</surname><given-names>EJ</given-names></name><name><surname>Griffiths</surname><given-names>GW</given-names></name></person-group>
+<year>1980</year>
+
+<article-title>Intracellular symbiotes of the Homoptera.</article-title>
+
+<source><italic>Annual Review of Entomology</italic></source>
+
+<volume>25</volume>
+
+<fpage>161</fpage>
+
+<lpage>187</lpage>
+
+</element-citation></ref><ref id="bibr28"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Immaraju</surname><given-names>JA</given-names></name><name><surname>Paine</surname><given-names>TD</given-names></name><name><surname>Bethke</surname><given-names>JA</given-names></name><name><surname>Robb</surname><given-names>KL</given-names></name><name><surname>Newman</surname><given-names>JP</given-names></name></person-group>
+<year>1992</year>
+
+<article-title>
+<italic>F. occidentalis</italic> (Thysanoptera: Thripidae) resistance to insecticides in coastal California greenhouses.</article-title>
+
+<source><italic>Journal of Economic Entomology</italic></source>
+
+<volume>85</volume>
+
+<fpage>9</fpage>
+
+<lpage>14</lpage>
+
+</element-citation></ref><ref id="bibr29"><element-citation publication-type="book">
+<person-group person-group-type="auhtor"><name><surname>Lane</surname><given-names>DJ</given-names></name><name><surname>Stackebrandt</surname><given-names>E</given-names></name><name><surname>Goodfellow</surname><given-names>M</given-names></name></person-group>
+<year>1991</year>
+<article-title>168/23S rDNA sequencing. <italic>Sequencing and Hybridization Techniques in Bacterial Systematics</italic>
+230&#x02013;270.</article-title>
+<publisher-name>John Wiley and Sons</publisher-name>
+</element-citation></ref><ref id="bibr30"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nault</surname><given-names>BA</given-names></name><name><surname>Shelton</surname><given-names>AM</given-names></name><name><surname>Gangloff-Kaufmann</surname><given-names>JL</given-names></name><name><surname>Clark</surname><given-names>ME</given-names></name><name><surname>Werren</surname><given-names>JH</given-names></name><name><surname>Cabrera-La</surname><given-names>Rosa JC</given-names></name><name><surname>Kennedy</surname><given-names>GG</given-names></name></person-group>
+<year>2006</year>
+
+<article-title>Reproductive modes in <italic>T. tabaci</italic> (Thysanoptera: Thripidae) populations from New York onion fields.</article-title>
+
+<source><italic>Environmental Entomology</italic></source>
+
+<volume>35</volume>
+
+<fpage>51663</fpage>
+
+<lpage>1271</lpage>
+
+</element-citation></ref><ref id="bibr31"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>MacCollom</surname><given-names>GB</given-names></name><name><surname>Lauzon</surname><given-names>CR</given-names></name><name><surname>Weires</surname><given-names>RW</given-names></name><name><surname>Rutkowski</surname><given-names>AA</given-names></name></person-group>
+<year>1992</year>
+
+<article-title>Attraction of adult apple maggot (Diptera: Tephritidae) to microbial isolates.</article-title>
+
+<source><italic>Journal of Economic Entomology</italic></source>
+
+<volume>85</volume>
+
+<fpage>83</fpage>
+
+<lpage>87</lpage>
+
+</element-citation></ref><ref id="bibr32"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mead</surname><given-names>LJ</given-names></name><name><surname>Khachatourians</surname><given-names>GG</given-names></name><name><surname>Jones</surname><given-names>GA</given-names></name></person-group>
+<year>1988</year>
+
+<article-title>Microbial ecology of the gut in laboratory stocks of the migratory grasshopper, <italic>Melanoplus sanguinipes</italic>
+ (Fab.) (Orthoptera: Acrididae).</article-title>
+
+<source><italic>Applied and Environmental Microbiology</italic></source>
+
+<volume>54</volume>
+
+<fpage>1174</fpage>
+
+<lpage>1181</lpage>
+
+<pub-id pub-id-type="pmid">16347630</pub-id></element-citation></ref><ref id="bibr33"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mergaert</surname><given-names>J</given-names></name><name><surname>Verdonck</surname><given-names>L</given-names></name><name><surname>Kesters</surname><given-names>K</given-names></name><name><surname>Swings</surname><given-names>J</given-names></name><name><surname>Boeufgras</surname><given-names>J-M</given-names></name><name><surname>De Ley</surname><given-names>J</given-names></name></person-group>
+<year>1984</year>
+
+<article-title>Numerical taxonomy of <italic>Erwinia</italic> species using API systems.</article-title>
+
+<source><italic>Journal of General Microbiology</italic></source>
+
+<volume>130</volume>
+
+<fpage>1893</fpage>
+
+<lpage>1910</lpage>
+
+</element-citation></ref><ref id="bibr34"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Murai</surname><given-names>T</given-names></name></person-group>
+<year>1990</year>
+
+<article-title>Parthenogenic reproduction in <italic>Thrips tabaci</italic> and <italic>Frankliniella intonsa</italic> (Insecta: Thysanoptera).</article-title>
+
+<source><italic>Advances in Invertebrate Reproduction</italic></source>
+
+<volume>5</volume>
+
+<fpage>357</fpage>
+
+<lpage>362</lpage>
+
+</element-citation></ref><ref id="bibr35"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Potrikus</surname><given-names>CJ</given-names></name><name><surname>Breznak</surname><given-names>JA</given-names></name></person-group>
+<year>1977</year>
+
+<article-title>Nitrogen-fixing <italic>Enterobacter agglomerans</italic> isolated from guts of wood-eating termites.</article-title>
+
+<source><italic>Applied and Environmental Microbiology</italic></source>
+
+<volume>33</volume>
+
+<fpage>392</fpage>
+
+<lpage>399</lpage>
+
+<pub-id pub-id-type="pmid">848958</pub-id></element-citation></ref><ref id="bibr36"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stouthamer</surname><given-names>R</given-names></name><name><surname>Breeuwer</surname><given-names>JAJ</given-names></name><name><surname>Hurst</surname><given-names>GDD</given-names></name></person-group>
+<year>1999</year>
+
+<article-title>
+<italic>Wolbachia pipientis</italic>: microbial manipulator of arthropod reproduction.</article-title>
+
+<source><italic>Annual Review of Microbiology</italic></source>
+
+<volume>53</volume>
+
+<fpage>71</fpage>
+
+<lpage>102</lpage>
+
+</element-citation></ref><ref id="bibr37"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Straif</surname><given-names>SC</given-names></name><name><surname>Mbogo</surname><given-names>ChNM</given-names></name><name><surname>Tour&#x000e9;</surname><given-names>AM</given-names></name><name><surname>Walker</surname><given-names>EdD</given-names></name><name><surname>Kaufman</surname><given-names>M</given-names></name><name><surname>Tour&#x000e9;</surname><given-names>YT</given-names></name><name><surname>Beier</surname><given-names>JC</given-names></name></person-group>
+<year>1998</year>
+
+<article-title>Midgut bacteria in <italic>Anopheles gambiae</italic> and <italic>An. Funestus</italic> (Diptera: Curculionidae) from Kenya and Mali.</article-title>
+
+<source><italic>Journal of Medical Entomology</italic></source>
+
+<volume>35</volume>
+
+<fpage>222</fpage>
+
+<lpage>226</lpage>
+
+<pub-id pub-id-type="pmid">9615538</pub-id></element-citation></ref><ref id="bibr38"><element-citation publication-type="other">
+<person-group person-group-type="author"><name><surname>Swofford</surname><given-names>D</given-names></name></person-group>
+<year>1990</year>
+<article-title>
+<italic>PAUP 3.1.1</italic> Illinois Natural History Survey</article-title>
+</element-citation></ref><ref id="bibr39"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Takahashi</surname><given-names>K</given-names></name><name><surname>Watanabe</surname><given-names>K</given-names></name><name><surname>Sato</surname><given-names>M</given-names></name></person-group>
+<year>1995</year>
+
+<article-title>Survival and characteristics of ice nucleation-active bacteria on mulberry trees (<italic>Morus sp.</italic>) and in Mulberry pyralid (
+<italic>Glyphodes pyloalis</italic>).</article-title>
+
+<source><italic>Annals of the Phytopathological Society of Japan</italic></source>
+
+<volume>61</volume>
+
+<fpage>439</fpage>
+
+<lpage>443</lpage>
+
+</element-citation></ref><ref id="bibr40"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Theunissen</surname><given-names>J</given-names></name><name><surname>Legutoska</surname><given-names>H</given-names></name></person-group>
+<year>1991</year>
+
+<article-title>
+<italic>Thrips tabaci</italic> Lindeman (Thysanoptera, Thripida) in leek: within plant distribution.</article-title>
+
+<source><italic>Journal of Applied Entomology</italic></source>
+
+<volume>112</volume>
+
+<fpage>309</fpage>
+
+<lpage>316</lpage>
+
+</element-citation></ref><ref id="bibr41"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ullman</surname><given-names>DE</given-names></name><name><surname>Westcot</surname><given-names>DM</given-names></name><name><surname>Hunter</surname><given-names>WB</given-names></name><name><surname>Mau</surname><given-names>RFL</given-names></name></person-group>
+<year>1989</year>
+
+<article-title>Internal anatomy and morphology of <italic>Frankliniella occidentalis</italic> (Pergande) (Thysanoptera: Thripidae) with special reference to interactions between thrips and tomato spotted wilt virus.</article-title>
+
+<source><italic>International Journal of Insect Morphology and Embryology</italic></source>
+
+<volume>18</volume>
+
+<fpage>289</fpage>
+
+<lpage>310</lpage>
+
+</element-citation></ref><ref id="bibr42"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vala</surname><given-names>F</given-names></name><name><surname>Van Opijnen</surname><given-names>T</given-names></name><name><surname>Breeuwer</surname><given-names>JAJ</given-names></name><name><surname>Sabelis</surname><given-names>MW</given-names></name></person-group>
+<year>2003</year>
+
+<article-title>Genetic conflicts over sex ratio: mite-endosymbiont interactions.</article-title>
+
+<source><italic>American Naturalist</italic></source>
+
+<volume>161</volume>
+
+<fpage>254</fpage>
+
+<lpage>266</lpage>
+
+</element-citation></ref><ref id="bibr43"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Van Dijken</surname><given-names>FR</given-names></name><name><surname>Dik</surname><given-names>MTA</given-names></name><name><surname>Gebala</surname><given-names>B</given-names></name><name><surname>De Jong</surname><given-names>J</given-names></name><name><surname>Mollema</surname><given-names>C</given-names></name></person-group>
+<year>1994</year>
+
+<article-title>
+<italic>F. occidentalis</italic> (Thysanoptera: Thripidae) effects on chrysanthemum cultivars: plant growth and leaf scarring in non-flowering plants.</article-title>
+
+<source><italic>Journal for Economic Entomology</italic></source>
+
+<volume>87</volume>
+
+<fpage>1312</fpage>
+
+<lpage>1317</lpage>
+
+</element-citation></ref><ref id="bibr44"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Van Rijn</surname><given-names>PCJ</given-names></name><name><surname>Mollema</surname><given-names>Chr</given-names></name><name><surname>Steenhuis-Broers</surname><given-names>GM</given-names></name></person-group>
+<year>1995</year>
+
+<article-title>Comparative life-history studies of <italic>Frankliniella occidentalis</italic> and <italic>Thrips tabaci</italic> (Thysanoptera: Thripidae) on cucumber.</article-title>
+
+<source><italic>Bulletin of Entomological Research</italic></source>
+
+<volume>85</volume>
+
+<fpage>285</fpage>
+
+<lpage>297</lpage>
+
+</element-citation></ref><ref id="bibr45"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Walsh</surname><given-names>PS</given-names></name><name><surname>Metzger</surname><given-names>DA</given-names></name><name><surname>Higuchi</surname><given-names>R</given-names></name></person-group>
+<year>1991</year>
+
+<article-title>Chelex 100 as a medium for simple extraction of DNA for PCR-based typing from forensic material.</article-title>
+
+<source><italic>Biotechniques</italic></source>
+
+<volume>10</volume>
+
+<fpage>506</fpage>
+
+<lpage>513</lpage>
+
+<pub-id pub-id-type="pmid">1867860</pub-id></element-citation></ref><ref id="bibr46"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Watanabe</surname><given-names>K</given-names></name><name><surname>Hara</surname><given-names>W</given-names></name><name><surname>Sato</surname><given-names>M</given-names></name></person-group>
+<year>1998</year>
+
+<article-title>Evidence for growth of strains of the plant epiphytic bacterium <italic>Erwinia herbicola</italic> and transconjugation among the bacterial strains in guts of the silkworm <italic>Bombyx mori</italic>.</article-title>
+
+<source><italic>Journal of Invertebrate Pathology</italic></source>
+
+<volume>72</volume>
+
+<fpage>104</fpage>
+
+<lpage>111</lpage>
+
+<pub-id pub-id-type="pmid">9709009</pub-id></element-citation></ref><ref id="bibr47"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wells</surname><given-names>ML</given-names></name><name><surname>Gitaitis</surname><given-names>RD</given-names></name><name><surname>Sanders</surname><given-names>FH</given-names></name></person-group>
+<year>2002</year>
+
+<article-title>Association of tobacco thrips, <italic>Frankliniella fusca</italic> (Thysanoptera: Thripidae) with two species of bacteria of the genus <italic>Pantoea</italic>.</article-title>
+
+<source><italic>Annals of the Entomological Society of America
+</italic></source>
+
+<volume>95</volume>
+
+<fpage>719</fpage>
+
+<lpage>723</lpage>
+
+</element-citation></ref><ref id="bibr48"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wijkamp</surname><given-names>I</given-names></name><name><surname>Almarza</surname><given-names>N</given-names></name><name><surname>Goldbach</surname><given-names>R</given-names></name><name><surname>Peters</surname><given-names>D</given-names></name></person-group>
+<year>1995</year>
+
+<article-title>Distinct levels of specificity in thrips transmission of tospoviruses.</article-title>
+
+<source><italic>Phytopathology</italic></source>
+
+<volume>85</volume>
+
+<fpage>1069</fpage>
+
+<lpage>1074</lpage>
+
+</element-citation></ref><ref id="bibr49"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yudin</surname><given-names>LS</given-names></name><name><surname>Cho</surname><given-names>JJ</given-names></name><name><surname>Mitchell</surname><given-names>WC</given-names></name></person-group>
+<year>1986</year>
+
+<article-title>Host range of <italic>F. occidentalis, Frankliniella occidentalis</italic> (Thysanoptera: Thripidae) with special reference to <italic>Leucaena glauca</italic>.</article-title>
+
+<source><italic>Environmental Entomology
+</italic></source>
+
+<volume>15</volume>
+
+<fpage>1292</fpage>
+
+<lpage>1295</lpage>
+
+</element-citation></ref><ref id="bibr50"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zawirska</surname><given-names>I</given-names></name></person-group>
+<year>1976</year>
+
+<article-title>Untersuchungen &#x000fc;ber zwei biologische Typen von <italic>Thrips tabaci</italic> Lind. (Thysanoptera, Thripidae) in der VR Polen.</article-title>
+
+<source><italic>Archiv f&#x000fc;r Phytopathologie und Pflanzenschutz</italic></source>
+
+<volume>12</volume>
+
+<fpage>411</fpage>
+
+<lpage>422</lpage>
+
+</element-citation></ref></ref-list></back></article>

@@ -1,0 +1,576 @@
+{
+  "id": [
+    "18841203"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "18841203"
+  ],
+  "pmcid": [
+    "PMC2556394"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0003350"
+  ],
+  "title": [
+    "Ubiquitous water-soluble molecules in aquatic plant exudates determine specific insect attraction."
+  ],
+  "authorString": [
+    "Sérandour J, Reynaud S, Willison J, Patouraux J, Gaude T, Ravanel P, Lempérière G, Raveton M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sérandour J"
+          ],
+          "firstName": [
+            "Julien"
+          ],
+          "lastName": [
+            "Sérandour"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Reynaud S"
+          ],
+          "firstName": [
+            "Stéphane"
+          ],
+          "lastName": [
+            "Reynaud"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Willison J"
+          ],
+          "firstName": [
+            "John"
+          ],
+          "lastName": [
+            "Willison"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Patouraux J"
+          ],
+          "firstName": [
+            "Joëlle"
+          ],
+          "lastName": [
+            "Patouraux"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Gaude T"
+          ],
+          "firstName": [
+            "Thierry"
+          ],
+          "lastName": [
+            "Gaude"
+          ],
+          "initials": [
+            "T"
+          ]
+        },
+        {
+          "fullName": [
+            "Ravanel P"
+          ],
+          "firstName": [
+            "Patrick"
+          ],
+          "lastName": [
+            "Ravanel"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Lempérière G"
+          ],
+          "firstName": [
+            "Guy"
+          ],
+          "lastName": [
+            "Lempérière"
+          ],
+          "initials": [
+            "G"
+          ]
+        },
+        {
+          "fullName": [
+            "Raveton M"
+          ],
+          "firstName": [
+            "Muriel"
+          ],
+          "lastName": [
+            "Raveton"
+          ],
+          "initials": [
+            "M"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "1558930"
+      ],
+      "dateOfPublication": [
+        "2008 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2008"
+      ],
+      "printPublicationDate": [
+        "2008-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "e3350"
+  ],
+  "abstractText": [
+    "Plants produce semio-chemicals that directly influence insect attraction and/or repulsion. Generally, this attraction is closely associated with herbivory and has been studied mainly under atmospheric conditions. On the other hand, the relationship between aquatic plants and insects has been little studied. To determine whether the roots of aquatic macrophytes release attractive chemical mixtures into the water, we studied the behaviour of mosquito larvae using olfactory experiments with root exudates. After testing the attraction on Culex and Aedes mosquito larvae, we chose to work with Coquillettidia species, which have a complex behaviour in nature and need to be attached to plant roots in order to obtain oxygen. This relationship is non-destructive and can be described as commensal behaviour. Commonly found compounds seemed to be involved in insect attraction since root exudates from different plants were all attractive. Moreover, chemical analysis allowed us to identify a certain number of commonly found, highly water-soluble, low-molecular-weight compounds, several of which (glycerol, uracil, thymine, uridine, thymidine) were able to induce attraction when tested individually but at concentrations substantially higher than those found in nature. However, our principal findings demonstrated that these compounds appeared to act synergistically, since a mixture of these five compounds attracted larvae at natural concentrations (0.7 nM glycerol, <0.5 nM uracil, 0.6 nM thymine, 2.8 nM uridine, 86 nM thymidine), much lower than those found for each compound tested individually. These results provide strong evidence that a mixture of polyols (glycerol), pyrimidines (uracil, thymine), and nucleosides (uridine, thymidine) functions as an efficient attractive signal in nature for Coquillettidia larvae. We therefore show for the first time, that such commonly found compounds may play an important role in plant-insect relationships in aquatic eco-systems."
+  ],
+  "affiliation": [
+    "Laboratoire d'Ecologie Alpine, Equipe Perturbation Environnementale et Xénobiotiques, Université Joseph Fourier, Grenoble, France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Insects"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GD"
+                  ],
+                  "qualifierName": [
+                    "growth & development"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plants"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Roots"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Water"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pheromones"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Larva"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GD"
+                  ],
+                  "qualifierName": [
+                    "growth & development"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Solubility"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gas Chromatography-Mass Spectrometry"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Water"
+          ],
+          "registryNumber": [
+            "7732-18-5"
+          ]
+        },
+        {
+          "name": [
+            "Pheromones"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2556394?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2556394"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=18841203&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=18841203"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1371/journal.pone.0003350"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2008-12-12"
+  ],
+  "dateOfCreation": [
+    "2008-10-08"
+  ],
+  "dateOfRevision": [
+    "2013-06-05"
+  ],
+  "electronicPublicationDate": [
+    "2008-10-08"
+  ],
+  "firstPublicationDate": [
+    "2008-10-08"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

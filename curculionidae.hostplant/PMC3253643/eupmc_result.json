@@ -1,0 +1,273 @@
+{
+  "id": [
+    "22303104"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22303104"
+  ],
+  "pmcid": [
+    "PMC3253643"
+  ],
+  "doi": [
+    "10.3897/zookeys.157.1339"
+  ],
+  "title": [
+    "Cytogenetics, cytotaxonomy and chromosomal evolution of Chrysomelinae revisited (Coleoptera, Chrysomelidae)."
+  ],
+  "authorString": [
+    "Petitpierre E."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Petitpierre E"
+          ],
+          "firstName": [
+            "Eduard"
+          ],
+          "lastName": [
+            "Petitpierre"
+          ],
+          "initials": [
+            "E"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "157"
+      ],
+      "journalIssueId": [
+        "1902233"
+      ],
+      "dateOfPublication": [
+        "2011 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2011"
+      ],
+      "printPublicationDate": [
+        "2011-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ZooKeys"
+          ],
+          "ISOAbbreviation": [
+            "Zookeys"
+          ],
+          "medlineAbbreviation": [
+            "Zookeys"
+          ],
+          "NLMid": [
+            "101497933"
+          ],
+          "ISSN": [
+            "1313-2989"
+          ],
+          "ESSN": [
+            "1313-2970"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "67-79"
+  ],
+  "abstractText": [
+    "Nearly 260 taxa and chromosomal races of subfamily Chrysomelinae have been chromosomally analyzed showing a wide range of diploid numbers from 2n = 12 to 2n = 50, and four types of male sex-chromosome systems. with the parachute-like ones Xy(p) and XY(p) clearly prevailing (79.0%), but with the XO well represented too (19.75%). The modal haploid number for chrysomelines is n = 12 (34.2%) although it is not probably the presumed most plesiomorph for the whole subfamily, because in tribe Timarchini the modal number is n = 10 (53.6%) and in subtribe Chrysomelina n = 17 (65.7%). Some well sampled genera, such as Timarcha, Chrysolina and Cyrtonus, are variable in diploid numbers, whereas others, like Chrysomela, Paropsisterna, Oreina and Leptinotarsa, are conservative and these differences are discussed. The main shifts in the chromosomal evolution of Chrysomelinae seems to be centric fissions and pericentric inversions but other changes as centric fusions are also clearly demonstrated. The biarmed chromosome shape is the prevalent condition, as found in most Coleoptera, although a fair number of species hold a few uniarmed chromosomes at least. A significant negative correlation between the haploid numbers and the asymmetry in size of karyotypes (r = -0.74) has been found from a large sample of 63 checked species of ten different genera. Therefore, the increases in haploid number are generally associated with a higher karyotype symmetry."
+  ],
+  "affiliation": [
+    "Dept. of Biology, University of Balearic Islands, 07122 Palma de Mallorca, Spain."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "chromosomes",
+        "Diploid Numbers",
+        "Intrageneric Evolution",
+        "Karyotype Symmetry",
+        "Leaf-beetles",
+        "Modal Numbers",
+        "Sex-chromosome Systems"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3253643?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3253643"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=22303104&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=22303104"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.3897/zookeys.157.1339"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-08-23"
+  ],
+  "dateOfCreation": [
+    "2012-02-03"
+  ],
+  "dateOfRevision": [
+    "2013-05-29"
+  ],
+  "electronicPublicationDate": [
+    "2011-12-21"
+  ],
+  "firstPublicationDate": [
+    "2011-12-21"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

@@ -1,0 +1,691 @@
+{
+  "id": [
+    "25856077"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25856077"
+  ],
+  "pmcid": [
+    "PMC4391716"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0121504"
+  ],
+  "title": [
+    "Chemosensory gene families in adult antennae of Anomala corpulenta Motschulsky (Coleoptera: Scarabaeidae: Rutelinae)."
+  ],
+  "authorString": [
+    "Li X, Ju Q, Jie W, Li F, Jiang X, Hu J, Qu M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li X"
+          ],
+          "firstName": [
+            "Xiao"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Shandong Peanut Research Institute, Fushan Road 126, Licang District, Qingdao City, Shandong 266100, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ju Q"
+          ],
+          "firstName": [
+            "Qian"
+          ],
+          "lastName": [
+            "Ju"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Shandong Peanut Research Institute, Fushan Road 126, Licang District, Qingdao City, Shandong 266100, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Jie W"
+          ],
+          "firstName": [
+            "Wencai"
+          ],
+          "lastName": [
+            "Jie"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Ministry of Education, Key Laboratory of Integrated Management of Crop Diseases and Pests, College of Plant Protection, Nanjing Agricultural University, Nanjing 210095, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li F"
+          ],
+          "firstName": [
+            "Fei"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Ministry of Education, Key Laboratory of Integrated Management of Crop Diseases and Pests, College of Plant Protection, Nanjing Agricultural University, Nanjing 210095, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang X"
+          ],
+          "firstName": [
+            "Xiaojing"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Shandong Peanut Research Institute, Fushan Road 126, Licang District, Qingdao City, Shandong 266100, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Hu J"
+          ],
+          "firstName": [
+            "Jingjing"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Shandong Peanut Research Institute, Fushan Road 126, Licang District, Qingdao City, Shandong 266100, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Qu M"
+          ],
+          "firstName": [
+            "Mingjing"
+          ],
+          "lastName": [
+            "Qu"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Shandong Peanut Research Institute, Fushan Road 126, Licang District, Qingdao City, Shandong 266100, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2269260"
+      ],
+      "dateOfPublication": [
+        "2015"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "e0121504"
+  ],
+  "abstractText": [
+    "The metallic green beetle, Anomala corpulenta (Coleoptera: Scarabaeidae: Rutelinae), is a destructive pest in agriculture and horticulture throughout Asia, including China. Olfaction plays a crucial role in the survival and reproduction of A. corpulenta. As a non-model species, A. corpulenta is poorly understood, and information regarding the molecular mechanisms underlying olfaction in A. corpulenta and other scarab species is scant.We assembled separate antennal transcriptome for male and female A. corpulenta using Illumina sequencing technology. The relative abundance of transcripts with gene ontology annotations, including those related to olfaction in males and females was highly similar. Transcripts encoding 15 putative odorant binding proteins, five chemosensory proteins, one sensory neuron membrane protein, 43 odorant receptors, eight gustatory receptors, and five ionotropic receptors were identified. The sequences of all of these chemosensory-related transcripts were confirmed using reverse transcription polymerase chain reaction (RT-PCR), and direct DNA sequencing. The expression patterns of 54 putative chemosensory genes were analyzed using quantitative real time RT-PCR (qRT-PCR). Antenna-specific expression was detected for many of these genes, suggesting that they may have important functions in semiochemical detection.The identification of a large number of chemosensory proteins provides a major resource for the study of the molecular mechanism of odorant detection in A. corpulenta and its chemical ecology. The genes identified, especially those that were expressed at high levels in the antennae may represent novel molecular targets for the development of population control strategies based on the manipulation of chemoreception-driven behaviors."
+  ],
+  "affiliation": [
+    "Shandong Peanut Research Institute, Fushan Road 126, Licang District, Qingdao City, Shandong 266100, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Beetles"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Insect Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Receptors, Odorant"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Likelihood Functions"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Profiling"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Reverse Transcriptase Polymerase Chain Reaction"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, DNA"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phylogeny"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Base Sequence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Library"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Multigene Family"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Models, Genetic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Molecular Sequence Data"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "China"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Arthropod Antennae"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Molecular Sequence Annotation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Real-Time Polymerase Chain Reaction"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Transcriptome"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Insect Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Receptors, Odorant"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4391716?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4391716"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1371/journal.pone.0121504"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "26619223"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "PLoS One. 2015;10(11):e0144214"
+          ],
+          "type": [
+            "Erratum in"
+          ],
+          "orderIn": [
+            "61"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL",
+        "UNIPROT"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-04-05"
+  ],
+  "dateOfCreation": [
+    "2015-04-10"
+  ],
+  "dateOfRevision": [
+    "2015-04-22"
+  ],
+  "electronicPublicationDate": [
+    "2015-04-09"
+  ],
+  "firstPublicationDate": [
+    "2015-04-09"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

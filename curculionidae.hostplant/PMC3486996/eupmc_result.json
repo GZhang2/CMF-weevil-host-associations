@@ -1,0 +1,429 @@
+{
+  "id": [
+    "23065209"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23065209"
+  ],
+  "pmcid": [
+    "PMC3486996"
+  ],
+  "doi": [
+    "10.1007/s11033-012-2021-1"
+  ],
+  "title": [
+    "Development and characterization of microsatellite loci in the Centricnemus leucogrammus weevil."
+  ],
+  "authorString": [
+    "Kajtoch L, Nadachowska-Brzyska K, Babik W."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kajtoch L"
+          ],
+          "firstName": [
+            "Lukasz"
+          ],
+          "lastName": [
+            "Kajtoch"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Nadachowska-Brzyska K"
+          ],
+          "firstName": [
+            "Krystyna"
+          ],
+          "lastName": [
+            "Nadachowska-Brzyska"
+          ],
+          "initials": [
+            "K"
+          ]
+        },
+        {
+          "fullName": [
+            "Babik W"
+          ],
+          "firstName": [
+            "Wiesław"
+          ],
+          "lastName": [
+            "Babik"
+          ],
+          "initials": [
+            "W"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "39"
+      ],
+      "journalIssueId": [
+        "1979751"
+      ],
+      "dateOfPublication": [
+        "2012 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecular biology reports"
+          ],
+          "ISOAbbreviation": [
+            "Mol. Biol. Rep."
+          ],
+          "medlineAbbreviation": [
+            "Mol Biol Rep"
+          ],
+          "NLMid": [
+            "0403234"
+          ],
+          "ISSN": [
+            "0301-4851"
+          ],
+          "ESSN": [
+            "1573-4978"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "11131-11136"
+  ],
+  "abstractText": [
+    "Centricnemus leucogrammus is a weevil characteristic of European xerothermic habitats and steppes. The species was probably more widespread during the Pleistocene glaciations, while its current distribution is limited to \"warm-stage refugia.\" It may be regarded as a typical representative of flightless xerothermophilous beetles. Previous studies concentrated on its genetic variation using mitochondrial genes. Here, we identified, tested and characterized 24 polymorphic microsatellite loci with the use of 454 sequencing of microsatellite enriched genomic libraries. The new set of loci will be used in studies on the population structure of this weevil and may provide valuable information for its conservation."
+  ],
+  "affiliation": [
+    "Department of Experimental Zoology, Institute of Systematics and Evolution of Animals, Polish Academy of Science, Sławkowska 17 St., 31-016, Kraków, Poland, kajtoch@isez.pan.krakow.pl."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Weevils"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genetic Techniques"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Microsatellite Repeats"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Polymorphism, Genetic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Molecular Sequence Data"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genetic Loci"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3486996?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3486996"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=23065209&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=23065209"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1007/s11033-012-2021-1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2013-04-04"
+  ],
+  "dateOfCreation": [
+    "2012-11-02"
+  ],
+  "dateOfRevision": [
+    "2013-07-11"
+  ],
+  "electronicPublicationDate": [
+    "2012-10-13"
+  ],
+  "firstPublicationDate": [
+    "2012-10-13"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

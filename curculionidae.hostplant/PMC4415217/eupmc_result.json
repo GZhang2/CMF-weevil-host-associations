@@ -1,0 +1,592 @@
+{
+  "id": [
+    "25899000"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25899000"
+  ],
+  "pmcid": [
+    "PMC4415217"
+  ],
+  "doi": [
+    "10.1186/s12866-015-0422-8"
+  ],
+  "title": [
+    "Diversity and phylogenetic analysis of endosymbiotic bacteria of the date palm root borer Oryctes agamemnon (Coleoptera: Scarabaeidae)."
+  ],
+  "authorString": [
+    "El-Sayed WS, Ibrahim RA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "El-Sayed WS"
+          ],
+          "firstName": [
+            "Wael S"
+          ],
+          "lastName": [
+            "El-Sayed"
+          ],
+          "initials": [
+            "WS"
+          ],
+          "affiliation": [
+            "Microbiology Department, Faculty of Science, Ain Shams University, Cairo, 11566, Egypt. waelsme@yahoo.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Ibrahim RA"
+          ],
+          "firstName": [
+            "Reda A"
+          ],
+          "lastName": [
+            "Ibrahim"
+          ],
+          "initials": [
+            "RA"
+          ],
+          "affiliation": [
+            "Department of Economic Entomology, Kafrelsheikh University, Kafr El-Sheikh, 33516, Egypt. reda_ibrahim18@yahoo.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2286475"
+      ],
+      "dateOfPublication": [
+        "2015 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC microbiology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Microbiol."
+          ],
+          "medlineAbbreviation": [
+            "BMC Microbiol"
+          ],
+          "NLMid": [
+            "100966981"
+          ],
+          "ESSN": [
+            "1471-2180"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "88"
+  ],
+  "abstractText": [
+    "The date palm root borer Oryctes agamemnon (Coleoptera: Scarabaeidae) is one of the major pests of palms. In Saudi Arabia, both larvae and adults of Oryctes are particularly troublesome, especially during the establishment of young date palm orchards. Endosymbiotic bacteria are known to have a key role in food digestion and insecticide resistance mechanisms, and therefore are essential to their host insect. Identification of these bacteria in their insect host can lead to development of new insect pest control strategies.Metagenomic DNA from larval midgut of the date palm root borer, O. agamemnon, was analyzed for endosymbiotic bacterial communities using denatured gradient gel electrophoresis (DGGE) utilizing 16S rRNA genes. The DGGE fingerprints with metagenomic DNA showed predominance of eleven major operational taxonomic units (OTUs) identified as members of Photobacterium, Vibrio, Allomonas, Shewanella, Cellulomonas, and Citrobacter, as well as uncultured bacteria, including some uncultured Vibrio members. DGGE profiles also showed shifts in the dominant bacterial populations of the original soil compared with those that existed in the larval midguts. The endosymbiotic bacterial community was dominated by members of the family Vibrionaceae (54.5%), followed by uncultured bacteria (18.2%), Enterobacteriaceae (9.1%), Shewanellaceae (9.1%), and Cellulomonadaceae (9.1%). Phylogenetic studies confirmed the affiliation of the dominant OTUs into specified families revealed by clustering of each phylotype to its corresponding clade. Relative frequency of each phylotype in larval midguts revealed predominance of Vibrio furnisii and Vibrio navarrensis, followed by uncultured bacterial spp., then Cellulomonas hominis, Shewanella algae, and Citrobacter freundii.Analysis of metagenomic DNA for endosymbiotic bacterial communities from the midgut of Oryctes larvae showed strong selection of specific bacterial populations that may have a key role in digestion, as well as other benefits to the larvae of O. agamemnon. Determination of the distinct endosymbiotic community structure and its possible biological functions within the insect could provide us with basic information for future pest control research."
+  ],
+  "affiliation": [
+    "Microbiology Department, Faculty of Science, Ain Shams University, Cairo, 11566, Egypt. waelsme@yahoo.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Beetles"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Bacteria"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Roots"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA, Bacterial"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA, Ribosomal"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RNA, Ribosomal, 16S"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cluster Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, DNA"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phylogeny"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Symbiosis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Molecular Sequence Data"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Saudi Arabia"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Metagenomics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Denaturing Gradient Gel Electrophoresis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phoeniceae"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "DNA, Bacterial"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "DNA, Ribosomal"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "RNA, Ribosomal, 16S"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4415217?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4415217"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1186/s12866-015-0422-8"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2016-01-08"
+  ],
+  "dateOfCreation": [
+    "2015-04-30"
+  ],
+  "dateOfRevision": [
+    "2015-05-01"
+  ],
+  "electronicPublicationDate": [
+    "2015-04-22"
+  ],
+  "firstPublicationDate": [
+    "2015-04-22"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

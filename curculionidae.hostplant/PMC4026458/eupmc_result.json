@@ -1,0 +1,265 @@
+{
+  "id": [
+    "PMC4026458"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC4026458"
+  ],
+  "title": [
+    "Identification of relevant non-target organisms exposed to weevil-resistant Bt sweetpotato in Uganda."
+  ],
+  "authorString": [
+    "Rukarwa RJ, Mukasa SB, Odongo B, Ssemakula G, Ghislain M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rukarwa RJ"
+          ],
+          "firstName": [
+            "R. J."
+          ],
+          "lastName": [
+            "Rukarwa"
+          ],
+          "initials": [
+            "RJ"
+          ],
+          "affiliation": [
+            "School of Agricultural Sciences, Makerere University, P.O. Box 7062, Kampala, Uganda"
+          ]
+        },
+        {
+          "fullName": [
+            "Mukasa SB"
+          ],
+          "firstName": [
+            "S. B."
+          ],
+          "lastName": [
+            "Mukasa"
+          ],
+          "initials": [
+            "SB"
+          ]
+        },
+        {
+          "fullName": [
+            "Odongo B"
+          ],
+          "firstName": [
+            "B."
+          ],
+          "lastName": [
+            "Odongo"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Ssemakula G"
+          ],
+          "firstName": [
+            "G."
+          ],
+          "lastName": [
+            "Ssemakula"
+          ],
+          "initials": [
+            "G"
+          ]
+        },
+        {
+          "fullName": [
+            "Ghislain M"
+          ],
+          "firstName": [
+            "M."
+          ],
+          "lastName": [
+            "Ghislain"
+          ],
+          "initials": [
+            "M"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2198305"
+      ],
+      "dateOfPublication": [
+        "2014 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "3 Biotech"
+          ],
+          "ISOAbbreviation": [
+            "3 Biotech"
+          ],
+          "medlineAbbreviation": [
+            "3 Biotech"
+          ],
+          "NLMid": [
+            "101565857"
+          ],
+          "ESSN": [
+            "2190-5738"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "217-226"
+  ],
+  "abstractText": [
+    "Assessment of the impact of transgenic crops on non-target organisms (NTO) is a prerequisite to their release into the target environment for commercial use. Transgenic sweetpotato varieties expressing Cry proteins (Bt sweetpotato) are under development to provide effective protection against sweetpotato weevils (Coleoptera) which cause severe economic losses in sub-Saharan Africa. Like any other pest control technologies, genetically engineered crops expressing insecticidal proteins need to be evaluated to assess potential negative effects on non-target organisms that provide important services to the ecosystem. Beneficial arthropods in sweetpotato production systems can include pollinators, decomposers, and predators and parasitoids of the target insect pest(s). Non-target arthropod species commonly found in sweetpotato fields that are related taxonomically to the target pests were identified through expert consultation and literature review in Uganda where Bt sweetpotato is expected to be initially evaluated. Results indicate the presence of few relevant non-target Coleopterans that could be affected by Coleopteran Bt sweetpotato varieties: ground, rove and ladybird beetles. These insects are important predators in sweetpotato fields. Additionally, honeybee (hymenoptera) is the main pollinator of sweetpotato and used for honey production. Numerous studies have shown that honeybees are unaffected by the Cry proteins currently deployed which are homologous to those of the weevil-resistant Bt sweetpotato. However, because of their feeding behaviour, Bt sweetpotato represents an extremely low hazard due to negligible exposure. Hence, we conclude that there is good evidence from literature and expert opinion that relevant NTOs in sweetpotato fields are unlikely to be affected by the introduction of Bt sweetpotato in Uganda."
+  ],
+  "affiliation": [
+    "School of Agricultural Sciences, Makerere University, P.O. Box 7062, Kampala, Uganda"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Environmental risk assessment",
+        "Sweetpotato Weevil",
+        "Cry Proteins"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4026458"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.org/articles/PMC4026458/?tool=EBI"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2014-05-24"
+  ],
+  "dateOfRevision": [
+    "2016-05-23"
+  ],
+  "electronicPublicationDate": [
+    "2013-07-23"
+  ],
+  "firstPublicationDate": [
+    "2013-07-23"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

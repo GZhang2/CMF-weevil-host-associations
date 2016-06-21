@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="genus">
+ <result pre="thonomus eugenii larvae develop only on plants in the Solanaceae, and females oviposit only on " exact="Capsicum" xpath="/html[1]/body[1]/div[2]/div[3]/div[5]/p[4]" match="Capsicum" post=" and Solanum, though adults also feed on Physalis, Lycopersicon, Datura" name="genus"/>
+ <result pre="hough adults also feed on Physalis, Lycopersicon, Datura, Petunia, and " exact="Nicotiana" xpath="/html[1]/body[1]/div[2]/div[3]/div[5]/p[4]" match="Nicotiana" post=" [ 2, 10]. Addesso and McAuslane [ &lt;" name="genus"/>
+ <result pre="an rinds, and the buds were nutritionally superior to fruit [ 44]. " exact="Anthonomus" match="Anthonomus" post=" grandis and A. eugenii are closely related species with similar life cycles. " name="genus"/>
+</results>

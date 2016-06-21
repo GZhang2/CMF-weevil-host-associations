@@ -1,0 +1,264 @@
+{
+  "id": [
+    "26692791"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26692791"
+  ],
+  "pmcid": [
+    "PMC4668883"
+  ],
+  "doi": [
+    "10.3897/zookeys.528.6001"
+  ],
+  "title": [
+    "Phylogenetic revision of Minyomerus Horn, 1876 sec. Jansen & Franz, 2015 (Coleoptera, Curculionidae) using taxonomic concept annotations and alignments."
+  ],
+  "authorString": [
+    "Jansen MA, Franz NM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jansen MA"
+          ],
+          "firstName": [
+            "M Andrew"
+          ],
+          "lastName": [
+            "Jansen"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "School of Life Sciences, PO Box 874501, Arizona State University, Tempe, AZ 85287-4501."
+          ]
+        },
+        {
+          "fullName": [
+            "Franz NM"
+          ],
+          "firstName": [
+            "Nico M"
+          ],
+          "lastName": [
+            "Franz"
+          ],
+          "initials": [
+            "NM"
+          ],
+          "affiliation": [
+            "School of Life Sciences, PO Box 874501, Arizona State University, Tempe, AZ 85287-4501."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "528"
+      ],
+      "journalIssueId": [
+        "2350858"
+      ],
+      "dateOfPublication": [
+        "2015 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ZooKeys"
+          ],
+          "ISOAbbreviation": [
+            "Zookeys"
+          ],
+          "medlineAbbreviation": [
+            "Zookeys"
+          ],
+          "NLMid": [
+            "101497933"
+          ],
+          "ISSN": [
+            "1313-2989"
+          ],
+          "ESSN": [
+            "1313-2970"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "1-133"
+  ],
+  "abstractText": [
+    "This contribution adopts the taxonomic concept annotation and alignment approach. Accordingly, and where indicated, previous and newly inferred meanings of taxonomic names are individuated according to one specific source. Articulations among these concepts and pairwise, logically consistent alignments of original and revisionary classifications are also provided, in addition to conventional nomenclatural provenance information. A phylogenetic revision of the broad-nosed weevil genera Minyomerus Horn, 1876 sec. O'Brien & Wibmer (1982), and Piscatopus Sleeper, 1960 sec. O'Brien & Wibmer (1982) (Curculionidae [non-focal]: Entiminae [non-focal]: Tanymecini [non-focal]) is presented. Prior to this study, Minyomerus sec. O'Brien & Wibmer (1982) contained seven species, whereas the monotypic Piscatopus sec. O'Brien & Wibmer (1982) was comprised solely of Piscatopus griseus Sleeper, 1960 sec. O'Brien & Wibmer (1982). We thoroughly redescribe these recognized species-level entities and furthermore describe ten species as new to science: Minyomerus bulbifrons sec. Jansen & Franz (2015) (henceforth: [JF2015]), sp. n., Minyomerus aeriballux [JF2015], sp. n., Minyomerus cracens [JF2015], sp. n., Minyomerus gravivultus [JF2015], sp. n., Minyomerus imberbus [JF2015], sp. n., Minyomerus reburrus [JF2015], sp. n., Minyomerus politus [JF2015], sp. n., Minyomerus puticulatus [JF2015], sp. n., Minyomerus rutellirostris [JF2015], sp. n., and Minyomerus trisetosus [JF2015], sp. n. A cladistic analysis using 46 morphological characters of 22 terminal taxa (5/17 outgroup/ingroup) yielded a single most-parsimonious cladogram (L = 82, CI = 65, RI = 82). The analysis strongly supports the monophyly of Minyomerus [JF2015] with eight unreversed synapomorphies, and places Piscatopus griseus sec. O'Brien & Wibmer (1982) within the genus as sister to Minyomerus rutellirostris [JF2015]. Accordingly, Piscatopus sec. Sleeper (1960), syn. n. is changed to junior synonymy of Minyomerus [JF2015], and its sole member Piscatopus griseus sec. Sleeper (1960) is moved to Minyomerus [JF2015] as Minyomerus griseus [JF2015], comb. n. In addition, the formerly designated type Minyomerus innocuus Horn, 1876 sec. Pierce (1913), syn. n. is changed to junior synonymy of Minyomerus microps (Say, 1831) [JF2015] which has priority. The genus is widespread throughout western North America, ranging from Canada to Mexico and Baja California. Apparent patterns of interspecific diversity of exterior and genitalic morphology, varying host plant ranges, overlapping and widely extending species distributions, suggest an early origin for Minyomerus [JF2015], with a diversification that likely followed the development of North American desert biomes. Three species in the genus - i.e., Minyomerus languidus Horn, 1876 [JF2015], Minyomerus microps [JF2015], and Minyomerus trisetosus [JF2015] - are putatively considered parthenogenetic."
+  ],
+  "affiliation": [
+    "School of Life Sciences, PO Box 874501, Arizona State University, Tempe, AZ 85287-4501."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "New species",
+        "Desert",
+        "Revision",
+        "Parthenogenesis",
+        "Biogeography",
+        "Provenance",
+        "Weevils",
+        "cladistics",
+        "Entiminae",
+        "Concept Taxonomy",
+        "Minyomerus",
+        "Piscatopus"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4668883?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4668883"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.3897/zookeys.528.6001"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-12-22"
+  ],
+  "dateOfCreation": [
+    "2015-12-22"
+  ],
+  "dateOfRevision": [
+    "2015-12-24"
+  ],
+  "electronicPublicationDate": [
+    "2015-10-20"
+  ],
+  "firstPublicationDate": [
+    "2015-10-20"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

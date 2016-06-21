@@ -1,0 +1,558 @@
+{
+  "id": [
+    "25368046"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25368046"
+  ],
+  "pmcid": [
+    "PMC4212853"
+  ],
+  "doi": [
+    "10.1093/jis/14.1.90"
+  ],
+  "title": [
+    "Behavioral and electroantennogram responses of plum curculio, Conotrachelus nenuphar, to selected noxious plant extracts and insecticides."
+  ],
+  "authorString": [
+    "Gӧkçe A, Stelinski LL, Nortman DR, Bryan WW, Whalon ME."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gӧkçe A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Gӧkçe"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Nigde University, Faculty of Agricultural Sciences and Technologies, Department of Plant Production and Technologies, Nigde, Turkey ayhan.gokce@nigde.edu.tr."
+          ]
+        },
+        {
+          "fullName": [
+            "Stelinski LL"
+          ],
+          "firstName": [
+            "L L"
+          ],
+          "lastName": [
+            "Stelinski"
+          ],
+          "initials": [
+            "LL"
+          ],
+          "affiliation": [
+            "University of Florida, Entomology and Nematology Department, Citrus Research and Education Center, 700 Experiment Station Road, Lake Alfred, FL stelinski@ufl.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Nortman DR"
+          ],
+          "firstName": [
+            "D R"
+          ],
+          "lastName": [
+            "Nortman"
+          ],
+          "initials": [
+            "DR"
+          ],
+          "affiliation": [
+            "Michigan State University, Department of Entomology, Pesticide Alternative Laboratory Center for Integrative Plant Systems, East Lansing, MI dan.nortman@yorkcounty.gov."
+          ]
+        },
+        {
+          "fullName": [
+            "Bryan WW"
+          ],
+          "firstName": [
+            "W W"
+          ],
+          "lastName": [
+            "Bryan"
+          ],
+          "initials": [
+            "WW"
+          ],
+          "affiliation": [
+            "Michigan State University, Department of Entomology, Pesticide Alternative Laboratory Center for Integrative Plant Systems, East Lansing, MI bryanw@msu.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Whalon ME"
+          ],
+          "firstName": [
+            "M E"
+          ],
+          "lastName": [
+            "Whalon"
+          ],
+          "initials": [
+            "ME"
+          ],
+          "affiliation": [
+            "Michigan State University, Department of Entomology, Pesticide Alternative Laboratory Center for Integrative Plant Systems, East Lansing, MI whalon@msu.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2213798"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of insect science (Online)"
+          ],
+          "ISOAbbreviation": [
+            "J. Insect Sci."
+          ],
+          "medlineAbbreviation": [
+            "J Insect Sci"
+          ],
+          "NLMid": [
+            "101096396"
+          ],
+          "ESSN": [
+            "1536-2442"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "90"
+  ],
+  "abstractText": [
+    "Behavioral and electroantennogram responses of plum curculio, Conotrachelus nenuphar (Herbst) (Coleoptera: Curculionidae), adults were tested for several methanolic plant extracts and organically approved insecticides. Plant extracts were evaluated for their potential as antifeedants or oviposition deterrents. These extract responses were also compared to those elicited by the non-neurotoxic, organic irritant-insecticide kaolin clay. Both sexes of plum curculio exhibited antennal response as measured by electroantennogram, which ranged from 0.2 to 1.1 mV, to plant extracts and the organic irritant/insecticide, with the greatest response to the extract of rough cocklebur, Xanthium strumarium L. (1.1 mV). No choice tests were conducted to compare feeding and oviposition by plum curculio on untreated apples or on apples treated with one of the extracts or the insecticide. The insecticide pyrethrum and extracts of X. strumarium and greater burdock, Arctium lappa L., significantly reduced feeding. Also, pyrethrum, A. lappa, Humulus lupulus L. (common hop), X. strumarium, and Verbascum songaricum Schrenk extracts completely inhibited egg deposition. In no-choice assays, the effects of kaolin clay with incorporated plant extracts on plum curculio feeding and oviposition were monitored as complementary tests. A. lappa-kaolin, H. lupulus-kaolin, and X. strumarium-kaolin mixtures significantly reduced the feeding of plum curculio compared to the control or kaolin clay alone. Each of the plant extract-kaolin mixtures evaluated, with the exception of Bifora radians Bieberstein (wild bishop), completely inhibited plum curculio oviposition as compared to controls."
+  ],
+  "affiliation": [
+    "Nigde University, Faculty of Agricultural Sciences and Technologies, Department of Plant Production and Technologies, Nigde, Turkey ayhan.gokce@nigde.edu.tr."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Weevils"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Apiaceae"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Arctium"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Xanthium"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humulus"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Verbascum"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Extracts"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Insecticides"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TO"
+                  ],
+                  "qualifierName": [
+                    "toxicity"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Feeding Behavior"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oviposition"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Arthropod Antennae"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Antifeedant",
+        "Xanthium",
+        "Arctium",
+        "Botanical",
+        "Oviposition Deterrent",
+        "Bifora",
+        "Humulus",
+        "Verbascum"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Plant Extracts"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Insecticides"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4212853?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4212853"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1093/jis/14.1.90"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-07-08"
+  ],
+  "dateOfCreation": [
+    "2014-11-04"
+  ],
+  "firstPublicationDate": [
+    "2014-01-01"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

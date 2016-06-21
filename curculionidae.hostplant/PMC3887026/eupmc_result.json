@@ -1,0 +1,614 @@
+{
+  "id": [
+    "24416354"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24416354"
+  ],
+  "pmcid": [
+    "PMC3887026"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0085152"
+  ],
+  "title": [
+    "Habitats as complex odour environments: how does plant diversity affect herbivore and parasitoid orientation?"
+  ],
+  "authorString": [
+    "Wäschke N, Hardge K, Hancock C, Hilker M, Obermaier E, Meiners T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wäschke N"
+          ],
+          "firstName": [
+            "Nicole"
+          ],
+          "lastName": [
+            "Wäschke"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Freie Universität Berlin, Institute of Biology, Applied Zoology / Animal Ecology, Berlin, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Hardge K"
+          ],
+          "firstName": [
+            "Kristin"
+          ],
+          "lastName": [
+            "Hardge"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Freie Universität Berlin, Institute of Biology, Applied Zoology / Animal Ecology, Berlin, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Hancock C"
+          ],
+          "firstName": [
+            "Christine"
+          ],
+          "lastName": [
+            "Hancock"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "University of Würzburg, Department of Animal Ecology and Tropical Biology, Würzburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Hilker M"
+          ],
+          "firstName": [
+            "Monika"
+          ],
+          "lastName": [
+            "Hilker"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Freie Universität Berlin, Institute of Biology, Applied Zoology / Animal Ecology, Berlin, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Obermaier E"
+          ],
+          "firstName": [
+            "Elisabeth"
+          ],
+          "lastName": [
+            "Obermaier"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "University of Würzburg, Department of Animal Ecology and Tropical Biology, Würzburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Meiners T"
+          ],
+          "firstName": [
+            "Torsten"
+          ],
+          "lastName": [
+            "Meiners"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Freie Universität Berlin, Institute of Biology, Applied Zoology / Animal Ecology, Berlin, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2111165"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "e85152"
+  ],
+  "abstractText": [
+    "Plant diversity is known to affect success of host location by pest insects, but its effect on olfactory orientation of non-pest insect species has hardly been addressed. First, we tested in laboratory experiments the hypothesis that non-host plants, which increase odour complexity in habitats, affect the host location ability of herbivores and parasitoids. Furthermore, we recorded field data of plant diversity in addition to herbivore and parasitoid abundance at 77 grassland sites in three different regions in Germany in order to elucidate whether our laboratory results reflect the field situation. As a model system we used the herb Plantago lanceolata, the herbivorous weevil Mecinus pascuorum, and its larval parasitoid Mesopolobus incultus. The laboratory bioassays revealed that both the herbivorous weevil and its larval parasitoid can locate their host plant and host via olfactory cues even in the presence of non-host odour. In a newly established two-circle olfactometer, the weeviĺs capability to detect host plant odour was not affected by odours from non-host plants. However, addition of non-host plant odours to host plant odour enhanced the weeviĺs foraging activity. The parasitoid was attracted by a combination of host plant and host volatiles in both the absence and presence of non-host plant volatiles in a Y-tube olfactometer. In dual choice tests the parasitoid preferred the blend of host plant and host volatiles over its combination with non-host plant volatiles. In the field, no indication was found that high plant diversity disturbs host (plant) location by the weevil and its parasitoid. In contrast, plant diversity was positively correlated with weevil abundance, whereas parasitoid abundance was independent of plant diversity. Therefore, we conclude that weevils and parasitoids showed the sensory capacity to successfully cope with complex vegetation odours when searching for hosts."
+  ],
+  "affiliation": [
+    "Freie Universität Berlin, Institute of Biology, Applied Zoology / Animal Ecology, Berlin, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Weevils"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Poaceae"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Feeding Behavior"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ecosystem"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Odors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Larva"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oviposition"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Models, Biological"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Germany"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Host-Parasite Interactions"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Olfactory Perception"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Host Specificity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Herbivory"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3887026?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3887026"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=24416354&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=24416354"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1371/journal.pone.0085152"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-09-02"
+  ],
+  "dateOfCreation": [
+    "2014-01-13"
+  ],
+  "electronicPublicationDate": [
+    "2014-01-09"
+  ],
+  "firstPublicationDate": [
+    "2014-01-09"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

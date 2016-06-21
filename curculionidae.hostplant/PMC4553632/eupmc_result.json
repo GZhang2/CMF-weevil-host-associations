@@ -1,0 +1,231 @@
+{
+  "id": [
+    "26467964"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26467964"
+  ],
+  "pmcid": [
+    "PMC4553632"
+  ],
+  "doi": [
+    "10.3390/insects3010339"
+  ],
+  "title": [
+    "Ecological and Evolutionary Determinants of Bark Beetle -Fungus Symbioses."
+  ],
+  "authorString": [
+    "Six DL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Six DL"
+          ],
+          "firstName": [
+            "Diana L"
+          ],
+          "lastName": [
+            "Six"
+          ],
+          "initials": [
+            "DL"
+          ],
+          "affiliation": [
+            "Department of Ecosystem and Conservation Sciences, College of Forestry and Conservation, University of Montana, Missoula, MT 59812, USA. diana.six@cfc.umt.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2333754"
+      ],
+      "dateOfPublication": [
+        "2012 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Insects"
+          ],
+          "ISOAbbreviation": [
+            "Insects"
+          ],
+          "medlineAbbreviation": [
+            "Insects"
+          ],
+          "NLMid": [
+            "101574235"
+          ],
+          "ESSN": [
+            "2075-4450"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "339-366"
+  ],
+  "abstractText": [
+    "Ectosymbioses among bark beetles (Curculionidae, Scolytinae) and fungi (primarily ophiostomatoid Ascomycetes) are widespread and diverse. Associations range from mutualistic to commensal, and from facultative to obligate. Some fungi are highly specific and associated only with a single beetle species, while others can be associated with many. In addition, most of these symbioses are multipartite, with the host beetle associated with two or more consistent partners. Mycangia, structures of the beetle integument that function in fungal transport, have evolved numerous times in the Scolytinae. The evolution of such complex, specialized structures indicates a high degree of mutual dependence among the beetles and their fungal partners. Unfortunately, the processes that shaped current day beetle-fungus symbioses remain poorly understood. Phylogeny, the degree and type of dependence on partners, mode of transmission of symbionts (vertical vs. horizontal), effects of the abiotic environment, and interactions among symbionts themselves or with other members of the biotic community, all play important roles in determining the composition, fidelity, and longevity of associations between beetles and their fungal associates. In this review, I provide an overview of these associations and discuss how evolution and ecological processes acted in concert to shape these fascinating, complex symbioses."
+  ],
+  "affiliation": [
+    "Department of Ecosystem and Conservation Sciences, College of Forestry and Conservation, University of Montana, Missoula, MT 59812, USA. diana.six@cfc.umt.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Symbiosis",
+        "Ceratocystis",
+        "Leptographium",
+        "Grosmannia",
+        "Ophiostoma",
+        "Host-switching",
+        "Cospeciation",
+        "Ambrosia Beetle",
+        "Ceratocystiopsis",
+        "Raffaelea",
+        "Ambrosiella",
+        "Symbiont Redundancy"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4553632"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.3390/insects3010339"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "7"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-10-15"
+  ],
+  "dateOfCreation": [
+    "2015-10-15"
+  ],
+  "dateOfRevision": [
+    "2015-10-22"
+  ],
+  "electronicPublicationDate": [
+    "2012-03-22"
+  ],
+  "firstPublicationDate": [
+    "2012-03-22"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

@@ -1,0 +1,486 @@
+{
+  "id": [
+    "24941047"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24941047"
+  ],
+  "pmcid": [
+    "PMC4062527"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0100155"
+  ],
+  "title": [
+    "Arboreal ant colonies as 'hot-points' of cryptic diversity for myrmecophiles: the weaver ant Camponotus sp. aff. textor and its interaction network with its associates."
+  ],
+  "authorString": [
+    "Pérez-Lachaud G, Lachaud JP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pérez-Lachaud G"
+          ],
+          "firstName": [
+            "Gabriela"
+          ],
+          "lastName": [
+            "Pérez-Lachaud"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Departamento Conservación de la Biodiversidad, El Colegio de la Frontera Sur, Chetumal, Quintana Roo, Mexico."
+          ]
+        },
+        {
+          "fullName": [
+            "Lachaud JP"
+          ],
+          "firstName": [
+            "Jean-Paul"
+          ],
+          "lastName": [
+            "Lachaud"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "affiliation": [
+            "Departamento Conservación de la Biodiversidad, El Colegio de la Frontera Sur, Chetumal, Quintana Roo, Mexico; Centre de Recherches sur la Cognition Animale, CNRS-UMR 5169, Université de Toulouse UPS, Toulouse, France."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2165507"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "e100155"
+  ],
+  "abstractText": [
+    "INTRODUCTION: Systematic surveys of macrofaunal diversity within ant colonies are lacking, particularly for ants nesting in microhabitats that are difficult to sample. Species associated with ants are generally small and rarely collected organisms, which makes them more likely to be unnoticed. We assumed that this tendency is greater for arthropod communities in microhabitats with low accessibility, such as those found in the nests of arboreal ants that may constitute a source of cryptic biodiversity. MATERIALS AND METHODS: We investigated the invertebrate diversity associated with an undescribed, but already threatened, Neotropical Camponotus weaver ant. As most of the common sampling methods used in studies of ant diversity are not suited for evaluating myrmecophile diversity within ant nests, we evaluated the macrofauna within ant nests through exhaustive colony sampling of three nests and examination of more than 80,000 individuals. RESULTS: We identified invertebrates from three classes belonging to 18 taxa, some of which were new to science, and recorded the first instance of the co-occurrence of two brood parasitoid wasp families attacking the same ant host colony. This diversity of ant associates corresponded to a highly complex interaction network. Agonistic interactions prevailed, but the prevalence of myrmecophiles was remarkably low. CONCLUSIONS: Our data support the hypothesis of the evolution of low virulence in a variety of symbionts associated with large insect societies. Because most myrmecophiles found in this work are rare, strictly specific, and exhibit highly specialized biology, the risk of extinction for these hitherto unknown invertebrates and their natural enemies is high. The cryptic, far unappreciated diversity within arboreal ant nests in areas at high risk of habitat loss qualifies these nests as 'hot-points' of biodiversity that urgently require special attention as a component of conservation and management programs."
+  ],
+  "affiliation": [
+    "Departamento Conservación de la Biodiversidad, El Colegio de la Frontera Sur, Chetumal, Quintana Roo, Mexico."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Spiders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ants"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Wasps"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Behavior, Animal"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Predatory Behavior"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Social Behavior"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Conservation of Natural Resources"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ecosystem"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biodiversity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Population Dynamics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Symbiosis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mexico"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4062527?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4062527"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=24941047&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=24941047"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1371/journal.pone.0100155"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-10-09"
+  ],
+  "dateOfCreation": [
+    "2014-06-19"
+  ],
+  "electronicPublicationDate": [
+    "2014-06-18"
+  ],
+  "firstPublicationDate": [
+    "2014-06-18"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

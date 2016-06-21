@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="genussp">
+ <result pre="her proportion in plants without spiders ( Ectatomma edentatum, Cephalotes pusillus, " exact="Camponotus sp" xpath="/html[1]/body[1]/div[2]/div[3]/p[1]" match="Camponotus sp" post="., Camponotus crassus and Brachymyrmex sp.) ( Fig 2 A" name="genussp"/>
+ <result pre="ma edentatum, Cephalotes pusillus, Camponotus sp., Camponotus crassus and " exact="Brachymyrmex sp" match="Brachymyrmex sp" post=".) ( Fig 2 A ). " name="genussp"/>
+</results>

@@ -1,0 +1,574 @@
+{
+  "id": [
+    "26367271"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26367271"
+  ],
+  "pmcid": [
+    "PMC4569427"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0137689"
+  ],
+  "title": [
+    "New Fungus-Insect Symbiosis: Culturing, Molecular, and Histological Methods Determine Saprophytic Polyporales Mutualists of Ambrosiodmus Ambrosia Beetles."
+  ],
+  "authorString": [
+    "Li Y, Simmons DR, Bateman CC, Short DP, Kasson MT, Rabaglia RJ, Hulcr J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li Y"
+          ],
+          "firstName": [
+            "You"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Y"
+          ]
+        },
+        {
+          "fullName": [
+            "Simmons DR"
+          ],
+          "firstName": [
+            "David Rabern"
+          ],
+          "lastName": [
+            "Simmons"
+          ],
+          "initials": [
+            "DR"
+          ],
+          "affiliation": [
+            "School of Forest Resources and Conservation, Institute of Food and Agricultural Sciences, University of Florida, Gainesville, Florida, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Bateman CC"
+          ],
+          "firstName": [
+            "Craig C"
+          ],
+          "lastName": [
+            "Bateman"
+          ],
+          "initials": [
+            "CC"
+          ],
+          "affiliation": [
+            "Department of Entomology and Nematology, Institute of Food and Agricultural Sciences, University of Florida, Gainesville, Florida, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Short DP"
+          ],
+          "firstName": [
+            "Dylan P G"
+          ],
+          "lastName": [
+            "Short"
+          ],
+          "initials": [
+            "DP"
+          ],
+          "affiliation": [
+            "Division of Plant and Soil Sciences, West Virginia University, Morgantown, West Virginia, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Kasson MT"
+          ],
+          "firstName": [
+            "Matthew T"
+          ],
+          "lastName": [
+            "Kasson"
+          ],
+          "initials": [
+            "MT"
+          ],
+          "affiliation": [
+            "Division of Plant and Soil Sciences, West Virginia University, Morgantown, West Virginia, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Rabaglia RJ"
+          ],
+          "firstName": [
+            "Robert J"
+          ],
+          "lastName": [
+            "Rabaglia"
+          ],
+          "initials": [
+            "RJ"
+          ],
+          "affiliation": [
+            "Forest Health Protection, State & Private Forestry, United States Department of Agriculture Forest Service, Washington, District of Columbia, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Hulcr J"
+          ],
+          "firstName": [
+            "Jiri"
+          ],
+          "lastName": [
+            "Hulcr"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "School of Forest Resources and Conservation, Institute of Food and Agricultural Sciences, University of Florida, Gainesville, Florida, United States of America; Department of Entomology and Nematology, Institute of Food and Agricultural Sciences, University of Florida, Gainesville, Florida, United States of America."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2318586"
+      ],
+      "dateOfPublication": [
+        "2015"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "e0137689"
+  ],
+  "abstractText": [
+    "Ambrosia symbiosis is an obligate, farming-like mutualism between wood-boring beetles and fungi. It evolved at least 11 times and includes many notorious invasive pests. All ambrosia beetles studied to date cultivate ascomycotan fungi: early colonizers of recently killed trees with poor wood digestion. Beetles in the widespread genus Ambrosiodmus, however, colonize decayed wood. We characterized the mycosymbionts of three Ambrosiodmus species using quantitative culturing, high-throughput metabarcoding, and histology. We determined the fungi to be within the Polyporales, closely related to Flavodon flavus. Culture-independent sequencing of Ambrosiodmus minor mycangia revealed a single operational taxonomic unit identical to the sequences from the cultured Flavodon. Histological sectioning confirmed that Ambrosiodmus possessed preoral mycangia containing dimitic hyphae similar to cultured F. cf. flavus. The Ambrosiodmus-Flavodon symbiosis is unique in several aspects: it is the first reported association between an ambrosia beetle and a basidiomycotan fungus; the mycosymbiont grows as hyphae in the mycangia, not as budding pseudo-mycelium; and the mycosymbiont is a white-rot saprophyte rather than an early colonizer: a previously undocumented wood borer niche. Few fungi are capable of turning rotten wood into complete animal nutrition. Several thousand beetle-fungus symbioses remain unstudied and promise unknown and unexpected mycological diversity and enzymatic innovations."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Beetles"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Polyporales"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GD"
+                  ],
+                  "qualifierName": [
+                    "growth & development"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hyphae"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GD"
+                  ],
+                  "qualifierName": [
+                    "growth & development"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Symbiosis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Base Sequence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Molecular Sequence Data"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4569427?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4569427"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1371/journal.pone.0137689"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "26761646"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "PLoS One. 2016;11(1):e0147305"
+          ],
+          "type": [
+            "Erratum in"
+          ],
+          "note": [
+            "You, Li [corrected to Li, You]"
+          ],
+          "orderIn": [
+            "19"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2016-05-20"
+  ],
+  "dateOfCreation": [
+    "2015-09-15"
+  ],
+  "dateOfRevision": [
+    "2015-09-19"
+  ],
+  "electronicPublicationDate": [
+    "2015-09-14"
+  ],
+  "firstPublicationDate": [
+    "2015-09-14"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

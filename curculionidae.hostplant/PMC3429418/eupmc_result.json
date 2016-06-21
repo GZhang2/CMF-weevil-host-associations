@@ -1,0 +1,473 @@
+{
+  "id": [
+    "22937168"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22937168"
+  ],
+  "pmcid": [
+    "PMC3429418"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0044247"
+  ],
+  "title": [
+    "Genetic diversity increases insect herbivory on oak saplings."
+  ],
+  "authorString": [
+    "Castagneyrol B, Lagache L, Giffard B, Kremer A, Jactel H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Castagneyrol B"
+          ],
+          "firstName": [
+            "Bastien"
+          ],
+          "lastName": [
+            "Castagneyrol"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8795-7806",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lagache L"
+          ],
+          "firstName": [
+            "Lélia"
+          ],
+          "lastName": [
+            "Lagache"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Giffard B"
+          ],
+          "firstName": [
+            "Brice"
+          ],
+          "lastName": [
+            "Giffard"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Kremer A"
+          ],
+          "firstName": [
+            "Antoine"
+          ],
+          "lastName": [
+            "Kremer"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Jactel H"
+          ],
+          "firstName": [
+            "Hervé"
+          ],
+          "lastName": [
+            "Jactel"
+          ],
+          "initials": [
+            "H"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8795-7806",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "1942688"
+      ],
+      "dateOfPublication": [
+        "2012 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "e44247"
+  ],
+  "abstractText": [
+    "A growing body of evidence from community genetics studies suggests that ecosystem functions supported by plant species richness can also be provided by genetic diversity within plant species. This is not yet true for the diversity-resistance relationship as it is still unclear whether damage by insect herbivores responds to genetic diversity in host plant populations. We developed a manipulative field experiment based on a synthetic community approach, with 15 mixtures of one to four oak (Quercus robur) half-sib families. We quantified genetic diversity at the plot level by genotyping all oak saplings and assessed overall damage caused by ectophagous and endophagous herbivores along a gradient of increasing genetic diversity. Damage due to ectophagous herbivores increased with the genetic diversity in oak sapling populations as a result of higher levels of damage in mixtures than in monocultures for all families (complementarity effect) rather than because of the presence of more susceptible oak genotypes in mixtures (selection effect). Assemblages of different oak genotypes would benefit polyphagous herbivores via improved host patch location, spill over among neighbouring saplings and diet mixing. By contrast, genetic diversity was a poor predictor of the abundance of endophagous herbivores, which increased with individual sapling apparency. Plant genetic diversity may not provide sufficient functional contrast to prevent tree sapling colonization by specialist herbivores while enhancing the foraging of generalist herbivores. Long term studies are nevertheless required to test whether the effect of genetic diversity on herbivory change with the ontogeny of trees and local adaptation of specialist herbivores."
+  ],
+  "affiliation": [
+    "University Bordeaux, BIOGECO, UMR1202, Talence, France. bastien.castagneyrol@gmail.com"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "FP7_226299"
+          ],
+          "agency": [
+            "European Commission FP7"
+          ],
+          "acronym": [
+            "BACCARA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Insects"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Quercus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genetic Variation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Herbivory"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3429418?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3429418"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=22937168&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=22937168"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1371/journal.pone.0044247"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-02-12"
+  ],
+  "dateOfCreation": [
+    "2012-08-31"
+  ],
+  "dateOfRevision": [
+    "2013-07-12"
+  ],
+  "electronicPublicationDate": [
+    "2012-08-28"
+  ],
+  "firstPublicationDate": [
+    "2012-08-28"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

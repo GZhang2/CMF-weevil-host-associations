@@ -1,0 +1,275 @@
+{
+  "id": [
+    "26463063"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26463063"
+  ],
+  "pmcid": [
+    "PMC4553525"
+  ],
+  "doi": [
+    "10.3390/insects6010013"
+  ],
+  "title": [
+    "Classical Biological Control of Invasive Legacy Crop Pests: New Technologies Offer Opportunities to Revisit Old Pest Problems in Perennial Tree Crops."
+  ],
+  "authorString": [
+    "Hoddle MS, Warner K, Steggall J, Jetter KM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hoddle MS"
+          ],
+          "firstName": [
+            "Mark S"
+          ],
+          "lastName": [
+            "Hoddle"
+          ],
+          "initials": [
+            "MS"
+          ],
+          "affiliation": [
+            "Department of Entomology, University of California, Riverside, CA 92521, USA. mark.hoddle@ucr.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Warner K"
+          ],
+          "firstName": [
+            "Keith"
+          ],
+          "lastName": [
+            "Warner"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Center for Science, Technology, and Society, Santa Clara University, CA 95053, USA. kwarner@scu.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Steggall J"
+          ],
+          "firstName": [
+            "John"
+          ],
+          "lastName": [
+            "Steggall"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "California Department of Food and Agriculture, Sacramento, CA 95814, USA. jsteggall@cdfa.ca.gov."
+          ]
+        },
+        {
+          "fullName": [
+            "Jetter KM"
+          ],
+          "firstName": [
+            "Karen M"
+          ],
+          "lastName": [
+            "Jetter"
+          ],
+          "initials": [
+            "KM"
+          ],
+          "affiliation": [
+            "UC Agricultural Issues Center, University of California, Davis, CA 95616, USA. jetter@primal.ucdavis.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2333453"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Insects"
+          ],
+          "ISOAbbreviation": [
+            "Insects"
+          ],
+          "medlineAbbreviation": [
+            "Insects"
+          ],
+          "NLMid": [
+            "101574235"
+          ],
+          "ESSN": [
+            "2075-4450"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "13-37"
+  ],
+  "abstractText": [
+    "Advances in scientific disciplines that support classical biological control have provided \"new tools\" that could have important applications for biocontrol programs for some long-established invasive arthropod pests. We suggest that these previously unavailable tools should be used in biological control programs targeting \"legacy pests\", even if they have been targets of previously unsuccessful biocontrol projects. Examples of \"new tools\" include molecular analyses to verify species identities and likely geographic area of origin, climate matching and ecological niche modeling, preservation of natural enemy genetic diversity in quarantine, the use of theory from invasion biology to maximize establishment likelihoods for natural enemies, and improved understanding of the interactions between natural enemy and target pest microbiomes. This review suggests that opportunities exist for revisiting old pest problems and funding research programs using \"new tools\" for developing biological control programs for \"legacy pests\" could provide permanent suppression of some seemingly intractable pest problems. As a case study, we use citricola scale, Coccus pseudomagnoliarum, an invasive legacy pest of California citrus, to demonstrate the potential of new tools to support a new classical biological control program targeting this insect."
+  ],
+  "affiliation": [
+    "Department of Entomology, University of California, Riverside, CA 92521, USA. mark.hoddle@ucr.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Natural enemies",
+        "Invasive species",
+        "Ecological niche modeling",
+        "climate matching",
+        "Molecular Analyses"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4553525"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.3390/insects6010013"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-10-14"
+  ],
+  "dateOfCreation": [
+    "2015-10-14"
+  ],
+  "dateOfRevision": [
+    "2015-10-20"
+  ],
+  "electronicPublicationDate": [
+    "2014-12-23"
+  ],
+  "firstPublicationDate": [
+    "2014-12-23"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

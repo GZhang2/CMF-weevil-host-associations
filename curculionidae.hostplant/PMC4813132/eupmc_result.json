@@ -1,0 +1,271 @@
+{
+  "id": [
+    "26907270"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26907270"
+  ],
+  "pmcid": [
+    "PMC4813132"
+  ],
+  "doi": [
+    "10.3390/ijms17030268"
+  ],
+  "title": [
+    "Expression Patterns of Genes Involved in Ascorbate-Glutathione Cycle in Aphid-Infested Maize (Zea mays L.) Seedlings."
+  ],
+  "authorString": [
+    "Sytykiewicz H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sytykiewicz H"
+          ],
+          "firstName": [
+            "Hubert"
+          ],
+          "lastName": [
+            "Sytykiewicz"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6540-0561",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biochemistry and Molecular Biology, Siedlce University of Natural Sciences and Humanities, Prusa 12, 08-110 Siedlce, Poland. huberts@uph.edu.pl."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6540-0561",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "2379864"
+      ],
+      "dateOfPublication": [
+        "2016"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of molecular sciences"
+          ],
+          "ISOAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "medlineAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "NLMid": [
+            "101092791"
+          ],
+          "ESSN": [
+            "1422-0067"
+          ]
+        }
+      ]
+    }
+  ],
+  "abstractText": [
+    "Reduced forms of ascorbate (AsA) and glutathione (GSH) are among the most important non-enzymatic foliar antioxidants in maize (Zea mays L.). The survey was aimed to evaluate impact of bird cherry-oat aphid (Rhopalosiphum padi L.) or grain aphid (Sitobion avenae F.) herbivory on expression of genes related to ascorbate-glutathione (AsA-GSH) cycle in seedlings of six maize varieties (Ambrozja, Nana, Tasty Sweet, Touran, Waza, Złota Karłowa), differing in resistance to the cereal aphids. Relative expression of sixteen maize genes encoding isoenzymes of ascorbate peroxidase (APX1, APX2, APX3, APX4, APX5, APX6, APX7), monodehydroascorbate reductase (MDHAR1, MDHAR2, MDHAR3, MDHAR4), dehydroascorbate reductase (DHAR1, DHAR2, DHAR3) and glutathione reductase (GR1, GR2) was quantified. Furthermore, effect of hemipterans' attack on activity of APX, MDHAR, DHAR and GR enzymes, and the content of reduced and oxidized ascorbate and glutathione in maize plants were assessed. Seedling leaves of more resistant Z. mays varieties responded higher elevations in abundance of target transcripts. In addition, earlier and stronger aphid-triggered changes in activity of APX, MDHAR, DHAR and GR enzymes, and greater modulations in amount of the analyzed antioxidative metabolites were detected in foliar tissues of highly resistant Ambrozja genotype in relation to susceptible Tasty Sweet plants."
+  ],
+  "affiliation": [
+    "Department of Biochemistry and Molecular Biology, Siedlce University of Natural Sciences and Humanities, Prusa 12, 08-110 Siedlce, Poland. huberts@uph.edu.pl."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Glutathione",
+        "Maize",
+        "Rhopalosiphum padi",
+        "Ascorbate",
+        "Antioxidative system",
+        "Sitobion avenae",
+        "Gene Expression",
+        "ascorbate-glutathione cycle"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4813132?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4813132"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.3390/ijms17030268"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2016-02-24"
+  ],
+  "dateOfRevision": [
+    "2016-04-07"
+  ],
+  "electronicPublicationDate": [
+    "2016-02-23"
+  ],
+  "firstPublicationDate": [
+    "2016-02-23"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

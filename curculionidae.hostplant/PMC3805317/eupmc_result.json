@@ -1,0 +1,278 @@
+{
+  "id": [
+    "24163579"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24163579"
+  ],
+  "pmcid": [
+    "PMC3805317"
+  ],
+  "doi": [
+    "10.3897/zookeys.332.4790"
+  ],
+  "title": [
+    "Diversity of Alticinae in Oaxaca, Mexico: A preliminary study (Coleoptera, Chrysomelidae)."
+  ],
+  "authorString": [
+    "Furth DG."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Furth DG"
+          ],
+          "firstName": [
+            "David G"
+          ],
+          "lastName": [
+            "Furth"
+          ],
+          "initials": [
+            "DG"
+          ],
+          "affiliation": [
+            "Department of Entomology, National Museum of Natural History, Smithsonian Institution, Washington, D. C. 20560."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "332"
+      ],
+      "journalIssueId": [
+        "2086121"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ZooKeys"
+          ],
+          "ISOAbbreviation": [
+            "Zookeys"
+          ],
+          "medlineAbbreviation": [
+            "Zookeys"
+          ],
+          "NLMid": [
+            "101497933"
+          ],
+          "ISSN": [
+            "1313-2989"
+          ],
+          "ESSN": [
+            "1313-2970"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "1-32"
+  ],
+  "abstractText": [
+    "This is a preliminary study of the diversity of the Flea Beetles (Alticinae) of the Mexican state of Oaxaca based on fieldwork by the author in 1991, 1997, and 2010, the literature, and specimens in several institutional collections. The number of genera and species for Mexico as well as for Oaxaca increased significantly from previous studies. There are now 625 species in 90 genera recorded from Mexico with 275 species in 68 genera recorded from Oaxaca. There are 113 species known only from the state of Oaxaca and another 38 species known only from Oaxaca and the surrounding states. Oaxaca has a relatively high diversity as well as a high percentage of endemism. This study also demonstrates the effects of how even a small amount of fieldwork together with extracting specimen data from institutional collections can significantly increase the total faunistic and diversity knowledge of an area. A complete list of the genera and species known from Oaxaca is included. "
+  ],
+  "affiliation": [
+    "Department of Entomology, National Museum of Natural History, Smithsonian Institution, Washington, D. C. 20560."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Chrysomelidae",
+        "Coleoptera",
+        "Endemism",
+        "Diversity",
+        "Collections",
+        "Alticinae",
+        "Mexico",
+        "Oaxaca",
+        "Fieldwork"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3805317?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3805317"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=24163579&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=24163579"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.3897/zookeys.332.4790"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-10-28"
+  ],
+  "dateOfCreation": [
+    "2013-10-28"
+  ],
+  "dateOfRevision": [
+    "2014-01-24"
+  ],
+  "electronicPublicationDate": [
+    "2013-09-19"
+  ],
+  "firstPublicationDate": [
+    "2013-09-19"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

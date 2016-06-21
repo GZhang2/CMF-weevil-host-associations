@@ -1,0 +1,297 @@
+{
+  "id": [
+    "24163581"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24163581"
+  ],
+  "pmcid": [
+    "PMC3805319"
+  ],
+  "doi": [
+    "10.3897/zookeys.332.5215"
+  ],
+  "title": [
+    "Notes on the ecology of rolled-leaf hispines (Chrysomelidae, Cassidinae) at La Gamba (Costa Rica)."
+  ],
+  "authorString": [
+    "Schmitt M, Frank M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Schmitt M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Schmitt"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Ernst-Moritz-Arndt-Universitaet, Allgemeine & Systematische Zoologie, Anklamer Str. 20, D-17489 Greifswald, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Frank M"
+          ],
+          "firstName": [
+            "Meike"
+          ],
+          "lastName": [
+            "Frank"
+          ],
+          "initials": [
+            "M"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "332"
+      ],
+      "journalIssueId": [
+        "2086121"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ZooKeys"
+          ],
+          "ISOAbbreviation": [
+            "Zookeys"
+          ],
+          "medlineAbbreviation": [
+            "Zookeys"
+          ],
+          "NLMid": [
+            "101497933"
+          ],
+          "ISSN": [
+            "1313-2989"
+          ],
+          "ESSN": [
+            "1313-2970"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "55-69"
+  ],
+  "abstractText": [
+    "A total of 301 adult hispine beetles of the genera Cephaloleia and Chelobasis were found in rolled leaves of plants of 17 species of Zingiberales (families Costaceae, Heliconiaceae, Maranthaceae, Musaceae, and Zingiberaceae) during a field study at La Gamba, Golfito region, Costa Rica. Of these beetles, Cephaloleia belti was recorded from 12 potential host plant species, C. distincta from 7, C. dilaticollis from 5, C., Chelobasis bicolor, C. championi, and C. histrionica from 3, Chelobasis perplexa and C. instabilis from 2, whereas C. trivittata from only one. Of the plant species, Heliconia latispatha had 7 beetle species in its leaf rolls, Calathea lutea had 5, H. imbricata and H. rostrata had 4, H. stricta and Musa paradisiaca had 3, H. wagneriana had 2, while on H. vaginalis, H. danielsiana, H. densiflora, H. longiflora, Calathea crotalifera, C. platystachya, Goeppertia lasiophylla, Alpinia purpurata, Costus pulverulentus and Costus barbatus, H. densiflora, H. vaginalis, and H. danielsana only hispines of one species were found. Cephaloleia belti occurred together with beetles of six other hispine species, whereas Cephaloleia trivittata never shared a leaf roll with another hispine species. The remaining beetle species aggregated with one to four other hispines. Adults of C. belti and C. championi were frequently seen, occasionally also with C. dilaticollis, C. histrionica, and Chelobasis perplexa, to co-occur with the carabid Calophaena ligata in the same leaf roll without any sign of interspecific aggression. A comparison of host choices and the phylogeny of the hispines and of their host plants revealed no signs that beetles used species level phylogenetic relationships within the Zingiberales to select food plants. Obviously, within this plant order, rolled-leaf hispines choose their plant hosts in a nearly opportunistic manner. Seemingly, they use differences among plants at higher taxonomic levels but within the Zingiberales, the availability of young - rolled - leaves might be the actual decisive factor. "
+  ],
+  "affiliation": [
+    "Ernst-Moritz-Arndt-Universitaet, Allgemeine & Systematische Zoologie, Anklamer Str. 20, D-17489 Greifswald, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Zingiberaceae",
+        "Chrysomelidae",
+        "Insecta",
+        "Coleoptera",
+        "Host plant",
+        "Musaceae",
+        "Zingiberales",
+        "Costaceae",
+        "Costa Rica",
+        "Cephaloleia",
+        "Chelobasis",
+        "Heliconiaceae",
+        "Maranthaceae",
+        "Synecology"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3805319?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3805319"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=24163581"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=24163581&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.3897/zookeys.332.5215"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-10-28"
+  ],
+  "dateOfCreation": [
+    "2013-10-28"
+  ],
+  "dateOfRevision": [
+    "2014-01-24"
+  ],
+  "electronicPublicationDate": [
+    "2013-09-19"
+  ],
+  "firstPublicationDate": [
+    "2013-09-19"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

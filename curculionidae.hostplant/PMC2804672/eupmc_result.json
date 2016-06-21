@@ -1,0 +1,481 @@
+{
+  "id": [
+    "20003282"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "20003282"
+  ],
+  "pmcid": [
+    "PMC2804672"
+  ],
+  "doi": [
+    "10.1186/1471-2148-9-288"
+  ],
+  "title": [
+    "Genome scan to assess the respective role of host-plant and environmental constraints on the adaptation of a widespread insect."
+  ],
+  "authorString": [
+    "Manel S, Conord C, Després L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Manel S"
+          ],
+          "firstName": [
+            "Stéphanie"
+          ],
+          "lastName": [
+            "Manel"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Conord C"
+          ],
+          "firstName": [
+            "Cyrille"
+          ],
+          "lastName": [
+            "Conord"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Després L"
+          ],
+          "firstName": [
+            "Laurence"
+          ],
+          "lastName": [
+            "Després"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0660-6260",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0660-6260",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "1589837"
+      ],
+      "dateOfPublication": [
+        "2009 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2009"
+      ],
+      "printPublicationDate": [
+        "2009-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC evolutionary biology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Evol. Biol."
+          ],
+          "medlineAbbreviation": [
+            "BMC Evol Biol"
+          ],
+          "NLMid": [
+            "100966975"
+          ],
+          "ESSN": [
+            "1471-2148"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "288"
+  ],
+  "abstractText": [
+    " BACKGROUND: The evolutionary success of phytophagous insects could result from their adaptation to different host-plants. Alternatively, the diversification of widespread species might be driven by adaptation along environmental gradients. To disentangle the respective roles of host-plant versus abiotic environmental variables acting on the genome of an oligophagous insect, we performed a genome scan using 83 unlinked AFLP markers on larvae of the large pine weevil collected on two host-plants (pine and spruce) in four forestry regions across Europe. RESULTS: At this large geographic scale, the global genetic differentiation was low and there was no isolation by distance pattern, suggesting that migration is overwhelming genetic drift in this species. In this context, the widely used frequentist methods to detect outliers (e.g. Dfdist), which assume migration - drift equilibrium are not the most appropriate approach. The implementation of a recently developed Bayesian approach, conceived to detect outliers even in non-equilibrium situations, consistently detected 9 out of 83 loci as outliers. Eight of these were validated as outliers by multiple logistic regressions: six correlated with environmental variables, one with host-plant and one with the interaction between environmental variables and host-plant. CONCLUSION: These results suggest a relatively greater importance of abiotic environmental variables, as opposed to factors linked with the host-plant, in shaping genetic differentiation across the genome in this species. Logistic regression allows the nature of factors involved in locus-specific selection to be precisely identified and represents another step forward in the process of identifying adaptive loci."
+  ],
+  "affiliation": [
+    "Laboratoire d'Ecologie Alpine, UMR CNRS 5553, Université Joseph Fourier, 2233, rue de la Piscine, Bat D UFR de Biologie, BP 53, 38 041 Grenoble Cedex 09, France. stephanie.manel@ujf-grenoble.fr"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Weevils"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Picea"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pinus"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Logistic Models"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genetics, Population"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Ecosystem"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Climate"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Europe"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genome, Insect"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Amplified Fragment Length Polymorphism Analysis"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2804672?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2804672"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/1471-2148/9/288"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/content/pdf/1471-2148-9-288.pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "abs"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/1471-2148/9/288/abstract"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=20003282&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=20003282"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1186/1471-2148-9-288"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "22"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2010-01-20"
+  ],
+  "dateOfCreation": [
+    "2010-01-12"
+  ],
+  "dateOfRevision": [
+    "2013-05-31"
+  ],
+  "electronicPublicationDate": [
+    "2009-12-10"
+  ],
+  "firstPublicationDate": [
+    "2009-12-10"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

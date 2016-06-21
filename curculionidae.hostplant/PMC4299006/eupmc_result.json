@@ -1,0 +1,634 @@
+{
+  "id": [
+    "25495900"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25495900"
+  ],
+  "pmcid": [
+    "PMC4299006"
+  ],
+  "doi": [
+    "10.1186/1471-2164-15-1096"
+  ],
+  "title": [
+    "Functional genomics and microbiome profiling of the Asian longhorned beetle (Anoplophora glabripennis) reveal insights into the digestive physiology and nutritional ecology of wood feeding beetles."
+  ],
+  "authorString": [
+    "Scully ED, Geib SM, Carlson JE, Tien M, McKenna D, Hoover K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Scully ED"
+          ],
+          "firstName": [
+            "Erin D"
+          ],
+          "lastName": [
+            "Scully"
+          ],
+          "initials": [
+            "ED"
+          ]
+        },
+        {
+          "fullName": [
+            "Geib SM"
+          ],
+          "firstName": [
+            "Scott M"
+          ],
+          "lastName": [
+            "Geib"
+          ],
+          "initials": [
+            "SM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9511-5139",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Carlson JE"
+          ],
+          "firstName": [
+            "John E"
+          ],
+          "lastName": [
+            "Carlson"
+          ],
+          "initials": [
+            "JE"
+          ]
+        },
+        {
+          "fullName": [
+            "Tien M"
+          ],
+          "firstName": [
+            "Ming"
+          ],
+          "lastName": [
+            "Tien"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "McKenna D"
+          ],
+          "firstName": [
+            "Duane"
+          ],
+          "lastName": [
+            "McKenna"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Hoover K"
+          ],
+          "firstName": [
+            "Kelli"
+          ],
+          "lastName": [
+            "Hoover"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Entomology and Center for Chemical Ecology, The Pennsylvania State University, 501 ASI Building, University Park, PA 16802, USA. kxh25@psu.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9511-5139",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2131045"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "1096"
+  ],
+  "abstractText": [
+    "BACKGROUND: Wood-feeding beetles harbor an ecologically rich and taxonomically diverse assemblage of gut microbes that appear to promote survival in woody tissue, which is devoid of nitrogen and essential nutrients. Nevertheless, the contributions of these apparent symbionts to digestive physiology and nutritional ecology remain uncharacterized in most beetle lineages. RESULTS: Through parallel transcriptome profiling of beetle- and microbial- derived mRNAs, we demonstrate that the midgut microbiome of the Asian longhorned beetle (Anoplophora glabripennis), a member of the beetle family Cerambycidae, is enriched in biosynthetic pathways for the synthesis of essential amino acids, vitamins, and sterols. Consequently, the midgut microbiome of A. glabripennis can provide essential nutrients that the beetle cannot obtain from its woody diet or synthesize itself. The beetle gut microbiota also produce their own suite of transcripts that can enhance lignin degradation, degrade hemicellulose, and ferment xylose and wood sugars. An abundance of cellulases from several glycoside hydrolase families are expressed endogenously by A. glabripennis, as well as transcripts that allow the beetle to convert microbe-synthesized essential amino acids into non-essential amino acids. A. glabripennis and its gut microbes likely collaborate to digest carbohydrates and convert released sugars and amino acid intermediates into essential nutrients otherwise lacking from their woody host plants. CONCLUSIONS: The nutritional provisioning capabilities of the A. glabripennis gut microbiome may contribute to the beetles' unusually broad host range. The presence of some of the same microbes in the guts of other Cerambycidae and other wood-feeding beetles suggests that partnerships with microbes may be a facilitator of evolutionary radiations in beetles, as in certain other groups of insects, allowing access to novel food sources through enhanced nutritional provisioning."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gastrointestinal Tract"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Beetles"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Bacteria"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fungi"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA, Intergenic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RNA, Ribosomal, 16S"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Computational Biology"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biodiversity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phylogeny"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Animal Feed"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Metabolic Networks and Pathways"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Animal Nutritional Physiological Phenomena"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Digestive System Physiological Phenomena"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Metagenome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Molecular Sequence Annotation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Microbiota"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "DNA, Intergenic"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "RNA, Ribosomal, 16S"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4299006?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4299006"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1186/1471-2164-15-1096"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2015-08-07"
+  ],
+  "dateOfCreation": [
+    "2014-12-19"
+  ],
+  "dateOfRevision": [
+    "2015-01-21"
+  ],
+  "electronicPublicationDate": [
+    "2014-12-12"
+  ],
+  "firstPublicationDate": [
+    "2014-12-12"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

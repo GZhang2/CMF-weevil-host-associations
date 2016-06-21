@@ -1,0 +1,406 @@
+{
+  "id": [
+    "21526161"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "21526161"
+  ],
+  "pmcid": [
+    "PMC3079760"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0019083"
+  ],
+  "title": [
+    "Insects as stem engineers: interactions mediated by the twig-girdler Oncideres albomarginata chamela enhance arthropod diversity."
+  ],
+  "authorString": [
+    "Calderón-Cortés N, Quesada M, Escalera-Vázquez LH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Calderón-Cortés N"
+          ],
+          "firstName": [
+            "Nancy"
+          ],
+          "lastName": [
+            "Calderón-Cortés"
+          ],
+          "initials": [
+            "N"
+          ]
+        },
+        {
+          "fullName": [
+            "Quesada M"
+          ],
+          "firstName": [
+            "Mauricio"
+          ],
+          "lastName": [
+            "Quesada"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Escalera-Vázquez LH"
+          ],
+          "firstName": [
+            "Luis H"
+          ],
+          "lastName": [
+            "Escalera-Vázquez"
+          ],
+          "initials": [
+            "LH"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "1823838"
+      ],
+      "dateOfPublication": [
+        "2011 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2011"
+      ],
+      "printPublicationDate": [
+        "2011-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "e19083"
+  ],
+  "abstractText": [
+    " BACKGROUND: Ecosystem engineering may influence community structure and biodiversity by controlling the availability of resources and/or habitats used by other organisms. Insect herbivores may act as ecosystem engineers but there is still poor understanding of the role of these insects structuring arthropod communities. METHODOLOGY/PRINCIPAL FINDINGS: We evaluated the effect of ecosystem engineering by the stem-borer Oncideres albomarginata chamela on the arthropod community of a tropical dry forest for three consecutive years. The results showed that ecosystem engineering by O. albomarginata chamela had strong positive effects on the colonization, abundance, species richness and composition of the associated arthropod community, and it occurred mainly through the creation of a habitat with high availability of oviposition sites for secondary colonizers. These effects cascade upward to higher trophic levels. Overall, ecosystem engineering by O. albomarginata chamela was responsible for nearly 95% of the abundance of secondary colonizers and 82% of the species richness. CONCLUSIONS/SIGNIFICANCE: Our results suggest that ecosystem engineering by O. albomarginata chamela is a keystone process structuring an arthropod community composed by xylovores, predators and parasitoids. This study is the first to empirically demonstrate the effect of the ecosystem engineering by stem-boring insects on important attributes of arthropod communities. The results of this study have important implications for conservation."
+  ],
+  "affiliation": [
+    "Centro de Investigaciones en Ecosistemas, Universidad Nacional Autónoma de México, Morelia, Michoacán, México. ncalderon@oikos.unam.mx"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Beetles"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Stems"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Biodiversity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Species Specificity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Host-Parasite Interactions"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3079760?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3079760"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=21526161"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=21526161&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1371/journal.pone.0019083"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2011-08-16"
+  ],
+  "dateOfCreation": [
+    "2011-04-28"
+  ],
+  "dateOfRevision": [
+    "2013-06-30"
+  ],
+  "electronicPublicationDate": [
+    "2011-04-19"
+  ],
+  "firstPublicationDate": [
+    "2011-04-19"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

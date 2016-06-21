@@ -1,0 +1,291 @@
+{
+  "id": [
+    "25197208"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25197208"
+  ],
+  "pmcid": [
+    "PMC4155720"
+  ],
+  "doi": [
+    "10.3897/zookeys.436.5766"
+  ],
+  "title": [
+    "The genus Cephaloleia Chevrolat, 1836 (Coleoptera, Chrysomelidae, Cassidinae)."
+  ],
+  "authorString": [
+    "Staines CL, García-Robledo C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Staines CL"
+          ],
+          "firstName": [
+            "Charles L"
+          ],
+          "lastName": [
+            "Staines"
+          ],
+          "initials": [
+            "CL"
+          ],
+          "affiliation": [
+            "Department of Entomology, MRC 187, National Museum of Natural History, Smithsonian Institution, Washington, DC 20013-7012, U.S.A."
+          ]
+        },
+        {
+          "fullName": [
+            "García-Robledo C"
+          ],
+          "firstName": [
+            "Carlos"
+          ],
+          "lastName": [
+            "García-Robledo"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Entomology, MRC 187, National Museum of Natural History, Smithsonian Institution, Washington, DC 20013-7012, U.S.A. ; Department of Botany, MRC-166, National Museum of Natural History, Smithsonian Institution, Washington, DC 20013-7012, USA ; Primary affiliation: Departamento de Interacciones Multitróficas, Instituto de Ecología, A.C., Xalapa, Veracruz 91070, México."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "436"
+      ],
+      "journalIssueId": [
+        "2198846"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ZooKeys"
+          ],
+          "ISOAbbreviation": [
+            "Zookeys"
+          ],
+          "medlineAbbreviation": [
+            "Zookeys"
+          ],
+          "NLMid": [
+            "101497933"
+          ],
+          "ISSN": [
+            "1313-2989"
+          ],
+          "ESSN": [
+            "1313-2970"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "1-355"
+  ],
+  "abstractText": [
+    "The species of the Neotropical genus Cephaloleia Chevrolat, 1836 are revised. We present a key to the known larvae of Cephaloleia (8 species), a key to the 95 species known to occur in Mexico, Central America and the West Indies, and a key to the 138 species known to occur in South America. All identification keys were translated to Spanish. Descriptions for the 214 known species of Cephaloleia as well as illustrations for 212 species are presented. The following species are removed from Cephaloleia: C. bipartita Pic, 1926c is transferred to Hybosispa Weise, 1910; C. minasensis Pic, 1931 and C. viridis Pic, 1931 are transferred to Stenispa Baly, 1858. The following species are described as new: C. abdita sp. n. from Brazil; C. amba sp. n. from Colombia, Ecuador, and Peru; C. angustacollis sp. n. from Ecuador; C. brevis sp. n. from French Guiana; C. calathae sp. n. from Costa Rica; C. chica sp. n. from Peru; C. conforma sp. n. from Costa Rica; C. crenulata sp. n. from Ecuador; C. gemma sp. n. from Bolivia and Brazil; C. horvitzae sp. n. from French Guiana; C. interrupta sp. n. from Costa Rica; C. kressi sp. n. from Costa Rica; C. lenticula sp. n. from Ecuador, French Guiana, Peru, and Suriname; C. nana sp. n. from Ecuador; C. ochra sp. n. from Ecuador; C. stainesi sp. n. from Costa Rica; and C. susanae sp. n. from Brazil and Ecuador. Cephaloleia simoni Pic, 1934 is treated as Incertae sedis. The larvae of C. erichsonii Baly, 1858 and C. puncticollis Baly, 1885 are described and illustrated."
+  ],
+  "affiliation": [
+    "Department of Entomology, MRC 187, National Museum of Natural History, Smithsonian Institution, Washington, DC 20013-7012, U.S.A."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Biology",
+        "New species",
+        "Key to species",
+        "Neotropics",
+        "Cephaloleia"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4155720?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4155720"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=25197208"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=25197208&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.3897/zookeys.436.5766"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-09-08"
+  ],
+  "dateOfCreation": [
+    "2014-09-08"
+  ],
+  "dateOfRevision": [
+    "2014-09-11"
+  ],
+  "electronicPublicationDate": [
+    "2014-08-22"
+  ],
+  "firstPublicationDate": [
+    "2014-08-22"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

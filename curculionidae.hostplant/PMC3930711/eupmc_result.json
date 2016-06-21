@@ -1,0 +1,698 @@
+{
+  "id": [
+    "24586669"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24586669"
+  ],
+  "pmcid": [
+    "PMC3930711"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0089295"
+  ],
+  "title": [
+    "Interactions between a sap beetle, sabal palm, scale insect, filamentous fungi and yeast, with discovery of potential antifungal compounds."
+  ],
+  "authorString": [
+    "Cline AR, Skelley PE, Kinnee SA, Rooney-Latham S, Winterton SL, Borkent CJ, Audisio P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cline AR"
+          ],
+          "firstName": [
+            "Andrew R"
+          ],
+          "lastName": [
+            "Cline"
+          ],
+          "initials": [
+            "AR"
+          ],
+          "affiliation": [
+            "Plant Pest Diagnostics Center, California Department of Food and Agriculture, Sacramento, California, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Skelley PE"
+          ],
+          "firstName": [
+            "Paul E"
+          ],
+          "lastName": [
+            "Skelley"
+          ],
+          "initials": [
+            "PE"
+          ],
+          "affiliation": [
+            "Florida State Collection of Arthropods, Florida Department of Agriculture - DPI, Gainesville, Florida, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Kinnee SA"
+          ],
+          "firstName": [
+            "Scott A"
+          ],
+          "lastName": [
+            "Kinnee"
+          ],
+          "initials": [
+            "SA"
+          ],
+          "affiliation": [
+            "Plant Pest Diagnostics Center, California Department of Food and Agriculture, Sacramento, California, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Rooney-Latham S"
+          ],
+          "firstName": [
+            "Suzanne"
+          ],
+          "lastName": [
+            "Rooney-Latham"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Plant Pest Diagnostics Center, California Department of Food and Agriculture, Sacramento, California, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Winterton SL"
+          ],
+          "firstName": [
+            "Shaun L"
+          ],
+          "lastName": [
+            "Winterton"
+          ],
+          "initials": [
+            "SL"
+          ],
+          "affiliation": [
+            "Plant Pest Diagnostics Center, California Department of Food and Agriculture, Sacramento, California, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Borkent CJ"
+          ],
+          "firstName": [
+            "Christopher J"
+          ],
+          "lastName": [
+            "Borkent"
+          ],
+          "initials": [
+            "CJ"
+          ],
+          "affiliation": [
+            "Plant Pest Diagnostics Center, California Department of Food and Agriculture, Sacramento, California, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Audisio P"
+          ],
+          "firstName": [
+            "Paolo"
+          ],
+          "lastName": [
+            "Audisio"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Biology and Biotechnologies 'Charles Darwin', Sapienza Rome University, Rome, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2123000"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "e89295"
+  ],
+  "abstractText": [
+    "The multi-trophic relationship between insects, yeast, and filamentous fungi is reported on sabal palm (Sabal palmetto (Walter) Lodd. ex Schult. & Schult. f.). Gut content analyses and observations of adult and larval feeding of the sap beetle Brachypeplus glaber LeConte indicate that niche partitioning of fungal food substrata occurs between adults and larvae. This is the first report of specific mycophagous niche partitioning among beetle life stages based on gut content analyses. Fungi isolated from the beetle gut of adults, larvae, and pupae include species of Fusarium Link, Cladosporium Link, and Penicillium Link, which were differentially ingested by larvae and adults; Fusarium solani and Penicillium species in larvae, whereas F. oxysoproum, F. verticillioides, and Cladosporium in adults. These data indicate the first species-level host data for Brachypeplus Erichson species. Fusarium proliferatum (Matsush.) Nirenberg was the most commonly occurring fungal gut component, being isolated from the palm as well as gut of larvae, pupae, and adults; representing a commonly shared food resource. One species of yeast, Meyerozyma caribbica (Vaughan-Mart. et al.) Kurtzman & Suzuki (basionym = Pichia caribbica), was isolated from all life stages and is likely responsible for anti-fungal properties observed in the pupae and represents a promising source of antifungal compounds; rearing and diagnostic protocols are provided to aid biomedical researchers. Feeding and cleaning behaviors are documented using time-lapse video-micrography, and discussed in a behavioral and functional morphological context. Adults spent long periods feeding, often >1/3 of the two-hour observation period. A generic adult body posture was observed during feeding, and included substrate antennation before and after ingestion. Adult grooming behaviors were manifested in distinct antennal and tarsal cleaning mechanisms. Larval behaviors were different from adults, and larvae feeding on Fusarium fungi immediately ceased all subsequent feeding. This is the first ethogram for any adult or larval sap beetle."
+  ],
+  "affiliation": [
+    "Plant Pest Diagnostics Center, California Department of Food and Agriculture, Sacramento, California, United States of America."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gastrointestinal Tract"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Beetles"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hemiptera"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fungi"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Saccharomyces cerevisiae"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Serenoa"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA, Fungal"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Antifungal Agents"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Behavior, Animal"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Life Cycle Stages"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Larva"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Antifungal Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "DNA, Fungal"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3930711?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3930711"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=24586669"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=24586669&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1371/journal.pone.0089295"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-01-27"
+  ],
+  "dateOfCreation": [
+    "2014-03-03"
+  ],
+  "electronicPublicationDate": [
+    "2014-02-20"
+  ],
+  "firstPublicationDate": [
+    "2014-02-20"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

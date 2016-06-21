@@ -1,0 +1,330 @@
+{
+  "id": [
+    "25101231"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25101231"
+  ],
+  "pmcid": [
+    "PMC4121591"
+  ],
+  "doi": [
+    "10.7717/peerj.502"
+  ],
+  "title": [
+    "Curculio Curculis lupus: biology, behavior and morphology of immatures of the cannibal weevil Anchylorhynchus eriospathae G. G. Bondar, 1943."
+  ],
+  "authorString": [
+    "de Medeiros BA, Bená Dde C, Vanin SA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "de Medeiros BA"
+          ],
+          "firstName": [
+            "Bruno Augusto Souza"
+          ],
+          "lastName": [
+            "de Medeiros"
+          ],
+          "initials": [
+            "BA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1663-668X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Organismic & Evolutionary Biology and Museum of Comparative Zoology, Harvard University , Cambridge, MA , USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bená Dde C"
+          ],
+          "firstName": [
+            "Daniela de Cássia"
+          ],
+          "lastName": [
+            "Bená"
+          ],
+          "initials": [
+            "Dde C"
+          ],
+          "affiliation": [
+            "Departamento de Zoologia, Instituto de Biociências, Universidade de São Paulo , São Paulo, SP , Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Vanin SA"
+          ],
+          "firstName": [
+            "Sergio Antonio"
+          ],
+          "lastName": [
+            "Vanin"
+          ],
+          "initials": [
+            "SA"
+          ],
+          "affiliation": [
+            "Departamento de Zoologia, Instituto de Biociências, Universidade de São Paulo , São Paulo, SP , Brazil."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1663-668X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "2121020"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PeerJ"
+          ],
+          "ISOAbbreviation": [
+            "PeerJ"
+          ],
+          "medlineAbbreviation": [
+            "PeerJ"
+          ],
+          "NLMid": [
+            "101603425"
+          ],
+          "ESSN": [
+            "2167-8359"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "e502"
+  ],
+  "abstractText": [
+    "Weevils are one of the largest groups of living organisms, with more than 60,000 species feeding mostly on plants. With only one exception, their described larvae are typical plant-feeders, with mouthparts adapted to chewing plant material. Here we describe the second case of a weevil with early-instar larvae adapted to killing conspecifics. We have studied the life history of Anchylorhynchus eriospathae G. G. Bondar, 1943 (Curculioninae: Derelomini sensuCaldara, Franz & Oberprieler (2014)), a species whose immatures feed internally on palm flowers and fruits. We provide detailed descriptions of all immature stages, including the extremely modified first-instar larva. Unlike other weevils and later instars, this stage exhibits a flat body with very long ventropedal lobe setae, a large and prognathous head with a gula, and falciform mandibles, each with a serrate retinaculum, that are used to fight with and eventually kill other first-instar larvae. We also provide biological notes on all stages and the results of behavioral tests that showed that larval aggression occurs only among early life stages. Finally we show that adult size is highly dependent on timing of oviposition. This specialized killer first instar probably evolved independently from the one other case known in weevils, in Revena rubiginosa (Conoderinae: Bariditae sensuPrena, Colonnelli & Hespenheide (2014)). Interestingly, both lineages inhabit the same hosts, raising the possibility that both intra- and inter-specific competition shaped those phenotypes. Given the scarcity of knowledge on early larval stages of concealed insect herbivores, it is possible that our findings represent an instance of a much broader phenomenon. Our observations also allowed us to conclude that Anchylorhynchus eriospathae and A. hatschbachi G. G. Bondar, 1943 are actually the same species, which we synonymize here by considering the latter as a junior synonym (new synonymy)."
+  ],
+  "affiliation": [
+    "Department of Organismic & Evolutionary Biology and Museum of Comparative Zoology, Harvard University , Cambridge, MA , USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Morphology",
+        "Larva",
+        "Curculionidae",
+        "Competition",
+        "Cannibalism",
+        "palm",
+        "weevil",
+        "synonymy",
+        "Seed Predator",
+        "Butia Eriospatha"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4121591?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4121591"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=25101231&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=25101231"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.7717/peerj.502"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-08-07"
+  ],
+  "dateOfCreation": [
+    "2014-08-07"
+  ],
+  "dateOfRevision": [
+    "2014-08-11"
+  ],
+  "electronicPublicationDate": [
+    "2014-07-31"
+  ],
+  "firstPublicationDate": [
+    "2014-07-31"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}
