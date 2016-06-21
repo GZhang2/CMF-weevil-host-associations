@@ -24,7 +24,7 @@ Four papers contain host plant information and two of these are original sources
 
 Some other observation. For the 118 papers, 103 have an .xml file and 15 do not have one. Why? xml not provided by journal?
 
-I experimented with a query for 'aceae', which the ending of plant familiy names, e.g., Asteraceae and Fabaceae. I got 624 open access results. However, a query for 'weevil AND aceae' did not work and the following error was returned.
+**Issue.** How do I query for part of a word? I experimented with a query for 'aceae', which is the ending of plant familiy names, e.g., Asteraceae and Fabaceae. I got 624 open access results. However, a query for 'weevil AND aceae' did not work and the following error was returned.
 
 > error: Malformed or empty response from EuropePMC. Try running again. Perhaps your query is wrong.
 
@@ -89,5 +89,37 @@ Extract lines containing the string "aceae", which is the ending of plant names.
 ```bash
 grep aceae > species.all.aceae.xml
 ```
+645 lines contain a plant name (word ending with -aceae, but note that bacteria family names have the same ending). Some of the descriptions appear to be statements on host plant associations. For exmaple "five species of Curculio associated with Fagaceae...", and "[weevils] were collected ... from velvet mesquite trees, *Prosopis velutina* Woot. (Fabales: Fabaceae)...
 
+Next step would be come up with an effecien method for filtering the results and extracting the relevant information in a structured format.
+
+**Issue.** Did not figur out how to create a datatable in html format. Saw a discussion thread about this: http://discuss.contentmine.org/t/contentmine-tools/197
+
+## (c) Find and downloand one paper each from *PLoS*, *eLife*, *PeerJ* and *BMC*.
+
+Download a paper from *PLOS ONE*. 
+```bash
+quickscrape -u http://dx.doi.org/10.1371/journal.pone.0076588 -s journal-scrapers/scrapers/plos.json -o plos.shelef
+```
+Supplemental files (one figure, two movie files) were not downloaded.
+
+Download a paper from *eLife*. 
+```bash
+quickscrape -u https://elifesciences.org/content/4/e04490 -s journal-scrapers/scrapers/elife.json -o elife.schuman
+```
+Supplemental files (which are called 'appendix' in eLife, containing figures, tables and text) were downloaded as part of the full text PDF. 
+
+Download a paper from PeerJ.
+```bash
+quickscrape -u https://peerj.com/articles/502/ -s journal-scrapers/scrapers/peerj.json -o peerj.medeiros
+```
+All supplementary files were downloaded as separate files.
+
+Downlaod a paper from BMC
+```bash
+quickscrape -u http://bmcevolbiol.biomedcentral.com/articles/10.1186/1471-2148-9-103 -s journal-scrapers/scrapers/bmc.json -o bmc.aoki
+```
+Command was started, but not completd nor any error messages were given. Nothing was downloaded.
+
+**Issue.** URLs containing question marks cannot be read.
 
